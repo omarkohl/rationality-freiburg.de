@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.rationality-freiburg.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Rationality Freiburg'
+theme = 'zen'
