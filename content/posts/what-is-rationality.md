@@ -1,7 +1,6 @@
 ---
 title: "What Is Rationality (Not)?"
 date: 2022-04-16T14:47:17+02:00
-draft: true
 ---
 
 Rationality is a desire to see the world as it **is**, not as you wished it to be. It is about accepting the fallibility of human cognition and nevertheless striving to reach valuable conclusions. It's applying empirical thinking to prove yourself wrong. It's being humble and thirsty.
@@ -18,6 +17,8 @@ Julia Galef's talk "The Straw Vulcan" debunks some common myths.
 
 {{< youtube Fv1nMc-k0N4 >}}
 
-Julia explains why it's bad form to ask something like "I can't understand how people could think science detracts from the beauty of the physical world."
+Julia explains why epistemically it's bad form to ask something like:
+
+> I can't understand how people could think science detracts from the beauty of the physical world.
 
 {{< youtube chALQCm9VgE >}}
