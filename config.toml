@@ -5,7 +5,7 @@ theme = 'zen'
 
 [params]
 contact = "info@rationality-freiburg.de"
-description = "Meeting place for LessWrong and SCC readers, as well as other rationalists in and around Freiburg, Germany"
+description = "Meeting place for LessWrong and SCC readers, as well as other rationalists in and around Freiburg im Breisgau, Germany"
 footer = "info@rationality-freiburg.de"
 logo = true
 realfavicongenerator = true
