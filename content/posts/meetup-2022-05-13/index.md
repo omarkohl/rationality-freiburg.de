@@ -19,7 +19,7 @@ This meetup is intended to invite newcomers and anyone who is curious to see wha
 
 There is no fixed agenda or structure other than talking and getting to know each other. If there is enough interest we will give an introduction to Bayesian thinking and how to apply it in your day-to-day life.
 
-We will meet at 17:00 pm CEST (German time) at the Schwabentor in Freiburg and will walk up the Schloßberg to the Kanonenplatz and then decide where to go next.
+We will meet at 17:00 pm CEST (German time) at the Schwabentor in Freiburg and will walk up the Schloßberg to the Kanonenplatz and then decide where to go next. We will carry a sign saying "www.rationality-freiburg.de", so you can easily find us.
 
 https://www.openstreetmap.org/way/129932309
 
@@ -40,7 +40,7 @@ Dieses Treffen soll Neulinge und alle Neugierigen einladen, die wissen wollen, w
 
 Es gibt keine feste Tagesordnung, sondern die Möglichkeit, miteinander zu reden und sich kennen zu lernen. Wenn genügend Interesse besteht, werden wir eine Einführung in das Bayes'sche Denken geben und zeigen, wie man es im täglichen Leben anwenden kann.
 
-Wir treffen uns um 17:00 Uhr MESZ am Schwabentor in Freiburg und werden den Schloßberg hinauf zum Kanonenplatz gehen und dann entscheiden, wohin wir weitergehen.
+Wir treffen uns um 17:00 Uhr MESZ am Schwabentor in Freiburg und werden den Schloßberg hinauf zum Kanonenplatz gehen und dann entscheiden, wohin wir weitergehen. Wir werden ein Schild dabeihaben auf dem "www.rationality-freiburg.de" steht, damit ihr uns problemlos findet.
 
 https://www.openstreetmap.org/way/129932309
 
