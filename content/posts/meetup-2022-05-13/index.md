@@ -6,6 +6,8 @@ summary: This meetup is intended to invite newcomers and anyone who is curious t
 
 _Deutsche Version weiter unten._
 
+**Update:** Read a [summary]({{< ref "/posts/summary-meetup-2022-05-13" >}} "summary") of the event.
+
 [Download iCal (.ics) event](freiburg-rationality-welcome-2022-05-13.ics)
 
 [Find event on meetup.com](https://www.meetup.com/rationality-freiburg/events/285436952/)

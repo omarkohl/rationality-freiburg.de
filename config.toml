@@ -9,3 +9,6 @@ description = "Meeting place for LessWrong and SCC readers, as well as other rat
 footer = "info@rationality-freiburg.de"
 logo = true
 realfavicongenerator = true
+
+[markup.goldmark.renderer]
+unsafe = true # enable html in markdown
