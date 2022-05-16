@@ -13,7 +13,7 @@ Du kannst uns auch auf [meetup.com](https://www.meetup.com/rationality-freiburg/
 
 info@rationality-freiburg.de
 
-Einen Fehler gefunden? [Schick einen Pull-Request](https://github.com/omarkohl/rationality-freiburg.de)
+Einen Fehler gefunden? [Schick einen Pull-Request!](https://github.com/omarkohl/rationality-freiburg.de)
 
 ![Freiburger Münster 1890](muenster.jpg 'Freiburger Münster 1890')
 
@@ -23,3 +23,4 @@ Einen Fehler gefunden? [Schick einen Pull-Request](https://github.com/omarkohl/r
 * Template [Zen](https://github.com/frjo/hugo-theme-zen)
 * [Brain Logo](https://www.flaticon.com/premium-icon/brain_3288930) von flaticon.com (kostenlos mit Quellenangabe)
 * Bild [Freiburger Münster 1890](https://commons.wikimedia.org/wiki/File:Freiburg_I.B._Das_M%C3%BCnster_LCCN2017660060.jpg)
+* Deutsche Übersetzungen mit [DeepL.com](https://www.deepl.com) angefertigt und manuell angepasst
