@@ -2,6 +2,7 @@ baseURL = 'http://www.rationality-freiburg.de/'
 languageCode = 'en-us'
 title = 'Rationality Freiburg'
 theme = 'zen'
+defaultContentLanguage = 'en'
 
 [params]
 contact = "info@rationality-freiburg.de"
@@ -12,3 +13,15 @@ realfavicongenerator = true
 
 [markup.goldmark.renderer]
 unsafe = true # enable html in markdown
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "English"
+    languageCode = "en-US"
+    contentDir = "content/en"
+  [languages.de]
+    weight = 2
+    languageName = "Deutsch"
+    languageCode = "de-DE"
+    contentDir = "content/de"
