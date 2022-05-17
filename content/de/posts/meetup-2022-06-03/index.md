@@ -18,20 +18,22 @@ Karlssteg, Stadtgarten, Freiburg ([Quelle](https://commons.wikimedia.org/wiki/Ca
 
 Wir werden die zehn Beiträge aus der Sequenz [Predictably Wrong](https://www.readthesequences.com/Predictably-Wrong-Sequence) von [Book I: Map and Territory](https://www.readthesequences.com/Book-I-Map-And-Territory) von **"The Sequences"**, einem _Standardkompendium_ der Rationality-Community, **besprechen**.
 
-* What Do I Mean By “Rationality”?
-* Feeling Rational
-* Why Truth? And…
-* … What’s a Bias, Again?
-* Availability
-* Burdensome Details
-* Planning Fallacy
-* Illusion of Transparency: Why No One Understands You
-* Expecting Short Inferential Distances
-* The Lens That Sees Its Own Flaws 
+* [What Do I Mean By “Rationality”?](https://www.readthesequences.com/What-Do-I-Mean-By-Rationality)
+* [Feeling Rational](https://www.readthesequences.com/Feeling-Rational)
+* [Why Truth? And…](https://www.readthesequences.com/Why-Truth-And)
+* [… What’s a Bias, Again?](https://www.readthesequences.com/Whats-A-Bias-Again)
+* [Availability](https://www.readthesequences.com/Availability)
+* [Burdensome Details](https://www.readthesequences.com/Burdensome-Details)
+* [Planning Fallacy](https://www.readthesequences.com/Planning-Fallacy)
+* [Illusion of Transparency: Why No One Understands You](https://www.readthesequences.com/Illusion-Of-Transparency-Why-No-One-Understands-You)
+* [Expecting Short Inferential Distances](https://www.readthesequences.com/Expecting-Short-Inferential-Distances)
+* [The Lens That Sees Its Own Flaws](https://www.readthesequences.com/The-Lens-That-Sees-Its-Own-Flaws)
 
-Es wäre ideal, wenn du dies vorher lesen und deine Gedanken und Fragen notieren würdest, aber du kannst auch gerne kommen, wenn das nicht der Fall ist!
+Es wäre ideal, wenn du dies vorher lesen und deine Gedanken und Fragen notieren würdest, aber du kannst auch gerne kommen, wenn das nicht der Fall ist! Wir werden die Posts zusammenfassen.
 
 Anschließend werden wir **eine Runde "Personal Calibration" spielen**, d.h. ein Quiz, bei dem es vor allem darauf ankommt, genau einzuschätzen, wie sicher dur dir bei deiner Antwort bist. Zum Beispiel: Welches ist das flächenmäßig drittgrößte Land der Welt? China oder Brasilien? Bist du dir zu 50%, 60%, 70%, 80%, 90% oder 99% sicher? Eine falsche Antwort und die Angabe, dass dur dir nur zu 50% sicher bist (d. h. du hast geraten!), ist besser als eine falsche Antwort, bei der du dir zu 70% sicher warst.
+
+Es wird Snacks geben.
 
 
 ## Worum geht es hier?
