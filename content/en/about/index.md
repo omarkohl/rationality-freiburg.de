@@ -14,6 +14,8 @@ info@rationality-freiburg.de
 
 Found a mistake? [Send a pull request!](https://github.com/omarkohl/rationality-freiburg.de)
 
+Analytics by https://www.goatcounter.com/ . This is privacy-aware tracking without cookies or persisting any personal data. [Read more](https://www.goatcounter.com/help/gdpr).
+
 ![Freiburger Münster 1890](muenster.jpg 'Freiburger Münster 1890')
 
 ## Credits
