@@ -4,9 +4,8 @@ date: 2022-06-05T11:00:53+02:00
 summary: Our second _Rationality Freiburg_ meetup took place on June 3rd and shun a lot of light on the topic of rationality despite the gloomy weather forecast.
 ---
 
-_What is rationality?_ This was the overarching question that kept our group of 10 people thinking and discussing last Friday in the Freibuger Stadtgarten. 
-Half of our group consisted of newcomers, but all members came from Freiburg and it's vicinity. The event was announced and organized via [meetup.com](https://www.meetup.com/rationality-freiburg/).
-![The rationality group](rationality-meetup-group-pic.jpeg 'Our group enjoying the sun in the Stadtgarten')
+_What is rationality?_ This was the overarching question that kept our group of 11 people thinking and discussing last Friday in the Freibuger Stadtgarten. 
+Half of our group consisted of newcomers, but all members came from Freiburg and its vicinity.
 
 Soon after we gathered in the Stadtgarten, Omar opened up the discussion about the first blog-posts in the [Predictably-Wrong-Sequence](https://www.readthesequences.com/Predictably-Wrong-Sequence). 
 The discussion branched out into many related topics, such as the role of rationality in morality, it's interplay with feelings and the rationality in System 1 and 2 as defined by [Thinking Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow).
