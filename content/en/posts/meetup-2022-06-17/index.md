@@ -7,6 +7,10 @@ summary: "We will discuss some chapters of the \"Sequences\" and play a game of
 author: Omar
 ---
 
+This event on [meetup.com](https://www.meetup.com/de-DE/rationality-freiburg/events/286342300/) .
+
+This event on [lesswrong.com](https://www.lesswrong.com/events/rsXxvQK3KfK2nrEiQ/freiburg-sequences-and-double-crux) .
+
 ## When and where?
 
 We will meet on Friday, June 17th 2022 at 18:00 pm CEST (German time) at the

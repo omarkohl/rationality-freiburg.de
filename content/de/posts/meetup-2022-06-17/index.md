@@ -7,6 +7,10 @@ summary: "Wir werden einige Kapitel der \"Sequences\" besprechen und eine Runde
 author: Omar
 ---
 
+Dieses Treffen auf [meetup.com](https://www.meetup.com/de-DE/rationality-freiburg/events/286342300/) .
+
+Dieses Treffen auf [lesswrong.com](https://www.lesswrong.com/events/rsXxvQK3KfK2nrEiQ/freiburg-sequences-and-double-crux) .
+
 ## Wann und wo?
 
 Wir treffen uns am Freitag, 17. Juni 2022 um 18:00 Uhr MESZ am Ende der Brücke
