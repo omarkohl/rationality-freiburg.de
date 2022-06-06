@@ -32,6 +32,8 @@ people also have guilty pleasures 😄️
 
 We are all looking forward to the next meeting, this time with you there as well!
 
+![Group photo 'Rationality Freiburg'](rationality-meetup-group-pic.jpeg "Group photo 'Rationality Freiburg'")
+
 # Further reading
 
 * [Predictably Wrong Sequence](https://www.readthesequences.com/Predictably-Wrong-Sequence)
