@@ -1,5 +1,5 @@
 ---
-title: "Meetup 17. Juni 2022"
+title: "Meetup 17. Juni 2022 - Sequences & Double Crux"
 date: 2022-06-06T14:05:47+02:00
 summary: "Wir werden einige Kapitel der \"Sequences\" besprechen und eine Runde
     \"Double Crux\" spielen. Wo: Stadtgarten, Freiburg. Wann: Freitag, 17.
