@@ -1,6 +1,7 @@
 ---
 title: "What Is Rationality (Not)?"
 date: 2022-04-16T14:47:17+02:00
+author: Omar
 ---
 
 Rationality is a desire to see the world as it **is**, not as you wished it to be. It is about accepting the fallibility of human cognition and nevertheless striving to reach valuable conclusions. It's applying empirical thinking to prove yourself wrong. It's being humble and thirsty.

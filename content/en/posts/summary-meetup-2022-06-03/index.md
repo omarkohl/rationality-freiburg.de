@@ -4,6 +4,7 @@ date: 2022-06-05T11:00:53+02:00
 summary: Our second _Rationality Freiburg_ meetup took place on June 3rd and
    shone a lot of light on the topic of rationality despite the gloomy weather
    forecast.
+author: Nawid
 ---
 
 _What is rationality?_ This was the overarching question that kept our group of

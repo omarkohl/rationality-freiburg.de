@@ -5,7 +5,8 @@
 <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ .Title }}</h1>
 {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
-{{ if .Date }}{{ .Date.Format "January 2, 2006" }}{{ end -}}
+{{ with $.Param "author" }}<p>{{ . }}</p>{{ end -}}
+{{ if .Date }}{{ .Date | time.Format ":date_long" }}{{ end -}}
 </header>
 <div class="content">
 {{ .Content }}

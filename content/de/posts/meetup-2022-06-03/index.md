@@ -2,6 +2,7 @@
 title: "Meetup 3. Juni 2022"
 date: 2022-05-16T20:05:48+02:00
 summary: "Wir werden einige Kapitel der \"Sequences\" besprechen und eine Runde \"Personal Calibration\" spielen. Wo: Stadtgarten, Freiburg. Wann: Freitag, 3. Juni 2022 um 17:00 Uhr CEST."
+author: Omar
 ---
 
 ## Wann und wo?

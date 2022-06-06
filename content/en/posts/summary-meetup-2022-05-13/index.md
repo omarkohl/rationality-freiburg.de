@@ -2,6 +2,7 @@
 title: "We met!"
 date: 2022-05-14T14:00:53+02:00
 summary: The first _Rationality Freiburg_ meetup on Friday the 13th was a fantastic, international event with lovely weather and fascinating topics!
+author: Omar
 ---
 
 ![Cardboard sign](cardboard-sign.jpg 'Cardboard sign saying www.rationality-freiburg.de')
