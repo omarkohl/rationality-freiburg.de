@@ -16,12 +16,11 @@ Found a mistake? [Send a pull request!](https://github.com/omarkohl/rationality-
 
 Analytics by https://www.goatcounter.com/ . This is privacy-aware tracking without cookies or persisting any personal data. [Read more](https://www.goatcounter.com/help/gdpr).
 
-![Freiburger Münster 1890](muenster.jpg 'Freiburger Münster 1890')
+!['Rationality Freiburg' group deep in discussion in the park](rationality-freiburg-group.jpg "'Rationality Freiburg' group deep in discussion in the park")
 
 ## Credits
 
 * Site built with [Hugo](https://gohugo.io)
 * Template [Zen](https://github.com/frjo/hugo-theme-zen)
 * [Brain logo](https://www.flaticon.com/premium-icon/brain_3288930) from flaticon.com (free with attribution)
-* Picture [Freiburger Münster 1890](https://commons.wikimedia.org/wiki/File:Freiburg_I.B._Das_M%C3%BCnster_LCCN2017660060.jpg)
 * German translations done with [DeepL.com](https://www.deepl.com) and adjusted manually

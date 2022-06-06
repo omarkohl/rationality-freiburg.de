@@ -17,12 +17,11 @@ Einen Fehler gefunden? [Schick einen Pull-Request!](https://github.com/omarkohl/
 
 Analytik von https://www.goatcounter.com/ . Dabei handelt es sich um ein datenschutzfreundliches Tracking ohne Cookies und ohne Speicherung personenbezogener Daten. [Mehr lesen](https://www.goatcounter.com/help/gdpr).
 
-![Freiburger Münster 1890](muenster.jpg 'Freiburger Münster 1890')
+!['Rationality Freiburg' Gruppe vertieft in der Diskussion im Stadtgarten](rationality-freiburg-group.jpg "'Rationality Freiburg' Gruppe vertieft in der Diskussion im Stadtgarten")
 
 ## Credits
 
 * Seite erstellt mit [Hugo](https://gohugo.io)
 * Template [Zen](https://github.com/frjo/hugo-theme-zen)
 * [Brain Logo](https://www.flaticon.com/premium-icon/brain_3288930) von flaticon.com (kostenlos mit Quellenangabe)
-* Bild [Freiburger Münster 1890](https://commons.wikimedia.org/wiki/File:Freiburg_I.B._Das_M%C3%BCnster_LCCN2017660060.jpg)
 * Deutsche Übersetzungen mit [DeepL.com](https://www.deepl.com) angefertigt und manuell angepasst
