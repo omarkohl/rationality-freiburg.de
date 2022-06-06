@@ -4,6 +4,8 @@ date: 2022-05-16T20:05:48+02:00
 summary: "We will discuss some chapters of the \"Sequences\" and play a game of \"personal calibration\". Where: Stadtgarten, Freiburg. When: Friday, June 3rd 2022 at 17:00 hours CEST."
 ---
 
+**Update:** Read a [summary]({{< ref "/posts/summary-meetup-2022-06-03" >}} "summary") of the event.
+
 ## When and where?
 
 We will meet on Friday, June 3rd 2022 at 17:00 pm CEST (German time) at the end of the bridge in the Stadtgarten in Freiburg. Afterwards we will sit with picnic blankets somewhere in the park, so even if you are late you can try finding us. We will carry a cardboard sign saying "www.rationality-freiburg.de" . The meetup will finish at 19:00 pm CEST and we may go to get dinner afterwards.
