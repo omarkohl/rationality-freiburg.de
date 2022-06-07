@@ -5,6 +5,7 @@ summary: "Wir werden einige Kapitel der \"Sequences\" besprechen und eine Runde
     \"Double Crux\" spielen. Wo: Stadtgarten, Freiburg. Wann: Freitag, 17.
     Juni 2022 um 18:00 Uhr CEST."
 author: Omar
+slug: 2022-06-17-sequences-double-crux
 aliases:
     - "/de/posts/meetup-2022-06-17/"
 ---
