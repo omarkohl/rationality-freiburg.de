@@ -1,6 +1,8 @@
 ---
 title: "Über uns"
-slug: "ueber-uns"
+slug: "über-uns"
+aliases:
+    - /de/ueber-uns/
 ---
 
 Diese Seite ist als Treffpunkt für Gleichgesinnte in und um Freiburg im Breisgau gedacht, um zu diskutieren, Fragen zu stellen, zu lachen, spazieren zu gehen, Kaffee zu trinken, sich zu verbessern, zu helfen und sich gegenseitig zu inspirieren. Jeder ist willkommen!
