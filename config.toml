@@ -15,13 +15,19 @@ realfavicongenerator = true
 unsafe = true # enable html in markdown
 
 [languages]
+
   [languages.en]
     weight = 1
     languageName = "English"
     languageCode = "en-US"
     contentDir = "content/en"
+
   [languages.de]
     weight = 2
     languageName = "Deutsch"
     languageCode = "de-DE"
     contentDir = "content/de"
+
+    [languages.de.permalinks]
+      events = "termine/:slug"
+      posts = "beiträge/:slug"
