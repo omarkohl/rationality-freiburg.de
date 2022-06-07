@@ -5,6 +5,8 @@ summary: "We will discuss some chapters of the \"Sequences\" and play a game of
     \"double crux\". Where: Stadtgarten, Freiburg. When: Friday, June 17th 2022 at
     18:00 hours CEST."
 author: Omar
+aliases:
+    - "/posts/meetup-2022-06-17/"
 ---
 
 This event on [meetup.com](https://www.meetup.com/de-DE/rationality-freiburg/events/286342300/) .

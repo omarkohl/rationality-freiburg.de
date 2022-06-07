@@ -3,6 +3,8 @@ title: "Meetup June 3rd 2022"
 date: 2022-05-16T20:05:48+02:00
 summary: "We will discuss some chapters of the \"Sequences\" and play a game of \"personal calibration\". Where: Stadtgarten, Freiburg. When: Friday, June 3rd 2022 at 17:00 hours CEST."
 author: Omar
+aliases:
+    - "/posts/meetup-2022-06-03/"
 ---
 
 **Update:** Read a [summary]({{< ref "/posts/summary-meetup-2022-06-03" >}} "summary") of the event.
