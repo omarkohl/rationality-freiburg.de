@@ -79,4 +79,4 @@ besser info@rationality-freiburg.de .
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
 
-https://www.rationality-freiburg.de/de/ueber-uns/
+https://www.rationality-freiburg.de/de/über-uns/
