@@ -18,7 +18,6 @@ a seasoned veteran you might find something worth checking out.
   jargon comes from here so it's recommendable reading it sooner or later.
 
   - Sub list?
-* Hanson
 * SCC
 * **[WaitButWhy](https://waitbutwhy.com/)**: A blog about ... everything.
   Interesting, very easy to read and funny, with sound reasoning and a lot of
@@ -28,16 +27,29 @@ a seasoned veteran you might find something worth checking out.
     humans and society work the way they do and how we reached the current
     situation.
 
+* HPMOR
+* Some good Robin Hanson text
+* Some good SCC text
+* Replacing guilt
+* Arbital Bayes's rule
+
 # Books & E-Books
 
-* Thinking, fast and slow
-* The Scout Mindset
-* How To Win Friends and Influence People
+* Daniel Kahnemann Thinking fast and slow
+* Julia Galef The Scout Mindset
+* HPMOR
+* Rationality From AI to Zombies
+* Carl Sagan Demon Haunted World
+* Win Friends and Influence People
+* Haidt the righteous mind
 
 # Audio
 
 * Rationally Speaking Podcast
+* The Sequences
+* hpmor
 
 # Video
 
-* Galef
+* Julia Galef talks
+* Yudkowsky talks
