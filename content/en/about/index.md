@@ -40,6 +40,8 @@ or [LessWrong Community](https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY).
 * German translations done with [DeepL.com](https://www.deepl.com) and adjusted manually
 * Analytics by https://www.goatcounter.com/ . This is privacy-aware tracking
   without cookies or persisting any personal data. [Read more](https://www.goatcounter.com/help/gdpr).
+  In the interest of transparency you can [view all the data collected](https://rationality-freiburg.goatcounter.com/)
+  yourself.
 
 ## Contribute
 

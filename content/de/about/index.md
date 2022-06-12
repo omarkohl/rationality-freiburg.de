@@ -50,6 +50,9 @@ Community](https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY) finden.
 * Analytik von https://www.goatcounter.com/ . Dabei handelt es sich um ein
   datenschutzfreundliches Tracking ohne Cookies und ohne Speicherung
   personenbezogener Daten. [Mehr lesen](https://www.goatcounter.com/help/gdpr).
+  Im Interesse der Transparenz kannst du
+  [alle erhobenen Daten](https://rationality-freiburg.goatcounter.com/) selbst
+  einsehen.
 
 ## Beitragen
 
