@@ -1,4 +1,4 @@
-baseURL = 'http://www.rationality-freiburg.de/'
+baseURL = 'https://www.rationality-freiburg.de/'
 languageCode = 'en-us'
 title = 'Rationality Freiburg'
 theme = 'zen'
