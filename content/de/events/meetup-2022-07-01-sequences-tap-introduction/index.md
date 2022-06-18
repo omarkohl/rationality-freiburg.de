@@ -4,6 +4,7 @@ date: 2022-06-18T17:36:48+02:00
 summary: "Wir werden einige Kapitel der \"Sequences\" besprechen und TAPs
     (Trigger-Action Planning) einführen. Wo: Stadtgarten, Freiburg. Wann:
     Freitag, 1. Juli 2022 um 18:00 Uhr MESZ."
+slug: meetup-2022-07-01-sequences-tap-einführung
 author: Omar
 ---
 
