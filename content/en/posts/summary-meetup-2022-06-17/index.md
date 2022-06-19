@@ -13,7 +13,7 @@ to do many other things, we still managed to gather in the Stadtgarten for our
 Rationality Freiburg meetup in the hope of an excellent discussion and
 improvement at Rationality; we were not disappointed at all !!
 
-We open our discussion with the blog-posts in the [Fake Believe
+We open our discussion with the blog-posts in the [Fake Beliefs
 sequence](https://www.readthesequences.com/Fake-Beliefs-Sequence), with some
 snacks and sparkling water. As rationalists, we must ask ourselves about a
 belief and what we expect to see to know whether the view holds the test or
