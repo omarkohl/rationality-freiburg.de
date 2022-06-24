@@ -20,7 +20,6 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-        working-directory: website
 
       - name: Build
         run: hugo --minify
@@ -31,5 +30,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-        working-directory: website
+          publish_dir: ./website/public
