@@ -12,6 +12,10 @@ If you enjoy reading [LessWrong](https://www.lesswrong.com/),
 [SCC](https://slatestarcodex.com/), [WaitButWhy](https://waitbutwhy.com/) or
 simply can't help but _question_, come to one of our [meetups]({{< ref "/events/" >}})!
 
+[![Venn diagram: Rationality Freiburg is at the intersection of 'Debating
+Society', 'Philosophy Roundtable' and 'Self-Help
+Group'](about-venn-diagram-400-en.png)](about-venn-diagram-800-en.png)
+
 ## Goals and core values
 
 * Strive for a group culture where everyone feels welcome, comfortable and safe

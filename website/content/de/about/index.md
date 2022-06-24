@@ -17,6 +17,10 @@ Wenn du gerne [LessWrong](https://www.lesswrong.com/),
 oder einfach nicht anders kannst, als zu _(hinter-)fragen_, komm zu einem unserer
 [Treffen]({{< ref "/events/" >}})!
 
+[![Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus
+'Debattierclub', 'Philosophischer Stammtisch' und
+'Selbsthilfegruppe'](about-venn-diagram-400-de.png)](about-venn-diagram-800-de.png)
+
 ## Ziele und Grundwerte
 
 * Eine Gruppenkultur anzustreben, in der sich jeder willkommen, wohl und
