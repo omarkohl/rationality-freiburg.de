@@ -17,7 +17,7 @@ only needed if the post contains images) and adapt as needed.
 
 To create or update German translations you can use
 [DeepL](https://www.deepl.com/translator) and modify/create corresponding files
-under content/de/ .
+under website/content/de/ .
 
 ## Using hugo
 
@@ -27,6 +27,7 @@ preview your post you can [install
 Hugo](https://gohugo.io/getting-started/installing/) and then:
 
 ```bash
+cd website
 hugo new posts/some-examples.md
 # edit content/posts/en/some-example.md
 # optionally edit content/posts/de/some-example.md for the German translation
