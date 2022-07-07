@@ -31,7 +31,7 @@ dissipation in your home.
 
 During the break at the Teufelsmühle, Marcus unpacked a camping cooker, a
 manual coffee grinder as well as a few other accessories and real espresso
-cups!  While we enjoyed the excellent coffeee we, of course, discussed our
+cups!  While we enjoyed the excellent coffee we, of course, discussed our
 confidence in actually being able to taste the difference vs. pretentious BS.
 
 ![A few members of the group enjoying coffee](group.jpg "A few members of the
