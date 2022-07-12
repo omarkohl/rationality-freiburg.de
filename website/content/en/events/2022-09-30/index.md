@@ -34,7 +34,8 @@ Karlssteg, Stadtgarten, Freiburg
 
 ## What will we do?
 
-To be defined.
+To be defined. We hope to have some guests from
+[Karlsruhe](https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R) with us.
 
 There will be snacks and drinks.
 

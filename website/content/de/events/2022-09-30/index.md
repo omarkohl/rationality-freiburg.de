@@ -35,7 +35,9 @@ Karlssteg, Stadtgarten, Freiburg ([Quelle](https://commons.wikimedia.org/wiki/Ca
 
 ## Was werden wir tun?
 
-Noch nicht beschlossen.
+Noch nicht beschlossen. Wir hoffen ein paar Gäste aus
+[Karlsruhe](https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R) bei uns zu
+haben.
 
 Es wird Snacks und Getränke geben.
 
