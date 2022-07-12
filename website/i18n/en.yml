@@ -6,3 +6,5 @@
   translation: "End"
 - id: Location
   translation: "Location"
+- id: Map
+  translation: "Map"

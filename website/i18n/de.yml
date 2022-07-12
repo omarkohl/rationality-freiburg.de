@@ -2,7 +2,9 @@
   translation: "Diese Veranstaltung auf"
 - id: Start
   translation: "Beginn"
-- id: End 
+- id: End
   translation: "Ende"
 - id: Location
   translation: "Ort"
+- id: Map
+  translation: "Karte"
