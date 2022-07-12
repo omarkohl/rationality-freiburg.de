@@ -1,15 +1,15 @@
 ---
-title: "Meetup 16. September"
-date: 2022-07-11T20:20:58+02:00
-eventStart: 2022-09-16T18:00:00+02:00
-eventEnd: 2022-09-16T20:00:00+02:00
+title: "Meetup 30. September"
+date: 2022-07-11T20:20:59+02:00
+eventStart: 2022-09-30T18:00:00+02:00
+eventEnd: 2022-09-30T20:00:00+02:00
 eventLocation: "Ende der Brücke (Karlssteg), Stadtgarten, Freiburg"
 mapLink: https://osm.org/go/0DKSLTTKP?m=
 meetupLink:
 lwLink:
-summary: "Rationality Meetup. Wo: Stadtgarten, Freiburg. Wann: Freitag, 16.
+summary: "Rationality Meetup. Wo: Stadtgarten, Freiburg. Wann: Freitag, 30.
     September 2022 um 18:00 Uhr MESZ."
-slug: 2022-09-16
+slug: 2022-09-30
 ---
 
 ## Organisatorisches

@@ -7,6 +7,8 @@ eventLocation: "End of the bridge (Karlssteg), Stadtgarten, Freiburg"
 mapLink: https://osm.org/go/0DKSLTTKP?m=
 meetupLink:
 lwLink:
+summary: "Rationality Meetup. Where: Stadtgarten, Freiburg. When: Friday,
+    September 16th 2022 at 18:00 hours CEST."
 ---
 
 ## Organization
