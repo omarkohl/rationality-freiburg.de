@@ -9,8 +9,9 @@ improve, help and inspire each other. Anyone is welcome!
 <!--more-->
 
 If you enjoy reading [LessWrong](https://www.lesswrong.com/),
-[SCC](https://slatestarcodex.com/), [WaitButWhy](https://waitbutwhy.com/) or
-simply can't help but _question_, come to one of our [meetups]({{< ref "/events/" >}})!
+[SSC](https://slatestarcodex.com/)/[ACX](https://astralcodexten.substack.com/),
+[WaitButWhy](https://waitbutwhy.com/) or simply can't help but _question_, come
+to one of our [meetups]({{< ref "/events/" >}})!
 
 [![Venn diagram: Rationality Freiburg is at the intersection of 'Debating
 Society', 'Philosophy Roundtable' and 'Self-Help

@@ -13,9 +13,10 @@ inspirieren. Jeder ist willkommen!
 <!--more-->
 
 Wenn du gerne [LessWrong](https://www.lesswrong.com/),
-[SCC](https://slatestarcodex.com/), [WaitButWhy](https://waitbutwhy.com/) liest
-oder einfach nicht anders kannst, als zu _(hinter-)fragen_, komm zu einem unserer
-[Treffen]({{< ref "/events/" >}})!
+[SSC](https://slatestarcodex.com/)/[ACX](https://astralcodexten.substack.com/),
+[WaitButWhy](https://waitbutwhy.com/) liest oder einfach nicht anders kannst,
+als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events/"
+>}})!
 
 [![Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus
 'Debattierclub', 'Philosophischer Stammtisch' und
