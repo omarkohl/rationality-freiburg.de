@@ -5,8 +5,8 @@ eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
 eventLocation: "Ende der Brücke (Karlssteg), Stadtgarten, Freiburg"
 mapLink: https://osm.org/go/0DKSLTTKP?m=
-meetupLink: 
-lwLink: 
+meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/288007506/
+lwLink: https://www.lesswrong.com/events/4uaEuBkaKQDbuyvgh/freiburg-acx-ssc-meetup
 summary: "ACX / SSC Meetup. Wo: Stadtgarten, Freiburg. Wann: Freitag, 14.
     Oktober 2022 um 18:00 Uhr MESZ."
 slug: 2022-10-14-acx-astral-codex-ten-meetup
