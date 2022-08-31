@@ -43,7 +43,7 @@ There will be snacks.
 
 ## What is this about?
 
-Rationality Freiburg is a meeting place for LessWrong or SCC readers as well as other people interested in Rationality. Rationality is the desire to see the world as it is, in particular using empirical sciences as well as the development of tools for reaching personal goals.
+Rationality Freiburg is a meeting place for LessWrong or SSC readers as well as other people interested in Rationality. Rationality is the desire to see the world as it is, in particular using empirical sciences as well as the development of tools for reaching personal goals.
 
 You are worried you have nothing to contribute? No worries! Everyone is welcome!
 

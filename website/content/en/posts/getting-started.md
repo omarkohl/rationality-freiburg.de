@@ -18,7 +18,7 @@ a seasoned veteran you might find something worth checking out.
   jargon comes from here so it's recommendable reading it sooner or later.
 
   - Sub list?
-* SCC
+* SSC
 * **[WaitButWhy](https://waitbutwhy.com/)**: A blog about ... everything.
   Interesting, very easy to read and funny, with sound reasoning and a lot of
   research.
@@ -29,7 +29,7 @@ a seasoned veteran you might find something worth checking out.
 
 * HPMOR
 * Some good Robin Hanson text
-* Some good SCC text
+* Some good SSC text
 * Replacing guilt
 * Arbital Bayes's rule
 

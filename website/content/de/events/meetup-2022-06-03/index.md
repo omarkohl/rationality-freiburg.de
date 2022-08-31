@@ -42,7 +42,7 @@ Es wird Snacks geben.
 
 ## Worum geht es hier?
 
-Rationality Freiburg ist ein Treffpunkt für LessWrong- oder SCC-Leser sowie für andere an Rationalität interessierte Menschen. Rationalität ist der Wunsch, die Welt so zu sehen, wie sie ist, insbesondere mit Hilfe der empirischen Wissenschaften sowie der Entwicklung von Werkzeugen zur Erreichung persönlicher Ziele.
+Rationality Freiburg ist ein Treffpunkt für LessWrong- oder SSC-Leser sowie für andere an Rationalität interessierte Menschen. Rationalität ist der Wunsch, die Welt so zu sehen, wie sie ist, insbesondere mit Hilfe der empirischen Wissenschaften sowie der Entwicklung von Werkzeugen zur Erreichung persönlicher Ziele.
 
 Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 

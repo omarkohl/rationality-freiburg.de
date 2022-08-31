@@ -6,7 +6,7 @@ defaultContentLanguage = 'en'
 
 [params]
 contact = "info@rationality-freiburg.de"
-description = "Meeting place for LessWrong and SCC readers, as well as other rationalists in and around Freiburg im Breisgau, Germany"
+description = "Meeting place for LessWrong and SSC/ACX readers, as well as other rationalists in and around Freiburg im Breisgau, Germany"
 footer = "info@rationality-freiburg.de"
 logo = true
 realfavicongenerator = true

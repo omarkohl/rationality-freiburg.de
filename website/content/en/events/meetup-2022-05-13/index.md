@@ -18,7 +18,7 @@ _Deutsche Version weiter unten._
 [Find event on LessWrong](https://www.lesswrong.com/events/YyqngHiRrzFKrxfMK/rationality-freiburg-welcome-meetup)
 
 # English
-Rationality Freiburg is a meeting place for LessWrong or SCC readers as well as other people interested in Rationality. Rationality is the desire to see the world as it is, in particular using empirical sciences as well as the development of tools for reaching personal goals.
+Rationality Freiburg is a meeting place for LessWrong or SSC readers as well as other people interested in Rationality. Rationality is the desire to see the world as it is, in particular using empirical sciences as well as the development of tools for reaching personal goals.
 
 This meetup is intended to invite newcomers and anyone who is curious to see what this is all about. Come, have a look and you may be surprised!
 
@@ -39,7 +39,7 @@ www.rationality-freiburg.de
 Schwabentor, Freiburg ([source](https://de.wikipedia.org/wiki/Schwabentor_(Freiburg_im_Breisgau)#/media/Datei:Schwabentor_Freiburg.JPG))
 
 # Deutsch
-Rationality Freiburg ist ein Treffpunkt für LessWrong- oder SCC-Leser sowie für andere an Rationalität (Rationality) interessierte Menschen. Rationality ist der Wunsch, die Welt so zu sehen, wie sie ist, insbesondere mit Hilfe der empirischen Wissenschaften sowie der Entwicklung von Werkzeugen zur Erreichung persönlicher Ziele.
+Rationality Freiburg ist ein Treffpunkt für LessWrong- oder SSC-Leser sowie für andere an Rationalität (Rationality) interessierte Menschen. Rationality ist der Wunsch, die Welt so zu sehen, wie sie ist, insbesondere mit Hilfe der empirischen Wissenschaften sowie der Entwicklung von Werkzeugen zur Erreichung persönlicher Ziele.
 
 Dieses Treffen soll Neulinge und alle Neugierigen einladen, die wissen wollen, worum es hier geht. Kommt einfach, schaut euch um und lasst euch überraschen!
 
