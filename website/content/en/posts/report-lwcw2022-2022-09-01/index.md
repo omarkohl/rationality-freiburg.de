@@ -1,7 +1,6 @@
 ---
 title: "LWCW (LessWrong Community Weekend) 2022, Berlin"
 date: 2022-09-01T07:13:04+02:00
-draft: true
 ---
 
 "Who wants to brag about something they did last week?"
