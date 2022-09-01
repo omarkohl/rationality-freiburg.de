@@ -12,19 +12,23 @@ else cheered them on.
 
 <!--more-->
 
-Stricly speaking this happened after the LessWrong Community Weekend during the
-_Rationality Dojo_ that the Berlin Community organized, but it is an
+![Berlin Reichstag at sunset](berlin.jpg "Berlin Reichstag at sunset")
+
+Strictly speaking this happened after the LessWrong Community Weekend during
+the _Rationality Dojo_ that the Berlin Community organized, but it is an
 illustrative example of the unusual nature of this event.
 
 If you were to look at the table of talks you would see: dancing, meditation,
-how to make fire in the wilderness, kissing workshop, a-capella singing, early
+how to make fire in the wilderness, kissing workshop, acapella singing, early
 morning running, dealing with depression and anxiety, modular origami workshop,
-Japanese Mahjong, piano, yoga, dark arts intro to rhetorics, ...
+Japanese Mahjong, piano, yoga, dark arts intro to rhetoric, ...
 
-Hardly what one commonly thinks of as _rationality_, is it? Then you also had
-multiple talks and workshops about AI (Artificial Intelligence) safety, meetup
-organization and exercises such as "Circling", "Hamming circles" or "Gendlin's
-Focusing".
+Hardly what one commonly thinks of as _rationality_, is it? Well in that case
+you would also see multiple talks and workshops about AI (artificial
+intelligence) safety, meetup organization, wisdom, probability theory and Fermi
+estimates or practical exercises such as "Circling", "Hamming circles", "Double
+Crux" and "Gendlin's Focusing". And how about "Neurobiology of psychedelics" or
+"Crochet 101"?
 
 What is more, all of it was organized as an _unconference_, meaning that anyone
 could add a new event to the schedule at any time or just change their mind and
@@ -40,10 +44,7 @@ open and welcoming, bringing their own incredible experiences and knowledge to
 the table, keeping the minds and hearts of the rest engaged.
 
 Participants were staying in the same hostel, almost entirely booked for us, right
-next to the lake, with plenty of food, Mate tea, snacks and boardgames.
-
-If you are in or around Freiburg come to the meetups in the next months to
-learn much more about the exercises and experiences of this awesome weekend!
+next to the lake, with plenty of food, Mate tea, snacks and board games.
 
 Last but not least, just in case you are wondering about COVID protocol:
 Everyone was required to test themselves with the highest quality available
@@ -53,3 +54,8 @@ worked tirelessly to make the event fantastic for everyone.
 
 Thank you, from the bottom of my heart to every single attendee and organizer!
 See you next time!
+
+If you are in or around Freiburg come to the meetups in the next months to
+learn much more about the exercises and experiences of this awesome weekend!
+
+![Lake Wannsee](lake_wannsee.jpg "Lake Wannsee")
