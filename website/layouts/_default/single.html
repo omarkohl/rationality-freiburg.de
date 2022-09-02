@@ -7,13 +7,14 @@
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
 {{ with $.Param "author" }}<p>{{ . }}</p>{{ end -}}
 {{ if .Date }}{{ .Date | time.Format ":date_long" }}{{ end -}}
+{{ if ne (.Lastmod | time.Format ":date_long") (.Date | time.Format ":date_long") }}
+({{ i18n "last_mod" }} {{ .Lastmod | time.Format ":date_long" }})
+{{ end -}}
 </header>
 <div class="content">
 {{ .Content }}
 
 {{ if $.Param "relatedposts" | default false }}{{ partial "related.html" . }}{{ end -}}
-
-{{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
 </div>
 </article>
 </main>

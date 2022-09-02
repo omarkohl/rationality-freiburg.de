@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Rationality Freiburg'
 theme = 'zen'
 defaultContentLanguage = 'en'
+enableGitInfo = true
 
 [params]
 contact = "info@rationality-freiburg.de"
