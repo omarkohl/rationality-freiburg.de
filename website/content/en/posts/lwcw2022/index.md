@@ -35,9 +35,12 @@ What is more, all of it was organized as an _unconference_, meaning that anyone
 could add a new event to the schedule at any time or just change their mind and
 move it to a different slot.
 
-Let's not forget about Duncan Sabien's keynote speech "The moments that
-matter", which had to be delivered via video. His key message, that the tools
-of Rationality should actually be put into practice instead of theorizing,
+Let's not forget about Duncan Sabien's (former CFAR - Center for Applied
+Rationality - instructor and author of the [CFAR
+handbook](https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf)) keynote
+speech ["The moments that matter"](https://youtu.be/7WUEnh2TFSk), which had to
+be delivered via video due to COVID. His key message, that the tools of
+Rationality should actually be put into practice instead of theorizing,
 especially in the moments where it's hardest, really resonanted with many
 participants. Does making the right choices most of the time count for nothing?
 It does count, but if in the really crucial moments, the _moments that matter_
@@ -46,9 +49,9 @@ you keep making the wrong decisions, what is the difference?
 ![Empty chairs are waiting...](chairs.jpg "Empty chairs are waiting...")
 
 Around 150 people from all over the world, though mostly Europe, showed up and
-the entire vibe was simply inspiring, beautiful and touching. So many
-fascinating conversations in the hallways, during lunch or on the way to one of
-the evening swims in the lake Wannsee.
+the entire vibe was inspiring, beautiful and touching. So many fascinating
+conversations in the hallways, during lunch or on the way to one of the evening
+swims in the lake Wannsee.
 
 Not a single moment of boredom could be another way of putting it. Everyone was
 open and welcoming, bringing their own incredible experiences and knowledge to
