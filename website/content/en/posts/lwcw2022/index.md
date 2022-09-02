@@ -1,6 +1,7 @@
 ---
 title: "LWCW (LessWrong Community Weekend) 2022, Berlin"
 date: 2022-09-01T07:13:04+02:00
+author: Omar
 aliases:
   - "/posts/report-lwcw2022-2022-09-01/"
 ---
