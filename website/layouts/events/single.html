@@ -11,7 +11,9 @@
 <b>{{ i18n "End" }}: </b>{{ $.Param "eventEnd" | time.Format ":date_long" }} {{ $.Param "eventEnd" | time.Format ":time_short" }}
 <br>
 <b>{{ i18n "Location" }}: </b>{{ $.Param "eventLocation" }}
-{{ with $.Param "mapLink" }} (<a href="{{ . }}" target="_blank">{{ i18n "Map" }}</a>){{ end -}}
+{{ if .Params.eventGeoLat -}}
+  (<a href="https://www.openstreetmap.org/?mlat={{.Params.eventGeoLat}}&mlon={{.Params.eventGeoLon}}&zoom=17" target="_blank">{{ i18n "Map" }}</a>, Coordinates: {{.Params.eventGeoLat}}, {{.Params.eventGeoLon}})
+{{- end }}
 <br>
 {{ with $.Param "meetupLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} meetup.com</a>{{ end -}}
 <br>

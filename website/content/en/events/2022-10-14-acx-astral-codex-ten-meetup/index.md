@@ -4,6 +4,8 @@ date: 2022-08-23T18:00:59+02:00
 eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
 eventLocation: "End of the bridge (Karlssteg), Stadtgarten, Freiburg"
+eventGeoLon: 7.85686
+eventGeoLat: 47.99764
 mapLink: https://osm.org/go/0DKSLTTKP?m=
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/288007506/
 lwLink: https://www.lesswrong.com/events/4uaEuBkaKQDbuyvgh/freiburg-acx-ssc-meetup
