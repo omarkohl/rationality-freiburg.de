@@ -1,6 +1,8 @@
 ---
 title: "Rationality Freiburg Welcome Meetup (May 13th)"
 date: 2022-04-22T13:52:32+02:00
+eventStart: 2022-05-13T17:00:00+02:00
+eventEnd: 2022-05-13T19:00:00+02:00
 summary: This meetup is intended to invite newcomers and anyone who is curious to see what this is all about. Come, have a look and you may be surprised! Friday May 13th 2022 at 17:00 CEST.
 author: Omar
 aliases:

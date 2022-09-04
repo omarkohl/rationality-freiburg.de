@@ -1,6 +1,8 @@
 ---
 title: "Meetup June 17th 2022 - Sequences & Double Crux"
 date: 2022-06-06T14:05:47+02:00
+eventStart: 2022-06-17T18:00:00+02:00
+eventEnd: 2022-06-17T20:00:00+02:00
 summary: "We will discuss some chapters of the \"Sequences\" and play a game of
     \"double crux\". Where: Stadtgarten, Freiburg. When: Friday, June 17th 2022 at
     18:00 hours CEST."

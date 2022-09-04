@@ -1,6 +1,8 @@
 ---
 title: "Meetup July 8th 2022 - Sequences & TAP Result Discussion"
 date: 2022-06-18T17:37:02+02:00
+eventStart: 2022-07-08T18:00:00+02:00
+eventEnd: 2022-07-08T20:00:00+02:00
 summary: "We will discuss some chapters of the \"Sequences\" and share our
     experiences with TAPs (Trigger-Action Planning). Where: Stadtgarten,
     Freiburg. When: Friday, July 8th 2022 at 18:00 hours CEST."

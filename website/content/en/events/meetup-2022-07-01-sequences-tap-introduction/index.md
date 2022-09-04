@@ -1,6 +1,8 @@
 ---
 title: "Meetup July 1st 2022 - Sequences & TAP Introduction"
 date: 2022-06-18T17:36:48+02:00
+eventStart: 2022-07-01T18:00:00+02:00
+eventEnd: 2022-07-01T20:00:00+02:00
 summary: "We will discuss some chapters of the \"Sequences\" and introduce TAPs
     (Trigger-Action Planning). Where: Stadtgarten, Freiburg. When: Friday, July
     1st 2022 at 18:00 hours CEST."
