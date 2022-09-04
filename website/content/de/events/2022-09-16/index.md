@@ -4,11 +4,15 @@ date: 2022-07-11T20:20:58+02:00
 eventStart: 2022-09-16T18:00:00+02:00
 eventEnd: 2022-09-16T20:00:00+02:00
 eventLocation: "Ende der Brücke (Karlssteg), Stadtgarten, Freiburg"
-mapLink: https://osm.org/go/0DKSLTTKP?m=
+eventGeoLon: 7.85686
+eventGeoLat: 47.99764
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/287145373/
 lwLink: https://www.lesswrong.com/events/JMcoMpLNNDCqjsd4m/freiburg-meetup-september-16th
 summary: "Rationality Meetup. Wo: Stadtgarten, Freiburg. Wann: Freitag, 16.
     September 2022 um 18:00 Uhr MESZ."
+outputs:
+  - HTML
+  - Calendar
 slug: 2022-09-16
 ---
 
