@@ -5,11 +5,11 @@
 <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ .Title }}</h1>
 {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
-{{ if $.Param "eventStart" }}
 <b>{{ i18n "Start" }}: </b>{{ $.Param "eventStart" | time.Format ":date_long" }} {{ $.Param "eventStart" | time.Format ":time_short" }}
 <br>
 <b>{{ i18n "End" }}: </b>{{ $.Param "eventEnd" | time.Format ":date_long" }} {{ $.Param "eventEnd" | time.Format ":time_short" }}
 <br>
+{{ if $.Param "eventLocation" }}
 <b>{{ i18n "Location" }}: </b>{{ $.Param "eventLocation" }}
 {{ if .Params.eventGeoLat -}}
   (<a href="https://www.openstreetmap.org/?mlat={{.Params.eventGeoLat}}&mlon={{.Params.eventGeoLon}}&zoom=17" target="_blank">{{ i18n "Map" }}</a>, {{ i18n "Coordinates" }}: {{.Params.eventGeoLat}}, {{.Params.eventGeoLon}})
