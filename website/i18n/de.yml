@@ -12,3 +12,5 @@
   translation: "Zu Kalender hinzufügen"
 - id: Coordinates
   translation: "Koordinaten"
+- id: Upcoming Events
+  translation: "Zukünftige Termine"
