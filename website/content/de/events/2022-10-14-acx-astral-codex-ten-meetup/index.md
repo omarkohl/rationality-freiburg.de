@@ -10,6 +10,9 @@ lwLink: https://www.lesswrong.com/events/4uaEuBkaKQDbuyvgh/freiburg-acx-ssc-meet
 summary: "ACX / SSC Meetup. Wo: Stadtgarten, Freiburg. Wann: Freitag, 14.
     Oktober 2022 um 18:00 Uhr MESZ."
 slug: 2022-10-14-acx-astral-codex-ten-meetup
+outputs:
+  - HTML
+  - Calendar
 ---
 
 ## Organisatorisches

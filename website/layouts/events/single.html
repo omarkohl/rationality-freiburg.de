@@ -18,7 +18,7 @@
 {{ with $.Param "lwLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} lesswrong.com</a>{{ end -}}
 <br>
 {{ with  .OutputFormats.Get "calendar" -}}
-  <a href="{{ .Permalink | safeURL }}">Add to your calendar (.ics)</a>
+  <a href="{{ .Permalink | safeURL }}">{{ i18n "Add to your calendar" }} (.ics)</a>
 {{- end }}
 {{ end -}}
 </header>
