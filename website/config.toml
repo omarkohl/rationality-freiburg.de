@@ -5,6 +5,9 @@ theme = 'zen'
 defaultContentLanguage = 'en'
 enableGitInfo = true
 
+[outputFormats.Calendar]
+protocol = ''
+
 [params]
 contact = "info@rationality-freiburg.de"
 description = "Meeting place for LessWrong and SSC/ACX readers, as well as other rationalists in and around Freiburg im Breisgau, Germany"
