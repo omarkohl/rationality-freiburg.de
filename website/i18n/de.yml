@@ -10,3 +10,5 @@
   translation: "Karte"
 - id: Add to your calendar
   translation: "Zu Kalender hinzufügen"
+- id: Coordinates
+  translation: "Koordinaten"

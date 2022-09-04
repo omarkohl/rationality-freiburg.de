@@ -12,7 +12,7 @@
 <br>
 <b>{{ i18n "Location" }}: </b>{{ $.Param "eventLocation" }}
 {{ if .Params.eventGeoLat -}}
-  (<a href="https://www.openstreetmap.org/?mlat={{.Params.eventGeoLat}}&mlon={{.Params.eventGeoLon}}&zoom=17" target="_blank">{{ i18n "Map" }}</a>, Coordinates: {{.Params.eventGeoLat}}, {{.Params.eventGeoLon}})
+  (<a href="https://www.openstreetmap.org/?mlat={{.Params.eventGeoLat}}&mlon={{.Params.eventGeoLon}}&zoom=17" target="_blank">{{ i18n "Map" }}</a>, {{ i18n "Coordinates" }}: {{.Params.eventGeoLat}}, {{.Params.eventGeoLon}})
 {{- end }}
 <br>
 {{ with $.Param "meetupLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} meetup.com</a>{{ end -}}
