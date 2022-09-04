@@ -27,5 +27,6 @@ DTEND;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.eventEnd}}
 SUMMARY:{{.Title}}
 DESCRIPTION:{{ range $.AllTranslations }}{{.Language.LanguageName}}: {{.Permalink}}\n{{ end }}
 LOCATION:{{with .Params.eventLocation}}{{.}}{{else}}TBD{{end}}
+URL:{{.Permalink}}
 END:VEVENT
 END:VCALENDAR
