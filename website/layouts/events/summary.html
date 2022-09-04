@@ -1,0 +1,14 @@
+<article class="list-view{{ with .Section }} list-view--{{ . | urlize }}{{ end }}">
+<header>
+<h2 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+{{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . -}}{{ end }}
+</header>
+<div class="content">
+{{ .Summary }}
+<div>
+{{ with  .OutputFormats.Get "calendar" -}}
+  <small><a href="{{ .Permalink | safeURL }}">{{ i18n "Add to your calendar" }} (.ics)</a></small>
+{{- end }}
+</div>
+</div>
+</article>
