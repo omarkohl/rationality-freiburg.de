@@ -25,8 +25,7 @@ BEGIN:VCALENDAR
     DTSTART;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.eventStart}}
     DTEND;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.eventEnd}}
     SUMMARY:{{.Title}}
-    DESCRIPTION:{{.Params.summary}} (Info: {{with .Params.link}}{{.}}{{else}}{{.Permalink}}{{end}})
+    DESCRIPTION:{{ range $.AllTranslations }}{{.Language.LanguageName}}: {{.Permalink}}\n{{ end }}
     LOCATION:{{with .Params.eventLocation}}{{.}}{{else}}TBD{{end}}
-    X-ALT-DESC;FMTTYPE=text/html:{{.Title}}<br>Location: {{with .Params.eventLocation}}{{.}}{{else}}TBD{{end}}<br>{{with .Params.link}}{{.}}{{else}}{{.Permalink}}{{end}}
   END:VEVENT
 END:VCALENDAR
