@@ -1,0 +1,11 @@
+{{ define "main" -}}
+<main class="main layout__main">
+<h1 class="title">{{ .Title }}</h1>
+
+{{ range .Pages.ByParam "eventStart" }}
+  {{ if (time .Params.eventStart).After now }}
+    {{ .Render "summary"}}
+  {{ end }}
+{{ end }}
+</main>
+{{ end }}
