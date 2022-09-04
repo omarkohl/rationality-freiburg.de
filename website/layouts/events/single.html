@@ -16,6 +16,10 @@
 {{ with $.Param "meetupLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} meetup.com</a>{{ end -}}
 <br>
 {{ with $.Param "lwLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} lesswrong.com</a>{{ end -}}
+<br>
+{{ with  .OutputFormats.Get "calendar" -}}
+  <a href="{{ .Permalink | safeURL }}">Add to your calendar (.ics)</a>
+{{- end }}
 {{ end -}}
 </header>
 <div class="content">
