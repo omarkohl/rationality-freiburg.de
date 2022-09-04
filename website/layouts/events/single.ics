@@ -19,6 +19,7 @@ BEGIN:VCALENDAR
   END:VTIMEZONE
   BEGIN:VEVENT
     DTSTAMP:{{dateFormat "20060102T150405" .Date}}
+    ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
     STATUS:CONFIRMED
     UID:{{dateFormat "20060102T150405" .Params.eventStart}}@rationality-freiburg.de
     DTSTART;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.eventStart}}
