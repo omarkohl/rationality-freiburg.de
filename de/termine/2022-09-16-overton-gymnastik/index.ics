@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Berlin:20220916T180000
 DTEND;TZID=Europe/Berlin:20220916T200000
 SUMMARY:Meetup 16. September - Overton Gymnastik
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-09-16-overton-gymnastics/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-09-16-overton-gymnastik/\n
-LOCATION:Ende der Brücke (Karlssteg), Stadtgarten, Freiburg
-GEO:47.99764;7.85686
+LOCATION:coworking freiburg (direkt über McDonald's), Kaiser-Joseph-Str. 254, 79098 Freiburg
+GEO:47.99372;7.84877
 URL:https://www.rationality-freiburg.de/de/termine/2022-09-16-overton-gymnastik/
 END:VEVENT
 END:VCALENDAR
