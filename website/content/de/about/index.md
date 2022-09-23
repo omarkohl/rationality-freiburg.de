@@ -18,9 +18,10 @@ Wenn du gerne [LessWrong](https://www.lesswrong.com/),
 als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events/"
 >}})!
 
-[![Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus
-'Debattierclub', 'Philosophischer Stammtisch' und
-'Selbsthilfegruppe'](about-venn-diagram-400-de.png)](about-venn-diagram-800-de.png)
+<a href="about-venn-diagram-800-de.png" style="display:block; width:
+400px;"><img src="about-venn-diagram-400-de.png" alt="Venn Diagramm:
+Rationality Freiburg ist die Schnittmenge aus 'Debattierclub', 'Philosophischer
+Stammtisch' und 'Selbsthilfegruppe'"></a>
 
 ## Ziele und Grundwerte
 
@@ -36,6 +37,37 @@ als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events/"
 !['Rationality Freiburg' Gruppe vertieft in der Diskussion im Stadtgarten](rationality-freiburg-group.jpg
 "'Rationality Freiburg' Gruppe vertieft in der Diskussion im Stadtgarten")
 
+
+## FAQ - Häufig gestellte Fragen
+
+### Was ist Rationalität?
+
+Der Wunsch, die Welt so zu sehen, wie sie wirklich ist, und nicht so, wie man
+sie gerne hätte. Dies bedeutet, unvoreingenommen zu sein, menschliche
+Denkfehler (cognitive biases) zu verstehen und zu lernen, wie man sie umgeht,
+sowie die Anwendung der wissenschaftlichen Methode (Hypothese + Experiment).
+
+### Sind menschliche Emotionen schlecht?
+
+Nein. Emotionen und Bauchgefühle sind ein wesentlicher Bestandteil der
+menschlichen Erfahrung und sind sogar überlebenswichtig für uns. Die Welt zu
+sehen, wie sie wirklich ist, bedeutet auch die Menschen so zu sehen, wie sie
+wirklich sind. Nur in manchen Situationen können Emotionen und Intuitionen in
+die Irre führen, und es wäre sinnvoll, diese Situationen zu erkennen und die
+Ergebnisse unserer Entscheidungen zu verbessern.
+
+### Ist diese Gruppe mit einer politischen Partei oder Organisation verbunden?
+
+Nein.
+
+### Ist diese Gruppe ein Kult/eine Sekte?
+
+Nein. Aber bedenke, dass [jedes Anliegen gerne ein Kult wäre (every cause wants
+to be a
+cult)](https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult).
+Wir ermutigen dich also, immer skeptisch zu bleiben.
+
+
 ## Kontakt
 
 info@rationality-freiburg.de
@@ -43,6 +75,9 @@ info@rationality-freiburg.de
 Du kannst uns auch auf
 [meetup.com](https://www.meetup.com/rationality-freiburg/) oder [LessWrong
 Community](https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY) finden.
+
+Wir haben eine _Signal_ Messenger-Gruppe, der du beitreten kannst, nachdem du
+bei einem der Treffen warst.
 
 ## Credits
 
