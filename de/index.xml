@@ -300,7 +300,10 @@ inspirieren. Jeder ist willkommen!&lt;/p>
 &lt;a href="https://slatestarcodex.com/">SSC&lt;/a>/&lt;a href="https://astralcodexten.substack.com/">ACX&lt;/a>,
 &lt;a href="https://waitbutwhy.com/">WaitButWhy&lt;/a> liest oder einfach nicht anders kannst,
 als zu &lt;em>(hinter-)fragen&lt;/em>, komm zu einem unserer &lt;a href="https://www.rationality-freiburg.de/de/termine/">Treffen&lt;/a>!&lt;/p>
-&lt;p>&lt;a href="about-venn-diagram-800-de.png">&lt;img src="about-venn-diagram-400-de.png" alt="Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus&amp;amp;lsquo;Debattierclub&amp;amp;rsquo;, &amp;amp;lsquo;Philosophischer Stammtisch&amp;amp;rsquo; und&amp;amp;lsquo;Selbsthilfegruppe&amp;amp;rsquo;">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="about-venn-diagram-800-de.png" style="display:block; width:
+400px;">&lt;img src="about-venn-diagram-400-de.png" alt="Venn Diagramm:
+Rationality Freiburg ist die Schnittmenge aus 'Debattierclub', 'Philosophischer
+Stammtisch' und 'Selbsthilfegruppe'">&lt;/a>&lt;/p>
 &lt;h2 id="ziele-und-grundwerte">Ziele und Grundwerte&lt;/h2>
 &lt;ul>
 &lt;li>Eine Gruppenkultur anzustreben, in der sich jeder willkommen, wohl und
@@ -313,11 +316,33 @@ verbessern und unsere persönlichen Ziele zu erreichen (instrumentelle
 Rationalität)&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="rationality-freiburg-group.jpg" alt="&amp;amp;lsquo;Rationality Freiburg&amp;amp;rsquo; Gruppe vertieft in der Diskussion im Stadtgarten" title="'Rationality Freiburg' Gruppe vertieft in der Diskussion im Stadtgarten">&lt;/p>
+&lt;h2 id="faq---häufig-gestellte-fragen">FAQ - Häufig gestellte Fragen&lt;/h2>
+&lt;h3 id="was-ist-rationalität">Was ist Rationalität?&lt;/h3>
+&lt;p>Der Wunsch, die Welt so zu sehen, wie sie wirklich ist, und nicht so, wie man
+sie gerne hätte. Dies bedeutet, unvoreingenommen zu sein, menschliche
+Denkfehler (cognitive biases) zu verstehen und zu lernen, wie man sie umgeht,
+sowie die Anwendung der wissenschaftlichen Methode (Hypothese + Experiment).&lt;/p>
+&lt;h3 id="sind-menschliche-emotionen-schlecht">Sind menschliche Emotionen schlecht?&lt;/h3>
+&lt;p>Nein. Emotionen und Bauchgefühle sind ein wesentlicher Bestandteil der
+menschlichen Erfahrung und sind sogar überlebenswichtig für uns. Die Welt zu
+sehen, wie sie wirklich ist, bedeutet auch die Menschen so zu sehen, wie sie
+wirklich sind. Nur in manchen Situationen können Emotionen und Intuitionen in
+die Irre führen, und es wäre sinnvoll, diese Situationen zu erkennen und die
+Ergebnisse unserer Entscheidungen zu verbessern.&lt;/p>
+&lt;h3 id="ist-diese-gruppe-mit-einer-politischen-partei-oder-organisation-verbunden">Ist diese Gruppe mit einer politischen Partei oder Organisation verbunden?&lt;/h3>
+&lt;p>Nein.&lt;/p>
+&lt;h3 id="ist-diese-gruppe-ein-kulteine-sekte">Ist diese Gruppe ein Kult/eine Sekte?&lt;/h3>
+&lt;p>Nein. Aber bedenke, dass &lt;a href="https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult">jedes Anliegen gerne ein Kult wäre (every cause wants
+to be a
+cult)&lt;/a>.
+Wir ermutigen dich also, immer skeptisch zu bleiben.&lt;/p>
 &lt;h2 id="kontakt">Kontakt&lt;/h2>
 &lt;p>&lt;a href="mailto:info@rationality-freiburg.de">info@rationality-freiburg.de&lt;/a>&lt;/p>
 &lt;p>Du kannst uns auch auf
 &lt;a href="https://www.meetup.com/rationality-freiburg/">meetup.com&lt;/a> oder &lt;a href="https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY">LessWrong
 Community&lt;/a> finden.&lt;/p>
+&lt;p>Wir haben eine &lt;em>Signal&lt;/em> Messenger-Gruppe, der du beitreten kannst, nachdem du
+bei einem der Treffen warst.&lt;/p>
 &lt;h2 id="credits">Credits&lt;/h2>
 &lt;ul>
 &lt;li>Seite erstellt mit &lt;a href="https://gohugo.io">Hugo&lt;/a>&lt;/li>

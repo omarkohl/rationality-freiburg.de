@@ -489,7 +489,10 @@ improve, help and inspire each other. Anyone is welcome!&lt;/p>
 &lt;a href="https://slatestarcodex.com/">SSC&lt;/a>/&lt;a href="https://astralcodexten.substack.com/">ACX&lt;/a>,
 &lt;a href="https://waitbutwhy.com/">WaitButWhy&lt;/a> or simply can&amp;rsquo;t help but &lt;em>question&lt;/em>, come
 to one of our &lt;a href="https://www.rationality-freiburg.de/events/">meetups&lt;/a>!&lt;/p>
-&lt;p>&lt;a href="about-venn-diagram-800-en.png">&lt;img src="about-venn-diagram-400-en.png" alt="Venn diagram: Rationality Freiburg is at the intersection of &amp;amp;lsquo;DebatingSociety&amp;amp;rsquo;, &amp;amp;lsquo;Philosophy Roundtable&amp;amp;rsquo; and &amp;amp;lsquo;Self-HelpGroup&amp;amp;rsquo;">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="about-venn-diagram-800-en.png" style="display:block; width:
+400px;">&lt;img src="about-venn-diagram-400-en.png" alt="Venn diagram: Rationality
+Freiburg is at the intersection of 'Debating Society', 'Philosophy Roundtable'
+and 'Self-Help Group'">&lt;/a>&lt;/p>
 &lt;h2 id="goals-and-core-values">Goals and core values&lt;/h2>
 &lt;ul>
 &lt;li>Strive for a group culture where everyone feels welcome, comfortable and safe&lt;/li>
@@ -500,10 +503,30 @@ to one of our &lt;a href="https://www.rationality-freiburg.de/events/">meetups&l
 personal goals (instrumental rationality)&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="rationality-freiburg-group.jpg" alt="&amp;amp;lsquo;Rationality Freiburg&amp;amp;rsquo; group deep in discussion in the park" title="'Rationality Freiburg' group deep in discussion in the park">&lt;/p>
+&lt;h2 id="faq---frequently-asked-questions">FAQ - Frequently Asked Questions&lt;/h2>
+&lt;h3 id="what-is-rationality">What is Rationality?&lt;/h3>
+&lt;p>The desire to see the world as it really is, not as you want it to be. This
+means having an open mind, learning about human cognitive biases and how to
+work around them as well as applying the scientific method (hypothesis +
+experiment).&lt;/p>
+&lt;h3 id="are-human-emotions-bad">Are human emotions bad?&lt;/h3>
+&lt;p>No. Emotions and gut feelings are an integral part of the human experience and
+in fact vital for our survival. Seeing the world as it really is also implies
+seeing humans as they really are. Only in some situations emotions and
+intuitions can mislead us and it would be useful to recognize those situations
+and improve the results of our decisions.&lt;/p>
+&lt;h3 id="is-this-group-affiliated-with-a-political-party-or-entity">Is this group affiliated with a political party or entity?&lt;/h3>
+&lt;p>No.&lt;/p>
+&lt;h3 id="is-this-group-a-cultsect">Is this group a cult/sect?&lt;/h3>
+&lt;p>No. But remember that &lt;a href="https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult">every cause wants to be a
+cult&lt;/a>,
+so we encourage you to always stay skeptical.&lt;/p>
 &lt;h2 id="contact">Contact&lt;/h2>
 &lt;p>&lt;a href="mailto:info@rationality-freiburg.de">info@rationality-freiburg.de&lt;/a>&lt;/p>
 &lt;p>You can also find us on &lt;a href="https://www.meetup.com/rationality-freiburg/">meetup.com&lt;/a>
 or &lt;a href="https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY">LessWrong Community&lt;/a>.&lt;/p>
+&lt;p>We have a &lt;em>Signal&lt;/em> messenger group that you can join after coming to one of our
+meetups.&lt;/p>
 &lt;h2 id="credits">Credits&lt;/h2>
 &lt;ul>
 &lt;li>Site built with &lt;a href="https://gohugo.io">Hugo&lt;/a>&lt;/li>
