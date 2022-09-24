@@ -3,13 +3,13 @@ title: "ACX (Astral Codex Ten) Meetup 14. Oktober"
 date: 2022-08-23T18:00:59+02:00
 eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
-eventLocation: "Ende der Brücke (Karlssteg), Stadtgarten, Freiburg"
-eventGeoLon: 7.85686
-eventGeoLat: 47.99764
+eventLocation: "Wird noch festgelegt, Freiburg"
+eventGeoLon:
+eventGeoLat:
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/288007506/
 lwLink: https://www.lesswrong.com/events/4uaEuBkaKQDbuyvgh/freiburg-acx-ssc-meetup
-summary: "ACX / SSC Meetup. Wo: Stadtgarten, Freiburg. Wann: Freitag, 14.
-    Oktober 2022 um 18:00 Uhr MESZ."
+summary: "ACX / SSC Meetup. Wo: Wird noch festgelegt, Freiburg. Wann: Freitag,
+    14. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML
   - Calendar
@@ -18,23 +18,13 @@ slug: 2022-10-14-acx-astral-codex-ten-meetup
 
 ## Organisatorisches
 
-Wir werden mit Picknickdecken irgendwo im Park sitzen, so dass du uns auch
-finden kannst, wenn du zu spät kommst. Wir werden ein Pappschild mit der
-Aufschrift "Rationality Freiburg" tragen. Nach dem Treffen gehen wir ggf. noch
-etwas essen.
-
-Falls das Wetter sehr schlecht ist gucken wir uns nach einem alternativen Ort
-um, also behalte bitte diese Seite im Auge oder melde dich vorher bei uns damit
-wir dich auf dem laufenden halten.
+Der Ort des Treffens steht noch nicht fest, aber es wird ein zentraler
+Ort in Freiburg sein. Bitte schau später nochmal vorbei.
 
 Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
-
-![Karlssteg, Stadtgarten, Freiburg](/images/karlssteg.jpg 'Karlssteg, Stadtgarten, Freiburg')
-
-Karlssteg, Stadtgarten, Freiburg ([Quelle](https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg))
 
 Vielleicht möchtest du auch an der [Wanderung]({{< ref
 "/events/2022-10-15-hike-with-karlsruhe-rationality" >}}) am Tag nach diesem
@@ -43,9 +33,30 @@ Event teilnehmen!
 
 ## Was werden wir tun?
 
-Noch nicht beschlossen.
+Zunächst gibt es eine oder mehrere (je nach Anzahl der Teilnehmer) freie
+Diskussionsrunden. Ich schlage vor, jeder bereitet ein oder zwei [SSC (Slate
+Star Codex)](https://slatestarcodex.com/) oder [ACX (Astral Codex
+Ten)](https://astralcodexten.substack.com/) Posts vor, der ihr/ihm besonders
+gut gefällt. Ihr könnt dann eine kurze Zusammenfassung des Beitrags geben und
+die Diskussion kann beginnen.
 
-Es wird Snacks und Getränke geben.
+Wenn du Inspiration brauchst, schau dir die [SSC Top
+Beiträge](https://slatestarcodex.com/top-posts/) an.
+
+Nach der Diskussion werden wir "Die Fallübung" spielen.
+
+Einer der wichtigsten Bestandteile des intellektuellen Fortschritts ist es, zu
+lernen, seine Meinung zu ändern. Der erste Schritt, um seine Meinung zu ändern,
+ist die Einsicht, dass man sich in einer Sache geirrt hat. Heute werden wir
+diese oft schmerzhafte Erkenntnis im kleinen
+Rahmen und in einer Situation ohne Druck üben.
+
+Die erste Lektion, die jeder Kampfsportler lernt, ist oft, wie man fällt. Es
+gibt Möglichkeiten die Landung zu erleichtern, aber sie beginnen alle mit dem
+Wissen, dass Fallen nicht die schlimmste Sache der Welt ist.
+
+Es wird Snacks und Getränke geben. Nach der Veranstaltung gehen wir irgendwo
+Abendessen.
 
 
 ## Worum geht es hier?
