@@ -21,6 +21,10 @@ slug: 2022-10-15-wanderung-mit-karlsruhe-rationality
 **UPDATE 24.09:** Bitte beachte, dass diese Veranstaltung vom 01.10 auf den
 15.10 verschoben wurde!
 
+Vielleicht möchtest du auch am [ACX Meetup]({{< ref
+"/events/2022-10-14-acx-astral-codex-ten-meetup" >}}) am Abend vor dieser
+Wanderung teilnehmen.
+
 Dies wird ein gemeinsames Event mit [Karlsruhe
 Rationality](https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R) sein.
 

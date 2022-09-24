@@ -35,6 +35,9 @@ people who turn up. Just come, we will figure it out!
 Karlssteg, Stadtgarten, Freiburg
 ([source](https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg))
 
+Maybe you also want to join the [hike]({{< ref
+"/events/2022-10-15-hike-with-karlsruhe-rationality" >}}) on the day after this
+event!
 
 ## What will we do?
 

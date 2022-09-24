@@ -36,6 +36,10 @@ nachdem, welche Leute kommen. Kommt einfach, das klappt!
 
 Karlssteg, Stadtgarten, Freiburg ([Quelle](https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg))
 
+Vielleicht möchtest du auch an der [Wanderung]({{< ref
+"/events/2022-10-15-hike-with-karlsruhe-rationality" >}}) am Tag nach diesem
+Event teilnehmen!
+
 
 ## Was werden wir tun?
 

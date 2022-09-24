@@ -20,6 +20,10 @@ aliases:
 **UPDATE 24.09:** Please note that this event was postponed from October 1st to
 October 15th!
 
+Maybe you also want to join the [ACX meetup]({{< ref
+"/events/2022-10-14-acx-astral-codex-ten-meetup" >}}) on the evening before
+this hike!
+
 This will be a common event with [Karlsruhe
 Rationality](https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R).
 
