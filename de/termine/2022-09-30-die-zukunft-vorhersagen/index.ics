@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20220930T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20220930T180000
 DTEND;TZID=Europe/Berlin:20220930T200000
-SUMMARY:Meetup September 30th
-DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-09-30/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-09-30/\n
-LOCATION:End of the bridge (Karlssteg), Stadtgarten, Freiburg
-GEO:47.99764;7.85686
-URL:https://www.rationality-freiburg.de/events/2022-09-30/
+SUMMARY:Meetup 30. September - Die Zukunft vorhersagen
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-09-30-predicting-the-future/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-09-30-die-zukunft-vorhersagen/\n
+LOCATION:Wird noch festgelegt, Freiburg
+
+URL:https://www.rationality-freiburg.de/de/termine/2022-09-30-die-zukunft-vorhersagen/
 END:VEVENT
 END:VCALENDAR
