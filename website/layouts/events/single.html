@@ -5,9 +5,9 @@
 <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ .Title }}</h1>
 {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
-<b>{{ i18n "Start" }}: </b>{{ $.Param "eventStart" | time.Format ":date_long" }} {{ $.Param "eventStart" | time.Format ":time_short" }}
+<b>{{ i18n "Start" }}: </b>{{ $.Param "eventStart" | time.Format ":date_full" }} {{ $.Param "eventStart" | time.Format ":time_short" }}
 <br>
-<b>{{ i18n "End" }}: </b>{{ $.Param "eventEnd" | time.Format ":date_long" }} {{ $.Param "eventEnd" | time.Format ":time_short" }}
+<b>{{ i18n "End" }}: </b>{{ $.Param "eventEnd" | time.Format ":date_full" }} {{ $.Param "eventEnd" | time.Format ":time_short" }}
 <br>
 {{ if $.Param "eventLocation" }}
 <b>{{ i18n "Location" }}: </b>{{ $.Param "eventLocation" }}
