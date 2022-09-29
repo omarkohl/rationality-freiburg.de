@@ -3,13 +3,13 @@ title: "ACX (Astral Codex Ten) Meetup 14. Oktober"
 date: 2022-08-23T18:00:59+02:00
 eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
-eventLocation: "Wird noch festgelegt, Freiburg"
-eventGeoLon:
-eventGeoLat:
+eventLocation: "FlexRooms, Salzstr. 1, 79098 Freiburg"
+eventGeoLon: 7.8504
+eventGeoLat: 47.99466
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/288007506/
 lwLink: https://www.lesswrong.com/events/4uaEuBkaKQDbuyvgh/freiburg-acx-ssc-meetup
-summary: "ACX / SSC Meetup. Wo: Wird noch festgelegt, Freiburg. Wann: Freitag,
-    14. Oktober 2022 um 18:00 Uhr MESZ."
+summary: "ACX / SSC Meetup. Wo: FlexRooms, Salzstr. 1, 79098 Freiburg. Wann:
+    Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML
   - Calendar
@@ -18,8 +18,8 @@ slug: 2022-10-14-acx-astral-codex-ten-meetup
 
 ## Organisatorisches
 
-Der Ort des Treffens steht noch nicht fest, aber es wird ein zentraler
-Ort in Freiburg sein. Bitte schau später nochmal vorbei.
+**UPDATE 29.09** Wir treffen uns im "Kursraum 1" von FlexRooms, direkt neben
+dem Bertholdsbrunnen in der Freiburger Innenstadt.
 
 Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 

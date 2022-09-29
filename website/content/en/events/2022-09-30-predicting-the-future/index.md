@@ -3,13 +3,13 @@ title: "Meetup September 30th - Predicting the Future"
 date: 2022-07-11T20:20:59+02:00
 eventStart: 2022-09-30T18:00:00+02:00
 eventEnd: 2022-09-30T20:00:00+02:00
-eventLocation: "To be determined, Freiburg"
-eventGeoLon: 
-eventGeoLat: 
+eventLocation: "FlexRooms, Salzstr. 1, 79098 Freiburg"
+eventGeoLon: 7.8504
+eventGeoLat: 47.99466
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/287145423/
 lwLink: https://www.lesswrong.com/events/vCokPHnTFL9EQFzgs/freiburg-meetup-september-30th
-summary: "Rationality Meetup. Where: TBD, Freiburg. When: Friday,
-    September 30th 2022 at 18:00 hours CEST."
+summary: "Predicting the Future. Where: FlexRooms, Salzstr. 1, 79098 Freiburg.
+    When: Friday, September 30th 2022 at 18:00 hours CEST."
 outputs:
   - HTML
   - Calendar
@@ -19,8 +19,8 @@ aliases:
 
 ## Organization
 
-The place for the meetup is still undecided, but it will be some central
-location in Freiburg. Please check back later.
+**UPDATE 29.09** We will meet in "Kursraum 1" of FlexRooms, right next to
+Bertholdsbrunnen in the center of Freiburg.
 
 You are worried you have nothing to contribute? No worries! Everyone is
 welcome!
