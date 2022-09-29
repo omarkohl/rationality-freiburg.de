@@ -32,15 +32,21 @@ Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
 
 
-## Was werden wir tun?
+## Vorbereitung
 
-Wir werden über Zukunftsvorhersagen sprechen.
+Bitte bereite dich wie folgt vor. Aber wenn du das nicht schaffst, komm trotzdem!
 
-Bitte lies Folgendes zur Vorbereitung, aber komm trotzdem, selbst wenn du es
-nicht schaffst!
-
-* [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
-* [Ten Commandments for Aspiring Superforecasters](https://fs.blog/ten-commandments-for-superforecasters/)
+* Lies [If It’s Worth Doing, It’s Worth Doing With Made-Up
+  Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
+* Lies [Ten Commandments for Aspiring
+  Superforecasters](https://fs.blog/ten-commandments-for-superforecasters/)
+* Registriere dich auf [Manifold
+  Markets](https://manifold.markets?referrer=Omar) (Google Konto nötig) und
+  schließe dich der [Rationality Freiburg
+  30.09.2022](https://manifold.markets/group/rationality-freiburg-30092022?referrer=Omar)
+  Gruppe an in der wir während des Meetups üben werden
+* Registriere dich auf [Metaculus](https://www.metaculus.com/)
+* Bring ein Smartphone oder Laptop mit
 
 **Optionales Lektüre**:
 
@@ -49,14 +55,16 @@ nicht schaffst!
 * [Prediction Markets (Gwern)](https://www.gwern.net/Prediction-markets)
 * [Introduction to Prediction Markets, Robin Hanson](https://www.youtube.com/watch?v=4yZKGbq1YmA) (video, 18 minutes)
 
-Nach der Diskussion über Vorhersagen und Wahrscheinlichkeiten wenden wir uns der Praxis zu:
+
+## Was werden wir tun?
+
+Wir werden über Zukunftsvorhersagen sprechen, basierend auf den Texten weiter oben.
+
+Im Anschluss wenden wir uns der Praxis zu:
 
 * Wir machen konkrete persönliche Vorhersagen für die nahe Zukunft und nehmen
   uns vor, die Ergebnisse zu verfolgen
-* Wir probieren [Metaculus](https://www.metaculus.com/) und [Manifold
-  Markets](https://manifold.markets/). Wenn du bereits vor dem Treffen ein
-  Konto auf diesen Plattformen einrichtest, wäre das großartig! Wenn möglich,
-  bringe ein Smartphone oder einen Laptop mit.
+* Wir probieren Metaculus und Manifold Markets
 
 Es wird Snacks und Getränke geben.
 

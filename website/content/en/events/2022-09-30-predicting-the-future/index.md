@@ -31,14 +31,18 @@ We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
 
 
-## What will we do?
+## Preparation
 
-We will discuss predicting the future.
+Please do the following as preparation. If you can't prepare, come anyway!
 
-Please read the following as preparation, but do come even if you don't!
-
-* [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
-* [Ten Commandments for Aspiring Superforecasters](https://fs.blog/ten-commandments-for-superforecasters/)
+* Read [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
+* Read [Ten Commandments for Aspiring Superforecasters](https://fs.blog/ten-commandments-for-superforecasters/)
+* Register on [Manifold Markets](https://manifold.markets?referrer=Omar)
+  (Google account required) and join the [Rationality Freiburg
+  30.09.2022](https://manifold.markets/group/rationality-freiburg-30092022?referrer=Omar)
+  group where we will experiment during the meetup
+* Register on [Metaculus](https://www.metaculus.com/)
+* Bring a smartphone or laptop to the meetup
 
 **Optional reading**:
 
@@ -47,13 +51,16 @@ Please read the following as preparation, but do come even if you don't!
 * [Prediction Markets (Gwern)](https://www.gwern.net/Prediction-markets)
 * [Introduction to Prediction Markets, Robin Hanson](https://www.youtube.com/watch?v=4yZKGbq1YmA) (video, 18 minutes)
 
-After discussing predictions and probabilities we will turn to practice:
 
-* Make concrete personal predictions for the near future and resolve to track the results
-* Try out [Metaculus](https://www.metaculus.com/) and [Manifold
-  Markets](https://manifold.markets/). If you already create an account on
-  those platforms before the meetup it would be great! If possible bring a
-  smartphone or a laptop.
+## What will we do?
+
+We will discuss predicting the future, based on the texts above.
+
+Afterwards we will turn to practice:
+
+* Make concrete personal predictions for the near future and resolve to track
+  the results
+* Try out Metaculus and Manifold Markets
 
 There will be snacks and drinks.
 
