@@ -13,10 +13,12 @@ If you enjoy reading [LessWrong](https://www.lesswrong.com/),
 [WaitButWhy](https://waitbutwhy.com/) or simply can't help but _question_, come
 to one of our [meetups]({{< ref "/events/" >}})!
 
-<a href="about-venn-diagram-800-en.png" style="display:block; width:
-400px;"><img src="about-venn-diagram-400-en.png" alt="Venn diagram: Rationality
-Freiburg is at the intersection of 'Debating Society', 'Philosophy Roundtable'
-and 'Self-Help Group'"></a>
+![Venn diagram: Rationality Freiburg is at the intersection of 'Debating
+Society', 'Philosophy Roundtable' and 'Self-Help
+Group'](about-venn-diagram-400-en.png "Venn diagram: Rationality Freiburg is at
+the intersection of 'Debating Society', 'Philosophy Roundtable' and 'Self-Help
+Group'")
+
 
 ## Goals and core values
 

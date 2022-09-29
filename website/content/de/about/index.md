@@ -18,10 +18,12 @@ Wenn du gerne [LessWrong](https://www.lesswrong.com/),
 als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events/"
 >}})!
 
-<a href="about-venn-diagram-800-de.png" style="display:block; width:
-400px;"><img src="about-venn-diagram-400-de.png" alt="Venn Diagramm:
-Rationality Freiburg ist die Schnittmenge aus 'Debattierclub', 'Philosophischer
-Stammtisch' und 'Selbsthilfegruppe'"></a>
+![Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus 'Debattierclub',
+'Philosophischer Stammtisch' und
+'Selbsthilfegruppe'](about-venn-diagram-400-de.png "Venn Diagramm: Rationality
+Freiburg ist die Schnittmenge aus 'Debattierclub', 'Philosophischer Stammtisch'
+und 'Selbsthilfegruppe'")
+
 
 ## Ziele und Grundwerte
 
