@@ -23,6 +23,9 @@ slug: 2022-09-30-die-zukunft-vorhersagen
 **UPDATE 29.09** Wir treffen uns im "Kursraum 1" von FlexRooms, direkt neben
 dem Bertholdsbrunnen in der Freiburger Innenstadt.
 
+Der Raum hat Fenster um ausreichendes Lüften sicherzustellen. Masken zu tragen
+ist optional.
+
 Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je

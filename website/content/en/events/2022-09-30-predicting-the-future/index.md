@@ -22,6 +22,8 @@ aliases:
 **UPDATE 29.09** We will meet in "Kursraum 1" of FlexRooms, right next to
 Bertholdsbrunnen in the center of Freiburg.
 
+The room has windows to ensure proper ventilation. Masks are optional.
+
 You are worried you have nothing to contribute? No worries! Everyone is
 welcome!
 
