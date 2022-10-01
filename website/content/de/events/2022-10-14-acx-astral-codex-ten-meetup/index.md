@@ -34,17 +34,22 @@ Vielleicht möchtest du auch an der [Wanderung]({{< ref
 Event teilnehmen!
 
 
-## Was werden wir tun?
+## Vorbereitung
 
-Zunächst gibt es eine oder mehrere (je nach Anzahl der Teilnehmer) freie
-Diskussionsrunden. Ich schlage vor, jeder bereitet ein oder zwei [SSC (Slate
-Star Codex)](https://slatestarcodex.com/) oder [ACX (Astral Codex
-Ten)](https://astralcodexten.substack.com/) Posts vor, der ihr/ihm besonders
-gut gefällt. Ihr könnt dann eine kurze Zusammenfassung des Beitrags geben und
-die Diskussion kann beginnen.
+Bereite ein oder zwei [SSC (Slate Star Codex)](https://slatestarcodex.com/)
+oder [ACX (Astral Codex Ten)](https://astralcodexten.substack.com/) Posts vor,
+die dir besonders gut gefallen um den anderen Teilnehmern eine Zusammenfassung
+geben zu können.
 
 Wenn du Inspiration brauchst, schau dir die [SSC Top
 Beiträge](https://slatestarcodex.com/top-posts/) an.
+
+
+## Was werden wir tun?
+
+Zunächst gibt es eine oder mehrere (je nach Anzahl der Teilnehmer) freie
+Diskussionsrunden in der jede/r Posts vorstellen kann. Ihr könnt dann eine
+kurze Zusammenfassung des Posts geben und die Diskussion kann beginnen.
 
 Nach der Diskussion werden wir "Die Fallübung" spielen.
 

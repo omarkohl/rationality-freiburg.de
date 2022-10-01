@@ -32,17 +32,22 @@ Maybe you also want to join the [hike]({{< ref
 "/events/2022-10-15-hike-with-karlsruhe-rationality" >}}) on the day after this
 event!
 
-## What will we do?
 
-First there will be one or several (depending on the number of people) free
-discussion rounds. I suggest everyone prepares one or two [SSC (Slate Star
-Codex)](https://slatestarcodex.com/) or [ACX (Astral Codex
-Ten)](https://astralcodexten.substack.com/) posts they particularly enjoy. You
-can then give a short summary of the post and the discussion can flow from
-there.
+## Preparation
+
+Select one or two [SSC (Slate Star Codex)](https://slatestarcodex.com/) or [ACX
+(Astral Codex Ten)](https://astralcodexten.substack.com/) posts that you
+particularly enjoy so you can give a short summary to other participants.
 
 If you need inspiration check the [SSC top
 posts](https://slatestarcodex.com/top-posts/).
+
+
+## What will we do?
+
+First there will be one or several (depending on the number of people) free
+discussion rounds where people can present their favorite SSC/ACX posts and the
+discussion can flow from there.
 
 After the discussion we will play "The Falling Drill".
 
