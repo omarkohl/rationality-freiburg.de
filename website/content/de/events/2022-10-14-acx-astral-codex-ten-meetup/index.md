@@ -62,6 +62,18 @@ Es wird Snacks und Getränke geben. Nach der Veranstaltung gehen wir irgendwo
 Abendessen.
 
 
-## Worum geht es hier?
+## Sonstiges
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
+
+Guck dir an was die [aktuellen
+Vorhersagen](https://manifold.markets/Omar/how-many-people-will-attend-the-acx)
+für die Anzahl an Teilnehmern ist.
+
+<div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;">
+  <iframe style="height: 100%"
+    src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-acx"
+    title="How many people will attend the ACX meetup on Oct 14th 2022 in
+    Freiburg, Germany?" frameborder="0">
+  </iframe>
+</div>

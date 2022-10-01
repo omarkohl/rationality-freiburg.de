@@ -61,6 +61,19 @@ isn't the worst thing in the world.
 There will be snacks and drinks. After the event we will go and get dinner
 somewhere.
 
-## What is this about?
+
+## Other
 
 [Learn more about us]({{< ref "about" >}}).
+
+Check out the [prediction
+market](https://manifold.markets/Omar/how-many-people-will-attend-the-acx) on
+how many people will attend:
+
+<div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;">
+  <iframe style="height: 100%"
+    src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-acx"
+    title="How many people will attend the ACX meetup on Oct 14th 2022 in
+    Freiburg, Germany?" frameborder="0">
+  </iframe>
+</div>

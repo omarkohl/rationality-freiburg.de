@@ -31,3 +31,20 @@ Rationality](https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R) sein.
 Details werden hier veröffentlicht wenn das Datum näher rückt.
 
 Die Wanderung ist anfängerfreundlich z.B. 10km mit 500m Höhenunterschied.
+
+
+## Sonstiges
+
+[Erfahre mehr über uns]({{< ref "about" >}}).
+
+Guck dir an was die [aktuellen
+Vorhersagen](https://manifold.markets/Omar/how-many-people-will-attend-the-rat)
+für die Anzahl an Teilnehmern ist.
+
+<div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;">
+  <iframe style="height: 100%"
+    src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-rat"
+    title="How many people will attend the rationalist hike on Oct 15th 2022 in
+    Freiburg, Germany?" frameborder="0">
+  </iframe>
+</div>
