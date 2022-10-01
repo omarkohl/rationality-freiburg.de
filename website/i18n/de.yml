@@ -14,3 +14,5 @@
   translation: "Koordinaten"
 - id: Upcoming Events
   translation: "Zukünftige Termine"
+- id: Past Events
+  translation: "Vergangene Termine"
