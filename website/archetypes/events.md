@@ -6,8 +6,8 @@ eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
 eventLocation: "End of the bridge (Karlssteg), Stadtgarten, Freiburg"
 #eventLocation: "Ende der Brücke (Karlssteg), Stadtgarten, Freiburg"
-eventGeoLon: 7.85686
 eventGeoLat: 47.99764
+eventGeoLon: 7.85686
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 summary: "Meetup. Where: Stadtgarten, Freiburg. When: Friday, October
