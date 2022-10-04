@@ -3,12 +3,12 @@ title: "15. Oktober Wanderung mit 'Karlsruhe Rationality'"
 date: 2022-07-11T20:21:19+02:00
 eventStart: 2022-10-15T10:00:00+02:00
 eventEnd: 2022-10-15T17:00:00+02:00
-eventLocation: "Freiburg"
-eventGeoLon:
-eventGeoLat:
+eventLocation: "Schwabentorplatz, 79098 Freiburg"
+eventGeoLat: 47.99288
+eventGeoLon: 7.85401
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/287145449/
 lwLink: https://www.lesswrong.com/events/PqzQKgo7a3nJGjRy6
-summary: "Rationality Wanderung. Wo: Freiburg. Wann: Samstag,
+summary: "Rationality Wanderung. Wo: Schwabentorplatz, Freiburg. Wann: Samstag,
     15. Oktober 2022 um 10:00 Uhr MESZ."
 outputs:
   - HTML
@@ -28,9 +28,20 @@ Wanderung teilnehmen.
 Dies wird ein gemeinsames Event mit [Karlsruhe
 Rationality](https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R) sein.
 
-Details werden hier veröffentlicht wenn das Datum näher rückt.
+Wir treffen uns am Schwabentor, wandern zum Roßkopf, von dort nach St. Ottilien
+wo wir je nach Wetter etwas trinken oder essen können und dann wieder zurück
+zum Schwabentor.
 
-Die Wanderung ist anfängerfreundlich z.B. 10km mit 500m Höhenunterschied.
+Die Distanz beträgt etwa 11 km, mit 550 Höhenmetern Aufstieg sowie das Gleiche
+im Abstieg.
+
+In langsamen Tempo brauchen wir dafür 4 - 5 Stunden.
+
+![Route: Schwabentor (A), Roßkopf (1), St. Ottilien (2), Schwabentor
+(B)](map.png 'Route: Schwabentor (A), Roßkopf (1), St. Ottilien (2),
+Schwabentor (B)')
+
+Quelle: kompass.de
 
 
 ## Sonstiges
