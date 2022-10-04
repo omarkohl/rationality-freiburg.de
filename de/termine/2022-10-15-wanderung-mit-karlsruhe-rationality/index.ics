@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Berlin:20221015T100000
 DTEND;TZID=Europe/Berlin:20221015T170000
 SUMMARY:15. Oktober Wanderung mit 'Karlsruhe Rationality'
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-10-15-wanderung-mit-karlsruhe-rationality/\n
-LOCATION:Freiburg
-
+LOCATION:Schwabentorplatz, 79098 Freiburg
+GEO:47.99288;7.85401
 URL:https://www.rationality-freiburg.de/de/termine/2022-10-15-wanderung-mit-karlsruhe-rationality/
 END:VEVENT
 END:VCALENDAR
