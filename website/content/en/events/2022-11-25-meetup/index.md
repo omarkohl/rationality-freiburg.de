@@ -6,8 +6,8 @@ eventEnd: 2022-11-25T20:00:00+02:00
 eventLocation: "TBD, Freiburg"
 eventGeoLon:
 eventGeoLat:
-meetupLink:
-lwLink:
+meetupLink: https://www.meetup.com/rationality-freiburg/events/289147046/
+lwLink: https://www.lesswrong.com/events/v9mKc8XDLYKim4yjT/freiburg-meetup-1
 description: "Meetup. Where: TBD, Freiburg. When:
     Friday, November 25th 2022 at 18:00 hours CEST."
 outputs:

@@ -6,8 +6,8 @@ eventEnd: 2022-10-28T20:00:00+02:00
 eventLocation: "TBD, Freiburg"
 eventGeoLon:
 eventGeoLat:
-meetupLink:
-lwLink:
+meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/289147026/
+lwLink: https://www.lesswrong.com/events/fazMvt4n3h2tbw3et/freiburg-meetup
 description: "Meetup. Wo: TBD, Freiburg. Wann:
     Freitag, 28. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
