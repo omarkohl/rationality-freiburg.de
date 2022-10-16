@@ -10,9 +10,9 @@ eventGeoLon: 7.8504
 eventGeoLat: 47.99466
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-summary: "Meetup. Where: FlexRooms, Salzstr. 1, 79098 Freiburg. When:
+description: "Meetup. Where: FlexRooms, Salzstr. 1, 79098 Freiburg. When:
     Friday, October 14th 2022 at 18:00 hours CEST."
-#summary: "Meetup. Wo: FlexRooms, Salzstr. 1, 79098 Freiburg. Wann:
+#description: "Meetup. Wo: FlexRooms, Salzstr. 1, 79098 Freiburg. Wann:
 #    Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML

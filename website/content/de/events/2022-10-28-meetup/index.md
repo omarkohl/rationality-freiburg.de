@@ -8,7 +8,7 @@ eventGeoLon:
 eventGeoLat:
 meetupLink:
 lwLink:
-summary: "Meetup. Wo: TBD, Freiburg. Wann:
+description: "Meetup. Wo: TBD, Freiburg. Wann:
     Freitag, 28. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML
