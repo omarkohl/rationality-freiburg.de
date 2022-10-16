@@ -4,6 +4,9 @@
 {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . -}}{{ end }}
 </header>
 <div class="content">
-{{ .Summary }}
+<b>{{ i18n "Start" }}: </b>{{ $.Param "eventStart" | time.Format ":date_full" }} {{ $.Param "eventStart" | time.Format ":time_short" }}
+<br>
+<b>{{ i18n "Location" }}: </b>{{ $.Param "eventLocation" }}
+<br>
 </div>
 </article>
