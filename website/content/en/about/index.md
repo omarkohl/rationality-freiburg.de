@@ -41,13 +41,13 @@ means having an open mind, learning about human cognitive biases and how to
 work around them as well as applying the scientific method (hypothesis +
 experiment).
 
-### Are human emotions bad?
+### Is Rationality the rejection of emotions or are human emotions bad?
 
 No. Emotions and gut feelings are an integral part of the human experience and
-in fact vital for our survival. Seeing the world as it really is also implies
-seeing humans as they really are. Only in some situations emotions and
-intuitions can mislead us and it would be useful to recognize those situations
-and improve the results of our decisions.
+in fact, vital for our survival. Seeing the world as it really is also implies
+seeing humans as they really are. Emotions and intuitions work very well in
+most situations, only in some cases they can mislead us. Recognizing those
+cases and then improving the result of your decisions is useful.
 
 ### Is this group affiliated with a political party or entity?
 

@@ -49,14 +49,14 @@ sie gerne hätte. Dies bedeutet, unvoreingenommen zu sein, menschliche
 Denkfehler (cognitive biases) zu verstehen und zu lernen, wie man sie umgeht,
 sowie die Anwendung der wissenschaftlichen Methode (Hypothese + Experiment).
 
-### Sind menschliche Emotionen schlecht?
+### Ist Rationalität die Ablehnung von Gefühlen, oder sind menschliche Emotionen schlecht?
 
 Nein. Emotionen und Bauchgefühle sind ein wesentlicher Bestandteil der
 menschlichen Erfahrung und sind sogar überlebenswichtig für uns. Die Welt zu
 sehen, wie sie wirklich ist, bedeutet auch die Menschen so zu sehen, wie sie
-wirklich sind. Nur in manchen Situationen können Emotionen und Intuitionen in
-die Irre führen, und es wäre sinnvoll, diese Situationen zu erkennen und die
-Ergebnisse unserer Entscheidungen zu verbessern.
+wirklich sind. Meistens funktionieren Emotionen und Intuitionen sehr gut, nur
+manchmal können sie uns in die Irre führen. Diese Situationen zu erkennen und
+die Ergebnisse unserer Entscheidungen zu verbessern ist nützlich.
 
 ### Ist diese Gruppe mit einer politischen Partei oder Organisation verbunden?
 
