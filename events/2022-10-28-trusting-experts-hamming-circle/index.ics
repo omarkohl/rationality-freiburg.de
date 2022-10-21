@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20221028T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20221028T180000
 DTEND;TZID=Europe/Berlin:20221028T200000
-SUMMARY:Meetup
-DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-10-28-meetup/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-10-28-meetup/\n
-LOCATION:TBD, Freiburg
-
-URL:https://www.rationality-freiburg.de/de/termine/2022-10-28-meetup/
+SUMMARY:'Trusting experts' & Hamming circle
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-10-28-trusting-experts-hamming-circle/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-10-28-trusting-experts-hamming-circle/\n
+LOCATION:coworking freiburg (directly above McDonald's), Kaiser-Joseph-Str. 254, 79098 Freiburg
+GEO:47.99372;7.84877
+URL:https://www.rationality-freiburg.de/events/2022-10-28-trusting-experts-hamming-circle/
 END:VEVENT
 END:VCALENDAR
