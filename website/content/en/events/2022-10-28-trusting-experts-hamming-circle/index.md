@@ -2,7 +2,7 @@
 title: "'Trusting experts' & Hamming circle"
 date: 2022-10-16T14:05:40+02:00
 eventStart: 2022-10-28T18:00:00+02:00
-eventEnd: 2022-10-28T20:00:00+02:00
+eventEnd: 2022-10-28T20:30:00+02:00
 eventLocation: "coworking freiburg (directly above McDonald's), Kaiser-Joseph-Str. 254, 79098 Freiburg"
 eventGeoLat: 47.99372
 eventGeoLon: 7.84877
