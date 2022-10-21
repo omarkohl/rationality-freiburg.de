@@ -90,8 +90,8 @@ has helped shape what follows.
 If the amount of preparation required for a meetup is too much or the reading
 uninteresting, please give early feedback, so it can be considered. It is
 perfectly acceptable to have meetups without any required preparation. We want
-to have gatherings that are useful and stimulating, not making you do tedious
-or useless work.
+to have gatherings that are useful and stimulating, not make you do tedious or
+useless work.
 
 The goal of these rules is very clear: Ensure people come on time and well
 prepared. If this goal is not reached, then the rules will be adapted e.g. by
