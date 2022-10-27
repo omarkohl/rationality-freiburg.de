@@ -18,6 +18,13 @@ aliases:
   - /events/2022-10-28-meetup/
 ---
 
+## Update 27.10
+
+Some people reported that the "Trusting Experts" video was hard to follow. Just
+do your best, try to get what you can out of it and bring some of your own
+thoughts when and why it's better to trust experts as opposed to your own
+judgement and vice versa.
+
 ## Organization
 
 You are worried you have nothing to contribute? No worries! Everyone is

@@ -19,6 +19,12 @@ aliases:
   - /de/termine/2022-10-28-meetup/
 ---
 
+## Update 27.10
+
+Einige Leute haben berichtet, dass das Video "Trusting Experts" schwer zu
+verstehen ist. Versuch einfach dein Bestes und bring deine eigenen Gedanken mit
+wann man Experten vertrauen sollte und wann dem eigenen Urteil und umgekehrt.
+
 ## Organisatorisches
 
 Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
