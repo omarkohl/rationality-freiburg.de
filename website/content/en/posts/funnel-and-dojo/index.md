@@ -42,7 +42,9 @@ The private meetups are the _Rationality Dojo_ that focuses on doing intense
 work together, with trust and empathy.
 
 The idea of dividing the events in such a way comes from the Berlin group where
-this is how they have been doing it for many years.
+this is how they have been doing it for many years. Here is a description of
+the [Berlin Rationality
+Dojo](https://www.lesswrong.com/posts/XNWKkb7XtEXi6HWEG/rationality-dojo-berlin-handout).
 
 # Public Meetup Rules
 
