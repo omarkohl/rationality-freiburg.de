@@ -10,7 +10,7 @@ meetupLink:
 lwLink: https://www.lesswrong.com/events/o8ammFdi6JExEvWfT/podcasts-and-talk
 description: "Presentation of Podcasts and socializing with rationalists
 . Where: TBD, Freiburg. When:
-    Friday, November 25th 2022 at 18:00 hours CEST."
+    Friday, November 11th 2022 at 18:00 hours CEST."
 outputs:
   - HTML
   - Calendar
