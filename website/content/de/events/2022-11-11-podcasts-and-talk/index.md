@@ -1,5 +1,5 @@
 ---
-title: "Podcasts and Talk"
+title: "Podcasts und Schwatzen"
 date: 2022-11-01T15:16:42+02:00
 eventStart: 2022-11-11T18:00:00+02:00
 eventEnd: 2022-11-11T20:00:00+02:00
@@ -14,6 +14,7 @@ description: "Präsentation von Podcasts und Schwatzen
 outputs:
   - HTML
   - Calendar
+slug: 2022-11-11-podcasts-und-schwatzen
 ---
 
 ## Organisatorisches
