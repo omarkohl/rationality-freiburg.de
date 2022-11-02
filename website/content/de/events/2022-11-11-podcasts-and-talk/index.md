@@ -3,7 +3,7 @@ title: "Podcasts und Schwatzen"
 date: 2022-11-01T15:16:42+02:00
 eventStart: 2022-11-11T18:00:00+02:00
 eventEnd: 2022-11-11T20:00:00+02:00
-eventLocation: "TBD, Freiburg"
+eventLocation: "CoWorking Space im Martinstor, Freiburg"
 eventGeoLon:
 eventGeoLat:
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/289492553/
