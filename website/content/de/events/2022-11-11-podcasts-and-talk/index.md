@@ -6,8 +6,8 @@ eventEnd: 2022-11-11T20:00:00+02:00
 eventLocation: "TBD, Freiburg"
 eventGeoLon:
 eventGeoLat:
-meetupLink: 
-lwLink: https://www.lesswrong.com/events/o8ammFdi6JExEvWfT/podcasts-and-talk
+meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/289492553/
+lwLink: https://www.lesswrong.com/events/K5vTgdw4puSA2A9ve/freiburg-podcasts-and-talk
 description: "Präsentation von Podcasts und Schwatzen
 . Wo: TBD, Freiburg. Wann:
     Friday, November 11th 2022 at 18:00 hours CEST."
