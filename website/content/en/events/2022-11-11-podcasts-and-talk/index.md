@@ -3,14 +3,14 @@ title: "Podcasts and Talk"
 date: 2022-11-01T15:16:42+02:00
 eventStart: 2022-11-11T18:00:00+02:00
 eventEnd: 2022-11-11T20:00:00+02:00
-eventLocation: "Co-Working Space, at Martinstor, Freiburg"
-eventGeoLon:
-eventGeoLat:
+eventLocation: "coworking freiburg (directly above McDonald's), Kaiser-Joseph-Str. 254, 79098 Freiburg"
+eventGeoLat: 47.99372
+eventGeoLon: 7.84877
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/289492553/
 lwLink: https://www.lesswrong.com/events/K5vTgdw4puSA2A9ve/freiburg-podcasts-and-talk
-description: "Presentation of Podcasts and socializing with rationalists
-. Where: TBD, Freiburg. When:
-    Friday, November 11th 2022 at 18:00 hours CEST."
+description: "Presentation of Podcasts and socializing with rationalists.
+    Where: coworking freiburg, Kaiser-Joseph-Str. 254, 79098 Freiburg,
+    Freiburg. When: Friday, November 11th 2022 at 18:00 hours CEST."
 outputs:
   - HTML
   - Calendar
