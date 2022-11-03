@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Berlin:20221111T180000
 DTEND;TZID=Europe/Berlin:20221111T200000
 SUMMARY:Podcasts and Talk
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-11-11-podcasts-and-talk/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-11-11-podcasts-und-schwatzen/\n
-LOCATION:Co-Working Space, at Martinstor, Freiburg
-
+LOCATION:coworking freiburg (directly above McDonald's), Kaiser-Joseph-Str. 254, 79098 Freiburg
+GEO:47.99372;7.84877
 URL:https://www.rationality-freiburg.de/events/2022-11-11-podcasts-and-talk/
 END:VEVENT
 END:VCALENDAR
