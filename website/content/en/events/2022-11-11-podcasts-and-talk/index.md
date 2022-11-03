@@ -26,6 +26,10 @@ We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
 In doubt we split up the groups into a German and an English part.
 
+![coworking freiburg entrance](/images/coworking-freiburg.jpg 'coworking freiburg entrance')
+
+coworking freiburg ([source](https://coworking-freiburg.de/en/contact/))
+
 ## Preparation
 2-5 Minutes presentation of a podcast of your choise, optional,
 

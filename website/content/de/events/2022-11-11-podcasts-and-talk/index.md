@@ -25,6 +25,10 @@ Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je nachdem, welche Leute kommen. Kommt einfach, das klappt!
 Im Zweifel splitten wir die Gruppe in einen Deutschen und einen Englischen Teil.
 
+![coworking freiburg Eingang](/images/coworking-freiburg.jpg 'coworking freiburg Eingang')
+
+coworking freiburg ([source](https://coworking-freiburg.de/en/contact/))
+
 ## Vorbereitung
 2-5 Minuten Präsentation deines Lieblingspodcast. Optional.
 
