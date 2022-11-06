@@ -6,8 +6,8 @@ eventEnd: 2022-11-27T18:30:00+01:00
 eventLocation: "Treffpunkt Freiburg, Schwabentorring 2, 79098 Freiburg"
 eventGeoLat: 47.99218
 eventGeoLon: 7.85421
-meetupLink: 
-lwLink: 
+meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/289577879/
+lwLink: https://www.lesswrong.com/events/oRmcJjTCKip6YXbgu/probabilities-why-they-matter-and-how-to-apply-them-in-daily
 description: "Probabilities in Daily Life - Part 1. Where: Treffpunkt Freiburg,
     Schwabentorring 2, 79098 Freiburg. When: Sunday, November 27th 2022 at
     17:00 hours CET."
