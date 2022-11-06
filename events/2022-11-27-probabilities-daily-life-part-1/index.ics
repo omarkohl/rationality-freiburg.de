@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20221106T095554
+ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
+STATUS:CONFIRMED
+UID:20221127T170000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20221127T170000
+DTEND;TZID=Europe/Berlin:20221127T183000
+SUMMARY:Probabilities: Why They Matter and How to Apply Them in Daily Life - Part 1/3: Basics
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-11-27-probabilities-daily-life-part-1/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-11-27-wahrscheinlichkeiten-im-alltag-teil-1/\n
+LOCATION:Treffpunkt Freiburg, Schwabentorring 2, 79098 Freiburg
+GEO:47.99218;7.85421
+URL:https://www.rationality-freiburg.de/events/2022-11-27-probabilities-daily-life-part-1/
+END:VEVENT
+END:VCALENDAR
