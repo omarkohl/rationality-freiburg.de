@@ -6,8 +6,8 @@ eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
 eventLocation: "FlexRooms, Salzstr. 1, 79098 Freiburg"
 #eventLocation: "FlexRooms, Salzstr. 1, 79098 Freiburg"
-eventGeoLon: 7.8504
 eventGeoLat: 47.99466
+eventGeoLon: 7.8504
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Meetup. Where: FlexRooms, Salzstr. 1, 79098 Freiburg. When:
