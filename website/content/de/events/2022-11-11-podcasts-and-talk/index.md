@@ -10,7 +10,7 @@ meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/289492553/
 lwLink: https://www.lesswrong.com/events/K5vTgdw4puSA2A9ve/freiburg-podcasts-and-talk
 description: "Präsentation von Podcasts und Schwatzen. Wo: coworking freiburg,
     Kaiser-Joseph-Str. 254, 79098 Freiburg, Freiburg. Wann: Friday, November
-    11th 2022 at 18:00 hours CEST."
+    11th 2022 at 18:00 hours CET."
 outputs:
   - HTML
   - Calendar

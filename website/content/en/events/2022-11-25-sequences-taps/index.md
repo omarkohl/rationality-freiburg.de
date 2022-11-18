@@ -9,7 +9,7 @@ eventGeoLon: 7.84877
 meetupLink: https://www.meetup.com/rationality-freiburg/events/289147046/
 lwLink: https://www.lesswrong.com/events/v9mKc8XDLYKim4yjT/freiburg-meetup-1
 description: "Sequences & TAPs. Where: coworking freiburg. When:
-    Friday, November 25th 2022 at 18:00 hours CEST."
+    Friday, November 25th 2022 at 18:00 hours CET."
 outputs:
   - HTML
   - Calendar
