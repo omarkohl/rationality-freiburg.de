@@ -36,7 +36,7 @@ Lies diese drei Posts aus "Noticing Confusion", aus Buch I: Map and Territory
 von "The Sequences".
 
 * [How Much Evidence Does It Take?](https://www.readthesequences.com/How-Much-Evidence-Does-It-Take)
-* [Einstein’s arrogance](https://www.readthesequences.com/Einsteins-Arrogance)
+* [Einstein’s Arrogance](https://www.readthesequences.com/Einsteins-Arrogance)
 * [Occam’s Razor](https://www.readthesequences.com/Occams-Razor)
 
 Optional: Lies Seiten 44 bis 56 vom [CFAR
