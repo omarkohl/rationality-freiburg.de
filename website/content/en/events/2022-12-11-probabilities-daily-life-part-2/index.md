@@ -30,6 +30,9 @@ as well.
 The talk will be until 06:30 pm. Afterwards there is an open discussion and
 socializing.
 
+You can come even if you missed "Part 1" of this series of talks! There will be
+a brief recap.
+
 
 ## Preparation
 

@@ -28,6 +28,9 @@ genannt werden.
 Der Vortrag ist bis 18:30 Uhr geplant. Danach offene Diskussion und entspannt
 quatschen.
 
+Du kannst kommen selbst wenn du "Teil 1" dieser Serie verpasst hast. Es wird
+eine kurze Zusammenfassung geben.
+
 
 ## Vorbereitung
 
