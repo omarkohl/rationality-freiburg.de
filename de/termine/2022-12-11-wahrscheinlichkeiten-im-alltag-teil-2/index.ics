@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20221128T093508
+ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
+STATUS:CONFIRMED
+UID:20221211T170000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20221211T170000
+DTEND;TZID=Europe/Berlin:20221211T183000
+SUMMARY:Wahrscheinlichkeiten: Warum sie wichtig sind und wie man sie im Alltag anwendet - Teil 2/3: Bayes
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2022-12-11-probabilities-daily-life-part-2/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2022-12-11-wahrscheinlichkeiten-im-alltag-teil-2/\n
+LOCATION:Treffpunkt Freiburg, Schwabentorring 2, 79098 Freiburg
+GEO:47.99218;7.85421
+URL:https://www.rationality-freiburg.de/de/termine/2022-12-11-wahrscheinlichkeiten-im-alltag-teil-2/
+END:VEVENT
+END:VCALENDAR
