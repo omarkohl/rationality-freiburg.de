@@ -11,12 +11,9 @@ lwLink: https://www.lesswrong.com/events/a2dfdA3Dtio6fmHnR/probabilities-why-the
 description: "Probabilities in Daily Life - Part 2. Where: Treffpunkt Freiburg,
     Schwabentorring 2, 79098 Freiburg. When: Sunday, December 11th 2022 at
     17:00 hours CET."
-#description: "Meetup. Wo: FlexRooms, Salzstr. 1, 79098 Freiburg. Wann:
-#    Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML
   - Calendar
-#slug: 2022-10-14-acx-astral-codex-ten-meetup
 ---
 
 ## Organization
@@ -56,28 +53,3 @@ There will be snacks and drinks.
 ## Other
 
 [Learn more about us]({{< ref "about" >}}).
-
-
-
-## Organisatorisches
-
-Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
-
-Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
-nachdem, welche Leute kommen. Kommt einfach, das klappt!
-
-
-## Vorbereitung
-
-
-
-## Was werden wir tun?
-
-Noch nicht beschlossen.
-
-Es wird Snacks und Getränke geben.
-
-
-## Sonstiges
-
-[Erfahre mehr über uns]({{< ref "about" >}}).
