@@ -66,8 +66,8 @@ info@rationality-freiburg.de
 You can also find us on [meetup.com](https://www.meetup.com/rationality-freiburg/)
 or [LessWrong Community](https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY).
 
-We have a _Signal_ messenger group that you can join after coming to one of our
-meetups.
+We have a _Signal_ messenger group as well as a mailing list that you can join
+after coming to one of our meetups.
 
 ## Credits
 

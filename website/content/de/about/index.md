@@ -78,8 +78,8 @@ Du kannst uns auch auf
 [meetup.com](https://www.meetup.com/rationality-freiburg/) oder [LessWrong
 Community](https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY) finden.
 
-Wir haben eine _Signal_ Messenger-Gruppe, der du beitreten kannst, nachdem du
-bei einem der Treffen warst.
+Wir haben eine _Signal_ Messenger-Gruppe und eine Mailingliste, denen du
+beitreten kannst, nachdem du bei einem der Treffen warst.
 
 ## Credits
 
