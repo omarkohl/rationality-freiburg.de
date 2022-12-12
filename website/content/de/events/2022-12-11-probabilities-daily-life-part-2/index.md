@@ -17,6 +17,11 @@ outputs:
 slug: 2022-12-11-wahrscheinlichkeiten-im-alltag-teil-2
 ---
 
+## Update 2022-12-12
+
+Die Folien (auf Englisch): [Probabilities Daily Life - Part 2 - Bayes.pdf](./Probabilities_Daily_Life_-_Part_2_-_Bayes.pdf) .
+
+
 ## Organisatorisches
 
 Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!

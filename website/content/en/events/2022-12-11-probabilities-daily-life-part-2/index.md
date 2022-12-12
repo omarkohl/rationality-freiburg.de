@@ -16,6 +16,11 @@ outputs:
   - Calendar
 ---
 
+## Update 2022-12-12
+
+The slides: [Probabilities Daily Life - Part 2 - Bayes.pdf](./Probabilities_Daily_Life_-_Part_2_-_Bayes.pdf) .
+
+
 ## Organization
 
 You are worried you have nothing to contribute? No worries! Everyone is
