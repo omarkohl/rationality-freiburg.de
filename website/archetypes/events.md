@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-eventStart: 2022-10-14T18:00:00+02:00
-eventEnd: 2022-10-14T20:00:00+02:00
+eventStart: {{ .Date }}
+eventEnd: {{ .Date }}
 eventLocation: "Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
 #eventLocation: "Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
 eventGeoLat: 47.98934
