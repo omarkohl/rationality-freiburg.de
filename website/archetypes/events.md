@@ -4,16 +4,14 @@ date: {{ .Date }}
 draft: true
 eventStart: 2022-10-14T18:00:00+02:00
 eventEnd: 2022-10-14T20:00:00+02:00
-eventLocation: "FlexRooms, Salzstr. 1, 79098 Freiburg"
-#eventLocation: "FlexRooms, Salzstr. 1, 79098 Freiburg"
-eventGeoLat: 47.99466
-eventGeoLon: 7.8504
+eventLocation: "Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
+#eventLocation: "Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
+eventGeoLat: 47.98934
+eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Meetup. Where: FlexRooms, Salzstr. 1, 79098 Freiburg. When:
-    Friday, October 14th 2022 at 18:00 hours CEST."
-#description: "Meetup. Wo: FlexRooms, Salzstr. 1, 79098 Freiburg. Wann:
-#    Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
+description: "Meetup. Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, October 14th 2022 at 18:00 hours CEST."
+#description: "Meetup. Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML
   - Calendar
