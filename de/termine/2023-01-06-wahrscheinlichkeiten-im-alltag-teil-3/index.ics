@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20221231T120008
+ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
+STATUS:CONFIRMED
+UID:20230115T170000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20230115T170000
+DTEND;TZID=Europe/Berlin:20230115T183000
+SUMMARY:Wahrscheinlichkeiten: Warum sie wichtig sind und wie man sie im Alltag anwendet - Teil 2/3: Anwendung
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-01-15-probabilities-daily-life-part-3/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-01-06-wahrscheinlichkeiten-im-alltag-teil-3/\n
+LOCATION:Treffpunkt Freiburg, Schwabentorring 2, 79098 Freiburg
+GEO:47.99218;7.85421
+URL:https://www.rationality-freiburg.de/de/termine/2023-01-06-wahrscheinlichkeiten-im-alltag-teil-3/
+END:VEVENT
+END:VCALENDAR
