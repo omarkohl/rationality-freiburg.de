@@ -14,7 +14,7 @@ description: "Wahrscheinlichkeiten im Alltag - Teil 3. Wo: Treffpunkt Freiburg,
 outputs:
   - HTML
   - Calendar
-slug: 2023-01-06-wahrscheinlichkeiten-im-alltag-teil-3
+slug: 2023-01-15-wahrscheinlichkeiten-im-alltag-teil-3
 ---
 
 ## Vorbereitung
