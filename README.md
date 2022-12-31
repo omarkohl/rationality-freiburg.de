@@ -4,6 +4,7 @@ Static website made with [Hugo](https://gohugo.io/).
 
 Visit [www.rationality-freiburg.de](https://www.rationality-freiburg.de)
 
+
 # Contributing
 
 ## Easy way
@@ -37,3 +38,14 @@ hugo server -D
 Open http://localhost:1313 in a browser and check your post.
 
 [Learn more about Hugo](https://gohugo.io/getting-started/quick-start/).
+
+
+# Adding Events
+
+```bash
+NAME=2023-01-06-cognitive-biases
+cd website
+hugo new events/${NAME}/index.md
+cp -r content/en/events/${NAME}/ content/de/events/
+vim content/{en,de}/events/${NAME}/index.md
+```
