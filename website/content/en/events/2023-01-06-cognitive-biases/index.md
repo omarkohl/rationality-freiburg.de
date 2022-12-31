@@ -9,7 +9,7 @@ eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/290632362/
 lwLink: https://www.lesswrong.com/events/hM2Kp7eqhrsyGRqqi/freiburg-outsmart-your-cognitive-biases
 description: "Outsmart Your Cognitive Biases. Where: Haus des Engagements,
-    Rehlingstraße 9, 79100 Freiburg. When: Friday, Januar 6th 2023 at 18:00
+    Rehlingstraße 9, 79100 Freiburg. When: Friday, January 6th 2023 at 18:00
     hours CET."
 outputs:
   - HTML
