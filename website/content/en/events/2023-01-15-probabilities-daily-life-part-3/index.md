@@ -6,8 +6,8 @@ eventEnd: 2023-01-15T18:30:00+01:00
 eventLocation: "Treffpunkt Freiburg, Schwabentorring 2, 79098 Freiburg"
 eventGeoLat: 47.99218
 eventGeoLon: 7.85421
-meetupLink: 
-lwLink: 
+meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/events/290632495/
+lwLink: https://www.lesswrong.com/events/wbBtvZyDpePGRfPqn/probabilities-why-they-matter-and-how-to-apply-them-in-daily-2
 description: "Probabilities in Daily Life - Part 3. Where: Treffpunkt Freiburg,
     Schwabentorring 2, 79098 Freiburg. When: Sunday, Januar 6th 2023 at 17:00
     hours CET."
