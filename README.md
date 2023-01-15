@@ -46,6 +46,7 @@ Open http://localhost:1313 in a browser and check your post.
 NAME=2023-01-06-cognitive-biases
 cd website
 hugo new events/${NAME}/index.md
+vim content/en/events/${NAME}/index.md
 cp -r content/en/events/${NAME}/ content/de/events/
 vim content/{en,de}/events/${NAME}/index.md
 ```

@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+#title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 eventStart: {{ .Date }}
@@ -18,6 +19,17 @@ outputs:
 #slug: 2022-10-14-acx-astral-codex-ten-meetup
 ---
 
+## Preparation
+
+
+
+## What will we do?
+
+To be defined.
+
+There will be snacks and drinks.
+
+
 ## Organization
 
 You are worried you have nothing to contribute? No worries! Everyone is
@@ -27,26 +39,9 @@ We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
 
 
-## Preparation
-
-
-## What will we do?
-
-To be defined.
-
-There will be snacks and drinks.
-
 ## Other
 
 [Learn more about us]({{< ref "about" >}}).
-
-
-## Organisatorisches
-
-Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
-
-Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
-nachdem, welche Leute kommen. Kommt einfach, das klappt!
 
 
 ## Vorbereitung
@@ -58,6 +53,14 @@ nachdem, welche Leute kommen. Kommt einfach, das klappt!
 Noch nicht beschlossen.
 
 Es wird Snacks und Getränke geben.
+
+
+## Organisatorisches
+
+Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
+
+Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
+nachdem, welche Leute kommen. Kommt einfach, das klappt!
 
 
 ## Sonstiges
