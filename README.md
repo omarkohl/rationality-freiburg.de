@@ -11,14 +11,15 @@ Visit [www.rationality-freiburg.de](https://www.rationality-freiburg.de)
 
 The simplest way of contributing (e.g. if you found a mistake in one of the
 posts) is to simply edit the .md (MarkDown) documents you can find under the
-content/en/ directory. Then simply send a pull request.
+`website/content/en/` directory. Then simply send a pull request.
 
 To create a new post you can copy an existing document or folder (basically
 only needed if the post contains images) and adapt as needed.
 
 To create or update German translations you can use
 [DeepL](https://www.deepl.com/translator) and modify/create corresponding files
-under website/content/de/ .
+under `website/content/de/` .
+
 
 ## Using hugo
 
