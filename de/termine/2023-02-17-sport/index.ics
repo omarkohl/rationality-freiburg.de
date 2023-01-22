@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20230217T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20230217T180000
 DTEND;TZID=Europe/Berlin:20230217T203000
-SUMMARY:Meetup
-DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-02-17-meetup/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-02-17-meetup/\n
+SUMMARY:Sport - Was ist es, warum ist er gut und wie treibt man ihn effizient?
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-02-17-exercising/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-02-17-sport/\n
 LOCATION:Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg
 GEO:47.98934;7.83945
-URL:https://www.rationality-freiburg.de/de/termine/2023-02-17-meetup/
+URL:https://www.rationality-freiburg.de/de/termine/2023-02-17-sport/
 END:VEVENT
 END:VCALENDAR
