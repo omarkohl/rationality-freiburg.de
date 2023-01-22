@@ -52,3 +52,26 @@ vim content/{en,de}/events/${NAME}/index.md
 git add content/{en,de}/events/${NAME}/index.md
 git commit -m "Add event ${NAME}"
 ```
+
+To edit an existing event (e.g. because initially there was no theme).
+
+```bash
+cd website
+git mv content/en/events/2023-02-17-meetup/ content/en/events/2023-02-17-exercising/
+git mv content/de/events/2023-02-17-meetup/ content/de/events/2023-02-17-exercising/
+vim content/{en,de}/events/2023-02-17-exercising/index.md
+```
+
+Add an `aliases` section in each case:
+
+```yaml
+aliases:
+  - /events/2023-02-17-meetup/
+```
+
+```yaml
+aliases:
+  - /de/termine/2023-02-17-meetup/
+```
+
+Edit the title, description, slug and content in each case.
