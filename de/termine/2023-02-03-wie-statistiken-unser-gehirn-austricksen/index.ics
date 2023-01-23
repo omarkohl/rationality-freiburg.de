@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20230203T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20230203T180000
 DTEND;TZID=Europe/Berlin:20230203T203000
-SUMMARY:Meetup
-DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-02-03-meetup/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-02-03-meetup/\n
-LOCATION:Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg
+SUMMARY:Wie Statistiken unser Gehirn austricksen
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-02-03-how-statistics-trick-our-brain/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-02-03-wie-statistiken-unser-gehirn-austricksen/\n
+LOCATION:Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg
 GEO:47.98934;7.83945
-URL:https://www.rationality-freiburg.de/events/2023-02-03-meetup/
+URL:https://www.rationality-freiburg.de/de/termine/2023-02-03-wie-statistiken-unser-gehirn-austricksen/
 END:VEVENT
 END:VCALENDAR
