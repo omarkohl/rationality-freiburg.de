@@ -2,14 +2,22 @@
 title: "Our Social Contract"
 date: 2022-10-16T19:51:41+02:00
 author: Omar
+summary: What is the purpose of our meetups? Surprisingly, not an easy
+    question to answer. For me, it is having a place and time where I am
+    challenged, surprised and intellectually stimulated. Where I feel safe to
+    share a part of myself.  Where I can learn and grow.
 ---
+
+**UPDATE 2023-01-23:** This post was a proposal, but it has not been
+implemented and will not be implemented in this form! There are currently no
+meetup rules. The reasons for this is that several people were unhappy about
+the proposal and there was a general fear that these rules would be offputting
+for new people. Nonetheless, punctuality and preparation are much appreciated.
 
 What is the purpose of our meetups? Surprisingly, not an easy question to
 answer. For me, it is having a place and time where I am challenged, surprised
 and intellectually stimulated. Where I feel safe to share a part of myself.
 Where I can learn and grow.
-
-<!--more-->
 
 This is what I want for myself and what I want to provide for you, the guests,
 the participants.
