@@ -8,6 +8,8 @@ Rationality Freiburg started in May of 2022 and we had lots of fantastic events
 this year. 15 to be precise! On average 7 people attended every meetup, 2 of
 them completely new. The maximum was 12 people and the minimum 3 people.
 
+<!--more-->
+
 ## Attendees
 
 **Recurring** is any person coming for the second, third etc. time whereas
