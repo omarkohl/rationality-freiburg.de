@@ -8,6 +8,17 @@
 </div>
 </article>
 
+<h1 class="title">{{ i18n "Upcoming Events" }}</h1>
+
+{{ $pages := where site.RegularPages "Type" "eq" "events" }}
+{{ range $pages.ByParam "eventStart" }}
+ {{ if (time .Params.eventStart).After now }}
+   {{ .Render "summary"}}
+ {{ end }}
+{{ end }}
+
+<h1 class="title">{{ i18n "Posts" }}</h1>
+
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ $paginator := .Paginate $pages -}}
 {{ range $paginator.Pages -}}

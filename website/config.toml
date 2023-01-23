@@ -14,7 +14,7 @@ description = "Meeting place for LessWrong and SSC/ACX readers, as well as other
 footer = "info@rationality-freiburg.de"
 logo = true
 realfavicongenerator = true
-mainSections = ["posts", "events"]
+mainSections = ["posts"]
 
 [markup.goldmark.renderer]
 unsafe = true # enable html in markdown
