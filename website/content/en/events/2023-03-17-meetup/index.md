@@ -1,7 +1,7 @@
 ---
 title: "Meetup"
 date: 2023-01-15T21:10:15+01:00
-draft: false
+draft: true
 eventStart: 2023-03-17T18:00:00+01:00
 eventEnd: 2023-03-17T20:30:00+01:00
 eventLocation: "Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
