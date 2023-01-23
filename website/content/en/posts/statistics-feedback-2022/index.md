@@ -144,285 +144,285 @@ After (almost) every event I collected feedback from people. Here is just a
 list of things people have said, without any context. Is this useful? Possibly
 not, but it might give a general impression whether people enjoy coming (they
 do!). It was also noted a few times that negative feedback actually lead to
-changes, which was appreciated by participants. If after a feedback it says 3x
+changes, which was appreciated by participants. If after a feedback it says x3
 it means 3 people reported the same.
 
 
-The discussion went off rails at times. The discussion group was too big.
-(Solution: Split the group) 3x
+* The discussion went off rails at times. The discussion group was too big.
+  [Solution: Split the group] x3
 
-Having such a discussion in English is hard. (Solution: Split the group into
-German and English)
+* Having such a discussion in English is hard. [Solution: Split the group into
+  German and English]
 
-Having a public feedback round is not so great (Solution: Distribute paper for
-written feedback)
+* Having a public feedback round is not so great. [Solution: Distribute paper
+  for written feedback]
 
-Doing something hand on was very nice.
+* Doing something hands-on was very nice.
 
-The meeting place was great (Stadtgarten).
+* The meeting place was great [Stadtgarten].
 
-I liked the playful character of the calibration game.
+* I liked the playful character of the calibration game.
 
-We should keep some instrumental rationality in every meetup.
+* We should keep some instrumental rationality in every meetup.
 
-Very well prepared, with Snacks etc.
+* Very well prepared, with Snacks etc.
 
-Discussions need to start off a common ground. People may have very different
-knowledge. Today it was good.
+* Discussions need to start off a common ground. People may have very different
+  knowledge. Today it was good.
 
-A lot of fun.
+* A lot of fun.
 
-Good balance of moderation/leading the discussion and letting people discuss by
-Omar.
+* Good balance of moderation/leading the discussion and letting people discuss
+  by Omar.
 
-There was little time to do the Double Crux,
+* There was little time to do the Double Crux.
 
-People came a little late, which initially left me fearing that nobody would
-come.
+* People came a little late, which initially left me fearing that nobody would
+  come.
 
-Double Crux does not work well with 3 persons.
+* Double Crux does not work well with 3 persons.
 
-Everyone felt that it was a useful technique and that we should do it again in
-the future.
+* Everyone felt that it was a useful technique and that we should do it again
+  in the future.
 
-The group size was ideal.
+* The group size was ideal.
 
-Practical exercises very good.
+* Practical exercises were very good.
 
-We did not discuss one of the posts that we wanted to and instead went off
-topic. We should try to stick to our plan.
+* We did not discuss one of the posts that we wanted to and instead went off
+  topic. We should try to stick to our plan.
 
-I liked your and X’s contributions a lot and most other people were good
-too. One person was terrible and I don’t know how to manage people like that, I
-think you did your best. I liked everyone else. The structure was pretty good
-and your moderating was pretty good, I’d just echo what other people said about
-time allocation.
+* I liked your and X’s contributions a lot and most other people were good too.
+  One person was terrible and I don’t know how to manage people like that, I
+  think you did your best. I liked everyone else. The structure was pretty good
+  and your moderating was pretty good, I’d just echo what other people said
+  about time allocation.
 
-Overton Gymnastics is a good exercise!
+* Overton Gymnastics is a good exercise!
 
-Very interesting to see a meetup with people who are all quite new to
-rationality!
+* Very interesting to see a meetup with people who are all quite new to
+  rationality!
 
-The game [exercise] was not well explained at all!!
+* The game [exercise] was not well explained at all!!
 
-I found the Sequences posts rather boring / not super interesting.
+* I found the Sequences posts rather boring / not super interesting.
 
-I'm not sure if having newbies to rationality in the group is a good idea.
+* I'm not sure if having newbies to rationality in the group is a good idea.
 
-Maybe more moderation?
+* Maybe more moderation?
 
-Great seeing all of you again!
+* Great seeing all of you again!
 
-Happy to again exchange thoughts with all of you.
+* Happy to again exchange thoughts with all of you.
 
-The discussion round dynamic was not ideal this time.
+* The dynamic of the discussion round was not ideal this time.
 
-Not enough air circulation [because of COVID]
+* Not enough air circulation [because of COVID].
 
-We should allocate fixed time slots to every post [to avoid the discussion
-getting too deep into other subjects]
+* We should allocate fixed time slots to every post [to avoid the discussion
+  getting too deep into other subjects].
 
-The group was too large [10 people] for one discussion round.
+* The group was too large [10 people] for one discussion round.
 
-Discussing three posts [as we did] and not more is ideal.
+* Discussing three posts [as we did] and not more is ideal.
 
-We should have split into two groups of five people.
+* We should have split into two groups of five people.
 
-There was not enough time for the exercise. The discussion should only take up
-half the time.
+* There was not enough time for the exercise. The discussion should only take
+  up half the time.
 
-Please arrive 5 minutes before the start to avoid the entire session starting
-15 minutes late.
+* Please arrive 5 minutes before the start to avoid the entire session starting
+  15 minutes late.
 
-5 people group size is good. +1
+* 5 people group size is good. x2
 
-Prediction game. Manifold Markets. The chosen questions. All very nice.
+* Prediction game. Manifold Markets. The chosen questions. All very nice.
 
-Well organized.
+* Well organized.
 
-Interesting experience. I will come back. I was irritated by the music (coming
-in through the windows from the street). The UI from Manifold Markets is
-confusing and I won't be using it. 2 hours was too short for the event.
+* Interesting experience. I will come back. I was irritated by the music
+  [coming in through the windows from the street]. The UI from Manifold Markets
+  is confusing and I won't be using it. 2 hours was too short for the event.
 
-I was missing a little more "instrumental rationality" e.g. TAPs
+* I was missing a little more "instrumental rationality" e.g. TAPs.
 
-Giving a short summary of every text is a good custom that we should keep up
-(we did not do it this time) for people who have not read the texts. One person
-is responsible.
+* Giving a short summary of every text is a good custom that we should keep up
+  [we did not do it this time] for people who have not read the texts. One
+  person is responsible.
 
-The goal of the meetup was unclear beforehand. I was unaware it was so formal.
-It would have been better to arrive on time. If you host such a structured
-meetup it would be better to go all the way and make it even more formal.
-Having conversations about (ACX) posts would happen naturally during dinner
-anyway.
+* The goal of the meetup was unclear beforehand. I was unaware it was so
+  formal.  It would have been better to arrive on time. If you host such a
+  structured meetup it would be better to go all the way and make it even more
+  formal.  Having conversations about [ACX] posts would happen naturally during
+  dinner anyway.
 
-I really liked the meetup.
+* I really liked the meetup.
 
-The exercise was weird.
+* The exercise was weird.
 
-I really liked the summaries of the ACX posts.
+* I really liked the summaries of the ACX posts.
 
-Thank you for organizing this. I appreciate very much how serious you take
-feedback and how attentive you are as a organizer by adapting the meetup
-according to it. There is however a risk that catering too much to the
-participants could lead to stagnation of the group. Nevertheless, trying to
-keep things in flux (for better or worse) is a great quality for an organizer
-and is better than sticking only with one formula.
+* Thank you for organizing this. I appreciate very much how serious you take
+  feedback and how attentive you are as a organizer by adapting the meetup
+  according to it. There is however a risk that catering too much to the
+  participants could lead to stagnation of the group. Nevertheless, trying to
+  keep things in flux (for better or worse) is a great quality for an organizer
+  and is better than sticking only with one formula.
 
-It was my first time in the group. I think it is very unusual to find people
-who try to do such exercises to improve themselves. The exercise (falling
-drill) was not very effective because it was clear that it was only a
-simulation.
+* It was my first time in the group. I think it is very unusual to find people
+  who try to do such exercises to improve themselves. The exercise [falling
+  drill] was not very effective because it was clear that it was only a
+  simulation.
 
-During the exercise (falling drill) I was in fact wrong about something where
-in fact I thought I would be right. That was unexpected, but it was very easy
-for me to admit this and that is unusual. Usually it's hard for me to admit a
-mistake, but I felt comfortable doing it in this group.
+* During the exercise [falling drill] I was in fact wrong about something where
+  in fact I thought I would be right. That was unexpected, but it was very easy
+  for me to admit this and that is unusual. Usually it's hard for me to admit a
+  mistake, but I felt comfortable doing it in this group.
 
-During the first part of the meetup it would have been better to go deeper into
-one or two ACX posts instead of briefly presenting one per person.
+* During the first part of the meetup it would have been better to go deeper
+  into one or two ACX posts instead of briefly presenting one per person.
 
-I will return!
+* I will return!
 
-It was my first time and the first round (discussing ACX posts) was great! It
-gave me new things to consider that I had never thought about. Concerning the
-game (falling drill) I already train being able to be wrong a lot so I probably
-fail more often in the opposite direction (being too unsure), so it wasn't very
-effective for me.
+* It was my first time and the first round [discussing ACX posts] was great! It
+  gave me new things to consider that I had never thought about. Concerning the
+  game [falling drill] I already train being able to be wrong a lot so I
+  probably fail more often in the opposite direction [being too unsure], so it
+  wasn't very effective for me.
 
-The setting was too artificial for the game (falling drill).
+* The setting was too artificial for the game [falling drill].
 
-I really appreciate your (organizer's) work. We should have spent more time on
-the first round (discussing ACX posts). It was too short.
+* I really appreciate your [organizer's] work. We should have spent more time
+  on the first round [discussing ACX posts]. It was too short.
 
-Forming two groups of 5-6 people was great! The perfect size. In bigger groups
-people get lost.
+* Forming two groups of 5-6 people was great! The perfect size. In bigger
+  groups people get lost.
 
-It was a very nice way of spending the evening.
+* It was a very nice way of spending the evening.
 
-I am blown away by the effort you invested in preparing this.
+* I am blown away by the effort you invested in preparing this.
 
-The accoustics of the room were annoying.
+* The accoustics of the room were annoying.
 
-The group size was ideal.
+* The group size was ideal.
 
-The exercise (falling drill) would work better if you had to give confidence
-intervals and could be criticized for choosing those badly.
+* The exercise [falling drill] would work better if you had to give confidence
+  intervals and could be criticized for choosing those badly.
 
-Best: Hike on the next day
+* Best: Hike on the next day.
 
-Best: Getting to know new people and discussing our favourite posts from the
-ACX/SSC blogs.
+* Best: Getting to know new people and discussing our favourite posts from the
+  ACX/SSC blogs.
 
-Best: Discussing our favourite articles by Scott , and also the hike on the day
-after.
+* Best: Discussing our favourite articles by Scott, and also the hike on the
+  day after.
 
-Best: The sheer number of new, astonishing insights
+* Best: The sheer number of new, astonishing insights.
 
-Best: Level of conversation was high.
+* Best: Level of conversation was high.
 
-Best: Improving my ability to say out loud when I'm wrong, without feeling bad
-about it.
+* Best: Improving my ability to say out loud when I'm wrong, without feeling
+  bad about it.
 
-Worst: The room
+* Worst: The room.
 
-Worst: Felt a tiny(!) bit cultish
+* Worst: Felt a tiny(!) bit cultish.
 
-Worst: Disturbing political opinions
+* Worst: Disturbing political opinions.
 
-Worst: The location was uninspiring.
+* Worst: The location was uninspiring.
 
-Worst: The room had bad accoustics
+* Worst: The room had bad accoustics.
 
-I don’t like going to restaurants that much, it’s much more expensive than what
-I usually spend on food
+* I don’t like going to restaurants that much, it’s much more expensive than
+  what I usually spend on food.
 
-Less structured meetings or a way to branch ideas into spin-off collaborations
-in a structured context might make me more excited to come.
+* Less structured meetings or a way to branch ideas into spin-off
+  collaborations in a structured context might make me more excited to come.
 
-Omar is cool. He’s a little obsessed with perfection. He needs to loosen up a
-bit. These things take time to grow.
+* Omar is cool. He’s a little obsessed with perfection. He needs to loosen up a
+  bit. These things take time to grow.
 
-Interesting concepts shared. Rationality is certainly a toolkit that can be
-applied in everything and can benefit many people and a lot of lives. But it’s
-not universally seen as a good because it’s a competitor to many classic
-frameworks like organized religion. So developing a model that competes on the
-same playing field is tough.
+* Interesting concepts shared. Rationality is certainly a toolkit that can be
+  applied in everything and can benefit many people and a lot of lives. But
+  it’s not universally seen as a good because it’s a competitor to many classic
+  frameworks like organized religion. So developing a model that competes on
+  the same playing field is tough.
 
-The exercise (Hamming circle) was probably helpful for an issue I have been
-thinking about for several years
+* The exercise [Hamming circle] was probably helpful for an issue I have been
+  thinking about for several years.
 
-I was not so happy that only four people came
+* I was not so happy that only four people came.
 
-What you [the organizer] are doing here is really valuable
+* What you [the organizer] are doing here is really valuable.
 
-I enjoyed the exercise [Hamming circle]. It made me make up my mind.
+* I enjoyed the exercise [Hamming circle]. It made me make up my mind.
 
-We should keep the exercise part of the meetup.
+* We should keep the exercise part of the meetup.
 
-I really enjoyed it.
+* I really enjoyed it.
 
-I liked the Hamming circle very much. Especially having to turn around while
-the advisors were discussing, something which I had anticipated I wouldn't
-like.
+* I liked the Hamming circle very much. Especially having to turn around while
+  the advisors were discussing, something which I had anticipated I wouldn't
+  like.
 
-The discussion round about "Trusting experts" didn't get to the core of the
-issue. It would have required drawing on the whiteboard and a couple of hours
-of time.
+* The discussion round about "Trusting experts" didn't get to the core of the
+  issue. It would have required drawing on the whiteboard and a couple of hours
+  of time.
 
-Acoustics of the room were great.
+* Acoustics of the room were great.
 
-TAPs was interesting.
+* TAPs was interesting.
 
-Getting to know cool people.
+* Getting to know cool people.
 
-I didn't get Occam's razor.
+* I didn't get Occam's razor.
 
-Lack of structure and bad time allocation.
+* Lack of structure and bad time allocation.
 
-Valuable meeting.
+* Valuable meeting.
 
-I liked the mix of discussions and practical things.
+* I liked the mix of discussions and practical things.
 
-I liked both parts.
+* I liked both parts.
 
-Very nice joint event [with EA Freiburg].
+* Very nice joint event [with EA Freiburg].
 
-I learnt something (x2)
+* I learnt something. x2
 
-Nice mix of input and exercises.
+* Nice mix of input and exercises.
 
-I am glad it was so interactive.
+* I am glad it was so interactive.
 
-Interesting. It took longer than expected to get into the subject (long
-introduction). I liked it.
+* Interesting. It took longer than expected to get into the subject [long
+  introduction]. I liked it.
 
-I liked the refreshed (on probability theory). Took too long to get started. It
-would have been better to define some terms and present a clear agenda for the
-evening upfront.
+* I liked the refreshed [on probability theory]. Took too long to get started.
+  It would have been better to define some terms and present a clear agenda for
+  the evening upfront.
 
-I liked it. It was a good refresher. I was missing a little the "how to apply
-it" part.
+* I liked it. It was a good refresher. I was missing a little the "how to apply
+  it" part.
 
-Good mix of presentation and exercises. Good refresher.
+* Good mix of presentation and exercises. Good refresher.
 
-Fun and interesting.
+* Fun and interesting.
 
-The content of the talk has good applicability to life.
+* The content of the talk has good applicability to life.
 
-Considering the prior probability of events before evaluating the evidence was
-something I had not thought about before.
+* Considering the prior probability of events before evaluating the evidence
+  was something I had not thought about before.
 
-I have a better understanding of Bayes' theorem now.
+* I have a better understanding of Bayes' theorem now.
 
-Timing was not optimal. It would have been better to have more time to think
-about a strategy for the Poker game.
+* Timing was not optimal. It would have been better to have more time to think
+  about a strategy for the Poker game.
 
-I realized that I do not think enough about priors.
+* I realized that I do not think enough about priors.
 
-You should have focused a little bit more about why our intuition fails us and
-how to come to a better intuitive grasp of these concepts.
+* You should have focused a little bit more about why our intuition fails us
+  and how to come to a better intuitive grasp of these concepts.
 
-It opened new perspectives.
+* It opened new perspectives.
 
-The talk was well prepared.
+* The talk was well prepared.
