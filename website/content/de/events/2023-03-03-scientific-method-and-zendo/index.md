@@ -1,5 +1,5 @@
 ---
-title: "Meetup"
+title: "Die wissenschaftliche Methode & Zendo"
 date: 2023-01-15T21:10:15+01:00
 draft: false
 eventStart: 2023-03-03T18:00:00+01:00
@@ -9,12 +9,15 @@ eventGeoLat: 47.98934
 eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Meetup. Wo: Haus des Engagements, Rehlingstraße 9, 79100
-    Freiburg. Wann: Freitag, 3. März 2023 um 18:00 Uhr MEZ."
+description: "Wissenschaftliche Methode & Zendo. Wo: Haus des Engagements,
+    Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 3. März 2023 um 18:00 Uhr
+    MEZ."
 outputs:
   - HTML
   - Calendar
-slug: 2023-03-03-meetup
+slug: 2023-03-03-wissenschaftliche-methode-und-zendo
+aliases:
+  - /de/termine/2023-03-03-meetup/
 ---
 
 ## Vorbereitung
