@@ -22,14 +22,33 @@ aliases:
 
 ## Vorbereitung
 
-Noch nicht beschlossen.
+Schau dir folgende Videos an und notiere deine Fragen und Gedanken:
+
+* [https://www.youtube.com/watch?v=OL6-x0modwY](The Scientific Method - Richard
+  Feynman (1 min))
+* [https://www.youtube.com/watch?v=j12BBcKSgEQ](The scientific method is crap:
+  Teman Cooke at TEDxLancaster (14 min))
+* [https://www.youtube.com/watch?v=JnTA-VVLxkI](Zendo Sample Game (18 min))
+
+Optional:
+
+* [https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/](SSC
+  - The Control Group Is Out Of Control)
+* [https://www.lesswrong.com/s/pwK9RsvCdpPgKmrf6/p/wustx45CPL5rZenuo](The
+  Sequences - No Safe Defense, Not Even Science)
+* [https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%201.pdf](Getting
+  Started: Zendo Rules Book 1.pdf)
+* [https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%202.pdf](Going
+  Deeper: Zendo Rules Book 2.pdf)
 
 
 ## Was werden wir tun?
 
-Noch nicht beschlossen.
+Wir werden die wisschenschaftliche Methode sowie Wissenschaft erklären und
+debatieren.
 
-Es wird Snacks und Getränke geben.
+Dann werden wir erläutern wir die wissenschaftliche Methode und das Spiel Zendo
+zusammenhängen und mehrere Runden des Spiels spielen.
 
 
 ## Organisatorisches
@@ -38,6 +57,11 @@ Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
+
+Es wird Snacks und Getränke geben.
+
+Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich
+eingeladen mitzukommen.
 
 
 ## Sonstiges

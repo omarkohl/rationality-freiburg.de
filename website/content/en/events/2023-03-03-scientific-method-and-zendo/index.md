@@ -21,14 +21,32 @@ aliases:
 
 ## Preparation
 
-To be defined.
+Watch the following videos and write down your questions and thoughts:
+
+* [https://www.youtube.com/watch?v=OL6-x0modwY](The Scientific Method - Richard
+  Feynman (1 min))
+* [https://www.youtube.com/watch?v=j12BBcKSgEQ](The scientific method is crap:
+  Teman Cooke at TEDxLancaster (14 min))
+* [https://www.youtube.com/watch?v=JnTA-VVLxkI](Zendo Sample Game (18 min))
+
+Optional:
+
+* [https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/](SSC
+  - The Control Group Is Out Of Control)
+* [https://www.lesswrong.com/s/pwK9RsvCdpPgKmrf6/p/wustx45CPL5rZenuo](The
+  Sequences - No Safe Defense, Not Even Science)
+* [https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%201.pdf](Getting
+  Started: Zendo Rules Book 1.pdf)
+* [https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%202.pdf](Going
+  Deeper: Zendo Rules Book 2.pdf)
 
 
 ## What will we do?
 
-To be defined.
+We will explain and debate the scientific method and science.
 
-There will be snacks and drinks.
+Then we will explain how the scientific method relates to the game Zendo and
+play several rounds of that game.
 
 
 ## Organization
@@ -38,6 +56,11 @@ welcome!
 
 We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
+
+There will be snacks and drinks.
+
+We will go and get dinner after the meetup. Anyone who has time is welcome to
+join.
 
 
 ## Other
