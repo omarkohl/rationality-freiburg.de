@@ -21,13 +21,12 @@ outputs:
 
 ## Preparation
 
+To be defined.
 
 
 ## What will we do?
 
 To be defined.
-
-There will be snacks and drinks.
 
 
 ## Organization
@@ -38,6 +37,13 @@ welcome!
 We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
 
+This meetup will be hosted by X.
+
+There will be snacks and drinks.
+
+We will go and get dinner after the meetup. Anyone who has time is welcome to
+join.
+
 
 ## Other
 
@@ -46,13 +52,12 @@ people who turn up. Just come, we will figure it out!
 
 ## Vorbereitung
 
+Noch nicht beschlossen.
 
 
 ## Was werden wir tun?
 
 Noch nicht beschlossen.
-
-Es wird Snacks und Getränke geben.
 
 
 ## Organisatorisches
@@ -61,6 +66,13 @@ Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
+
+Der heutige Gastgeber ist X.
+
+Es wird Snacks und Getränke geben.
+
+Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich
+eingeladen mitzukommen.
 
 
 ## Sonstiges
