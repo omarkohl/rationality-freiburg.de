@@ -23,22 +23,22 @@ aliases:
 
 Watch the following videos and write down your questions and thoughts:
 
-* [https://www.youtube.com/watch?v=OL6-x0modwY](The Scientific Method - Richard
-  Feynman (1 min))
-* [https://www.youtube.com/watch?v=j12BBcKSgEQ](The scientific method is crap:
-  Teman Cooke at TEDxLancaster (14 min))
-* [https://www.youtube.com/watch?v=JnTA-VVLxkI](Zendo Sample Game (18 min))
+* [The Scientific Method - Richard Feynman (1
+  min)](https://www.youtube.com/watch?v=OL6-x0modwY)
+* [The scientific method is crap: Teman Cooke at TEDxLancaster (14
+  min)](https://www.youtube.com/watch?v=j12BBcKSgEQ)
+* [Zendo Sample Game (18 min)](https://www.youtube.com/watch?v=JnTA-VVLxkI)
 
 Optional:
 
-* [https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/](SSC
-  - The Control Group Is Out Of Control)
-* [https://www.lesswrong.com/s/pwK9RsvCdpPgKmrf6/p/wustx45CPL5rZenuo](The
-  Sequences - No Safe Defense, Not Even Science)
-* [https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%201.pdf](Getting
-  Started: Zendo Rules Book 1.pdf)
-* [https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%202.pdf](Going
-  Deeper: Zendo Rules Book 2.pdf)
+* [SSC - The Control Group Is Out Of
+  Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
+* [The Sequences - No Safe Defense, Not Even
+  Science](https://www.lesswrong.com/s/pwK9RsvCdpPgKmrf6/p/wustx45CPL5rZenuo)
+* [Getting Started: Zendo Rules Book
+  1.pdf](https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%201.pdf)
+* [Going Deeper: Zendo Rules Book
+  2.pdf](https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%202.pdf)
 
 
 ## What will we do?
