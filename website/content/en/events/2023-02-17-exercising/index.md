@@ -43,8 +43,6 @@ the next week and for the next month to the other person. Some form of
 communication will be established and each person can then report to their
 partner whether they were successful or not after the week/month has passed.
 
-There will be snacks and drinks.
-
 
 ## Organization
 
@@ -53,6 +51,11 @@ people who turn up. Just come, we will figure it out! The slides themselves
 will be in German, though.
 
 The meetup will be hosted by Matthias.
+
+There will be snacks and drinks.
+
+We will go and get dinner after the meetup. Anyone who has time is welcome to
+join.
 
 
 ## Other

@@ -43,8 +43,6 @@ eingehen und diese dem Partner mitteilen. Nach Austausch irgendeines
 Kommunikationsmediums bleiben die Partner in Kontakt wenn der Zeitraum
 abgelaufen ist und bestätigen ob sie ihr jeweiliges Ziel erreicht haben.
 
-Es wird Snacks und Getränke geben.
-
 
 ## Organisatorisches
 
@@ -55,6 +53,11 @@ nachdem, welche Leute kommen. Kommt einfach, das klappt! Die Folien werden auf
 Deutsch sein.
 
 Der heutige Gastgeber ist Matthias.
+
+Es wird Snacks und Getränke geben.
+
+Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich
+eingeladen mitzukommen.
 
 
 ## Sonstiges

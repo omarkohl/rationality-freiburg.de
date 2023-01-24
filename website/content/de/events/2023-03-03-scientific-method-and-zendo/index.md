@@ -58,6 +58,8 @@ Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
 
+Der heutige Gastgeber ist Omar.
+
 Es wird Snacks und Getränke geben.
 
 Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich

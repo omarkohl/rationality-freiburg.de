@@ -42,8 +42,6 @@ very intuitive and simple.
 Following the discussion about cognitive biases, we will play some games about
 the related topics with the educational purpose of conveying information.
 
-There will be snacks and drinks!!!
-
 
 ## Organization
 
@@ -52,6 +50,13 @@ welcome!
 
 We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
+
+This meetup will be hosted by Bibhu.
+
+There will be snacks and drinks!!!
+
+We will go and get dinner after the meetup. Anyone who has time is welcome to
+join.
 
 
 ## Other

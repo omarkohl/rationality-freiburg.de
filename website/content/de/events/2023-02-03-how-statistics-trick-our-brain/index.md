@@ -44,8 +44,6 @@ Thema sehr intuitiv und einfach zu machen.
 Nach der Diskussion über kognitive Verzerrungen werden wir einige Spiele zu
 den damit verbundenen Themen spielen, um dabei auch etwas zu lernen.
 
-Es wird Snacks und Getränke geben!!!
-
 
 ## Organisatorisches
 
@@ -53,6 +51,13 @@ Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
 
 Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
 nachdem, welche Leute kommen. Kommt einfach, das klappt!
+
+Der heutige Gastgeber ist Bibhu.
+
+Es wird Snacks und Getränke geben!!!
+
+Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich
+eingeladen mitzukommen.
 
 
 ## Sonstiges

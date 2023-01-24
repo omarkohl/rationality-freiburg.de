@@ -57,6 +57,8 @@ welcome!
 We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
 
+This meetup will be hosted by Omar.
+
 There will be snacks and drinks.
 
 We will go and get dinner after the meetup. Anyone who has time is welcome to
