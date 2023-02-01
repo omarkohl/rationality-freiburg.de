@@ -10,6 +10,8 @@ German.
 For participants who prefer not filling it out on their phone or PC we also
 provide printed copies that are attached as PDFs below.
 
+<!--more-->
+
 The forms and PDF files below are published under the license CC BY-SA 4.0 .
 
 Please do not fill out our form unless you participated in an event.
