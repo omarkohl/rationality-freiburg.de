@@ -624,11 +624,12 @@ will be in German, though.&lt;/p>
 join.&lt;/p>
 &lt;h2 id="other">Other&lt;/h2>
 &lt;p>&lt;a href="https://www.rationality-freiburg.de/about/">Learn more about us&lt;/a>.&lt;/p></description></item><item><title>A Human-Friendly Introduction to AI Safety</title><link>https://www.rationality-freiburg.de/events/2023-03-17-introduction-ai-safety/</link><pubDate>Sun, 15 Jan 2023 21:10:15 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-03-17-introduction-ai-safety/</guid><description>&lt;h2 id="preparation">Preparation&lt;/h2>
-&lt;p>To be defined.&lt;/p>
+&lt;p>No preparation required - the talk assumes no familiarity wit the field. If you want to, you could watch / listen to the &lt;a href="https://80000hours.org/podcast/episodes/max-tegmark-ai-and-algorithmic-news-selection/">80000 hours episode with Max Tegmark&lt;/a>, in which he discusses his own motivations for engaging in the field and gives some striking examples of why safety should be seriously considered when developing AI systems.&lt;/p>
 &lt;h2 id="what-will-we-do">What will we do?&lt;/h2>
 &lt;p>We will hear a beginner-friendly talk on AI (Artificial Intelligence) safety by
 robotics researcher &lt;a href="https://benjaminalt.github.io/">Benjamin Alt&lt;/a>.&lt;/p>
-&lt;p>Further details to be defined.&lt;/p>
+&lt;p>The aim of the talk is to give complete beginners in the field of AI solid intuitions and heuristics for thinking about AI systems from a safety perspective. The talk will provide a brief motivation why AI safety is an important concern, even from a short-term perspective. It will give a brief overview of why AI safety is hard, and what aspects of modern AI systems cause safety issues in the first place. It then covers the fundamentals of the assurance, robustness and alignment aspects of AI safety: How can we make sure that we understand what AI systems do? How can we make sure that they reliably do what we think they do? How can we make sure that the AI system&amp;rsquo;s behavior is compatible with our values and preferences?&lt;/p>
+&lt;p>There will be interactive parts of this meetup. In the beginning we will brainstorm questions and concerns together. After the talk, there will be a discussion round (or multiple smaller group discussions, depending on the number of people), in which we will try to make sense of what role AI safety may play in our common future.&lt;/p>
 &lt;h2 id="organization">Organization&lt;/h2>
 &lt;p>You are worried you have nothing to contribute? No worries! Everyone is
 welcome!&lt;/p>
