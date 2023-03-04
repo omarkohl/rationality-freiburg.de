@@ -27,11 +27,12 @@ Noch nicht beschlossen.
 ## Was werden wir tun?
 
 [Benjamin Alt](https://benjaminalt.github.io/), ein Robotik-Forscher, wird
-einen anfängerfreundlichen Vortrag über KI (Künstliche Intelligenz) Sicherheit
+einen anfängerfreundlichen Vortrag über KI (Künstliche Intelligenz)-Sicherheit
 halten.
 
-Weitere Details sind noch nicht beschlossen.
+Ziel des Vortrags ist es, kompletten Neulingen eine robuste Intuition und Heuristiken zu geben, um KI-Systeme aus der Sicherheitsperspektive zu betrachten. Der Vortrag wird kurz motivieren, warum KI-Sicherheit selbst kurzfristig ein wichtiges Thema ist. Es wird eingeführt, warum KI-Sicherheit schwer umzusetzen ist, und welche Aspekte moderner KI-Systeme überhaupt Sicherheitsprobleme verursachen. Zum Schluss werden die Grundlagen des Monitorings, der Robustheit und des "Alignments" von KI-Systemen vorgestellt: Wie können wir sicherstellen, dass wir verstehen, was KI-Systeme eigentlich tun? Wie können wir sicherstellen, dass sie nachweisbar das tun, was sie tun sollen? Und wie können wir sicherstellen, dass das Verhalten von KI-Systemen mit den Werten und Bedürfnissen von Menschen im Einklang steht?
 
+Das Meetup wird interaktive Teile haben: Vor dem Vortrag werden wir gemeinsam Brainstormen, was wir mit KI und dessen Verhalten eigentlich assoziieren, und was für Ansprüche wir (intuitiv) an KI haben. Nach dem Vortrag werden wir gemeinsam diskutieren (im Plenum oder in Kleingruppen), welche Rolle KI-Sicherheit in der kurz-, mittel- und langfristigen Zukunft spielen könnte.
 
 ## Organisatorisches
 
