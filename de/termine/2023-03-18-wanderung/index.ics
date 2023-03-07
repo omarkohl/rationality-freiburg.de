@@ -21,13 +21,13 @@ BEGIN:VEVENT
 DTSTAMP:20230225T205841
 ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
 STATUS:CONFIRMED
-UID:20230318T100000@rationality-freiburg.de
-DTSTART;TZID=Europe/Berlin:20230318T100000
+UID:20230318T103000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20230318T103000
 DTEND;TZID=Europe/Berlin:20230318T160000
 SUMMARY:Wanderung
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-03-18-hike/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-03-18-wanderung/\n
-LOCATION:Freiburg
-
+LOCATION:Holbeinstr, Freiburg
+GEO:47.97988;7.84779
 URL:https://www.rationality-freiburg.de/de/termine/2023-03-18-wanderung/
 END:VEVENT
 END:VCALENDAR
