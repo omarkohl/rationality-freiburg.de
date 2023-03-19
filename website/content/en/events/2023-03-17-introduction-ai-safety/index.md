@@ -18,6 +18,10 @@ aliases:
   - /events/2023-03-17-meetup/
 ---
 
+## Update 2023-03-19
+
+The slides: [human_friendly_introduction_to_ai_safety.pptx](https://docs.google.com/presentation/d/15voBU5dL-pkBRGNz2pzYfzUdsXq8XO1C/edit?usp=sharing&ouid=109600275236352418103&rtpof=true&sd=true) .
+
 ## Preparation
 
 No preparation required - the talk assumes no familiarity wit the field. If you want to, you could watch / listen to the [80000 hours episode with Max Tegmark](https://80000hours.org/podcast/episodes/max-tegmark-ai-and-algorithmic-news-selection/), in which he discusses his own motivations for engaging in the field and gives some striking examples of why safety should be seriously considered when developing AI systems. 
