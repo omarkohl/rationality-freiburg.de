@@ -19,10 +19,9 @@ aliases:
   - /de/termine/2023-03-17-meetup/
 ---
 
-## Vorbereitung
+## Update 2023-03-19
 
-Noch nicht beschlossen.
-
+Die Folien (auf Englisch): [human_friendly_introduction_to_ai_safety.pptx](https://docs.google.com/presentation/d/15voBU5dL-pkBRGNz2pzYfzUdsXq8XO1C/edit?usp=sharing&ouid=109600275236352418103&rtpof=true&sd=true) .
 
 ## Was werden wir tun?
 
