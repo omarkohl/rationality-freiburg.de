@@ -65,3 +65,7 @@ eingeladen mitzukommen.
 ## Sonstiges
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
+
+![Freiheit](cover.png "Freiheit")
+
+<small>Image generated with the _Dreams AI_ on Manifold Markets.</small>

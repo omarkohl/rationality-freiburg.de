@@ -67,3 +67,7 @@ join.
 ## Other
 
 [Learn more about us]({{< ref "about" >}}).
+
+![Freedom](cover.png "Freedom")
+
+<small>Image generated with the _Dreams AI_ on Manifold Markets.</small>
