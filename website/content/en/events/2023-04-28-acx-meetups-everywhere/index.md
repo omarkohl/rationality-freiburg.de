@@ -27,8 +27,36 @@ posts](https://slatestarcodex.com/top-posts/).
 
 ## What will we do?
 
-This will be mostly a social event. We will discuss a few of the posts in small
-groups and enjoy the company.
+We will discuss a few of the posts in small groups.
+
+Then we will do a "Small Identity" exercise.
+
+Our identity is a very interesting phenomenon. We seem to carry an idea in our
+head about who we are, what kind of person we are and what that means about us.
+Identity is both valuable and dangerous at various times. Identity comes from
+our history and our experiences. It is both our scars and the ideas we would
+die on a hill for.
+
+In some senses the identity of being "righteous person" might net you all kinds
+of rewards and guidance in situations where you have to decide to "do the right
+thing"...  BUUT it might also lead you to kill people in the name of your
+religion.
+
+Paul Graham says, ["keep your identity
+small"](http://paulgraham.com/identity.html). The book "Transform yourself"
+includes some guidance to change your identity or your beliefs about yourself.
+The main exercise is from Psychiatrist Irvin Yalom but is a mix of those
+resources and a few more.
+
+This exercise is to help us to be comfortable shedding things that are part of
+our identity. If they are no longer useful.
+
+It is hard to think clearly about parts of your identity. To grow, you must
+change. Let things go when they don't work for you.
+
+The idea for the exercise and the above description are from
+[Eliot](https://www.lesswrong.com/users/elo), who organizes meetups and
+workshops in Sydney, Australia.
 
 
 ## Organization

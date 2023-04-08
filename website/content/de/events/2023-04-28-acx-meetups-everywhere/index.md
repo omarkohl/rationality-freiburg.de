@@ -29,8 +29,38 @@ Beiträge](https://slatestarcodex.com/top-posts/) an.
 
 ## Was werden wir tun?
 
-Es wird primär ein soziales Event sein. Wir werden einige der Posts besprechen
-und die Gesellschaft genießen.
+Wir werden einige der Posts in kleinen Gruppen besprechen.
+
+Dann werden wir eine "Small Identity" Übung machen.
+
+Unsere Identität ist ein sehr interessantes Phänomen. Wir scheinen eine
+Vorstellung in unserem Kopf zu haben, wer wir sind, was für ein Mensch wir sind
+und was das über uns aussagt. Diese Identität ist gleichzeitig sowohl wertvoll
+als auch gefährlich. Identität entsteht aus unserer Geschichte und unseren
+Erfahrungen. Sie ist sowohl unsere Narben als auch die Ideen, die wir ohne
+zu Zögern verteidigen würden.
+
+In gewissem Sinne kann die Identität "gerechter Mensch" dir alle möglichen
+Vorteile in Situation bringen in denen du entscheiden musst "das Richtige zu
+tun"...  ABER auch dazu führen, dass man Menschen im Namen der eigenen Religion
+tötet.
+
+Paul Graham sagt, ["keep your identity
+small"](http://paulgraham.com/identity.html). Das Buch "Transform yourself"
+enthält einige Anleitungen zur Veränderung deiner Identität oder deiner
+Überzeugungen über dich selbst. Die Hauptübung stammt von dem Psychiater Irvin
+Yalom, ist aber eine Mischung aus diesen Ressourcen und einigen weiteren.
+
+Diese Übung soll uns helfen, uns von Dingen zu trennen, die Teil unserer
+Identität sind. Wenn sie nicht mehr nützlich sind.
+
+Es ist schwer, klar über Teile der eigenen Identität nachzudenken. Um zu
+wachsen, muss man sich verändern. Lass Dinge los, wenn sie für dich nicht mehr
+funktionieren.
+
+Die Idee für diese Übung und die obige Beschreibung (ursprünglich auf Englisch)
+stammen von [Eliot](https://www.lesswrong.com/users/elo), der Treffen und
+Workshops in Sydney, Australien, organisiert.
 
 
 ## Organisatorisches
