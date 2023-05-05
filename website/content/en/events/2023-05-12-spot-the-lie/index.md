@@ -22,7 +22,7 @@ None.
 
 ## What will we do?
 
-Two people will give a short (20 minute) presentation on an interesting topic
+Three people will give a short (10 minute) presentation on an interesting topic
 of their choice. In the presentation they will hide 7 things that are false.
 The listeners take notes to try to detect these falsehoods.
 

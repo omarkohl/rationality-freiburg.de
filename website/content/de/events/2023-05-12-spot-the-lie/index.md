@@ -23,7 +23,7 @@ Keine.
 
 ## Was werden wir tun?
 
-Zwei Personen halten einen kurzen (20-minütigen) Vortrag über ein interessantes
+Drei Personen halten einen kurzen (10-minütigen) Vortrag über ein interessantes
 Thema ihrer Wahl. In der Präsentation werden sie 7 Dinge verstecken, die falsch
 sind. Die Zuhörer machen sich Notizen und versuchen, diese Unwahrheiten zu
 erkennen.
