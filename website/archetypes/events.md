@@ -11,12 +11,12 @@ eventGeoLat: 47.98934
 eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Meetup. Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, October 14th 2022 at 18:00 hours CEST."
-#description: "Meetup. Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, October 14th 2022 at 18:00 hours CEST."
+#description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
 outputs:
   - HTML
   - Calendar
-#slug: 2022-10-14-acx-astral-codex-ten-meetup
+#slug: 2022-10-14-deutscher-slug
 ---
 
 ## Preparation
@@ -49,6 +49,10 @@ join.
 
 [Learn more about us]({{< ref "about" >}}).
 
+![Description](cover.png "Description")
+
+<small>Image generated with the _Dreams AI_ on Manifold Markets.</small>
+
 
 ## Vorbereitung
 
@@ -78,3 +82,7 @@ eingeladen mitzukommen.
 ## Sonstiges
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
+
+![Beschreibung](cover.png "Beschreibung")
+
+<small>Bild mit der _Dreams AI_ von Manifold Markets generiert.</small>

@@ -48,9 +48,10 @@ cd website
 NAME=2023-01-06-cognitive-biases
 hugo new events/${NAME}/index.md
 vim content/en/events/${NAME}/index.md
+cp ~/Desktop/cover.png content/en/events/${NAME}/cover.png
 cp -r content/en/events/${NAME}/ content/de/events/
 vim content/{en,de}/events/${NAME}/index.md
-git add content/{en,de}/events/${NAME}/index.md
+git add content/{en,de}/events/${NAME}/
 git commit -m "Add event ${NAME}"
 ```
 
