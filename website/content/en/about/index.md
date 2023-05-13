@@ -49,6 +49,14 @@ seeing humans as they really are. Emotions and intuitions work very well in
 most situations, only in some cases they can mislead us. Recognizing those
 cases and then improving the result of your decisions is useful.
 
+### What do you do?
+
+We have [meetups]({{< ref "/events/" >}}) every two weeks where we discuss
+interesting topics and do exercises or play games that are fun and sometimes
+teach us useful skills to better reach our personal goals. We also have a [book
+club]({{< ref "/posts/book-club" >}}) and a [statistics study group]({{< ref
+"/posts/statistics-study-group" >}}).
+
 ### Is this group affiliated with a political party or entity?
 
 No.
