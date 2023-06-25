@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20230707T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20230707T180000
 DTEND;TZID=Europe/Berlin:20230707T203000
-SUMMARY:Meetup
-DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-07-07-meetup/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-07-07-meetup/\n
-LOCATION:Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg
+SUMMARY:Explore the Confluence of Ancient Wisdom and Modern Technology!
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2023-07-07-ancient-wisdom-modern-technology/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2023-07-07-alte-weisheit-moderne-technologie/\n
+LOCATION:Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg
 GEO:47.98934;7.83945
-URL:https://www.rationality-freiburg.de/de/termine/2023-07-07-meetup/
+URL:https://www.rationality-freiburg.de/events/2023-07-07-ancient-wisdom-modern-technology/
 END:VEVENT
 END:VCALENDAR
