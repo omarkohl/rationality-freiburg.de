@@ -36,7 +36,7 @@ not be kept up to date. It is only here to give you an idea of what to expect.
   done.
 * If you want to participate you are expected to come to 80% of meetings (per
   book) and have done your homework.
-* If you commited to attending a meeting, but then don't come for any reason,
+* If you committed to attending a meeting, but then don't come for any reason,
   you have to pay for everyone's drinks the next time.
 * [Chatham House
   Rule](https://www.chathamhouse.org/about-us/chatham-house-rule).
