@@ -46,6 +46,6 @@ eingeladen mitzukommen.
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Beschreibung](cover.png "Beschreibung")
+![Roulettetisch](cover.png "Roulettetisch")
 
 <small>Bild mit der _Dreams AI_ von Manifold Markets generiert.</small>

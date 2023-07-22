@@ -46,6 +46,6 @@ join.
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Description](cover.png "Description")
+![Roulette table](cover.png "Roulette table")
 
 <small>Image generated with the _Dreams AI_ on Manifold Markets.</small>
