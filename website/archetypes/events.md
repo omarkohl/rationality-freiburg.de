@@ -11,12 +11,12 @@ eventGeoLat: 47.98934
 eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, October 14th 2022 at 18:00 hours CEST."
-#description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 14. Oktober 2022 um 18:00 Uhr MESZ."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, October 14th 2023 at 18:00 hours CEST."
+#description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 14. Oktober 2023 um 18:00 Uhr MESZ."
 outputs:
   - HTML
   - Calendar
-#slug: 2022-10-14-deutscher-slug
+#slug: 2023-10-14-deutscher-slug
 ---
 
 ## Preparation
@@ -34,10 +34,11 @@ To be defined.
 You are worried you have nothing to contribute? No worries! Everyone is
 welcome!
 
-We will decide on using German or English as the main language depending on the
-people who turn up. Just come, we will figure it out!
+There always is a mix of German and English speakers and we configure the
+discussion rounds so that everyone feels comfortable participating. The primary
+language is English.
 
-This meetup will be hosted by X.
+This meetup will be hosted by TODO.
 
 There will be snacks and drinks.
 
@@ -49,9 +50,9 @@ join.
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Description](cover.png "Description")
+![TODO](cover.png "TODO")
 
-<small>Image generated with the _Dreams AI_ on Manifold Markets.</small>
+<small>Image generated with the _DALL·E_.</small>
 
 
 ## Vorbereitung
@@ -66,12 +67,13 @@ Noch nicht beschlossen.
 
 ## Organisatorisches
 
-Du hast Angst nichts beitragen zu können? Keine Sorge! Jeder ist willkommen!
+Du hast Angst nichts beitragen zu können? Keine Sorge! Jede/r ist willkommen!
 
-Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je
-nachdem, welche Leute kommen. Kommt einfach, das klappt!
+Es gibt immer eine Mischung aus deutsch- und englischsprachigen
+Teilnehmer:innen, und wir gestalten die Diskussionsrunden so, dass sich alle
+wohl fühlen und teilnehmen können. Die Hauptsprache ist Englisch.
 
-Der heutige Gastgeber ist X.
+Der heutige Gastgeber ist TODO.
 
 Es wird Snacks und Getränke geben.
 
@@ -83,6 +85,6 @@ eingeladen mitzukommen.
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Beschreibung](cover.png "Beschreibung")
+![TODO](cover.png "TODO")
 
-<small>Bild mit der _Dreams AI_ von Manifold Markets generiert.</small>
+<small>Bild mit der _DALL·E_ generiert.</small>
