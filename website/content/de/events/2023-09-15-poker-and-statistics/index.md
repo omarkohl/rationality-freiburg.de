@@ -23,9 +23,11 @@ Easy](https://www.youtube.com/watch?v=GAoR9ji8D6A) (6 Minuten).
 
 ## Was werden wir tun?
 
-Wir werden etwas über die Anwendung von Statistik (insbesondere Bayessche
-Statistik) auf Poker lernen. Dann werden wir spielen (ohne Geld).
-
+In diesem Meetup werden wir uns mit No Limit Texas Holdem Poker beschäftigen. 
+Nach einer kurzen Einleitung über das Spiel und die Regeln gehen wir auf die
+Herausforderung von Poker in Künstliche Intelligenz ein. Danach gibt es eine
+Einführung in grundlegende Poker Strategie mit Bezug zur Statistik. Abschließend
+werden wir gemeinsam Poker spielen (mit und ohne Geld, je nach Wunsch).
 
 ## Organisatorisches
 
