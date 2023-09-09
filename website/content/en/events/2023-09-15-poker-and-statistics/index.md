@@ -22,9 +22,11 @@ Easy](https://www.youtube.com/watch?v=GAoR9ji8D6A) (6 minutes).
 
 ## What will we do?
 
-We will learn about the application of statistics (Bayesian statistics in
-particular) to Poker. Then we will play Poker (without real money).
-
+In this meetup we will learn about various aspects of No Limit Texas Holdem Poker.
+After a brief introduction about the game and its rules, we will investigate 
+the challenges that Poker poses to AI. After that we have an introduction to
+fundamental Poker strategy with references to statistics. Finally, we will play
+a game of Poker (with or without money, depending on preference).
 
 ## Organization
 
