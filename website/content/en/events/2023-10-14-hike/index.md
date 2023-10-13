@@ -16,10 +16,16 @@ outputs:
 
 ## What will we do?
 
-We will hike somewhere around Freiburg. The details will be published here once
-the event is closer. The meeting place might also change so please check back
-here!
+Meeting place is at 10:00 a.m. on platform 7 (check whether there is a change
+for S1) at Freiburg main train station.  Please arrive earlier if you need a
+ticket and/or want to discuss buying a group ticket. We will take the S1 to
+Kirchzarten (leaves at 10:10 a.m.) and from there a bus to St. Märgen.
 
+The hike will start in St. Märgen shortly after 11 a.m. and we will walk to
+Zweribach-Wasserfälle and from there back to St. Märgen. It's a total of 14.3
+km with 530m of elevation change. According to Komoot the difficulty is
+"intermediate" and it should take around 4:45 hours. We will take breaks on the
+way.
 
 ## Other
 

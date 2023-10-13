@@ -17,9 +17,17 @@ slug: 2023-10-14-wanderung
 
 ## Was werden wir tun?
 
-Wir werden irgendwo um Freiburg herum wandern. Die Details werden hier
-veröffentlich sobald der Termin näher rückt. Auch der Treffpunkt kann sich noch
-ändern, also bitte hier vorher nachgucken!
+Der Treffpunkt ist um 10:00 Uhr auf Bahnsteig 7 (check, ob es eine Änderung für
+die S1 gibt) am Hauptbahnhof Freiburg. Bitte komm früher, wenn du eine
+Fahrkarte benötigst und/oder den Kauf einer Gruppenfahrkarte besprechen
+möchtest. Wir nehmen die S1 nach Kirchzarten (Abfahrt um 10:10 Uhr) und von
+dort einen Bus nach St. Märgen.
+
+Die Wanderung startet in St. Märgen kurz nach 11 Uhr, und wir wandern zu den
+Zweribach-Wasserfällen und von dort wieder zurück nach St. Märgen. Die
+Gesamtstrecke beträgt 14,3 km mit 530 m Höhenunterschied. Laut Komoot ist der
+Schwierigkeitsgrad "mittel", und es sollte etwa 4:45 Stunden dauern. Unterwegs
+machen wir Pausen.
 
 
 ## Sonstiges
