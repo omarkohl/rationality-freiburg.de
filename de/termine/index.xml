@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Termine auf Rationality Freiburg</title><link>https://www.rationality-freiburg.de/de/termine/</link><description>Aktuelle Inhalte in Termine auf Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><atom:link href="https://www.rationality-freiburg.de/de/termine/index.xml" rel="self" type="application/rss+xml"/><item><title>Der Wolf als heimisches Wildtier - Aktuelle Erkenntnisse und Herausforderungen</title><link>https://www.rationality-freiburg.de/de/termine/2023-11-10-der-wolf-als-heimisches-wildtier/</link><pubDate>Fri, 15 Sep 2023 08:20:26 +0200</pubDate><guid>https://www.rationality-freiburg.de/de/termine/2023-11-10-der-wolf-als-heimisches-wildtier/</guid><description>&lt;h2 id="vorbereitung">Vorbereitung&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Termine auf Rationality Freiburg</title><link>https://www.rationality-freiburg.de/de/termine/</link><description>Aktuelle Inhalte in Termine auf Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><atom:link href="https://www.rationality-freiburg.de/de/termine/index.xml" rel="self" type="application/rss+xml"/><item><title>Anki: Optimiere dein Lernen</title><link>https://www.rationality-freiburg.de/de/termine/2023-12-08-anki-spaced-repetition/</link><pubDate>Sun, 29 Oct 2023 08:12:47 +0100</pubDate><guid>https://www.rationality-freiburg.de/de/termine/2023-12-08-anki-spaced-repetition/</guid><description>&lt;h2 id="vorbereitung">Vorbereitung&lt;/h2>
+&lt;p>Ich &lt;strong>empfehle dringend&lt;/strong>, dass du die folgenden Dinge tust. Dennoch gehe ich
+davon aus, dass einige Leute sie vielleicht nicht erledigt haben, und ich werde
+Zeit und Anweisungen geben, um sie während des Treffens durchzuführen. Also,
+selbst wenn du keine Zeit zum Vorbereiten hast, komm trotzdem! Warum solltest
+du es vorher erledigen? Weil es einen Unterschied macht, ob 20% der Leute
+während der Live-Einrichtung Hilfe benötigen oder 100%.&lt;/p>
+&lt;ul>
+&lt;li>Bringe ein &lt;strong>elektronisches Gerät&lt;/strong> zur Veranstaltung mit, entweder ein
+Laptop, ein Android-Handy/-Tablet oder ein iPhone/iPad. Wenn du kein Gerät
+hast, kannst du anhand von Karteikarten teilnehmen, die ich bereitstellen
+werde, oder mit jemandem zusammenarbeiten, der ein elektronisches Gerät hat.&lt;/li>
+&lt;li>&lt;strong>Installiere Anki&lt;/strong> (Windows/Linux/macOS/Android/iOS) auf dem Gerät, das du
+mitbringst: &lt;a href="https://apps.ankiweb.net/#download">https://apps.ankiweb.net/#download&lt;/a> (Beachte, dass die iOS-App für
+iPhone/iPad $25 kostet - eine lohnenswerte Ausgabe, aber alles andere ist
+kostenlos).&lt;/li>
+&lt;li>&lt;strong>Registriere dich&lt;/strong> bei AnkiWeb (kostenlos):
+&lt;a href="https://ankiweb.net/account/signup">https://ankiweb.net/account/signup&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Optional&lt;/strong> zusätzliche Vorbereitung:&lt;/p>
+&lt;ul>
+&lt;li>Lies über einige Schlüsselkonzepte:
+&lt;a href="http://www.dennisproksch.de/anki#die-grundlagen">http://www.dennisproksch.de/anki#die-grundlagen&lt;/a>&lt;/li>
+&lt;li>Lies was Flo zu dem Thema geschrieben hat:
+&lt;a href="https://www.kreativrauschen.de/blog/2022/05/20/anki-spaced-repetition-gedaechtnis-wundermittel/">https://www.kreativrauschen.de/blog/2022/05/20/anki-spaced-repetition-gedaechtnis-wundermittel/&lt;/a>&lt;/li>
+&lt;li>[Englisch] Sehr gründlicher Artikel über &lt;em>spaced repetition&lt;/em>, einschließlich
+Daten und Forschung: &lt;a href="https://gwern.net/spaced-repetition">https://gwern.net/spaced-repetition&lt;/a>&lt;/li>
+&lt;li>[Englisch] Michael Nielsen (ein berühmter Quantenphysiker und Informatiker)
+erklärt, wie er Anki verwendet (zum Beispiel, um Forschungsarbeiten zu lesen)
+und gibt Hintergrundinformationen. Dieser Artikel hat mich wahrscheinlich vor
+einigen Jahren dazu motiviert, mit Anki zu beginnen.
+&lt;a href="https://augmentingcognition.com/ltm.html">https://augmentingcognition.com/ltm.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="was-werden-wir-tun">Was werden wir tun?&lt;/h2>
+&lt;p>Ich habe Anki seit 1279 Tagen täglich verwendet (ok, ich habe insgesamt etwa 10
+Tage verpasst). Das sind 3 Jahre und 6 Monate. Es war eine der bedeutendsten
+Verbesserungen in meinem Leben.&lt;/p>
+&lt;p>Ich werde erklären, was das Konzept der &lt;em>spaced repetition&lt;/em> ist, wie es
+funktioniert und wie du es nutzen kannst, um dich an alles zu erinnern, was du
+für so lange wie du möchtest merken möchtest. Das Auswendiglernen hat einen
+schlechten Ruf, aber tatsächlich nutzen all deine Gedanken und kreativen
+Einsichten Erinnerungen, die in deinem Gehirn gespeichert sind. Ein Buch zu
+lesen und sich Jahre später an die Kernideen erinnern zu können, ist wertvoll.
+Begriffe mit Namen verknüpfen ist wertvoll. Ich werde viele konkrete Beispiele
+dafür zeigen, wie und warum ich Anki verwende, auf welche Schwierigkeiten ich
+gestoßen bin und welche Lehren ich gezogen habe.&lt;/p>
+&lt;p>Zu guter Letzt werde ich euch bei der Verwendung von Anki während des Treffens
+anleiten. Ihr werdet es auf eurem Gerät installieren (wenn möglich, tut dies
+bitte vor dem Treffen, siehe den Abschnitt &amp;ldquo;Vorbereitung&amp;rdquo; oben). Dann werdet
+ihr einen Text nehmen und ihn in gute Anki-Karten umwandeln. Anki-Karten zu
+erstellen ist einfach. Gute Karten zu erstellen, ist schwer. Euer Erfolg wird
+davon abhängen, Anki zur Gewohnheit zu machen und großartige Karten zu haben.&lt;/p>
+&lt;p>Wofür könnt ihr Anki verwenden? Zum Lernen jedes Fachs (Schule, Universität,
+privat). Zum Zusammenfassen von Büchern, Artikeln oder Forschungsarbeiten. Zum
+Testen kleiner Aufgaben. Hier sind einige Beispiele aus meiner Sammlung:&lt;/p>
+&lt;ul>
+&lt;li>Namen von Personen anhand ihrer Fotografien&lt;/li>
+&lt;li>Nahrungsmittelallergien, Namen der Kinder und Ehepartner von Freunden&lt;/li>
+&lt;li>Kleine mathematische Aufgaben (z.B. was ist die Ableitung von f(x) =
+(3-6x)^5? Es werden zwei Karten vom gut gemischten Deck gezogen. Was ist die
+Wahrscheinlichkeit, dass die erste Karte die Kreuzsieben und die zweite Karte
+die Herzdame ist?)&lt;/li>
+&lt;li>Wichtige Telefonnummern&lt;/li>
+&lt;li>Vokabeln und Ausdrücke in verschiedenen Sprachen&lt;/li>
+&lt;li>Grammatikregeln (z.B. zuende oder zu Ende?)&lt;/li>
+&lt;li>Richtiges Schreiben von Wörtern (z.B. warnehmen/wahrnehmen,
+misverständlich/missverständlich)&lt;/li>
+&lt;li>Bedeutung von Wörtern/Ausdrücken (z.B. Warten auf Godot, Klampfe)&lt;/li>
+&lt;li>Zutaten für Lieblingsrezepte&lt;/li>
+&lt;li>Tastenkürzel am Computer (z.B. wie man das ausgewählte, aber versteckte Objekt in Inkscape zieht)&lt;/li>
+&lt;li>Erkennen von Tonarten, Intervallen und Noten in Notenblättern&lt;/li>
+&lt;li>Grundideen aus Büchern (z.B. aus Dale Carnegies &amp;ldquo;Wie man Freunde gewinnt&amp;rdquo;:
+Achte darauf, die Namen der Leute [&amp;hellip;])&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;p>Du hast Angst nichts beitragen zu können? Keine Sorge! Jede/r ist willkommen!&lt;/p>
+&lt;p>Es gibt immer eine Mischung aus deutsch- und englischsprachigen
+Teilnehmer:innen, und wir gestalten die Diskussionsrunden so, dass sich alle
+wohl fühlen und teilnehmen können. Die Hauptsprache ist Englisch.&lt;/p>
+&lt;p>Der heutige Gastgeber ist Omar.&lt;/p>
+&lt;p>Es wird Snacks und Getränke geben.&lt;/p>
+&lt;p>Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich
+eingeladen mitzukommen.&lt;/p>
+&lt;h2 id="sonstiges">Sonstiges&lt;/h2>
+&lt;p>&lt;a href="https://www.rationality-freiburg.de/de/%C3%BCber-uns/">Erfahre mehr über uns&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="cover.png" alt="Lernen" title="Lernen">&lt;/p>
+&lt;p>&lt;small>Bild mit der &lt;em>DALL·E&lt;/em> generiert.&lt;/small>&lt;/p></description></item><item><title>Was ist Entropie?</title><link>https://www.rationality-freiburg.de/de/termine/2023-11-24-was-ist-entropie/</link><pubDate>Sat, 28 Oct 2023 17:44:28 +0200</pubDate><guid>https://www.rationality-freiburg.de/de/termine/2023-11-24-was-ist-entropie/</guid><description>&lt;h2 id="vorbereitung">Vorbereitung&lt;/h2>
+&lt;p>Keine.&lt;/p>
+&lt;h2 id="was-werden-wir-tun">Was werden wir tun?&lt;/h2>
+&lt;p>Entropie ist ein grundlegendes Konzept in der Physik, das weitreichende
+Anwendungen sowohl innerhalb als auch außerhalb der Physik hat.&lt;/p>
+&lt;p>In diesem Vortrag wird Nawid versuchen, dieses sehr schwer fassbare Konzept auf
+eine intuitive Weise zu beleuchten und zu erklären. Das Ziel dieses Vortrags
+ist, dass ihr ein besseres Verständnis für Ideen im Zusammenhang mit
+Informationstheorie, der Pfeil der Zeit oder dem Hitzetod des Universums
+mitnehmt.&lt;/p>
+&lt;p>Der Vortrag wird entweder interaktive Übungen beinhalten oder es wird im
+Anschluss eine Diskussionsrunde geben.&lt;/p>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;p>Du hast Angst nichts beitragen zu können? Keine Sorge! Jede/r ist willkommen!&lt;/p>
+&lt;p>Es gibt immer eine Mischung aus deutsch- und englischsprachigen
+Teilnehmer:innen, und wir gestalten die Diskussionsrunden so, dass sich alle
+wohl fühlen und teilnehmen können. Die Hauptsprache ist Englisch.&lt;/p>
+&lt;p>Der heutige Gastgeber ist Nawid.&lt;/p>
+&lt;p>Es wird Snacks und Getränke geben.&lt;/p>
+&lt;p>Nach dem Meetup gehen wir Essen. Jede/r der/die Zeit hat ist herzlich
+eingeladen mitzukommen.&lt;/p>
+&lt;h2 id="sonstiges">Sonstiges&lt;/h2>
+&lt;p>&lt;a href="https://www.rationality-freiburg.de/de/%C3%BCber-uns/">Erfahre mehr über uns&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="cover.png" alt="Entropie im Universum" title="Entropie im Universum">&lt;/p>
+&lt;p>&lt;small>Bild mit der &lt;em>DALL·E&lt;/em> generiert.&lt;/small>&lt;/p></description></item><item><title>Der Wolf als heimisches Wildtier - Aktuelle Erkenntnisse und Herausforderungen</title><link>https://www.rationality-freiburg.de/de/termine/2023-11-10-der-wolf-als-heimisches-wildtier/</link><pubDate>Fri, 15 Sep 2023 08:20:26 +0200</pubDate><guid>https://www.rationality-freiburg.de/de/termine/2023-11-10-der-wolf-als-heimisches-wildtier/</guid><description>&lt;h2 id="vorbereitung">Vorbereitung&lt;/h2>
 &lt;p>Optionale Vorbereitung:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://um.baden-wuerttemberg.de/de/umwelt-natur/naturschutz/biologische-vielfalt/artenschutz/wolf">Ministerium für Umwelt, Klima und Energiewirtschaft

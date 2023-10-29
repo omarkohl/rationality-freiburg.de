@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rationality Freiburg</title><link>https://www.rationality-freiburg.de/</link><description>Recent content on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/index.xml" rel="self" type="application/rss+xml"/><item><title>The Wolf as a Native Species - Current Findings and Challenges</title><link>https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/</link><pubDate>Fri, 15 Sep 2023 08:20:26 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/</guid><description>&lt;h2 id="preparation">Preparation&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rationality Freiburg</title><link>https://www.rationality-freiburg.de/</link><description>Recent content on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Anki: Optimize your Learning</title><link>https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/</link><pubDate>Sun, 29 Oct 2023 08:12:47 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/</guid><description>&lt;h2 id="preparation">Preparation&lt;/h2>
+&lt;p>I &lt;strong>strongly recommend&lt;/strong> you do the following things. Nevertheless, I will
+assume some people have not done them and give time and instructions to do it
+during the meetup. So even if you don&amp;rsquo;t have time to prepare, come anyway! Why
+should you do it before? Because it&amp;rsquo;s not the same having 20% of people needing
+assistance during the live setup than having 100%.&lt;/p>
+&lt;ul>
+&lt;li>Bring an &lt;strong>electronic device&lt;/strong> to the event, either a laptop, an Android
+phone/tablet or an iPhone/iPad. If you have no device you can participate by
+using paper flashcards that I&amp;rsquo;ll provide or collaborate with someone that has
+an electronic device.&lt;/li>
+&lt;li>&lt;strong>Install Anki&lt;/strong> (Windows/Linux/macOS/Android/iOS) on the device you are
+bringing: &lt;a href="https://apps.ankiweb.net/#download">https://apps.ankiweb.net/#download&lt;/a> (Note that the iOS app for
+iPhone/iPad costs $25 - money well spent so I encourage you to buy it - but
+everything else is free).&lt;/li>
+&lt;li>&lt;strong>Sign up&lt;/strong> for AnkiWeb (free): &lt;a href="https://ankiweb.net/account/signup">https://ankiweb.net/account/signup&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Optional&lt;/strong> additional preparation:&lt;/p>
+&lt;ul>
+&lt;li>Read about some key concepts:
+&lt;a href="https://docs.ankiweb.net/getting-started.html#key-concepts">https://docs.ankiweb.net/getting-started.html#key-concepts&lt;/a>&lt;/li>
+&lt;li>Very thorough article on spaced repetition including data and research:
+&lt;a href="https://gwern.net/spaced-repetition">https://gwern.net/spaced-repetition&lt;/a>&lt;/li>
+&lt;li>Michael Nielsen (a famous quantum physicist and computer scientist) explains
+how he uses Anki (e.g. to read research papers) and gives background
+information. This article probably motivated myself to get started with Anki
+a few years ago. &lt;a href="https://augmentingcognition.com/ltm.html">https://augmentingcognition.com/ltm.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-will-we-do">What will we do?&lt;/h2>
+&lt;p>I have been using Anki for 1279 days, every day (ok, I missed around 10 days
+total). That&amp;rsquo;s 3 and a half years. It has been one of the single most
+significant improvements in my life.&lt;/p>
+&lt;p>I will explain what spaced repetition is, how it works and how you can leverage
+it to remember anything you want to remember for as long as you want to.
+Memorization has a bad reputation but in fact every thought and creative
+insight you have, uses memories stored in your brain. Reading a book and being
+able to remember the core ideas years down the line is valuable. Attaching
+names to concepts is valuable. I will show many concrete examples of how and
+why I use Anki, pitfalls where I ran into difficulties and lessons I learnt.&lt;/p>
+&lt;p>Last but not least I will guide you in starting using Anki during the meetup.
+You will install it on your device (if at all possible, please do this before
+the meetup, see the &amp;ldquo;Preparation&amp;rdquo; section above). You will then take a piece of
+text and convert it into good Anki cards. Creating Anki cards is easy. Creating
+good cards is hard. Your success will hinge in making a habit out of using Anki
+and on having great cards.&lt;/p>
+&lt;p>What can you use Anki for? For studying any subject (school, university,
+privately). To summarize books, articles or research papers. To test yourself
+on small exercises. Some examples from my collection:&lt;/p>
+&lt;ul>
+&lt;li>Names of people, using their photographs&lt;/li>
+&lt;li>Food allergies, names of children and spouses of friends&lt;/li>
+&lt;li>Small mathematical exercises (e.g. what is the derivative of f(x) = (3-6x)^5?
+Two cards will be dealt off the top of a well-shuffled deck. What is the
+chance that the first card will be the seven of clubs and the second card
+will be the queen of hearts?)&lt;/li>
+&lt;li>Important phone numbers&lt;/li>
+&lt;li>Vocabulary and phrases in multiple languages&lt;/li>
+&lt;li>Grammatical rules&lt;/li>
+&lt;li>Correct spelling of words (e.g. desert/dessert, ocurred/occured/occurred)&lt;/li>
+&lt;li>Meaning of words/expressions (e.g. gregarious, dichotomy, fatuous, to suss
+something out)&lt;/li>
+&lt;li>Ingredients for favorite cooking recipes&lt;/li>
+&lt;li>Computer shortcuts (e.g. how to drag the selected but hidden object in
+Inkscape?)&lt;/li>
+&lt;li>Identifying keys, intervals and notes in sheet music&lt;/li>
+&lt;li>Core ideas from books (e.g. from Dale Carnegie&amp;rsquo;s &amp;ldquo;How to Win Friends &amp;amp; Influence
+People&amp;rdquo;: Take care to [&amp;hellip;] people’s names [&amp;hellip;])&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h2 id="organization">Organization&lt;/h2>
+&lt;p>You are worried you have nothing to contribute? No worries! Everyone is
+welcome!&lt;/p>
+&lt;p>There always is a mix of German and English speakers and we configure the
+discussion rounds so that everyone feels comfortable participating. The primary
+language is English.&lt;/p>
+&lt;p>This meetup will be hosted by Omar.&lt;/p>
+&lt;p>There will be snacks and drinks.&lt;/p>
+&lt;p>We will go and get dinner after the meetup. Anyone who has time is welcome to
+join.&lt;/p>
+&lt;h2 id="other">Other&lt;/h2>
+&lt;p>&lt;a href="https://www.rationality-freiburg.de/about/">Learn more about us&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="cover.png" alt="Learning" title="Learning">&lt;/p>
+&lt;p>&lt;small>Image generated with the &lt;em>DALL·E&lt;/em>.&lt;/small>&lt;/p></description></item><item><title>What is Entropy?</title><link>https://www.rationality-freiburg.de/events/2023-11-24-what-is-entropy/</link><pubDate>Sat, 28 Oct 2023 17:44:28 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-11-24-what-is-entropy/</guid><description>&lt;h2 id="preparation">Preparation&lt;/h2>
+&lt;p>None.&lt;/p>
+&lt;h2 id="what-will-we-do">What will we do?&lt;/h2>
+&lt;p>Entropy is a fundamental concept in physics that has wide ranging applications
+within as well as outside of physics.&lt;/p>
+&lt;p>In this talk Nawid is going to shine a light on this very elusive concept and
+(try to) explain it in an intuitive way. Goal of this talk is to leave with a
+better understanding of ideas related to information theory, the arrow of time
+or the heat death of the universe.&lt;/p>
+&lt;p>The talk will either include interactive exercises or there will be a
+discussion round afterwards.&lt;/p>
+&lt;h2 id="organization">Organization&lt;/h2>
+&lt;p>You are worried you have nothing to contribute? No worries! Everyone is
+welcome!&lt;/p>
+&lt;p>There always is a mix of German and English speakers and we configure the
+discussion rounds so that everyone feels comfortable participating. The primary
+language is English.&lt;/p>
+&lt;p>This meetup will be hosted by Nawid.&lt;/p>
+&lt;p>There will be snacks and drinks.&lt;/p>
+&lt;p>We will go and get dinner after the meetup. Anyone who has time is welcome to
+join.&lt;/p>
+&lt;h2 id="other">Other&lt;/h2>
+&lt;p>&lt;a href="https://www.rationality-freiburg.de/about/">Learn more about us&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="cover.png" alt="Entropy in the Universe" title="Entropy in the Universe">&lt;/p>
+&lt;p>&lt;small>Image generated with the &lt;em>DALL·E&lt;/em>.&lt;/small>&lt;/p></description></item><item><title>The Wolf as a Native Species - Current Findings and Challenges</title><link>https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/</link><pubDate>Fri, 15 Sep 2023 08:20:26 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/</guid><description>&lt;h2 id="preparation">Preparation&lt;/h2>
 &lt;p>Some resources you can read beforehand (all in German):&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://um.baden-wuerttemberg.de/de/umwelt-natur/naturschutz/biologische-vielfalt/artenschutz/wolf">Ministerium für Umwelt, Klima und Energiewirtschaft
