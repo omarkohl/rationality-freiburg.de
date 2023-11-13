@@ -14,6 +14,12 @@ outputs:
   - Calendar
 ---
 
+## Update 2023-11-13
+
+The slides (in German!):
+[2023-11-10-der-wolf-als-heimisches-wildtier.pdf](./2023-11-10-der-wolf-als-heimisches-wildtier.pdf)
+
+
 ## Preparation
 
 Some resources you can read beforehand (all in German):

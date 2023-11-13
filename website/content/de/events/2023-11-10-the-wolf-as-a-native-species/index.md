@@ -15,6 +15,12 @@ outputs:
 slug: 2023-11-10-der-wolf-als-heimisches-wildtier
 ---
 
+## Update 2023-11-13
+
+Die Folien:
+[2023-11-10-der-wolf-als-heimisches-wildtier.pdf](./2023-11-10-der-wolf-als-heimisches-wildtier.pdf)
+
+
 ## Vorbereitung
 
 Optionale Vorbereitung:
