@@ -14,6 +14,11 @@ outputs:
   - Calendar
 ---
 
+## Update 2023-12-05
+
+The [slides](https://docs.google.com/presentation/d/1xPzCcCEZeIwwxhStp5ifctFvSjwHaL4Sn2XPsQWwxbg/edit).
+
+
 ## Preparation
 
 None.

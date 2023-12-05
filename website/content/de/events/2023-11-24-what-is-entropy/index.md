@@ -15,6 +15,11 @@ outputs:
 slug: 2023-11-24-was-ist-entropie
 ---
 
+## Update 2023-12-05
+
+Die [Folien](https://docs.google.com/presentation/d/1xPzCcCEZeIwwxhStp5ifctFvSjwHaL4Sn2XPsQWwxbg/edit).
+
+
 ## Vorbereitung
 
 Keine.
