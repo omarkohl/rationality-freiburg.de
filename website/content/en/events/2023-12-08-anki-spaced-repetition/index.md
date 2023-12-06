@@ -30,6 +30,9 @@ assistance during the live setup than having 100%.
   bringing: https://apps.ankiweb.net/#download (Note that the iOS app for
   iPhone/iPad costs $25 - money well spent so I encourage you to buy it - but
   everything else is free).
+* If Anki is already installed please ensure you **update** to the latest
+  version (for PC 23.10.1, AnkiDroid for Android 2.16.5, AnkiMobile for iOS
+  23.10)
 * **Sign up** for AnkiWeb (free): https://ankiweb.net/account/signup
 
 **Optional** additional preparation:

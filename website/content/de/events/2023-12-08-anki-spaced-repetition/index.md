@@ -32,6 +32,9 @@ während der Live-Einrichtung Hilfe benötigen oder 100%.
   mitbringst: https://apps.ankiweb.net/#download (Beachte, dass die iOS-App für
   iPhone/iPad $25 kostet - eine lohnenswerte Ausgabe, aber alles andere ist
   kostenlos).
+* Falls du Anki schon installiert hast, **aktualisiere** bitte auf die neuste
+  Version (Für PC 23.10.1, AnkiDroid für Android 2.16.5, AnkiMobile für iOS
+  23.10)
 * **Registriere dich** bei AnkiWeb (kostenlos):
   https://ankiweb.net/account/signup
 
