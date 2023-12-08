@@ -14,6 +14,11 @@ outputs:
   - Calendar
 ---
 
+## Update 2023-12-08
+
+[RatFr Anki Basics](./RatFr Anki Basics.apkg)
+
+
 ## Preparation
 
 I **strongly recommend** you do the following things. Nevertheless, I will

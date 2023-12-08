@@ -15,6 +15,11 @@ outputs:
 slug: 2023-12-08-anki-spaced-repetition
 ---
 
+## Update 2023-12-08
+
+[RatFr Anki Basics](./RatFr Anki Basics.apkg)
+
+
 ## Vorbereitung
 
 Ich **empfehle dringend**, dass du die folgenden Dinge tust. Dennoch gehe ich
