@@ -16,7 +16,7 @@ outputs:
 
 ## Update 2023-12-08
 
-[RatFr Anki Basics](./RatFr Anki Basics.apkg)
+[RatFr Anki Basics](./RatFr_Anki_Basics.apkg)
 
 
 ## Preparation
