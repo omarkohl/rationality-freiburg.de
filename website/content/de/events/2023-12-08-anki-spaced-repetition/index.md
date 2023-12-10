@@ -15,9 +15,11 @@ outputs:
 slug: 2023-12-08-anki-spaced-repetition
 ---
 
-## Update 2023-12-08
+## Update 2023-12-10
 
-[RatFr Anki Basics](./RatFr_Anki_Basics.apkg)
+* Folien (Englisch): [2023-12-08 Anki Optimize Your Learning.pdf](<2023-12-08 Anki Optimize Your Learning.pdf>)
+* Anki deck for essential concepts (Englisch): [RatFr Anki Basics - v2.apkg](<RatFr Anki Basics - v2.apkg>)
+  * v2: Export in different format to make it compatible with older Anki versions
 
 
 ## Vorbereitung
