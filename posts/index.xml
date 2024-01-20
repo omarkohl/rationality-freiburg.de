@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rationality Freiburg</title><link>https://www.rationality-freiburg.de/posts/</link><description>Recent content in Posts on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Statistics Study Group</title><link>https://www.rationality-freiburg.de/posts/statistics-study-group/</link><pubDate>Sat, 13 May 2023 20:24:25 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-study-group/</guid><description>&lt;p>Many of us had introductory statistics in college but have forgotten most of
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rationality Freiburg</title><link>https://www.rationality-freiburg.de/posts/</link><description>Recent content in Posts on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Statistics &amp; Feedback 2023</title><link>https://www.rationality-freiburg.de/posts/statistics-feedback-2023/</link><pubDate>Sat, 20 Jan 2024 13:55:25 +0100</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-feedback-2023/</guid><description>&lt;p>In 2023 there were 24 public events (not counting book club, statistics study
+group and meta-meetup). Some interesting facts and graphs.&lt;/p>
+&lt;h2 id="attendees">Attendees&lt;/h2>
+&lt;ul>
+&lt;li>24 events.&lt;/li>
+&lt;li>11.38 people per event on average (σ=3.80).&lt;/li>
+&lt;li>2.38 newcomers per event (σ=1.71).&lt;/li>
+&lt;li>Maximum number of attendees was 21 and minimum was 4 people.&lt;/li>
+&lt;li>76 unique people came to one or more events.&lt;/li>
+&lt;li>Out of those, 34 people came to two or more events.&lt;/li>
+&lt;li>Out of those, 14 people came to 5 or more events.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Recurring&lt;/strong> is any person coming for the second, third etc. time whereas
+&lt;strong>New&lt;/strong> is anyone coming for the first time to a Rationality Freiburg event.&lt;/p>
+&lt;p>&lt;img src="attendees-2023.png" alt="Attendees 2023" title="Attendees 2023">&lt;/p>
+&lt;h2 id="feedback">Feedback&lt;/h2>
+&lt;p>The aggregate of the feedback forms attendees filled out after the events.&lt;/p>
+&lt;p>&lt;img src="1-practical.png" alt="">
+&lt;img src="2-atmosphere.png" alt="">
+&lt;img src="3-amount.png" alt="">
+&lt;img src="4-difficulty.png" alt="">
+&lt;img src="5-structure.png" alt="">
+&lt;img src="6-moderation.png" alt="">
+&lt;img src="7-return.png" alt="">
+&lt;img src="8-preparation.png" alt="">
+&lt;img src="9-mind.png" alt="">&lt;/p></description></item><item><title>Statistics Study Group</title><link>https://www.rationality-freiburg.de/posts/statistics-study-group/</link><pubDate>Sat, 13 May 2023 20:24:25 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-study-group/</guid><description>&lt;p>Many of us had introductory statistics in college but have forgotten most of
 it. For many reasons having a good mastery of statistics is important e.g. to
 follow the scientific discourse.&lt;/p>
 &lt;p>Goal: Achieve mastery of the material covered in a standard &amp;ldquo;Statistics 101&amp;rdquo;
