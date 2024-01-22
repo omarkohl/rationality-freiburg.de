@@ -2,6 +2,7 @@
 title: "Event Feedback Form"
 date: 2023-02-01T17:10:59+01:00
 author: Omar
+summary: "Feedback forms as PDFs and Google Form links."
 ---
 
 ## Update 2024-01-22
@@ -19,8 +20,6 @@ German.
 
 For participants who prefer not filling it out on their phone or PC we also
 provide printed copies that are attached as PDFs below.
-
-<!--more-->
 
 The forms and PDF files below are published under the license CC BY-SA 4.0 .
 
