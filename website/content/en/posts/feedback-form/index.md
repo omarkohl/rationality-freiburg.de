@@ -4,6 +4,16 @@ date: 2023-02-01T17:10:59+01:00
 author: Omar
 ---
 
+# Update 2024-01-22
+
+The forms have been updated. The online links below still work fine. To find
+the PDF files (and the new Scribus sources) check the
+[design/forms/](https://github.com/omarkohl/rationality-freiburg.de/tree/main/design/forms)
+folder on GitHub.
+
+
+# Original
+
 To collect feedback from event participants we use a Google form in English and
 German.
 
