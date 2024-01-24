@@ -11,12 +11,12 @@ eventGeoLat: 47.98934
 eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, October 14th 2023 at 18:00 hours CEST."
-#description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 14. Oktober 2023 um 18:00 Uhr MESZ."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2024 at 18:00 hours CET."
+#description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 2. Februar 2024 um 18:00 Uhr MEZ."
 outputs:
   - HTML
   - Calendar
-#slug: 2023-10-14-deutscher-slug
+#slug: 2024-02-02-deutscher-slug
 ---
 
 ## Preparation
