@@ -61,4 +61,4 @@ join.
 
 ![Entropy in the Universe](cover.png "Entropy in the Universe")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>

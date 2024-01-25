@@ -156,4 +156,4 @@ join.
 
 ![Group medidating](cover.png "Group meditating")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>

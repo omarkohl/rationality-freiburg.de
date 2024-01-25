@@ -89,4 +89,4 @@ join.
 
 ![A wolf in the forest](cover.png "A wolf in the forest")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>

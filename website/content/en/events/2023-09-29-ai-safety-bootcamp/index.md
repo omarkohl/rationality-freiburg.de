@@ -50,4 +50,4 @@ join.
 
 ![Robot in the forecast](cover.png "Robot in the forest")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>

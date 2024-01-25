@@ -59,4 +59,4 @@ join.
 
 ![Flower growing](cover.png "Flower growing")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>

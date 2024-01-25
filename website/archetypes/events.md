@@ -52,7 +52,7 @@ join.
 
 ![TODO](cover.png "TODO")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>
 
 
 ## Vorbereitung

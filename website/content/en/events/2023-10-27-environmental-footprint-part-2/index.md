@@ -59,4 +59,4 @@ join.
 
 ![Tree branch](cover.png "Tree branch")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>

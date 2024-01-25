@@ -61,4 +61,4 @@ join.
 
 ![Two frogs discussing](cover.png "Two frogs discussing")
 
-<small>Image generated with the _DALL·E_.</small>
+<small>Image generated with _DALL·E_.</small>
