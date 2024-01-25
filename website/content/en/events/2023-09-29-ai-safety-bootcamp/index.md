@@ -48,6 +48,6 @@ join.
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Robot in the forecast](cover.png "Robot in the forest")
+![Robot in the forest](cover.png "Robot in the forest")
 
 <small>Image generated with _DALL·E_.</small>
