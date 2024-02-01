@@ -7,6 +7,8 @@ summary: At the "Book Club" we read books and discuss them. For example "The
 
 We have a book club i.e. we read books chapter by chapter and discuss them.
 
+We usually meet once a week for lunch and tend to read about 100 pages / week.
+
 If you are interested in joining the book club please come to a [meetup]({{<
 ref "/events/" >}}) first.
 
@@ -38,6 +40,8 @@ not be kept up to date. It is only here to give you an idea of what to expect.
   book) and have done your homework.
 * If you committed to attending a meeting, but then don't come for any reason,
   you have to pay for everyone's drinks the next time.
+* If you come but haven't done the reading we agreed upon, you have to pay for
+  everyone's drinks.
 * [Chatham House
   Rule](https://www.chathamhouse.org/about-us/chatham-house-rule).
 * New members only with everyone's approval.
