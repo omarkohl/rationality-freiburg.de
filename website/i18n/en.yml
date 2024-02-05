@@ -20,3 +20,9 @@
   translation: "Posts"
 - id: Table of Contents
   translation: "Table of Contents"
+- id: Host
+  translation: "Host(s)"
+- id: Type
+  translation: "Type of event"
+- id: Feedback and statistics
+  translation: "Feedback and statistics"

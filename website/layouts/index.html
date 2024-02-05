@@ -10,8 +10,11 @@
 
 <h1 class="title">{{ i18n "Upcoming Events" }}</h1>
 
-{{ $pages := where site.RegularPages "Type" "eq" "events" }}
+{{ $pages := site.Pages }}
 {{ range $pages.ByParam "eventStart" }}
+ {{ if not .Params.eventStart }}
+   {{ continue }}
+ {{ end }}
  {{ if (time .Params.eventStart).After now }}
    {{ .Render "summary"}}
  {{ end }}

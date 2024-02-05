@@ -16,13 +16,25 @@
     {{- end }}
     <br>
   {{ end -}}
+  {{ if $.Param "eventHost" }}
+    <b>{{ i18n "Host" }}: </b>{{ range $i, $e := $.Param "eventHost" }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    <br>
+  {{- end }}
+  {{ if $.Param "eventType" }}
+    <b>{{ i18n "Type" }}: </b>{{ range $i, $e := $.Param "eventType" }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    <br>
+  {{- end }}
   {{ with $.Param "meetupLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} meetup.com</a>{{ end -}}
   <br>
   {{ with $.Param "lwLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} lesswrong.com</a>{{ end -}}
   <br>
   {{ with  .OutputFormats.Get "calendar" -}}
     <a href="{{ .Permalink | safeURL }}">{{ i18n "Add to your calendar" }} (.ics)</a>
+    <br>
   {{- end }}
+  {{ with .GetPage "./statistics" }}
+    <a href="{{ .RelPermalink }}">{{ i18n "Feedback and statistics" }}</a>
+  {{ end }}
 </header>
 <aside>
 <h2>{{ i18n "Table of Contents" }}</h2>

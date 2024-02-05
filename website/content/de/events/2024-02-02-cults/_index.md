@@ -9,10 +9,16 @@ eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 2. Februar 2024 um 18:00 Uhr MEZ."
+eventHost:
+  - Omar
+eventType:
+  - discussion
+  - exercise
 outputs:
   - HTML
   - Calendar
-slug: 2024-02-02-kulte
+layout: "single"
+url: termine/2024-02-02-kulte
 ---
 
 ## Vorbereitung
