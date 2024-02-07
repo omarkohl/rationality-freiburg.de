@@ -15,6 +15,7 @@
   (<a href="https://www.openstreetmap.org/?mlat={{.Params.eventGeoLat}}&mlon={{.Params.eventGeoLon}}&zoom=17" target="_blank">{{ i18n "Map" }}</a>, {{ i18n "Coordinates" }}: {{.Params.eventGeoLat}}, {{.Params.eventGeoLon}})
 {{- end }}
 <br>
+{{ end -}}
 {{ with $.Param "meetupLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} meetup.com</a>{{ end -}}
 <br>
 {{ with $.Param "lwLink" }}<a href="{{ . }}" target="_blank">{{ i18n "This event on" }} lesswrong.com</a>{{ end -}}
@@ -22,7 +23,6 @@
 {{ with  .OutputFormats.Get "calendar" -}}
   <a href="{{ .Permalink | safeURL }}">{{ i18n "Add to your calendar" }} (.ics)</a>
 {{- end }}
-{{ end -}}
 </header>
 <aside>
 <h2>{{ i18n "Table of Content" }}</h2>
