@@ -36,3 +36,41 @@
     font-weight: bold;
     color: #009879;
 }
+
+blockquote {
+    font-style: italic;
+    font-size: 1.0em;
+    color: #1785f8;
+    margin: 10px 0;
+    padding: 5px 20px;
+    border-left: 5px solid #1785f8;
+    background-color: #f9f9f9;
+}
+
+aside {
+    margin-top: 20px;
+    padding: 0px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+aside h2 {
+    margin-bottom: 5px;
+    font-size: 1.2em;
+}
+aside #TableOfContents ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+}
+aside #TableOfContents ul li {
+    margin-bottom: 5px;
+}
+aside #TableOfContents ul li ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 20px;
+}
+aside #TableOfContents ul li a {
+    font-size: 0.9em;
+}
