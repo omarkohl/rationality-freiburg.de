@@ -11,6 +11,12 @@
 ({{ i18n "last_mod" }} {{ .Lastmod | time.Format ":date_long" }})
 {{ end -}}
 </header>
+{{ if .Params.toc }}
+  <aside>
+    <h2>{{ i18n "Table of Contents" }}</h2>
+    {{ .TableOfContents }}
+  </aside>
+{{ end }}
 <div class="content">
 {{ .Content }}
 
@@ -19,4 +25,3 @@
 </article>
 </main>
 {{ end }}
-
