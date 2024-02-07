@@ -8,6 +8,8 @@ summary: >
     good intuitive grasp of the material.
 ---
 
+## Rationale
+
 Many of us had introductory statistics in college but have forgotten most of
 it. For many reasons having a good mastery of statistics is important e.g. to
 follow the scientific discourse.
@@ -23,7 +25,7 @@ If you are interested in joining the study group please come to a [meetup]({{<
 ref "/events/" >}}) first.
 
 
-# Process
+## Process
 
 - We go chapter by chapter.
 - Everyone studies the chapter on their own and does all the exercises, to the
