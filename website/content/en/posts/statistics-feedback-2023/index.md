@@ -1,6 +1,7 @@
 ---
 title: "Statistics & Feedback 2023"
 date: 2024-01-20T13:55:25+01:00
+toc: true
 ---
 
 In 2023 there were 24 public events (not counting book club, statistics study

@@ -1,6 +1,7 @@
 ---
 title: "Statistics & Feedback 2022"
 date: 2023-01-23T15:55:25+01:00
+toc: true
 draft: false
 ---
 
