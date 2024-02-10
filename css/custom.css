@@ -74,3 +74,35 @@ aside #TableOfContents ul li ul {
 aside #TableOfContents ul li a {
     font-size: 0.9em;
 }
+
+.breadcrumbs {
+    margin-top: 20px;
+}
+
+.breadcrumbs ol {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+}
+
+.breadcrumbs ol li {
+    display: inline;
+    padding: 0 3px;
+}
+
+.breadcrumbs ol li:first-child {
+    padding-left: 0;
+}
+
+.breadcrumbs ol li::after {
+    content: " » ";
+    padding-left: 6px;
+}
+
+.breadcrumbs ol li:last-child::after {
+    content: "";
+}
+
+.breadcrumbs ol li a {
+    font-size: 0.9em;
+}
