@@ -8,7 +8,7 @@
   translation: "Ort"
 - id: Map
   translation: "Karte"
-- id: Add to your calendar
+- id: Add to calendar
   translation: "Zu Kalender hinzufügen"
 - id: Coordinates
   translation: "Koordinaten"
@@ -28,3 +28,7 @@
   translation: "Feedback und Statistiken"
 - id: Home
   translation: "Startseite"
+- id: Add to Google Calendar
+  translation: "Zu Google Kalender hinzufügen"
+- id: Add to Outlook
+  translation: "Zu Outlook hinzufügen"

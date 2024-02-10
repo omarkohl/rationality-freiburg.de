@@ -106,3 +106,32 @@ aside #TableOfContents ul li a {
 .breadcrumbs ol li a {
     font-size: 0.9em;
 }
+
+.calendar-links {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+  }
+
+.calendar-links a {
+    color: #333;
+    text-decoration: none;
+    background: #f0f0f0;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
+
+.calendar-links a:hover {
+    background: #ddd;
+}
+
+@media (max-width: 600px) {
+    .calendar-links {
+        flex-direction: column;
+    }
+    .calendar-links li {
+        margin-bottom: 10px;
+    }
+}

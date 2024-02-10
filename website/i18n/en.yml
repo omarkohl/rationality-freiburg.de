@@ -8,8 +8,8 @@
   translation: "Location"
 - id: Map
   translation: "Map"
-- id: Add to your calendar
-  translation: "Add to your calendar"
+- id: Add to calendar
+  translation: "Add to calendar"
 - id: Coordinates
   translation: "Coordinates"
 - id: Upcoming Events
@@ -28,3 +28,7 @@
   translation: "Feedback and statistics"
 - id: Home
   translation: "Home"
+- id: Add to Google Calendar
+  translation: "Add to Google Calendar"
+- id: Add to Outlook
+  translation: "Add to Outlook"
