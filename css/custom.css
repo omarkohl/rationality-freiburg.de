@@ -40,10 +40,10 @@
 blockquote {
     font-style: italic;
     font-size: 1.0em;
-    color: #1785f8;
+    color: navy;
     margin: 10px 0;
     padding: 5px 20px;
-    border-left: 5px solid #1785f8;
+    border-left: 5px solid navy;
     background-color: #f9f9f9;
 }
 
