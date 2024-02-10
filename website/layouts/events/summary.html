@@ -8,10 +8,26 @@
 <br>
 <b>{{ i18n "Location" }}: </b>{{ $.Param "eventLocation" }}
 <br>
-<div>
-{{ with  .OutputFormats.Get "calendar" -}}
-  <small><a href="{{ .Permalink | safeURL }}">{{ i18n "Add to your calendar" }} (.ics)</a></small>
-{{- end }}
-</div>
+  <div>
+    <ul class="calendar-links">
+      <li>
+        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Rationality Freiburg: {{ .Title }}&dates={{ $.Param "eventStart" | time.Format "20060102T150405Z0700" }}/{{ $.Param "eventEnd" | time.Format "20060102T150405Z0700" }}&details={{ .Permalink }}&location={{ $.Param "eventLocation" }}&sf=true&output=xml" target="_blank">
+        {{ i18n "Add to Google Calendar" }}
+        </a>
+      </li>
+      <li>
+        <a href="https://www.outlook.com/?path=/calendar/action/compose&rru=addevent&startdt={{ $.Param "eventStart" | time.Format "20060102T150405Z0700" }}&enddt={{ $.Param "eventEnd" | time.Format "20060102T150405Z0700" }}&subject=Rationality Freiburg: {{ .Title }}&location={{ $.Param "eventLocation" }}&body={{ .Permalink }}" target="_blank">
+        {{ i18n "Add to Outlook" }}
+        </a>
+      </li>
+      {{ with  .OutputFormats.Get "calendar" -}}
+        <li>
+          <a href="{{ .Permalink | safeURL }}">
+          {{ i18n "Add to calendar" }} (iCal)
+          </a>
+        </li>
+      {{- end }}
+    </ul>
+  </div>
 </div>
 </article>

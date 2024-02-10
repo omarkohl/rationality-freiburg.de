@@ -107,14 +107,23 @@ aside #TableOfContents ul li a {
     font-size: 0.9em;
 }
 
-.calendar-links {
+.content ul.calendar-links, .calendar-links {
     list-style-type: none;
     padding: 0;
     display: flex;
     gap: 10px;
   }
 
-.calendar-links a {
+.content ul.calendar-links {
+    margin-top: 12px;
+}
+
+.content ul.calendar-links li::before {
+    content: "";
+    margin-right: 5px;
+}
+
+.content ul.calendar-links a, .calendar-links a {
     color: #333;
     text-decoration: none;
     background: #f0f0f0;
@@ -123,15 +132,15 @@ aside #TableOfContents ul li a {
     font-size: 0.9em;
 }
 
-.calendar-links a:hover {
+.content ul.calendar-links a:hover, .calendar-links a:hover {
     background: #ddd;
 }
 
 @media (max-width: 600px) {
-    .calendar-links {
+    .content ul.calendar-links, ul.calendar-links {
         flex-direction: column;
     }
-    .calendar-links li {
+    .content ul.calendar-links li, ul.calendar-links li {
         margin-bottom: 10px;
     }
 }
