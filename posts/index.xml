@@ -1,4 +1,205 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rationality Freiburg</title><link>https://www.rationality-freiburg.de/posts/</link><description>Recent content in Posts on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Statistics &amp; Feedback 2023</title><link>https://www.rationality-freiburg.de/posts/statistics-feedback-2023/</link><pubDate>Sat, 20 Jan 2024 13:55:25 +0100</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-feedback-2023/</guid><description>&lt;p>In 2023 there were 24 public events (not counting book club, statistics study
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rationality Freiburg</title><link>https://www.rationality-freiburg.de/posts/</link><description>Recent content in Posts on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Statistics &amp; Feedback 2024</title><link>https://www.rationality-freiburg.de/posts/statistics-feedback-2024/</link><pubDate>Sat, 10 Feb 2024 16:30:34 +0100</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-feedback-2024/</guid><description>&lt;p>&lt;strong>Note that this page will be updated through 2024.&lt;/strong>&lt;/p>
+&lt;h2 id="attendees">Attendees&lt;/h2>
+&lt;ul>
+&lt;li>2 events.&lt;/li>
+&lt;li>17.50 people per event on average (σ=2.12).&lt;/li>
+&lt;li>2.50 newcomers per event (σ=0.71).&lt;/li>
+&lt;li>Maximum number of attendees was 19 and minimum was 16 people.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Recurring&lt;/strong> is any person coming for the second, third etc. time whereas
+&lt;strong>New&lt;/strong> is anyone coming for the first time to a Rationality Freiburg event.&lt;/p>
+&lt;h2 id="feedback">Feedback&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;/ul>
+&lt;h3 id="1-practical-use-for-my-life-what-we-did-today-will-have-">1. Practical use: For my life, what we did today will have &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>a lot of practical use (1): 10 people&lt;/li>
+&lt;li>quite a bit of practical use (2): 12 people&lt;/li>
+&lt;li>some practical use (3): 3 people&lt;/li>
+&lt;li>little practical use (4): 6 people&lt;/li>
+&lt;li>very little practical use (5): 2 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 2.33 (σ=1.27)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./1-practical-use-for-my-life-what-we-did-today-will-have.png" alt="1. Practical use: For my life, what we did today will have &amp;hellip;">&lt;/p>
+&lt;h3 id="2-the-atmosphere--vibe-was-">2. The atmosphere / vibe was &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>fantastic (1): 18 people&lt;/li>
+&lt;li>good (2): 14 people&lt;/li>
+&lt;li>okay (3): 0 people&lt;/li>
+&lt;li>bad (4): 0 people&lt;/li>
+&lt;li>horrible (5): 1 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 1.55 (σ=0.79)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./2-the-atmosphere-vibe-was.png" alt="2. The atmosphere / vibe was &amp;hellip;">&lt;/p>
+&lt;h3 id="3-the-amount-of-content--exercises-covered-was-">3. The amount of content / exercises covered was &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>way too much (1): 1 people&lt;/li>
+&lt;li>too much (2): 4 people&lt;/li>
+&lt;li>just right (3): 27 people&lt;/li>
+&lt;li>too little (4): 1 people&lt;/li>
+&lt;li>way too little (5): 0 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 2.85 (σ=0.51)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./3-the-amount-of-content-exercises-covered-was.png" alt="3. The amount of content / exercises covered was &amp;hellip;">&lt;/p>
+&lt;h3 id="4-the-difficulty-level-of-the-content--discussion-was-">4. The difficulty level of the content / discussion was &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>much too easy (1): 0 people&lt;/li>
+&lt;li>too easy (2): 7 people&lt;/li>
+&lt;li>just right (3): 23 people&lt;/li>
+&lt;li>too difficult (4): 3 people&lt;/li>
+&lt;li>much too difficult (5): 0 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 2.88 (σ=0.55)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./4-the-difficulty-level-of-the-content-discussion-was.png" alt="4. The difficulty level of the content / discussion was &amp;hellip;">&lt;/p>
+&lt;h3 id="5-structure-on-the-whole-the-event-needed-">5. Structure: On the whole the event needed &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>much more structure (1): 0 people&lt;/li>
+&lt;li>more structure (2): 4 people&lt;/li>
+&lt;li>(was just right) (3): 27 people&lt;/li>
+&lt;li>less structure (4): 2 people&lt;/li>
+&lt;li>much less structure (5): 0 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 2.94 (σ=0.43)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./5-structure-on-the-whole-the-event-needed.png" alt="5. Structure: On the whole the event needed &amp;hellip;">&lt;/p>
+&lt;h3 id="6-the-moderation-should-have-been-">6. The moderation should have been &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>much more relaxed (1): 1 people&lt;/li>
+&lt;li>more relaxed (2): 1 people&lt;/li>
+&lt;li>(was just right) (3): 27 people&lt;/li>
+&lt;li>more assertive (4): 3 people&lt;/li>
+&lt;li>much more assertive (5): 1 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 3.06 (σ=0.61)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./6-the-moderation-should-have-been.png" alt="6. The moderation should have been &amp;hellip;">&lt;/p>
+&lt;h3 id="7-host-preparation-the-content--exercises-were-">7. Host preparation: The content / exercises were &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>very well prepared (1): 20 people&lt;/li>
+&lt;li>well prepared (2): 10 people&lt;/li>
+&lt;li>okay prepared (3): 3 people&lt;/li>
+&lt;li>not well prepared (4): 0 people&lt;/li>
+&lt;li>not well prepared at all (5): 0 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 1.48 (σ=0.67)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./7-host-preparation-the-content-exercises-were.png" alt="7. Host preparation: The content / exercises were &amp;hellip;">&lt;/p>
+&lt;h3 id="8-changing-your-mind-the-event-made-me-">8. Changing your mind: The event made me &amp;hellip;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>question many things (1): 3 people&lt;/li>
+&lt;li>question some things (2): 13 people&lt;/li>
+&lt;li>question few things (3): 11 people&lt;/li>
+&lt;li>question very few things (4): 4 people&lt;/li>
+&lt;li>not question anything (5): 2 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Average answer:&lt;/strong> 2.67 (σ=1.02)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./8-changing-your-mind-the-event-made-me.png" alt="8. Changing your mind: The event made me &amp;hellip;">&lt;/p>
+&lt;h3 id="9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events">9. Do you think you will come to one (or more) of the next three events?&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 33 people (94.29% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>probably no: 3 people&lt;/li>
+&lt;li>probably yes: 30 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png" alt="9. Do you think you will come to one (or more) of the next three events?">&lt;/p>
+&lt;h3 id="10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that">10. If you answered &amp;ldquo;probably no&amp;rdquo; in the previous question or are very uncertain, why is that?&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 1 people (2.86% of attendees)&lt;/li>
+&lt;li>&lt;strong>Answers:&lt;/strong>
+&lt;ul>
+&lt;li>Friday evening is a bad timeslot for me.: 0 people&lt;/li>
+&lt;li>I can&amp;rsquo;t fit another activity into my life.: 0 people&lt;/li>
+&lt;li>I did not like (some of) the people here.: 0 people&lt;/li>
+&lt;li>I did not like today&amp;rsquo;s venue.: 0 people&lt;/li>
+&lt;li>I live too far away.: 1 people&lt;/li>
+&lt;li>I&amp;rsquo;m not very interested in your usual topics.: 0 people&lt;/li>
+&lt;li>The level of English is too advanced for me.: 0 people&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="./10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that.png" alt="10. If you answered &amp;ldquo;probably no&amp;rdquo; in the previous question or are very uncertain, why is that?">&lt;/p>
+&lt;h3 id="11-what-did-you-like-the-most-today-what-did-you-like-the-least">11. What did you like the most today? What did you like the least?&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Responses:&lt;/strong> 12 people (34.29% of attendees)&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>I liked the „make the elephants like each other idea“&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Schade war, dass viel Zeit dafür verwendet wurde Dinge zu wiederholen, die man auch vorher hätte lesen können. Andererseits bereue ich das Lesen nicht, da dort viel mehr interessantes stand. Ich sehe auch, dass man nicht erwarten kann, dass alle vorbereitet zum Meeting kommen. Deshalb eine Idee, welche sich vielleicht praktisch umsetzen lässt: Beim Bilden von Untergruppen teilen wir die Leute auf zwischen denen, die zur Vorbereitung gelesen haben, und den anderen. So profitiert man zumindest dadurch von der eigenen Vorbereitung, dass man mit besser informierten Personen diskutieren kann. Ausnahme evtl. für Leute, die zum ersten Mal auftauchen.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Preconditions to ensure before using the method would be interesting to formalise. A list of common typical cruxes would be nice&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Friendly&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>The discussion in the smaller group (though the group was still somewhat big)&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>The exercise of fooling an outsider was great! The conclusion to our discussion about cult. It could have been more structured. Maybe with a voting at the end from 1 to 5 how cultish this group is.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Small discussion group/ n/a&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Most- people least- nothing&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Most: The many views brought about by the different participants. The reading list.
+Least: the content felt not cohesive. Some consolidation could help.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Am Besten die Übung, am wenigsten nichts.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>the structure with 3 levels of preparation was very good idea&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Was fun&lt;/p>
+&lt;/blockquote></description></item><item><title>Statistics &amp; Feedback 2023</title><link>https://www.rationality-freiburg.de/posts/statistics-feedback-2023/</link><pubDate>Sat, 20 Jan 2024 13:55:25 +0100</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-feedback-2023/</guid><description>&lt;p>In 2023 there were 24 public events (not counting book club, statistics study
 group and meta-meetup). Some interesting facts and graphs.&lt;/p>
 &lt;h2 id="attendees">Attendees&lt;/h2>
 &lt;ul>
