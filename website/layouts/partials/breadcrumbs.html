@@ -1,0 +1,12 @@
+<nav class="breadcrumbs" aria-label="breadcrumbs">
+  <ol class="">
+    {{- range .Ancestors.Reverse }}
+      <li class="">
+        <a href="{{ .RelPermalink }}">{{ if .IsHome }}{{ i18n "Home" }}{{ else }}{{ .Title }}{{ end }}</a>
+      </li>
+    {{- end }}
+    <li class="active">
+      <a href="{{ .RelPermalink }}" aria-current="location">{{ .Title }}</a>
+    </li>
+  </ol>
+</nav>

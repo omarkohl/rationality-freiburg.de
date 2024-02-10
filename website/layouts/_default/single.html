@@ -11,6 +11,7 @@
 ({{ i18n "last_mod" }} {{ .Lastmod | time.Format ":date_long" }})
 {{ end -}}
 </header>
+{{ partial "breadcrumbs.html" . }}
 {{ if .Params.toc }}
   <aside>
     <h2>{{ i18n "Table of Contents" }}</h2>

@@ -36,6 +36,7 @@
     <a href="{{ .RelPermalink }}">{{ i18n "Feedback and statistics" }}</a>
   {{ end }}
 </header>
+{{ partial "breadcrumbs.html" . }}
 <aside>
 <h2>{{ i18n "Table of Contents" }}</h2>
 {{ .TableOfContents }}
