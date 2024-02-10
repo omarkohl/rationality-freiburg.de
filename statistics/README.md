@@ -1,0 +1,20 @@
+# Statistics
+
+This folder contains a script (./generate.py) that is used to pre-process
+data, generate the .csv files contained in this directory and generate
+plots and markdown documents in ../website/
+
+The .csv files contain clean raw data for the events 2024.
+
+
+## Re-generate .csv files
+
+Note you need special access permissions to be able to do this.
+
+* In the Google Calc document 'Event Feedback (Responses)' download both the
+  'EN' and the 'DE' sheet as CSV files.
+* Open the attendance-statistics.ods file and 'Save a Copy...' of the
+  'People 2024' sheet in .csv format. Leave 'Save cell content as shown'
+  unchecked and everything else set to default values.
+* Place the above files in the statistics/ directory.
+* Execute ./generate.py

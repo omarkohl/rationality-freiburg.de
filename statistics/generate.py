@@ -7,15 +7,21 @@ The data is read from a CSV file.
 
 import os
 import re
-from typing import Optional, Tuple
+import pytz
+import yaml
+from typing import Optional, Tuple, Dict
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from datetime import datetime
 
+
+SUMMARY_WEBDIR = '../website/content/en/posts/statistics-feedback-2024/'
+EVENTS_WEBDIR = '../website/content/en/events/'
 
 # Filenames
-FEEDBACK_DE_SOURCE = 'Experiment - Event Feedback (Responses) - DE.csv' # TODO
-FEEDBACK_EN_SOURCE = 'Experiment - Event Feedback (Responses) - EN.csv' # TODO
+FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
+FEEDBACK_EN_SOURCE = 'Event Feedback (Responses) - EN.csv'
 FEEDBACK_CLEANED = 'feedback2024.csv'
 ATTENDANCE_SOURCE = 'attendance-statistics.csv'
 ATTENDANCE_CLEANED = 'attendance2024.csv'
@@ -244,6 +250,8 @@ def generate_output(feedback_file: str, attendance_file: str):
     """
     This function reads the cleaned data and generates a markdown page containing tables with data and plots.
     """
+    now = datetime.now(pytz.timezone('CET'))
+
     # Read the cleaned data into a dataframe
     if not os.path.isfile(feedback_file):
         raise FileNotFoundError(f'The file {feedback_file} does not exist')
@@ -258,19 +266,32 @@ def generate_output(feedback_file: str, attendance_file: str):
     # Display all unique values of 'Date of the event'
     dates = feedback_df['Date of the event'].unique()
     dates = sorted(dates)
-
-    print('Unique dates of the event:', dates)
-
-    # create a directory 'output' if it doesn't exist
-    OUTPUT_DIR = 'output'
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
-
     for d in dates:
-        # create a directory for the current date if it doesn't exist
-        date_dir = os.path.join(OUTPUT_DIR, str(d))
-        if not os.path.exists(date_dir):
-            os.makedirs(date_dir)
+        dirs = [f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(str(d))]
+        if len(dirs) == 0:
+            raise ValueError(f'No directory for {d} exists')
+        elif len(dirs) > 1:
+            raise ValueError(f'More than one directory for {d} exists')
+
+        event_dir = os.path.join(EVENTS_WEBDIR, dirs[0])
+        date_dir = os.path.join(EVENTS_WEBDIR, dirs[0], 'statistics')
+        os.makedirs(date_dir, exist_ok=True)
+
+        event_data = get_event_metadata(event_dir)
+        event_title = event_data['title']
+        page_content = f"""---
+title: "Statistics: {event_title}"
+date: {now.strftime('%Y-%m-%dT%H:%M:%S%z')}
+type: "default"
+toc: true
+summary: "Statistics for the '{event_title}' event."
+---
+
+Read more about this event: <a href="..">{event_title}</a>.
+
+## Attendees
+
+"""
         # Filter the dataframe for the current date
         feedback_filtered_df = feedback_df[feedback_df['Date of the event'] == d]
         attendance_filtered_df = attendance_df[attendance_df['Date'] == d]
@@ -278,65 +299,82 @@ def generate_output(feedback_file: str, attendance_file: str):
         new_participants = attendance_filtered_df.iloc[0]['New participants']
         total_participants = attendance_filtered_df.iloc[0]['Total participants']
 
-        print(f'### {d}\n')
-        print(f"Number of recurring participants: {recurring_participants}")
-        print(f"Number of new participants: {new_participants}")
-        print(f"Total number of participants: {total_participants}\n")
-        generate_feedback_output(feedback_filtered_df, total_participants, date_dir)
+        page_content += f'* **Total:** {total_participants} people\n'
+        page_content += f'* **Recurring:** {recurring_participants} people\n'
+        page_content += f'* **New:** {new_participants} people\n\n'
 
-    # Create a directory for aggregated data if it doesn't exist
-    aggregated_events_dir = os.path.join(OUTPUT_DIR, 'aggregated')
-    if not os.path.exists(aggregated_events_dir):
-        os.makedirs(aggregated_events_dir)
+        page_content += generate_feedback_output(feedback_filtered_df, total_participants, date_dir)
+        # Generate the markdown page
+        with open(f'{date_dir}/index.md', 'w') as f:
+            f.write(page_content)
 
     total_participants = attendance_df['Total participants'].sum()
-    print(f'### Total\n')
-    generate_feedback_output(feedback_df, total_participants, aggregated_events_dir)
 
-    # Generate the markdown page
-    with open('feedback.md', 'w') as f:
-        f.write('---\n')
-        f.write('title: "Feedback"\n')
-        f.write('date: 2020-06-29T18:00:00+02:00\n')
-        f.write('draft: false\n')
-        f.write('---\n\n')
+    page_content = f"""---
+title: "Statistics & Feedback 2024"
+date: {now.strftime('%Y-%m-%dT%H:%M:%S%z')}
+toc: true
+summary: "In 2024 there were {len(dates)} public events (so far),
+  not counting book club, statistics study group and meta-meetup.
+  Some interesting facts and graphs."
+---
 
-        f.write('## Feedback\n\n')
+**Note that this page will be updated through 2024.**
 
-        # Generate the tables
-        f.write('### Summary\n\n')
-        f.write(feedback_df.describe().to_markdown() + '\n\n')
+## Attendees
 
-        f.write('### Data\n\n')
-        f.write(feedback_df.to_markdown() + '\n\n')
+* {len(dates)} events.
+* {total_participants / len(dates):.2f} people per event on average (σ={attendance_df['Total participants'].std():.2f}).
+* {attendance_df['New participants'].mean():.2f} newcomers per event (σ={attendance_df['New participants'].std():.2f}).
+* Maximum number of attendees was {attendance_df['Total participants'].max()} and minimum was {attendance_df['Total participants'].min()} people.
 
-        # Generate the plots
-        f.write('### Plots\n\n')
-        f.write('#### Rating\n\n')
-        f.write('![Rating](/img/feedback-rating.png)\n\n')
+**Recurring** is any person coming for the second, third etc. time whereas
+**New** is anyone coming for the first time to a Rationality Freiburg event.
 
-        f.write('#### Comments\n\n')
-        f.write('![Comments](/img/feedback-comments.png)\n\n')
+"""
 
-    print('Generated feedback.md')
+    page_content += generate_feedback_output(feedback_df, total_participants, SUMMARY_WEBDIR)
+    with open(f'{SUMMARY_WEBDIR}/index.md', 'w') as f:
+        f.write(page_content)
 
 
-def generate_feedback_output(feedback_df, total_participants, output_dir: str):
-    print(f'Number of responses: {len(feedback_df)}')
-    print(f'Response rate: {len(feedback_df) / total_participants * 100:.2f}%\n')
+def get_event_metadata(event_dir: str) -> Dict:
+    """
+    This function reads the title of the event from the event's directory.
+    """
+    yaml_content = ""
+    in_yaml = False
+    with open(os.path.join(event_dir, '_index.md')) as f:
+        lines = f.readlines()
+        for line in lines:
+            if in_yaml and line == '---\n':
+                break
+            if in_yaml:
+                yaml_content += line
+            if not in_yaml and line == '---\n':
+                in_yaml = True
+    data = yaml.safe_load(yaml_content)
+    return data
+
+
+def generate_feedback_output(feedback_df, total_participants, img_dir: str):
+    page_content = "## Feedback\n\n"
+    page_content += f'* **Responses:** {len(feedback_df)} people ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n'
     for q in [QUESTIONS[i] for i in range(1, 9)]:
-        print(q)
-        print(f'  Number of responses: {feedback_df[q].count()}')
-        print(f'  Response rate: {feedback_df[q].count() / total_participants * 100:.2f}%')
-        print(f'  Average: {feedback_df[q].mean():.2f}')
-        print(f'  Standard deviation: {feedback_df[q].std():.2f}\n')
+        page_content += f'### {q}\n\n'
+        page_content += f'* **Responses:** {feedback_df[q].count()} people ({feedback_df[q].count() / total_participants * 100:.2f}% of attendees)\n'
+        page_content += '* **Answers:**\n'
+        for i, label in enumerate(QUESTION_RESPONSE_OPTIONS[q], start=1):
+            page_content += f'  * {label} ({i}): {feedback_df[q].value_counts().get(i, 0)} people\n'
+        page_content += f'* **Average answer:** {feedback_df[q].mean():.2f} (σ={feedback_df[q].std():.2f})\n\n'
         data = feedback_df[q].value_counts().sort_index()
         # if any index from 1 to 5 is missing, add it with a value of 0
         for i in range(1, 6):
             if i not in data.index:
                 data[i] = 0
         data = data.sort_index()
-        plot_bar_chart(data, q, output_dir)
+        plot_bar_chart(data, q, img_dir)
+        page_content += f'![{q}](./{question_to_filename(q)}.png)\n\n'
 
     # Question 9
     q09_data = feedback_df[QUESTIONS[9]].value_counts()
@@ -344,14 +382,12 @@ def generate_feedback_output(feedback_df, total_participants, output_dir: str):
         if i not in q09_data.index:
             q09_data[i] = 0
     q09_data = q09_data.sort_index()
-    print(QUESTIONS[9])
-    print(f'  Number of responses: {q09_data.sum()}')
-    print(f'  Response rate: {q09_data.sum() / total_participants * 100:.2f}%')
-    print('  --')
-    for value, count in q09_data.items():
-        print(f'  {value}: {count}')
-    print()
-    plot_bar_chart(q09_data, QUESTIONS[9], output_dir)
+    page_content += f'### {QUESTIONS[9]}\n\n'
+    page_content += f'* **Responses:** {q09_data.sum()} people ({q09_data.sum() / total_participants * 100:.2f}% of attendees)\n'
+    page_content += '* **Answers:**\n'
+    page_content += '\n'.join([f'  * {k}: {v} people' for k, v in q09_data.items()]) + '\n\n'
+    plot_bar_chart(q09_data, QUESTIONS[9], img_dir)
+    page_content += f'![{QUESTIONS[9]}](./{question_to_filename(QUESTIONS[9])}.png)\n\n'
 
     # Question 10
     q10_responses = []
@@ -363,24 +399,20 @@ def generate_feedback_output(feedback_df, total_participants, output_dir: str):
         if i not in q10_data.index:
             q10_data[i] = 0
     q10_data = q10_data.sort_index()
-    print(QUESTIONS[10])
-    print(f'  Number of responses: {q10_data.sum()}')
-    print(f'  Response rate: {q10_data.sum() / total_participants * 100:.2f}%')
-    print('  --')
-    for value, count in q10_data.items():
-        print(f'  {value}: {count}')
-    print()
-    plot_bar_chart_horizontal(q10_data, QUESTIONS[10], output_dir)
+    plot_bar_chart_horizontal(q10_data, QUESTIONS[10], img_dir)
+    page_content += f'### {QUESTIONS[10]}\n\n'
+    page_content += f'* **Responses:** {q10_data.sum()} people ({q10_data.sum() / total_participants * 100:.2f}% of attendees)\n'
+    page_content += '* **Answers:**\n'
+    page_content += '\n'.join([f'  * {k}: {v} people' for k, v in q10_data.items()]) + '\n\n'
+    page_content += f'![{QUESTIONS[10]}](./{question_to_filename(QUESTIONS[10])}.png)\n\n'
 
     # Question 11
-    print(QUESTIONS[11])
-    print(f'  Number of responses: {feedback_df[QUESTIONS[11]].count()}')
-    print(f'  Response rate: {feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}%')
-    print('  --')
     comments = feedback_df[QUESTIONS[11]].dropna().values
-    print('  ' + '\n  --\n  '.join(comments))
-    print()
-    print()
+    page_content += f'### {QUESTIONS[11]}\n\n'
+    page_content += f'* **Responses:** {feedback_df[QUESTIONS[11]].count()} people ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
+    if len(comments) > 0:
+        page_content += '\n\n'.join([f'> {c}' for c in comments]) + '\n'
+    return page_content
 
 
 def plot_bar_chart(data, q, output_dir):
