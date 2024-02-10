@@ -2,6 +2,17 @@
     margin-bottom: 5px;
 }
 
+.list-view h2 {
+    margin-bottom: 5px;
+}
+
+/* In the article overview, if the 'summary' is taken automatically out of the
+content then it's a p instead of a div, which happens when specifying
+'summary' in the page metadata. */
+.list-view .content p {
+    margin-top: 0;
+}
+
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
