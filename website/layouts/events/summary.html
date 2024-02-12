@@ -16,7 +16,7 @@
         </a>
       </li>
       <li>
-        <a href="https://www.outlook.com/?path=/calendar/action/compose&rru=addevent&startdt={{ $.Param "eventStart" | time.Format "20060102T150405Z0700" }}&enddt={{ $.Param "eventEnd" | time.Format "20060102T150405Z0700" }}&subject=Rationality Freiburg: {{ .Title }}&location={{ $.Param "eventLocation" }}&body={{ .Permalink }}" target="_blank">
+        <a href="https://outlook.office.com/calendar/0/action/compose?path=/calendar/action/compose&rru=addevent&startdt={{ $.Param "eventStart" | time.Format "20060102T150405Z0700" }}&enddt={{ $.Param "eventEnd" | time.Format "20060102T150405Z0700" }}&subject=Rationality Freiburg: {{ .Title }}&location={{ $.Param "eventLocation" }}&body={{ .Permalink }}" target="_blank">
         {{ i18n "Add to Outlook" }}
         </a>
       </li>
