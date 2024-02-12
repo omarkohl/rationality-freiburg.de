@@ -307,9 +307,9 @@ See also the [{YEAR} summary]({summary_link}).
         new_participants = attendance_filtered_df.iloc[0]['New participants']
         total_participants = attendance_filtered_df.iloc[0]['Total participants']
 
-        page_content += f'* **Total:** {total_participants} people\n'
-        page_content += f'* **Recurring:** {recurring_participants} people\n'
-        page_content += f'* **New:** {new_participants} people\n\n'
+        page_content += f'* **Total:** {pluralize_people(total_participants)}\n'
+        page_content += f'* **Recurring:** {pluralize_people(recurring_participants)}\n'
+        page_content += f'* **New:** {pluralize_people(new_participants)}\n\n'
 
         page_content += generate_feedback_output(feedback_filtered_df, total_participants, date_dir)
         # Generate the markdown page
@@ -339,7 +339,7 @@ for the individual events here:
 * {len(dates)} events.
 * {total_participants / len(dates):.2f} people per event on average (σ={attendance_df['Total participants'].std():.2f}).
 * {attendance_df['New participants'].mean():.2f} newcomers per event (σ={attendance_df['New participants'].std():.2f}).
-* Maximum number of attendees was {attendance_df['Total participants'].max()} and minimum was {attendance_df['Total participants'].min()} people.
+* Maximum number of attendees was {attendance_df['Total participants'].max()} and minimum was {pluralize_people(attendance_df['Total participants'].min())}.
 
 **Recurring** is any person coming for the second, third etc. time whereas
 **New** is anyone coming for the first time to a Rationality Freiburg event.
@@ -372,13 +372,13 @@ def get_event_metadata(event_dir: str) -> Dict:
 
 def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     page_content = "## Feedback\n\n"
-    page_content += f'* **Responses:** {len(feedback_df)} people ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n'
+    page_content += f'* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n'
     for q in [QUESTIONS[i] for i in range(1, 9)]:
         page_content += f'### {q}\n\n'
-        page_content += f'* **Responses:** {feedback_df[q].count()} people ({feedback_df[q].count() / total_participants * 100:.2f}% of attendees)\n'
+        page_content += f'* **Responses:** {pluralize_people(feedback_df[q].count())} ({feedback_df[q].count() / total_participants * 100:.2f}% of attendees)\n'
         page_content += '* **Answers:**\n'
         for i, label in enumerate(QUESTION_RESPONSE_OPTIONS[q], start=1):
-            page_content += f'  * {label} ({i}): {feedback_df[q].value_counts().get(i, 0)} people\n'
+            page_content += f'  * {label} ({i}): {pluralize_people(feedback_df[q].value_counts().get(i, 0))}\n'
         page_content += f'* **Average answer:** {feedback_df[q].mean():.2f} (σ={feedback_df[q].std():.2f})\n\n'
         data = feedback_df[q].value_counts().sort_index()
         # if any index from 1 to 5 is missing, add it with a value of 0
@@ -396,9 +396,9 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
             q09_data[i] = 0
     q09_data = q09_data.sort_index()
     page_content += f'### {QUESTIONS[9]}\n\n'
-    page_content += f'* **Responses:** {q09_data.sum()} people ({q09_data.sum() / total_participants * 100:.2f}% of attendees)\n'
+    page_content += f'* **Responses:** {pluralize_people(q09_data.sum())} ({q09_data.sum() / total_participants * 100:.2f}% of attendees)\n'
     page_content += '* **Answers:**\n'
-    page_content += '\n'.join([f'  * {k}: {v} people' for k, v in q09_data.items()]) + '\n\n'
+    page_content += '\n'.join([f'  * {k}: {pluralize_people(v)}' for k, v in q09_data.items()]) + '\n\n'
     plot_bar_chart(q09_data, QUESTIONS[9], img_dir)
     page_content += f'![{QUESTIONS[9]}](./{question_to_filename(QUESTIONS[9])}.png)\n\n'
 
@@ -414,15 +414,15 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     q10_data = q10_data.sort_index()
     plot_bar_chart_horizontal(q10_data, QUESTIONS[10], img_dir)
     page_content += f'### {QUESTIONS[10]}\n\n'
-    page_content += f'* **Responses:** {q10_data.sum()} people ({q10_data.sum() / total_participants * 100:.2f}% of attendees)\n'
+    page_content += f'* **Responses:** {pluralize_people(q10_data.sum())} ({q10_data.sum() / total_participants * 100:.2f}% of attendees)\n'
     page_content += '* **Answers:**\n'
-    page_content += '\n'.join([f'  * {k}: {v} people' for k, v in q10_data.items()]) + '\n\n'
+    page_content += '\n'.join([f'  * {k}: {pluralize_people(v)}' for k, v in q10_data.items()]) + '\n\n'
     page_content += f'![{QUESTIONS[10]}](./{question_to_filename(QUESTIONS[10])}.png)\n\n'
 
     # Question 11
     comments = feedback_df[QUESTIONS[11]].dropna().values
     page_content += f'### {QUESTIONS[11]}\n\n'
-    page_content += f'* **Responses:** {feedback_df[QUESTIONS[11]].count()} people ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
+    page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[11]].count())} ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
     if len(comments) > 0:
         page_content += '\n\n'.join([f'> {c}' for c in comments]) + '\n'
     return page_content
@@ -498,6 +498,13 @@ def question_to_filename(q):
     filename = re.sub('\W+', '-', q).lower()
     filename = filename.strip('-')
     return filename
+
+
+def pluralize_people(n):
+    """
+    This function pluralizes the word 'people' in English.
+    """
+    return f'{n} {"person" if n == 1 else "people"}'
 
 
 if __name__ == '__main__':
