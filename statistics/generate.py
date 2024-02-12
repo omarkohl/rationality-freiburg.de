@@ -293,7 +293,7 @@ toc: true
 summary: "Statistics for the '{event_title}' event."
 ---
 
-Read more about [this event]({event_link})
+Read more about [this event]({event_link}).
 
 See also the [{YEAR} summary]({summary_link}).
 
