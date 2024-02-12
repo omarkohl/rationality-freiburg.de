@@ -6,7 +6,7 @@
       </li>
     {{- end }}
     <li class="active">
-      <a href="{{ .RelPermalink }}" aria-current="location">{{ .Title }}</a>
+      <a href="{{ .RelPermalink }}" aria-current="location">{{ if .IsHome }}{{ i18n "Home" }}{{ else }}{{ .Title }}{{ end }}</a>
     </li>
   </ol>
 </nav>
