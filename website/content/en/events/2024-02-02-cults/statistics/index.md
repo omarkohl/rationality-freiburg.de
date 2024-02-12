@@ -1,12 +1,12 @@
 ---
 title: "Statistics: Cults & Cultishness"
-date: 2024-02-12T13:41:50+0100
+date: 2024-02-12T13:54:09+0100
 type: "default"
 toc: true
 summary: "Statistics for the 'Cults & Cultishness' event."
 ---
 
-Read more about [this event]({{< ref "events/2024-02-02-cults" >}})
+Read more about [this event]({{< ref "events/2024-02-02-cults" >}}).
 
 See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
