@@ -16,16 +16,17 @@ import seaborn as sns
 from datetime import datetime
 
 
-SUMMARY_WEBDIR = '../website/content/en/posts/statistics-feedback-2024/'
+YEAR = '2024'
+SUMMARY_WEBDIR = f'../website/content/en/posts/statistics-feedback-{YEAR}/'
 EVENTS_WEBDIR = '../website/content/en/events/'
 
 # Filenames
 FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
 FEEDBACK_EN_SOURCE = 'Event Feedback (Responses) - EN.csv'
-FEEDBACK_CLEANED = 'feedback2024.csv'
+FEEDBACK_CLEANED = f'feedback{YEAR}.csv'
 ATTENDANCE_SOURCE = 'attendance-statistics.csv'
-ATTENDANCE_CLEANED = 'attendance2024.csv'
-REFERRAL_CLEANED = 'referrals2024.csv'
+ATTENDANCE_CLEANED = f'attendance{YEAR}.csv'
+REFERRAL_CLEANED = f'referrals{YEAR}.csv'
 
 QUESTIONS = {
     1: '1. Practical use: For my life, what we did today will have ...',
@@ -182,7 +183,6 @@ def generate_feedback_file(de_source: str, en_source: str, cleaned: str):
 
     df.sort_values(by=['Date of the event'] + list(df.columns[1:]), inplace=True)
 
-    # Write the data out into a CSV file named data2024.csv
     df.to_csv(cleaned, index=False)
     # Remove the original files
     os.remove(de_source)
@@ -263,6 +263,7 @@ def generate_output(feedback_file: str, attendance_file: str):
     # I want to convert it to a list of strings.
     feedback_df[QUESTIONS[10]] = feedback_df[QUESTIONS[10]].dropna().map(eval)
 
+    all_event_stats_links = ""
     # Display all unique values of 'Date of the event'
     dates = feedback_df['Date of the event'].unique()
     dates = sorted(dates)
@@ -279,6 +280,11 @@ def generate_output(feedback_file: str, attendance_file: str):
 
         event_data = get_event_metadata(event_dir)
         event_title = event_data['title']
+        event_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '" >}}'
+        event_stats_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '/statistics" >}}'
+        all_event_stats_links += f'* [{event_title}]({event_stats_link})\n'
+
+        summary_link = '{{< ref "posts/' + os.path.normpath(SUMMARY_WEBDIR).split(os.sep)[-1] + '" >}}'
         page_content = f"""---
 title: "Statistics: {event_title}"
 date: {now.strftime('%Y-%m-%dT%H:%M:%S%z')}
@@ -287,7 +293,9 @@ toc: true
 summary: "Statistics for the '{event_title}' event."
 ---
 
-Read more about this event: <a href="..">{event_title}</a>.
+Read more about [this event]({event_link})
+
+See also the [{YEAR} summary]({summary_link}).
 
 ## Attendees
 
@@ -311,15 +319,20 @@ Read more about this event: <a href="..">{event_title}</a>.
     total_participants = attendance_df['Total participants'].sum()
 
     page_content = f"""---
-title: "Statistics & Feedback 2024"
+title: "Statistics & Feedback {YEAR}"
 date: {now.strftime('%Y-%m-%dT%H:%M:%S%z')}
 toc: true
-summary: "In 2024 there were {len(dates)} public events (so far),
+summary: "In {YEAR} there were {len(dates)} public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
 
-**Note that this page will be updated through 2024.**
+**Note that this page will be updated through {YEAR}.**
+
+This page contains a summary of all events. You can see the statistics
+for the individual events here:
+
+{all_event_stats_links}
 
 ## Attendees
 
