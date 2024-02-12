@@ -482,10 +482,12 @@ def plot_bar_chart_horizontal(data, q, output_dir):
     elif data.max() < 5:
         xtick_max = 6
     plt.xticks(range(0, xtick_max, xtick_step))
-    plt.title(QUESTIONS[10], pad=20)
+    # To ensure it stays ordered alphabetically top to bottom
+    plt.gca().invert_yaxis()
+    plt.title(q, pad=20)
     plt.yticks(rotation=0)
     plt.subplots_adjust(left=0.2)
-    plt.savefig(f'{output_dir}/{question_to_filename(QUESTIONS[10])}.png')
+    plt.savefig(f'{output_dir}/{question_to_filename(q)}.png')
     plt.close()
 
 
