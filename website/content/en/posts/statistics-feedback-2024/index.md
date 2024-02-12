@@ -1,6 +1,6 @@
 ---
 title: "Statistics & Feedback 2024"
-date: 2024-02-10T16:30:34+0100
+date: 2024-02-12T13:41:50+0100
 toc: true
 summary: "In 2024 there were 2 public events (so far),
   not counting book club, statistics study group and meta-meetup.
@@ -8,6 +8,13 @@ summary: "In 2024 there were 2 public events (so far),
 ---
 
 **Note that this page will be updated through 2024.**
+
+This page contains a summary of all events. You can see the statistics
+for the individual events here:
+
+* [Double Crux]({{< ref "events/2024-01-19-double-crux/statistics" >}})
+* [Cults & Cultishness]({{< ref "events/2024-02-02-cults/statistics" >}})
+
 
 ## Attendees
 
@@ -44,7 +51,7 @@ summary: "In 2024 there were 2 public events (so far),
   * good (2): 14 people
   * okay (3): 0 people
   * bad (4): 0 people
-  * horrible (5): 1 people
+  * horrible (5): 1 person
 * **Average answer:** 1.55 (σ=0.79)
 
 ![2. The atmosphere / vibe was ...](./2-the-atmosphere-vibe-was.png)
@@ -53,10 +60,10 @@ summary: "In 2024 there were 2 public events (so far),
 
 * **Responses:** 33 people (94.29% of attendees)
 * **Answers:**
-  * way too much (1): 1 people
+  * way too much (1): 1 person
   * too much (2): 4 people
   * just right (3): 27 people
-  * too little (4): 1 people
+  * too little (4): 1 person
   * way too little (5): 0 people
 * **Average answer:** 2.85 (σ=0.51)
 
@@ -92,11 +99,11 @@ summary: "In 2024 there were 2 public events (so far),
 
 * **Responses:** 33 people (94.29% of attendees)
 * **Answers:**
-  * much more relaxed (1): 1 people
-  * more relaxed (2): 1 people
+  * much more relaxed (1): 1 person
+  * more relaxed (2): 1 person
   * (was just right) (3): 27 people
   * more assertive (4): 3 people
-  * much more assertive (5): 1 people
+  * much more assertive (5): 1 person
 * **Average answer:** 3.06 (σ=0.61)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
@@ -138,13 +145,13 @@ summary: "In 2024 there were 2 public events (so far),
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 1 people (2.86% of attendees)
+* **Responses:** 1 person (2.86% of attendees)
 * **Answers:**
   * Friday evening is a bad timeslot for me.: 0 people
   * I can't fit another activity into my life.: 0 people
   * I did not like (some of) the people here.: 0 people
   * I did not like today's venue.: 0 people
-  * I live too far away.: 1 people
+  * I live too far away.: 1 person
   * I'm not very interested in your usual topics.: 0 people
   * The level of English is too advanced for me.: 0 people
 

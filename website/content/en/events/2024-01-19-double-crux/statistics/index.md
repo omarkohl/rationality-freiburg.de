@@ -1,12 +1,14 @@
 ---
 title: "Statistics: Double Crux"
-date: 2024-02-10T16:30:34+0100
+date: 2024-02-12T13:41:50+0100
 type: "default"
 toc: true
 summary: "Statistics for the 'Double Crux' event."
 ---
 
-Read more about this event: <a href="..">Double Crux</a>.
+Read more about [this event]({{< ref "events/2024-01-19-double-crux" >}})
+
+See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ## Attendees
 
@@ -26,7 +28,7 @@ Read more about this event: <a href="..">Double Crux</a>.
   * quite a bit of practical use (2): 9 people
   * some practical use (3): 0 people
   * little practical use (4): 2 people
-  * very little practical use (5): 1 people
+  * very little practical use (5): 1 person
 * **Average answer:** 2.06 (σ=1.16)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
@@ -39,7 +41,7 @@ Read more about this event: <a href="..">Double Crux</a>.
   * good (2): 8 people
   * okay (3): 0 people
   * bad (4): 0 people
-  * horrible (5): 1 people
+  * horrible (5): 1 person
 * **Average answer:** 1.67 (σ=0.97)
 
 ![2. The atmosphere / vibe was ...](./2-the-atmosphere-vibe-was.png)
@@ -51,7 +53,7 @@ Read more about this event: <a href="..">Double Crux</a>.
   * way too much (1): 0 people
   * too much (2): 2 people
   * just right (3): 15 people
-  * too little (4): 1 people
+  * too little (4): 1 person
   * way too little (5): 0 people
 * **Average answer:** 2.94 (σ=0.42)
 
@@ -75,7 +77,7 @@ Read more about this event: <a href="..">Double Crux</a>.
 * **Responses:** 18 people (94.74% of attendees)
 * **Answers:**
   * much more structure (1): 0 people
-  * more structure (2): 1 people
+  * more structure (2): 1 person
   * (was just right) (3): 15 people
   * less structure (4): 2 people
   * much less structure (5): 0 people
@@ -91,7 +93,7 @@ Read more about this event: <a href="..">Double Crux</a>.
   * more relaxed (2): 0 people
   * (was just right) (3): 15 people
   * more assertive (4): 2 people
-  * much more assertive (5): 1 people
+  * much more assertive (5): 1 person
 * **Average answer:** 3.22 (σ=0.55)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
@@ -102,7 +104,7 @@ Read more about this event: <a href="..">Double Crux</a>.
 * **Answers:**
   * very well prepared (1): 13 people
   * well prepared (2): 4 people
-  * okay prepared (3): 1 people
+  * okay prepared (3): 1 person
   * not well prepared (4): 0 people
   * not well prepared at all (5): 0 people
 * **Average answer:** 1.33 (σ=0.59)
@@ -117,7 +119,7 @@ Read more about this event: <a href="..">Double Crux</a>.
   * question some things (2): 7 people
   * question few things (3): 4 people
   * question very few things (4): 3 people
-  * not question anything (5): 1 people
+  * not question anything (5): 1 person
 * **Average answer:** 2.56 (σ=1.15)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)

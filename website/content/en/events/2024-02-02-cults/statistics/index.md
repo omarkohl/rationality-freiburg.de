@@ -1,12 +1,14 @@
 ---
 title: "Statistics: Cults & Cultishness"
-date: 2024-02-10T16:30:34+0100
+date: 2024-02-12T13:41:50+0100
 type: "default"
 toc: true
 summary: "Statistics for the 'Cults & Cultishness' event."
 ---
 
-Read more about this event: <a href="..">Cults & Cultishness</a>.
+Read more about [this event]({{< ref "events/2024-02-02-cults" >}})
+
+See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ## Attendees
 
@@ -26,7 +28,7 @@ Read more about this event: <a href="..">Cults & Cultishness</a>.
   * quite a bit of practical use (2): 3 people
   * some practical use (3): 3 people
   * little practical use (4): 4 people
-  * very little practical use (5): 1 people
+  * very little practical use (5): 1 person
 * **Average answer:** 2.67 (σ=1.35)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
@@ -48,7 +50,7 @@ Read more about this event: <a href="..">Cults & Cultishness</a>.
 
 * **Responses:** 15 people (93.75% of attendees)
 * **Answers:**
-  * way too much (1): 1 people
+  * way too much (1): 1 person
   * too much (2): 2 people
   * just right (3): 12 people
   * too little (4): 0 people
@@ -87,10 +89,10 @@ Read more about this event: <a href="..">Cults & Cultishness</a>.
 
 * **Responses:** 15 people (93.75% of attendees)
 * **Answers:**
-  * much more relaxed (1): 1 people
-  * more relaxed (2): 1 people
+  * much more relaxed (1): 1 person
+  * more relaxed (2): 1 person
   * (was just right) (3): 12 people
-  * more assertive (4): 1 people
+  * more assertive (4): 1 person
   * much more assertive (5): 0 people
 * **Average answer:** 2.87 (σ=0.64)
 
@@ -116,8 +118,8 @@ Read more about this event: <a href="..">Cults & Cultishness</a>.
   * question many things (1): 0 people
   * question some things (2): 6 people
   * question few things (3): 7 people
-  * question very few things (4): 1 people
-  * not question anything (5): 1 people
+  * question very few things (4): 1 person
+  * not question anything (5): 1 person
 * **Average answer:** 2.80 (σ=0.86)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
@@ -126,20 +128,20 @@ Read more about this event: <a href="..">Cults & Cultishness</a>.
 
 * **Responses:** 15 people (93.75% of attendees)
 * **Answers:**
-  * probably no: 1 people
+  * probably no: 1 person
   * probably yes: 14 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 1 people (6.25% of attendees)
+* **Responses:** 1 person (6.25% of attendees)
 * **Answers:**
   * Friday evening is a bad timeslot for me.: 0 people
   * I can't fit another activity into my life.: 0 people
   * I did not like (some of) the people here.: 0 people
   * I did not like today's venue.: 0 people
-  * I live too far away.: 1 people
+  * I live too far away.: 1 person
   * I'm not very interested in your usual topics.: 0 people
   * The level of English is too advanced for me.: 0 people
 
