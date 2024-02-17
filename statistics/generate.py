@@ -275,19 +275,26 @@ def generate_output(feedback_file: str, attendance_file: str):
             raise ValueError(f'More than one directory for {d} exists')
 
         event_dir = os.path.join(EVENTS_WEBDIR, dirs[0])
-        date_dir = os.path.join(EVENTS_WEBDIR, dirs[0], 'statistics')
-        os.makedirs(date_dir, exist_ok=True)
+        event_stats_dir = os.path.join(EVENTS_WEBDIR, dirs[0], 'statistics')
+        event_stats_page = os.path.join(event_stats_dir, 'index.md')
+        os.makedirs(event_stats_dir, exist_ok=True)
 
-        event_data = get_event_metadata(event_dir)
+        event_data = get_page_metadata(os.path.join(event_dir, '_index.md'))
         event_title = event_data['title']
         event_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '" >}}'
         event_stats_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '/statistics" >}}'
         all_event_stats_links += f'* [{event_title}]({event_stats_link})\n'
-
         summary_link = '{{< ref "posts/' + os.path.normpath(SUMMARY_WEBDIR).split(os.sep)[-1] + '" >}}'
+        # Get the creation date of the event's statistics page so as not to
+        # overwrite it if the page already exists
+        event_stats_page_creation_date = now.strftime('%Y-%m-%dT%H:%M:%S%z')
+        if os.path.exists(event_stats_page):
+            event_stats_data = get_page_metadata(event_stats_page)
+            if 'date' in event_stats_data:
+                event_stats_page_creation_date = event_stats_data['date']
         page_content = f"""---
 title: "Statistics: {event_title}"
-date: {now.strftime('%Y-%m-%dT%H:%M:%S%z')}
+date: {event_stats_page_creation_date}
 type: "default"
 toc: true
 summary: "Statistics for the '{event_title}' event."
@@ -311,16 +318,22 @@ See also the [{YEAR} summary]({summary_link}).
         page_content += f'* **Recurring:** {pluralize_people(recurring_participants)}\n'
         page_content += f'* **New:** {pluralize_people(new_participants)}\n\n'
 
-        page_content += generate_feedback_output(feedback_filtered_df, total_participants, date_dir)
+        page_content += generate_feedback_output(feedback_filtered_df, total_participants, event_stats_dir)
         # Generate the markdown page
-        with open(f'{date_dir}/index.md', 'w') as f:
+        with open(event_stats_page, 'w') as f:
             f.write(page_content)
 
+    summary_page = os.path.join(SUMMARY_WEBDIR, 'index.md')
     total_participants = attendance_df['Total participants'].sum()
+    summary_page_creation_date = now.strftime('%Y-%m-%dT%H:%M:%S%z')
+    if os.path.exists(summary_page):
+        summary_page_data = get_page_metadata(summary_page)
+        if 'date' in summary_page_data:
+            summary_page_creation_date = summary_page_data['date']
 
     page_content = f"""---
 title: "Statistics & Feedback {YEAR}"
-date: {now.strftime('%Y-%m-%dT%H:%M:%S%z')}
+date: {summary_page_creation_date}
 toc: true
 summary: "In {YEAR} there were {len(dates)} public events (so far),
   not counting book club, statistics study group and meta-meetup.
@@ -347,17 +360,17 @@ for the individual events here:
 """
 
     page_content += generate_feedback_output(feedback_df, total_participants, SUMMARY_WEBDIR)
-    with open(f'{SUMMARY_WEBDIR}/index.md', 'w') as f:
+    with open(summary_page, 'w') as f:
         f.write(page_content)
 
 
-def get_event_metadata(event_dir: str) -> Dict:
+def get_page_metadata(page: str) -> Dict:
     """
-    This function reads the title of the event from the event's directory.
+    This function reads the metadata from a Hugo page.
     """
     yaml_content = ""
     in_yaml = False
-    with open(os.path.join(event_dir, '_index.md')) as f:
+    with open(page) as f:
         lines = f.readlines()
         for line in lines:
             if in_yaml and line == '---\n':
