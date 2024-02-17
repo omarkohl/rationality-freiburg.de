@@ -423,6 +423,7 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     comments = feedback_df[QUESTIONS[11]].dropna().values
     page_content += f'### {QUESTIONS[11]}\n\n'
     page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[11]].count())} ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
+    page_content += f'**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n'
     if len(comments) > 0:
         quoted_comments = []
         for c in comments:
