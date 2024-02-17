@@ -58,7 +58,7 @@ join.
 
 [Learn more about us]({{< ref "about" >}}).
 
-![TODO](cover.png "TODO")
+![TODO](cover.webp "TODO")
 
 <small>Image generated with _DALL·E_.</small>
 
@@ -93,6 +93,6 @@ eingeladen mitzukommen.
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![TODO](cover.png "TODO")
+![TODO](cover.webp "TODO")
 
 <small>Bild mit der _DALL·E_ generiert.</small>
