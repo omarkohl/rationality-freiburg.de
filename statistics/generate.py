@@ -6,6 +6,7 @@ The data is read from a CSV file.
 """
 
 import os
+import sys
 import re
 import pytz
 import yaml
@@ -153,7 +154,25 @@ def main():
     generate_feedback_file(FEEDBACK_DE_SOURCE, FEEDBACK_EN_SOURCE, FEEDBACK_CLEANED)
     generate_attendance_files(ATTENDANCE_SOURCE, ATTENDANCE_CLEANED, REFERRAL_CLEANED)
     # TODO generate data about the source of newcomers
-    generate_output(FEEDBACK_CLEANED, ATTENDANCE_CLEANED)
+
+    regenerate = False
+    print_help = False
+    if len(sys.argv) == 2 and sys.argv[1] == '--regenerate':
+        regenerate = True
+    elif len(sys.argv) == 2 and sys.argv[1] != '--help':
+        print_help = True
+    elif len(sys.argv) == 1:
+        pass
+    else: # e.g. unknown argument or more than one argument
+        print_help = True
+
+    if print_help:
+        print('This script generates a markdown page suitable for Hugo containing tables with data and plots.')
+        print('Usage: generate.py [--regenerate]')
+        print('If the argument --regenerate is given, the script will replace the existing markdown files with new ones.')
+        exit(0)
+
+    generate_output(FEEDBACK_CLEANED, ATTENDANCE_CLEANED, regenerate)
 
 
 def generate_feedback_file(de_source: str, en_source: str, cleaned: str):
@@ -246,7 +265,7 @@ def generate_attendance_files(source: str, cleaned_attendance: str, newcomer_ref
     os.remove(source)
 
 
-def generate_output(feedback_file: str, attendance_file: str):
+def generate_output(feedback_file: str, attendance_file: str, regenerate: bool = False):
     """
     This function reads the cleaned data and generates a markdown page containing tables with data and plots.
     """
@@ -276,8 +295,8 @@ def generate_output(feedback_file: str, attendance_file: str):
 
         event_dir = os.path.join(EVENTS_WEBDIR, dirs[0])
         event_stats_dir = os.path.join(EVENTS_WEBDIR, dirs[0], 'statistics')
-        event_stats_page = os.path.join(event_stats_dir, 'index.md')
         os.makedirs(event_stats_dir, exist_ok=True)
+        event_stats_page = os.path.join(event_stats_dir, 'index.md')
 
         event_data = get_page_metadata(os.path.join(event_dir, '_index.md'))
         event_title = event_data['title']
@@ -285,6 +304,11 @@ def generate_output(feedback_file: str, attendance_file: str):
         event_stats_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '/statistics" >}}'
         all_event_stats_links += f'* [{event_title}]({event_stats_link})\n'
         summary_link = '{{< ref "posts/' + os.path.normpath(SUMMARY_WEBDIR).split(os.sep)[-1] + '" >}}'
+
+        if not regenerate and os.path.exists(event_stats_page):
+            # If the page already exists, skip it
+            continue
+
         # Get the creation date of the event's statistics page so as not to
         # overwrite it if the page already exists
         event_stats_page_creation_date = now.strftime('%Y-%m-%dT%H:%M:%S%z')
