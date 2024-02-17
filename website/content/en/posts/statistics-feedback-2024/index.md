@@ -161,6 +161,8 @@ for the individual events here:
 
 * **Responses:** 12 people (34.29% of attendees)
 
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
 > I liked the „make the elephants like each other idea“
 
 > Schade war, dass viel Zeit dafür verwendet wurde Dinge zu wiederholen, die man auch vorher hätte lesen können. Andererseits bereue ich das Lesen nicht, da dort viel mehr interessantes stand. Ich sehe auch, dass man nicht erwarten kann, dass alle vorbereitet zum Meeting kommen. Deshalb eine Idee, welche sich vielleicht praktisch umsetzen lässt: Beim Bilden von Untergruppen teilen wir die Leute auf zwischen denen, die zur Vorbereitung gelesen haben, und den anderen. So profitiert man zumindest dadurch von der eigenen Vorbereitung, dass man mit besser informierten Personen diskutieren kann. Ausnahme evtl. für Leute, die zum ersten Mal auftauchen.
@@ -178,7 +180,7 @@ for the individual events here:
 > Most- people least- nothing
 
 > Most: The many views brought about by the different participants. The reading list.
-Least: the content felt not cohesive. Some consolidation could help.
+> Least: the content felt not cohesive. Some consolidation could help.
 
 > Am Besten die Übung, am wenigsten nichts.
 

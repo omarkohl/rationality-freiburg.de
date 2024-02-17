@@ -151,6 +151,8 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 * **Responses:** 9 people (56.25% of attendees)
 
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
 > Friendly
 
 > The discussion in the smaller group (though the group was still somewhat big)
@@ -162,7 +164,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 > Most- people least- nothing
 
 > Most: The many views brought about by the different participants. The reading list.
-Least: the content felt not cohesive. Some consolidation could help.
+> Least: the content felt not cohesive. Some consolidation could help.
 
 > Am Besten die Übung, am wenigsten nichts.
 
