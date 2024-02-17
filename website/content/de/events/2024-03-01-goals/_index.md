@@ -14,7 +14,6 @@ eventHost:
 eventType:
   - discussion
   - exercise
-  - presentation
 layout: single
 outputs:
   - HTML
@@ -24,19 +23,31 @@ url: termine/2024-03-01-ziele
 
 ## Vorbereitung
 
-Es wird einige Texte zum Lesen geben, die ich spätestens eine Woche vor dem
-Event hinzufügen werde. Bitte schau hier wieder vorbei.
+Bitte lies die folgenden Texte und mache dir einige Notizen für die Diskussion.
+Wenn du sie nicht liest, hast du die Möglichkeit, die ersten beiden während des
+Treffens zu lesen. Es ist in Ordnung, unvorbereitet zu kommen.
+
+* (Englisch) [Ugh fields](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields)
+* (Englisch) [Why Productivity Systems Don't Stick](https://www.lesswrong.com/posts/ga8g4RbKc6DmqEBwD/why-productivity-systems-don-t-stick)
+* (Englisch) [How to Beat Procrastination](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination)
+* (Englisch) [My Algorithm for Beating Procrastination](https://www.lesswrong.com/posts/Ty2tjPwv8uyPK9vrz/my-algorithm-for-beating-procrastination)
+
+Optionale Lektüre:
+
+* (Englisch) [Internal Double Crux (Duncan)](https://www.lesswrong.com/posts/x2KrcscqgKDk6pMeD/internal-double-crux-1)
+* (Englisch) [Internal Double Crux (alkjash)](https://www.lesswrong.com/posts/mQmx4kQQtHeBip9ZC/internal-double-crux)
+* (Englisch) [Internal Diet Crux](https://www.lesswrong.com/posts/cvzzyKEZg4LRmvooq/internal-diet-crux)
 
 
 ## Was werden wir tun?
 
 Wir werden die oben verlinkten Texte diskutieren. Das allgemeine Thema wird das
 Erreichen deiner Ziele, Prokrastination und Akrasia sein. Personen, die die
-Texte nicht im Voraus gelesen haben, werden sie vor Ort lesen und erst
-anschließend mit der Diskussion beginnen.
+Texte nicht im Voraus gelesen haben, werden die ersten beiden davon vor Ort
+lesen und erst anschließend mit der Diskussion beginnen.
 
-Nach der Diskussion wird Omar das Tool Beeminder vorstellen und denen helfen,
-die es ausprobieren möchten, es einzurichten.
+Nach der Diskussion wird Omar das Tool [Beeminder](https://www.beeminder.com/)
+vorstellen und wir werden die "Internal Double Crux" Übung durchführen.
 
 
 ## Organisation

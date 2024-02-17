@@ -42,7 +42,7 @@ Optional reading:
 
 We will discuss the texts linked above. The general topic will be achieving
 your goals, procrastination and akrasia. People who have not read the texts
-beforehand, will read two of them on-site and only start the discussion
+beforehand, will read the first two on-site and only start the discussion
 afterwards.
 
 After the discussion, Omar will present the tool
