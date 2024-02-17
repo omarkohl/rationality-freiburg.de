@@ -424,7 +424,10 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     page_content += f'### {QUESTIONS[11]}\n\n'
     page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[11]].count())} ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
     if len(comments) > 0:
-        page_content += '\n\n'.join([f'> {c}' for c in comments]) + '\n'
+        quoted_comments = []
+        for c in comments:
+            quoted_comments.append('> ' + c.replace("\n", "\n> "))
+        page_content += '\n\n'.join(quoted_comments) + '\n'
     return page_content
 
 
