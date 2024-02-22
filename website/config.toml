@@ -36,3 +36,6 @@ unsafe = true # enable html in markdown
     [languages.de.permalinks]
       events = "termine/:slug"
       posts = "beiträge/:slug"
+
+    [languages.de.params]
+      description = "Treffpunkt für LessWrong- oder SSC/ACX-Leser sowie für andere an Rationalität (Rationality) interessierte Menschen in und um Freiburg im Breisgau."
