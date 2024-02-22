@@ -10,7 +10,7 @@ We have a book club i.e. we read books chapter by chapter and discuss them.
 We usually meet once a week for lunch and tend to read about 100 pages / week.
 
 If you are interested in joining the book club please come to a [meetup]({{<
-ref "/events/" >}}) first.
+ref "/events" >}}) first.
 
 
 ## Books

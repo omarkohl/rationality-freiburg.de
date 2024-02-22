@@ -15,7 +15,7 @@ inspirieren. Jeder ist willkommen!
 Wenn du gerne [LessWrong](https://www.lesswrong.com/),
 [SSC](https://slatestarcodex.com/)/[ACX](https://astralcodexten.substack.com/),
 [WaitButWhy](https://waitbutwhy.com/) liest oder einfach nicht anders kannst,
-als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events/"
+als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events"
 >}})!
 
 ![Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus 'Debattierclub',

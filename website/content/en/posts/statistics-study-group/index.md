@@ -22,7 +22,7 @@ the material.
 We are working through the text book "Statistics" by Freedman, Pisani and Purves.
 
 If you are interested in joining the study group please come to a [meetup]({{<
-ref "/events/" >}}) first.
+ref "/events" >}}) first.
 
 
 ## Process

@@ -11,7 +11,7 @@ improve, help and inspire each other. Anyone is welcome!
 If you enjoy reading [LessWrong](https://www.lesswrong.com/),
 [SSC](https://slatestarcodex.com/)/[ACX](https://astralcodexten.substack.com/),
 [WaitButWhy](https://waitbutwhy.com/) or simply can't help but _question_, come
-to one of our [meetups]({{< ref "/events/" >}})!
+to one of our [meetups]({{< ref "/events" >}})!
 
 ![Venn diagram: Rationality Freiburg is at the intersection of 'Debating
 Society', 'Philosophy Roundtable' and 'Self-Help
@@ -51,7 +51,7 @@ cases and then improving the result of your decisions is useful.
 
 ### What do you do?
 
-We have [meetups]({{< ref "/events/" >}}) every two weeks where we discuss
+We have [meetups]({{< ref "/events" >}}) every two weeks where we discuss
 interesting topics and do exercises or play games that are fun and sometimes
 teach us useful skills to better reach our personal goals. We also have a [book
 club]({{< ref "/posts/book-club" >}}) and a [statistics study group]({{< ref
