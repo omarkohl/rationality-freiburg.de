@@ -18,8 +18,8 @@ from datetime import datetime
 
 
 YEAR = '2024'
-SUMMARY_WEBDIR = f'../website/content/en/posts/statistics-feedback-{YEAR}/'
-EVENTS_WEBDIR = '../website/content/en/events/'
+SUMMARY_WEBDIR = f'../website/content/posts/statistics-feedback-{YEAR}/'
+EVENTS_WEBDIR = '../website/content/events/'
 
 # Filenames
 FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
