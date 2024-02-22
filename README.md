@@ -11,7 +11,7 @@ Visit [www.rationality-freiburg.de](https://www.rationality-freiburg.de)
 
 The simplest way of contributing (e.g. if you found a mistake in one of the
 posts) is to simply edit the .md (MarkDown) documents you can find under the
-`website/content/en/` directory. Then simply send a pull request.
+`website/content/` directory. Then simply send a pull request.
 
 To create a new post you can copy an existing document or folder (basically
 only needed if the post contains images) and adapt as needed.
@@ -31,8 +31,8 @@ Hugo](https://gohugo.io/getting-started/installing/) and then:
 ```bash
 cd website
 hugo new posts/some-examples.md
-# edit content/posts/en/some-example.md
-# optionally edit content/posts/de/some-example.md for the German translation
+# edit content/posts/some-example.md
+# optionally edit content/posts/some-example.de.md for the German translation
 hugo server -D
 ```
 
@@ -47,12 +47,12 @@ Open http://localhost:1313 in a browser and check your post.
 cd website
 NAME=2023-01-06-cognitive-biases
 hugo new events/${NAME}/_index.md
-vim content/en/events/${NAME}/_index.md
-cp ~/Desktop/cover.webp content/en/events/${NAME}/cover.webp
-convert -resize 512x512 content/en/events/${NAME}/cover.webp content/en/events/${NAME}/cover.webp
-cp -r content/en/events/${NAME}/ content/de/events/
-vim content/{en,de}/events/${NAME}/_index.md
-git add content/{en,de}/events/${NAME}/
+vim content/events/${NAME}/_index.md
+cp ~/Desktop/cover.webp content/events/${NAME}/cover.webp
+convert -resize 512x512 content/events/${NAME}/cover.webp content/events/${NAME}/cover.webp
+cp content/events/${NAME}/_index.md content/events/${NAME}/_index.de.md
+vim content/events/${NAME}/_index*.md
+git add content/events/${NAME}/
 git commit -m "Add event ${NAME}"
 ```
 
@@ -60,9 +60,8 @@ To edit an existing event (e.g. because initially there was no theme).
 
 ```bash
 cd website
-git mv content/en/events/2023-02-17-meetup/ content/en/events/2023-02-17-exercising/
-git mv content/de/events/2023-02-17-meetup/ content/de/events/2023-02-17-exercising/
-vim content/{en,de}/events/2023-02-17-exercising/index.md
+git mv content/events/2023-02-17-meetup/ content/events/2023-02-17-exercising/
+vim content/events/2023-02-17-exercising/_index*.md
 ```
 
 Add an `aliases` section in each case:
