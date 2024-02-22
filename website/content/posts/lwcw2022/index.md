@@ -14,7 +14,7 @@ else cheered them on.
 
 <!--more-->
 
-![Berlin Reichstag at sunset](berlin.jpg "Berlin Reichstag at sunset")
+![Berlin Reichstag at sunset](cover.jpg "Berlin Reichstag at sunset")
 
 Strictly speaking this happened after the LessWrong Community Weekend during
 the _Rationality Dojo_ that the Berlin Community organized, but it is an
