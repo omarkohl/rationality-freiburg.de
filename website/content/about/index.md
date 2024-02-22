@@ -15,7 +15,7 @@ to one of our [meetups]({{< ref "/events" >}})!
 
 ![Venn diagram: Rationality Freiburg is at the intersection of 'Debating
 Society', 'Philosophy Roundtable' and 'Self-Help
-Group'](about-venn-diagram-400-en.png "Venn diagram: Rationality Freiburg is at
+Group'](about-venn-diagram-400.png "Venn diagram: Rationality Freiburg is at
 the intersection of 'Debating Society', 'Philosophy Roundtable' and 'Self-Help
 Group'")
 

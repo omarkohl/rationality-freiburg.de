@@ -20,7 +20,7 @@ als zu _(hinter-)fragen_, komm zu einem unserer [Treffen]({{< ref "/events"
 
 ![Venn Diagramm: Rationality Freiburg ist die Schnittmenge aus 'Debattierclub',
 'Philosophischer Stammtisch' und
-'Selbsthilfegruppe'](about-venn-diagram-400-de.png "Venn Diagramm: Rationality
+'Selbsthilfegruppe'](about-venn-diagram-400.png "Venn Diagramm: Rationality
 Freiburg ist die Schnittmenge aus 'Debattierclub', 'Philosophischer Stammtisch'
 und 'Selbsthilfegruppe'")
 
