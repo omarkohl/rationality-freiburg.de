@@ -25,13 +25,11 @@ unsafe = true # enable html in markdown
     weight = 1
     languageName = "English"
     languageCode = "en-US"
-    contentDir = "content/en"
 
   [languages.de]
     weight = 2
     languageName = "Deutsch"
     languageCode = "de-DE"
-    contentDir = "content/de"
 
     [languages.de.permalinks]
       events = "termine/:slug"
