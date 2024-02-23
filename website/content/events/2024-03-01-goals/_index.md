@@ -20,7 +20,7 @@ outputs:
   - Calendar
 ---
 
-## Update 28.02
+## Update 23.02
 
 This time we will meet in the large "Veranstaltungsraum" of the Haus des
 Engagements. You can access it through a different entrance, namely the one

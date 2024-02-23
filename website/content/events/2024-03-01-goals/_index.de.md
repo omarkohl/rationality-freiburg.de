@@ -21,7 +21,7 @@ outputs:
 url: termine/2024-03-01-ziele
 ---
 
-## Update 28.02
+## Update 23.02
 
 Dieses Mal treffen wir uns im großen Veranstaltungsraum des Haus des
 Engagements. Den erreicht man über einen anderen Eingang und zwar direkt an der
