@@ -3,9 +3,9 @@ title: "Ziele erreichen"
 date: 2024-02-10T17:50:47+01:00
 eventStart: 2024-03-01T18:00:00+01:00
 eventEnd: 2024-03-01T20:30:00+01:00
-eventLocation: "Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
-eventGeoLat: 47.98934
-eventGeoLon: 7.83945
+eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
+eventGeoLat: 47.98953
+eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 1. März 2024 um 18:00 Uhr MEZ."
@@ -20,6 +20,17 @@ outputs:
   - Calendar
 url: termine/2024-03-01-ziele
 ---
+
+## Update 28.02
+
+Dieses Mal treffen wir uns im großen Veranstaltungsraum des Haus des
+Engagements. Den erreicht man über einen anderen Eingang und zwar direkt an der
+Rehlingstraße, NICHT im Innenhof. Auf dem Bild unten ist der korrekt Eingang
+grün markiert (der übliche Eingang in rot). Fahrräder sollen bitte dennoch am
+gleichen Ort wie immer abgestellt werden (blau markiert).
+
+![Eingang HdE](hde-entrance.png "Eingang HdE")
+
 
 ## Vorbereitung
 
