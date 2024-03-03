@@ -178,7 +178,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > Room 10/10  
 >   
-> We have space for some movement excersices there maybe. Like arranging in order of attribute of person for introduction 
+> We have space for some movement exercises there maybe. Like arranging in order of attribute of person for introduction [Typo corrected]
 
 > discussions + exercise  
 > snacks :-D
