@@ -181,7 +181,7 @@ for the individual events here:
 
 > Most- people least- nothing
 
-> Most: The many views brought about by the different participants. The reading list.
+> Most: The many views brought about by the different participants. The reading list.  
 > Least: the content felt not cohesive. Some consolidation could help.
 
 > Am Besten die Übung, am wenigsten nichts.
@@ -192,7 +192,7 @@ for the individual events here:
 
 > die Stimmung + entspannte Atmosphäre
 
-> - das Spielen hat sehr viel Spaß gemacht
+> - das Spielen hat sehr viel Spaß gemacht  
 > - der Beginn hätte etwas lockerer / gesprächiger sein können
 
 > Was fun
@@ -205,17 +205,17 @@ for the individual events here:
 
 > [The game] Karriere Poker
 
-> Most: got to play Scrabble
+> Most: got to play Scrabble  
 > least: didn't get to play any new game [Typo fixed]
 
 > Positiv: Mich mal wieder ein bisschen an die Karriere-Poker Strategie erinnern. War leider zu kurz, um komplett rein zu kommen. Insgesamt ist das Feedback-Formular eher unpassend für einen Spieleabend. ;)
 
 > New room was great!
 
-> Es gab eine sehr gute Balance zwischen Diskussion, Input und Übungen.
+> Es gab eine sehr gute Balance zwischen Diskussion, Input und Übungen.  
 > Die Triviafragen waren eine gute Idee, aber auch etwas stressig 😄
 
-> Texts
+> Texts  
 > Exercise
 
 > New room is nice!
@@ -228,16 +228,16 @@ for the individual events here:
 
 > I enjoyed the big group discussion about procrastination.
 
-> Discussion was great.
+> Discussion was great.  
 > Exercise was quite hard.
 
 > Most topic least I was not prepared 
 
-> Room 10/10
-> 
+> Room 10/10  
+>   
 > We have space for some movement excersices there maybe. Like arranging in order of attribute of person for introduction 
 
-> discussions + exercise
+> discussions + exercise  
 > snacks :-D
 
 > Least: Many discussions in offtopic examples. Low abstraction level.

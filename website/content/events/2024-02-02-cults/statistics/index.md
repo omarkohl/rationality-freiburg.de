@@ -163,7 +163,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > Most- people least- nothing
 
-> Most: The many views brought about by the different participants. The reading list.
+> Most: The many views brought about by the different participants. The reading list.  
 > Least: the content felt not cohesive. Some consolidation could help.
 
 > Am Besten die Übung, am wenigsten nichts.

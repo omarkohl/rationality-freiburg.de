@@ -155,7 +155,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > die Stimmung + entspannte Atmosphäre
 
-> - das Spielen hat sehr viel Spaß gemacht
+> - das Spielen hat sehr viel Spaß gemacht  
 > - der Beginn hätte etwas lockerer / gesprächiger sein können
 
 > Was fun
@@ -168,7 +168,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > [The game] Karriere Poker
 
-> Most: got to play Scrabble
+> Most: got to play Scrabble  
 > least: didn't get to play any new game [Typo fixed]
 
 > Positiv: Mich mal wieder ein bisschen an die Karriere-Poker Strategie erinnern. War leider zu kurz, um komplett rein zu kommen. Insgesamt ist das Feedback-Formular eher unpassend für einen Spieleabend. ;)

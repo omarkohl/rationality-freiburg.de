@@ -155,10 +155,10 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > New room was great!
 
-> Es gab eine sehr gute Balance zwischen Diskussion, Input und Übungen.
+> Es gab eine sehr gute Balance zwischen Diskussion, Input und Übungen.  
 > Die Triviafragen waren eine gute Idee, aber auch etwas stressig 😄
 
-> Texts
+> Texts  
 > Exercise
 
 > New room is nice!
@@ -171,16 +171,16 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > I enjoyed the big group discussion about procrastination.
 
-> Discussion was great.
+> Discussion was great.  
 > Exercise was quite hard.
 
 > Most topic least I was not prepared 
 
-> Room 10/10
-> 
+> Room 10/10  
+>   
 > We have space for some movement excersices there maybe. Like arranging in order of attribute of person for introduction 
 
-> discussions + exercise
+> discussions + exercise  
 > snacks :-D
 
 > Least: Many discussions in offtopic examples. Low abstraction level.
