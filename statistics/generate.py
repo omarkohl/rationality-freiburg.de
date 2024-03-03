@@ -464,7 +464,7 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     if len(comments) > 0:
         quoted_comments = []
         for c in comments:
-            quoted_comments.append('> ' + c.replace("\n", "\n> "))
+            quoted_comments.append('> ' + c.replace("\n", "  \n> "))
         page_content += '\n\n'.join(quoted_comments) + '\n'
     return page_content
 
