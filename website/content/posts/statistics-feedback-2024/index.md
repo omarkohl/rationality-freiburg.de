@@ -2,7 +2,7 @@
 title: "Statistics & Feedback 2024"
 date: 2024-02-12T13:41:50+0100
 toc: true
-summary: "In 2024 there were 3 public events (so far),
+summary: "In 2024 there were 4 public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
@@ -15,138 +15,139 @@ for the individual events here:
 * [Double Crux]({{< ref "events/2024-01-19-double-crux/statistics" >}})
 * [Cults & Cultishness]({{< ref "events/2024-02-02-cults/statistics" >}})
 * [Boardgames]({{< ref "events/2024-02-16-boardgames/statistics" >}})
+* [Achieving Goals]({{< ref "events/2024-03-01-goals/statistics" >}})
 
 
 ## Attendees
 
-* 3 events.
-* 17.67 people per event on average (σ=1.53).
-* 4.00 newcomers per event (σ=2.65).
-* Maximum number of attendees was 19 and minimum was 16 people.
+* 4 events.
+* 18.25 people per event on average (σ=1.71).
+* 3.25 newcomers per event (σ=2.63).
+* Maximum number of attendees was 20 and minimum was 16 people.
 
 **Recurring** is any person coming for the second, third etc. time whereas
 **New** is anyone coming for the first time to a Rationality Freiburg event.
 
 ## Feedback
 
-* **Responses:** 49 people (92.45% of attendees)
+* **Responses:** 68 people (93.15% of attendees)
 
 ### 1. Practical use: For my life, what we did today will have ...
 
-* **Responses:** 48 people (90.57% of attendees)
+* **Responses:** 67 people (91.78% of attendees)
 * **Answers:**
-  * a lot of practical use (1): 11 people
-  * quite a bit of practical use (2): 13 people
-  * some practical use (3): 8 people
-  * little practical use (4): 9 people
+  * a lot of practical use (1): 17 people
+  * quite a bit of practical use (2): 23 people
+  * some practical use (3): 10 people
+  * little practical use (4): 10 people
   * very little practical use (5): 7 people
-* **Average answer:** 2.75 (σ=1.39)
+* **Average answer:** 2.51 (σ=1.31)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
 
 ### 2. The atmosphere / vibe was ...
 
-* **Responses:** 49 people (92.45% of attendees)
+* **Responses:** 68 people (93.15% of attendees)
 * **Answers:**
-  * fantastic (1): 25 people
-  * good (2): 23 people
+  * fantastic (1): 33 people
+  * good (2): 34 people
   * okay (3): 0 people
   * bad (4): 0 people
   * horrible (5): 1 person
-* **Average answer:** 1.55 (σ=0.71)
+* **Average answer:** 1.56 (σ=0.66)
 
 ![2. The atmosphere / vibe was ...](./2-the-atmosphere-vibe-was.png)
 
 ### 3. The amount of content / exercises covered was ...
 
-* **Responses:** 46 people (86.79% of attendees)
+* **Responses:** 65 people (89.04% of attendees)
 * **Answers:**
   * way too much (1): 1 person
-  * too much (2): 6 people
-  * just right (3): 35 people
-  * too little (4): 3 people
+  * too much (2): 10 people
+  * just right (3): 48 people
+  * too little (4): 5 people
   * way too little (5): 1 person
-* **Average answer:** 2.93 (σ=0.61)
+* **Average answer:** 2.92 (σ=0.59)
 
 ![3. The amount of content / exercises covered was ...](./3-the-amount-of-content-exercises-covered-was.png)
 
 ### 4. The difficulty level of the content / discussion was ...
 
-* **Responses:** 47 people (88.68% of attendees)
+* **Responses:** 66 people (90.41% of attendees)
 * **Answers:**
   * much too easy (1): 0 people
-  * too easy (2): 10 people
-  * just right (3): 33 people
-  * too difficult (4): 4 people
+  * too easy (2): 14 people
+  * just right (3): 44 people
+  * too difficult (4): 8 people
   * much too difficult (5): 0 people
-* **Average answer:** 2.87 (σ=0.54)
+* **Average answer:** 2.91 (σ=0.57)
 
 ![4. The difficulty level of the content / discussion was ...](./4-the-difficulty-level-of-the-content-discussion-was.png)
 
 ### 5. Structure: On the whole the event needed ...
 
-* **Responses:** 49 people (92.45% of attendees)
+* **Responses:** 68 people (93.15% of attendees)
 * **Answers:**
   * much more structure (1): 0 people
-  * more structure (2): 5 people
-  * (was just right) (3): 41 people
+  * more structure (2): 6 people
+  * (was just right) (3): 59 people
   * less structure (4): 3 people
   * much less structure (5): 0 people
-* **Average answer:** 2.96 (σ=0.41)
+* **Average answer:** 2.96 (σ=0.36)
 
 ![5. Structure: On the whole the event needed ...](./5-structure-on-the-whole-the-event-needed.png)
 
 ### 6. The moderation should have been ...
 
-* **Responses:** 49 people (92.45% of attendees)
+* **Responses:** 68 people (93.15% of attendees)
 * **Answers:**
   * much more relaxed (1): 1 person
-  * more relaxed (2): 2 people
-  * (was just right) (3): 42 people
+  * more relaxed (2): 3 people
+  * (was just right) (3): 60 people
   * more assertive (4): 3 people
   * much more assertive (5): 1 person
-* **Average answer:** 3.02 (σ=0.52)
+* **Average answer:** 3.00 (σ=0.46)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
 
 ### 7. Host preparation: The content / exercises were ...
 
-* **Responses:** 47 people (88.68% of attendees)
+* **Responses:** 66 people (90.41% of attendees)
 * **Answers:**
-  * very well prepared (1): 23 people
-  * well prepared (2): 16 people
-  * okay prepared (3): 7 people
-  * not well prepared (4): 1 person
+  * very well prepared (1): 32 people
+  * well prepared (2): 23 people
+  * okay prepared (3): 9 people
+  * not well prepared (4): 2 people
   * not well prepared at all (5): 0 people
-* **Average answer:** 1.70 (σ=0.81)
+* **Average answer:** 1.71 (σ=0.82)
 
 ![7. Host preparation: The content / exercises were ...](./7-host-preparation-the-content-exercises-were.png)
 
 ### 8. Changing your mind: The event made me ...
 
-* **Responses:** 47 people (88.68% of attendees)
+* **Responses:** 66 people (90.41% of attendees)
 * **Answers:**
-  * question many things (1): 3 people
-  * question some things (2): 14 people
-  * question few things (3): 17 people
-  * question very few things (4): 9 people
+  * question many things (1): 4 people
+  * question some things (2): 27 people
+  * question few things (3): 21 people
+  * question very few things (4): 10 people
   * not question anything (5): 4 people
-* **Average answer:** 2.94 (σ=1.05)
+* **Average answer:** 2.74 (σ=1.00)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
 
 ### 9. Do you think you will come to one (or more) of the next three events?
 
-* **Responses:** 48 people (90.57% of attendees)
+* **Responses:** 67 people (91.78% of attendees)
 * **Answers:**
   * probably no: 3 people
-  * probably yes: 45 people
+  * probably yes: 64 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 1 person (1.89% of attendees)
+* **Responses:** 1 person (1.37% of attendees)
 * **Answers:**
   * Friday evening is a bad timeslot for me.: 0 people
   * I can't fit another activity into my life.: 0 people
@@ -160,7 +161,7 @@ for the individual events here:
 
 ### 11. What did you like the most today? What did you like the least?
 
-* **Responses:** 21 people (39.62% of attendees)
+* **Responses:** 34 people (46.58% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -208,3 +209,35 @@ for the individual events here:
 > least: didn't get to play any new game [Typo fixed]
 
 > Positiv: Mich mal wieder ein bisschen an die Karriere-Poker Strategie erinnern. War leider zu kurz, um komplett rein zu kommen. Insgesamt ist das Feedback-Formular eher unpassend für einen Spieleabend. ;)
+
+> New room was great!
+
+> Es gab eine sehr gute Balance zwischen Diskussion, Input und Übungen.
+> Die Triviafragen waren eine gute Idee, aber auch etwas stressig 😄
+
+> Texts
+> Exercise
+
+> New room is nice!
+
+> Der große Raum war gut (wenn auch etwas kalt). Die Diskussionen und übung hätten inhaltlich noch etwas spannendere Argumente bringen können, aber das ist halt nicht immer gleich. 
+
+> discussions
+
+> Der Raum war schön groß.
+
+> I enjoyed the big group discussion about procrastination.
+
+> Discussion was great.
+> Exercise was quite hard.
+
+> Most topic least I was not prepared 
+
+> Room 10/10
+> 
+> We have space for some movement excersices there maybe. Like arranging in order of attribute of person for introduction 
+
+> discussions + exercise
+> snacks :-D
+
+> Least: Many discussions in offtopic examples. Low abstraction level.
