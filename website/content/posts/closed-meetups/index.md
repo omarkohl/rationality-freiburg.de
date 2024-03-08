@@ -5,7 +5,7 @@ summary: Announcement that we will sometimes have closed meetups that are not
   open to newcomers. Normal meetups open to everyone will keep happening!
 ---
 
-The meetups are growing and in in the first 2 months of 2024 we are already
+The meetups are growing and in the first 2 months of 2024 we are already
 averaging over 18 people per meetup. This is fantastic since we love having new
 people! On average there are 2 newcomers at every meetup.
 
