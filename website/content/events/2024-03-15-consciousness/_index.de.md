@@ -1,5 +1,5 @@
 ---
-title: "Bewusstsein"
+title: "Das schwierige Problem des Bewusstseins"
 date: 2024-02-17T16:56:09+01:00
 eventStart: 2024-03-15T18:00:00+01:00
 eventEnd: 2024-03-15T20:30:00+01:00
@@ -24,12 +24,24 @@ url: termine/2024-03-15-bewusstsein
 
 ## Vorbereitung
 
-Wird noch festgelegt.
+Optional:
+
+* (Englisch) [Your brain hallucinates your conscious reality | Anil Seth |
+  TED](https://youtu.be/lyu7v7nWzfo) (17 min YouTube talk)
+* (Englisch) [Neuron: Conscious Processing and the Global Neuronal Workspace
+Hypothesis](https://www.cell.com/neuron/pdf/S0896-6273(20)30052-0.pdf)
+* (Englisch) [Frontiers: The attention schema theory: a mechanistic account of subjective
+awareness](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00500/full?source=post_page---------------------------)
 
 
 ## Was werden wir tun?
 
-Es wird eine Präsentation und eine Diskussionsrunde zum Thema menschliches Bewusstsein geben. Die Einzelheiten müssen noch festgelegt werden.
+Ein Problem, das Generationen von Menschen fasziniert hat. Während sich die
+wissenschaftliche Forschung weiterentwickelt, bleibt dies eine der wenigen
+unbeantworteten Fragen. Wir möchten einen kurzen Überblick über die Standpunkte
+geben, die Wissenschaft und Philosophie zu diesem komplexen Thema haben, und
+uns in Diskussionen über alle verbleibenden Möglichkeiten und Meinungen
+vertiefen.
 
 
 ## Organisation

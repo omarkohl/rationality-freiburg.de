@@ -1,5 +1,5 @@
 ---
-title: "Consciousness"
+title: "The Hard Problem of Consciousness"
 date: 2024-02-17T16:56:09+01:00
 eventStart: 2024-03-15T18:00:00+01:00
 eventEnd: 2024-03-15T20:30:00+01:00
@@ -23,13 +23,22 @@ outputs:
 
 ## Preparation
 
-To be defined.
+Optional:
+
+* [Your brain hallucinates your conscious reality | Anil Seth |
+  TED](https://youtu.be/lyu7v7nWzfo) (17 min YouTube talk)
+* [Neuron: Conscious Processing and the Global Neuronal Workspace
+Hypothesis](https://www.cell.com/neuron/pdf/S0896-6273(20)30052-0.pdf)
+* [Frontiers: The attention schema theory: a mechanistic account of subjective
+awareness](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00500/full?source=post_page---------------------------)
 
 
 ## What will we do?
 
-There will be a presentation and a discussion round on the topic of human
-consciousness. The details still need to be defined.
+A problem that fascinated generations of people. As scientific research evolves
+this remains one of the few unanswered questions. We want to give a brief
+overview of the stance the science and philosophy have on this elaborate topic
+and dive into discussions of all the remaining possibilities and opinions.
 
 
 ## Organization
