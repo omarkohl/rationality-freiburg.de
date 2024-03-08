@@ -37,8 +37,9 @@ awareness](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsy
 
 A problem that fascinated generations of people. As scientific research evolves
 this remains one of the few unanswered questions. We want to give a brief
-overview of the stance the science and philosophy have on this elaborate topic
-and dive into discussions of all the remaining possibilities and opinions.
+overview of the stances that science and philosophy have on this elaborate
+topic and dive into discussions of all the remaining possibilities and
+opinions.
 
 
 ## Organization
