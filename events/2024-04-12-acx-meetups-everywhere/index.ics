@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240310T171136
+ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
+STATUS:CONFIRMED
+UID:20240412T180000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20240412T180000
+DTEND;TZID=Europe/Berlin:20240412T203000
+SUMMARY:ACX Spring Meetups Everywhere 2024
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2024-04-12-acx-meetups-everywhere/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2024-04-12-acx-meetups-everywhere/\n
+LOCATION:Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg
+GEO:47.98934;7.83945
+URL:https://www.rationality-freiburg.de/events/2024-04-12-acx-meetups-everywhere/
+END:VEVENT
+END:VCALENDAR
