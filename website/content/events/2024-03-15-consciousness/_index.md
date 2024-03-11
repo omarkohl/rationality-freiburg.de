@@ -58,7 +58,7 @@ There will be snacks and drinks.
 We will go and get dinner after the meetup. Anyone who has time is welcome to
 join.
 
-![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.jpg)
+![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.png)
 
 Please leave your bikes in the location marked in blue. The entrance is marked
 by a red cross.

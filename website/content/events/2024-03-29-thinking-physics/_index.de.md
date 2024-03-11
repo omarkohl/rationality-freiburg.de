@@ -64,7 +64,7 @@ Es wird Snacks und Getränke geben.
 Nach dem Treffen werden wir essen gehen. Jeder, der Zeit hat, ist herzlich
 willkommen, sich anzuschließen.
 
-![Ort (Grüner Raum, Haus des Engagements)](/images/hde-old-building.jpg)
+![Ort (Grüner Raum, Haus des Engagements)](/images/hde-old-building.png)
 
 Bitte lasse dein Fahrrad wie in blau gekennzeichnet. Der Eingang ist mit einem
 roten Kreuz markiert.
