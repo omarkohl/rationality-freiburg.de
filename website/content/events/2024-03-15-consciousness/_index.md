@@ -3,9 +3,9 @@ title: "The Hard Problem of Consciousness"
 date: 2024-02-17T16:56:09+01:00
 eventStart: 2024-03-15T18:00:00+01:00
 eventEnd: 2024-03-15T20:30:00+01:00
-eventLocation: "Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
-eventGeoLat: 47.98934
-eventGeoLon: 7.83945
+eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
+eventGeoLat: 47.98953
+eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, March 15th 2024 at 18:00 hours CET."
@@ -57,6 +57,11 @@ There will be snacks and drinks.
 
 We will go and get dinner after the meetup. Anyone who has time is welcome to
 join.
+
+![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.jpg)
+
+Please leave your bikes in the location marked in blue. The entrance is marked
+by a red cross.
 
 
 ## Other
