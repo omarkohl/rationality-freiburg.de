@@ -3,7 +3,7 @@ title: "Thinking Physics (Closed Meetup)"
 date: 2024-03-10T12:33:49+01:00
 eventStart: 2024-03-29T18:00:00+01:00
 eventEnd: 2024-03-29T20:30:00+01:00
-eventLocation: "Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
+eventLocation: "Grüner Raum, Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
 eventGeoLat: 47.98934
 eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
@@ -60,6 +60,11 @@ There will be snacks and drinks.
 
 We will go and get dinner after the meetup. Anyone who has time is welcome to
 join.
+
+![Location (Grüner Raum, Haus des Engagements)](/images/hde-old-building.jpg)
+
+Please leave your bikes in the location marked in blue. The entrance is marked
+by a red cross.
 
 
 ## Other

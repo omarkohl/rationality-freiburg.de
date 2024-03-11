@@ -3,7 +3,7 @@ title: "Thinking Physics (Geschlossenes Treffen)"
 date: 2024-03-10T12:33:49+01:00
 eventStart: 2024-03-29T18:00:00+01:00
 eventEnd: 2024-03-29T20:30:00+01:00
-eventLocation: "Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
+eventLocation: "Grüner Raum, Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
 eventGeoLat: 47.98934
 eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
@@ -63,6 +63,11 @@ Es wird Snacks und Getränke geben.
 
 Nach dem Treffen werden wir essen gehen. Jeder, der Zeit hat, ist herzlich
 willkommen, sich anzuschließen.
+
+![Ort (Grüner Raum, Haus des Engagements)](/images/hde-old-building.jpg)
+
+Bitte lasse dein Fahrrad wie in blau gekennzeichnet. Der Eingang ist mit einem
+roten Kreuz markiert.
 
 
 ## Sonstiges
