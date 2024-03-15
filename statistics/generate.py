@@ -2,7 +2,16 @@
 
 """
 This script generates a markdown page suitable for Hugo containing tables with data and plots.
-The data is read from a CSV file.
+The data is read from multiple CSV files exported from Google Forms and LibreOffice Calc.
+That data is cleaned up (e.g. names are removed) and then written into the other CSV files
+that are stored alongside this script in the current directory. You can therefore always
+execute the script to generate markdown out of the box.
+The CSV files that were exported from Google Forms and LibreOffice Calc are deleted after
+the conversion, if they exist.
+If you wanted to you could also manually edit the CSV files you'll find next to this script.
+However, these CSV files are always overwritten when performing a conversion from the
+exported CSV files.
+Look for "Filenames" below for a little more information.
 """
 
 import os
@@ -22,12 +31,40 @@ SUMMARY_WEBDIR = f'../website/content/posts/statistics-feedback-{YEAR}/'
 EVENTS_WEBDIR = '../website/content/events/'
 
 # Filenames
-FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
+
+"""
+Expected format of the CSV file (exported from Google Forms):
+
+Timestamp,Date of the event,"1. Practical use: For my life, what we did today will have ...",2. The atmosphere / vibe was ...,3. The amount of content / exercises covered was ...,4. The difficulty level of the content / discussion was ...,5. Structure: On the whole the event needed ...,6. The moderation should have been ...,7. Host preparation: The content / exercises were ...,8. Changing your mind: The event made me ...,9. Do you think you will come to one (or more) of the next three events?,"10. If you answered ""probably no"" in the previous question or are very uncertain, why is that?",11. What did you like the most today? What did you like the least?,12. (optional) Name
+19/01/2024 20:36:42,19/01/2024,2,2,3,3,2,3,2,3,probably yes,,,
+02/02/2024 20:36:12,02/02/2024,3,1,3,3,3,2,1,3,probably yes,,,
+"""
 FEEDBACK_EN_SOURCE = 'Event Feedback (Responses) - EN.csv'
-FEEDBACK_CLEANED = f'feedback{YEAR}.csv'
+
+"""
+Expected format of the CSV file (exported from Google Forms):
+
+Timestamp,Datum der Veranstaltung,1. Was wir heute getan haben wird für mich ... praktischen Nutzen haben.,2. Die Atmosphäre / Stimmung war ...,3. Die Menge an Inhalt / Übungen war ...,4. Das Schwierigkeitsniveau des Inhalts / der Diskussion war ...,5. Struktur: Insgesamt brauchte die Veranstaltung ...,6. Die Moderation hätte ... sein sollen.,7. Der Inhalt / die Übungen waren ... vorbereitet.,8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.,"9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?","10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?",11. Was hat dir heute am besten gefallen? Was hat dir am wenigsten gefallen?,12. (optional) Name
+02/02/2024 20:37:08,02/02/2024,4,1,3,3,3,3,2,4,eher ja,,"Am Besten die Übung, am wenigsten nichts.",Frodo
+02/02/2024 20:37:19,02/02/2024,4,2,3,3,3,3,1,2,eher ja,,,
+""""
+FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
+
+"""
+Expected format of the CSV file:
+
+,How did you find RatFr?,19.01.2024,02.02.2024,16.02.2024,01.03.2024,Abs. Attendance,Rel. Attendance
+Frodo Baggins,,1,1,1,1,4,100%
+Bilbo Baggins,,1,1,1,1,4,100%
+"""
 ATTENDANCE_SOURCE = 'attendance-statistics.csv'
+
+# The following files are generated based on the above input files.
+FEEDBACK_CLEANED = f'feedback{YEAR}.csv'
 ATTENDANCE_CLEANED = f'attendance{YEAR}.csv'
 REFERRAL_CLEANED = f'referrals{YEAR}.csv'
+
+# End of Filenames
 
 QUESTIONS = {
     1: '1. Practical use: For my life, what we did today will have ...',
