@@ -21,6 +21,17 @@ outputs:
   - Calendar
 ---
 
+## Update 16.03
+
+The slides are on [Google
+Docs](https://docs.google.com/presentation/d/1qKKtagQnc8LUqZIFzGfdpeyomBYZK_WU4PpZiKb8DEk/edit#slide=id.g2c29e2b20bb_0_1)
+or you can download them as a PDF: [Consciousness.pdf](Consciousness.pdf).
+
+Word cloud responses to the initial survey "What is consciousness?":
+
+!["What is consciousness?" word cloud](word-cloud.jpg ""What is consciousness?" word cloud")
+
+
 ## Preparation
 
 Optional:

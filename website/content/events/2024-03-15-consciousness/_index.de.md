@@ -22,6 +22,17 @@ outputs:
 url: termine/2024-03-15-bewusstsein
 ---
 
+## Update 16.03
+
+Die Folien sind auf [Google
+Docs](https://docs.google.com/presentation/d/1qKKtagQnc8LUqZIFzGfdpeyomBYZK_WU4PpZiKb8DEk/edit#slide=id.g2c29e2b20bb_0_1)
+oder du kannst sie als PDF herunterladen: [Consciousness.pdf](Consciousness.pdf).
+
+Wortwolke zur initialen Umfrage "What is consciousness?":
+
+!["What is consciousness?" Wortwolke](word-cloud.jpg ""What is consciousness?" Wortwolke")
+
+
 ## Vorbereitung
 
 Optional:
