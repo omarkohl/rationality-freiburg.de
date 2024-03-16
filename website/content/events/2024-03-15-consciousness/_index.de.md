@@ -30,7 +30,7 @@ oder du kannst sie als PDF herunterladen: [Consciousness.pdf](Consciousness.pdf)
 
 Wortwolke zur initialen Umfrage "What is consciousness?":
 
-!["What is consciousness?" Wortwolke](word-cloud.jpg ""What is consciousness?" Wortwolke")
+!["What is consciousness?" Wortwolke](word-cloud.jpg "'What is consciousness?' Wortwolke")
 
 
 ## Vorbereitung

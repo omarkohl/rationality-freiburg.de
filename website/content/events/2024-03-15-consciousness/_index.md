@@ -29,7 +29,7 @@ or you can download them as a PDF: [Consciousness.pdf](Consciousness.pdf).
 
 Word cloud responses to the initial survey "What is consciousness?":
 
-!["What is consciousness?" word cloud](word-cloud.jpg ""What is consciousness?" word cloud")
+!["What is consciousness?" word cloud](word-cloud.jpg "'What is consciousness?' word cloud")
 
 
 ## Preparation
