@@ -2,7 +2,7 @@
 title: "Statistics & Feedback 2024"
 date: 2024-02-12T13:41:50+0100
 toc: true
-summary: "In 2024 there were 4 public events (so far),
+summary: "In 2024 there were 5 public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
@@ -16,139 +16,141 @@ for the individual events here:
 * [Cults & Cultishness]({{< ref "events/2024-02-02-cults/statistics" >}})
 * [Boardgames]({{< ref "events/2024-02-16-boardgames/statistics" >}})
 * [Achieving Goals]({{< ref "events/2024-03-01-goals/statistics" >}})
+* [The Hard Problem of Consciousness]({{< ref "events/2024-03-15-consciousness/statistics" >}})
 
 
 ## Attendees
 
-* 4 events.
-* 18.25 people per event on average (σ=1.71).
-* 3.25 newcomers per event (σ=2.63).
-* Maximum number of attendees was 20 and minimum was 16 people.
+* 5 events.
+* 19.80 people per event on average (σ=3.77).
+* 3.80 newcomers per event (σ=2.59).
+* Maximum number of attendees was 26 and minimum was 16 people.
 
 **Recurring** is any person coming for the second, third etc. time whereas
 **New** is anyone coming for the first time to a Rationality Freiburg event.
 
 ## Feedback
 
-* **Responses:** 68 people (93.15% of attendees)
+* **Responses:** 90 people (90.91% of attendees)
 
 ### 1. Practical use: For my life, what we did today will have ...
 
-* **Responses:** 67 people (91.78% of attendees)
+* **Responses:** 89 people (89.90% of attendees)
 * **Answers:**
-  * a lot of practical use (1): 17 people
-  * quite a bit of practical use (2): 23 people
-  * some practical use (3): 10 people
-  * little practical use (4): 10 people
-  * very little practical use (5): 7 people
-* **Average answer:** 2.51 (σ=1.31)
+  * a lot of practical use (1): 18 people
+  * quite a bit of practical use (2): 24 people
+  * some practical use (3): 18 people
+  * little practical use (4): 16 people
+  * very little practical use (5): 13 people
+* **Average answer:** 2.80 (σ=1.35)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
 
 ### 2. The atmosphere / vibe was ...
 
-* **Responses:** 68 people (93.15% of attendees)
+* **Responses:** 90 people (90.91% of attendees)
 * **Answers:**
-  * fantastic (1): 33 people
-  * good (2): 34 people
-  * okay (3): 0 people
+  * fantastic (1): 37 people
+  * good (2): 51 people
+  * okay (3): 1 person
   * bad (4): 0 people
   * horrible (5): 1 person
-* **Average answer:** 1.56 (σ=0.66)
+* **Average answer:** 1.63 (σ=0.63)
 
 ![2. The atmosphere / vibe was ...](./2-the-atmosphere-vibe-was.png)
 
 ### 3. The amount of content / exercises covered was ...
 
-* **Responses:** 65 people (89.04% of attendees)
+* **Responses:** 87 people (87.88% of attendees)
 * **Answers:**
-  * way too much (1): 1 person
-  * too much (2): 10 people
-  * just right (3): 48 people
-  * too little (4): 5 people
+  * way too much (1): 3 people
+  * too much (2): 23 people
+  * just right (3): 54 people
+  * too little (4): 6 people
   * way too little (5): 1 person
-* **Average answer:** 2.92 (σ=0.59)
+* **Average answer:** 2.76 (σ=0.68)
 
 ![3. The amount of content / exercises covered was ...](./3-the-amount-of-content-exercises-covered-was.png)
 
 ### 4. The difficulty level of the content / discussion was ...
 
-* **Responses:** 66 people (90.41% of attendees)
+* **Responses:** 88 people (88.89% of attendees)
 * **Answers:**
   * much too easy (1): 0 people
-  * too easy (2): 14 people
-  * just right (3): 44 people
-  * too difficult (4): 8 people
+  * too easy (2): 17 people
+  * just right (3): 58 people
+  * too difficult (4): 13 people
   * much too difficult (5): 0 people
-* **Average answer:** 2.91 (σ=0.57)
+* **Average answer:** 2.95 (σ=0.59)
 
 ![4. The difficulty level of the content / discussion was ...](./4-the-difficulty-level-of-the-content-discussion-was.png)
 
 ### 5. Structure: On the whole the event needed ...
 
-* **Responses:** 68 people (93.15% of attendees)
+* **Responses:** 90 people (90.91% of attendees)
 * **Answers:**
-  * much more structure (1): 0 people
-  * more structure (2): 6 people
-  * (was just right) (3): 59 people
-  * less structure (4): 3 people
+  * much more structure (1): 2 people
+  * more structure (2): 17 people
+  * (was just right) (3): 67 people
+  * less structure (4): 4 people
   * much less structure (5): 0 people
-* **Average answer:** 2.96 (σ=0.36)
+* **Average answer:** 2.81 (σ=0.54)
 
 ![5. Structure: On the whole the event needed ...](./5-structure-on-the-whole-the-event-needed.png)
 
 ### 6. The moderation should have been ...
 
-* **Responses:** 68 people (93.15% of attendees)
+* **Responses:** 90 people (90.91% of attendees)
 * **Answers:**
   * much more relaxed (1): 1 person
-  * more relaxed (2): 3 people
-  * (was just right) (3): 60 people
-  * more assertive (4): 3 people
-  * much more assertive (5): 1 person
-* **Average answer:** 3.00 (σ=0.46)
+  * more relaxed (2): 5 people
+  * (was just right) (3): 73 people
+  * more assertive (4): 7 people
+  * much more assertive (5): 4 people
+* **Average answer:** 3.09 (σ=0.59)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
 
 ### 7. Host preparation: The content / exercises were ...
 
-* **Responses:** 66 people (90.41% of attendees)
+* **Responses:** 88 people (88.89% of attendees)
 * **Answers:**
-  * very well prepared (1): 32 people
-  * well prepared (2): 23 people
-  * okay prepared (3): 9 people
+  * very well prepared (1): 40 people
+  * well prepared (2): 32 people
+  * okay prepared (3): 14 people
   * not well prepared (4): 2 people
   * not well prepared at all (5): 0 people
-* **Average answer:** 1.71 (σ=0.82)
+* **Average answer:** 1.75 (σ=0.81)
 
 ![7. Host preparation: The content / exercises were ...](./7-host-preparation-the-content-exercises-were.png)
 
 ### 8. Changing your mind: The event made me ...
 
-* **Responses:** 66 people (90.41% of attendees)
+* **Responses:** 88 people (88.89% of attendees)
 * **Answers:**
-  * question many things (1): 4 people
-  * question some things (2): 27 people
-  * question few things (3): 21 people
-  * question very few things (4): 10 people
+  * question many things (1): 5 people
+  * question some things (2): 38 people
+  * question few things (3): 26 people
+  * question very few things (4): 15 people
   * not question anything (5): 4 people
-* **Average answer:** 2.74 (σ=1.00)
+* **Average answer:** 2.72 (σ=0.97)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
 
 ### 9. Do you think you will come to one (or more) of the next three events?
 
-* **Responses:** 67 people (91.78% of attendees)
+* **Responses:** 89 people (89.90% of attendees)
 * **Answers:**
-  * probably no: 3 people
-  * probably yes: 64 people
+  * probably no: 4 people
+  * probably yes: 85 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 1 person (1.37% of attendees)
+* **Responses:** 2 people (2.02% of attendees)
 * **Answers:**
+  * Do not get much enlightened due to diverse of discussions.: 1 person
   * Friday evening is a bad timeslot for me.: 0 people
   * I can't fit another activity into my life.: 0 people
   * I did not like (some of) the people here.: 0 people
@@ -161,7 +163,7 @@ for the individual events here:
 
 ### 11. What did you like the most today? What did you like the least?
 
-* **Responses:** 34 people (46.58% of attendees)
+* **Responses:** 48 people (48.48% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -241,3 +243,36 @@ for the individual events here:
 > snacks :-D
 
 > Least: Many discussions in offtopic examples. Low abstraction level.
+
+> Most - topic least - less time
+
+> Many interesting impulses.  
+> Great atmosphere of discussions.
+
+> A little bit chaotic today, longer discussion in small groups would have nice, clear definition of consciousness was not given 
+
+> Least: first part didn't really 'introduced' what was then presented by Nawid. Felt a bit irrelevant for the discussion part.  
+> Most: the topic in general!
+
+> Mind blown
+
+> I think some parts of the presentations were not really relevant for the topic. But some very interesting ideas popped up during presentation and discussion. 
+
+> Most: the topic, the progression. Least: will wasn't fully clear about the arguments are the end. But might just need to think more about it.
+
+> Gute Präsentationen, angenehme Stimmung  
+> Mehr Zeit, um tiefer in die Diskussion zu gehen wäre gut
+
+> Open discussion. 
+
+> Zivilisierte Diskussion in grosser Runde
+
+> the small group discussion (was too little time though)
+
+> Most: Very interesting presentations focusing on two different aspects/approaches to the question of consciousness.  
+> Least: Time management
+
+> Most: The presentations and the discussions were really interesting and fun.  
+> Least: I would have preferred more time for discussions, maybe by splitting up the content into several Meetups.
+
+> Presentation is rich in content. The discussion is not structured or guided. 
