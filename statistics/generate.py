@@ -47,7 +47,7 @@ Expected format of the CSV file (exported from Google Forms):
 Timestamp,Datum der Veranstaltung,1. Was wir heute getan haben wird für mich ... praktischen Nutzen haben.,2. Die Atmosphäre / Stimmung war ...,3. Die Menge an Inhalt / Übungen war ...,4. Das Schwierigkeitsniveau des Inhalts / der Diskussion war ...,5. Struktur: Insgesamt brauchte die Veranstaltung ...,6. Die Moderation hätte ... sein sollen.,7. Der Inhalt / die Übungen waren ... vorbereitet.,8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.,"9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?","10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?",11. Was hat dir heute am besten gefallen? Was hat dir am wenigsten gefallen?,12. (optional) Name
 02/02/2024 20:37:08,02/02/2024,4,1,3,3,3,3,2,4,eher ja,,"Am Besten die Übung, am wenigsten nichts.",Frodo
 02/02/2024 20:37:19,02/02/2024,4,2,3,3,3,3,1,2,eher ja,,,
-""""
+"""
 FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
 
 """
