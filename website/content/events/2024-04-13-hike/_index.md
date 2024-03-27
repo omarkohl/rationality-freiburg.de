@@ -22,7 +22,7 @@ outputs:
 
 ## Preparation
 
-Bring water food and some rain protection since you never know in spring.
+Bring water, food and some rain protection since you never know in spring.
 
 
 ## What will we do?
