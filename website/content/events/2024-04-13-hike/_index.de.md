@@ -17,6 +17,7 @@ layout: single
 outputs:
   - HTML
   - Calendar
+url: termine/2024-04-13-wanderung
 ---
 
 ## Vorbereitung
