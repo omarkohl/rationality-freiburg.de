@@ -29,6 +29,8 @@ YEAR = '2024'
 SUMMARY_WEBDIR = f'../website/content/posts/statistics-feedback-{YEAR}/'
 EVENTS_WEBDIR = '../website/content/events/'
 
+REMOVE_SOURCE_FILES = True
+
 # Filenames
 
 """
@@ -239,9 +241,10 @@ def generate_feedback_file(de_source: str, en_source: str, cleaned: str):
     df.sort_values(by=['Date of the event'] + list(df.columns[1:]), inplace=True)
 
     df.to_csv(cleaned, index=False)
-    # Remove the original files
-    os.remove(de_source)
-    os.remove(en_source)
+    if REMOVE_SOURCE_FILES:
+        # Remove the original files
+        os.remove(de_source)
+        os.remove(en_source)
 
 def _map_q10_responses(response: Optional[str]) -> Optional[Tuple[str]]:
     """
@@ -298,7 +301,8 @@ def generate_attendance_files(source: str, cleaned_attendance: str, newcomer_ref
             )
         out_df = pd.concat([out_df, out_row], ignore_index=True)
     out_df.to_csv(cleaned_attendance, index=False)
-    os.remove(source)
+    if REMOVE_SOURCE_FILES:
+        os.remove(source)
 
 
 def generate_output(feedback_file: str, attendance_file: str, regenerate: bool = False):
