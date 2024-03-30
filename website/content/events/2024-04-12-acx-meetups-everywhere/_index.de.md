@@ -30,6 +30,7 @@ Lies einen oder mehrere der folgenden Beiträge:
 * (Englisch) [Movie Review: Don't Look Up](https://www.astralcodexten.com/p/movie-review-dont-look-up)
 * (Englisch) [Secrets Of The Great Families](https://www.astralcodexten.com/p/secrets-of-the-great-families)
 * (Englisch) [You Don't Hate Polyamory, You Hate People Who Write Books](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate)
+* (Englisch) [Practically-A-Book Review: Rootclaim $100,000 Lab Leak Debate](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim)
 
 Hintergrund: [ACX (Astral Codex Ten)](https://www.astralcodexten.com) ist ein
 Blog von Scott Alexander. Einmal im Jahr kündigt er "Meetups Everywhere" an,
