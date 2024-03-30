@@ -3,9 +3,9 @@ title: "ACX Spring Meetups Everywhere 2024"
 date: 2024-03-10T17:11:36+01:00
 eventStart: 2024-04-12T18:00:00+02:00
 eventEnd: 2024-04-12T20:30:00+02:00
-eventLocation: "Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
-eventGeoLat: 47.98934
-eventGeoLon: 7.83945
+eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
+eventGeoLat: 47.98953
+eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 12. April 2024 um 18:00 Uhr MESZ."
@@ -53,6 +53,12 @@ Dieses Treffen wird von Omar moderiert.
 Es wird Snacks und Getränke geben.
 
 Nach dem Treffen werden wir essen gehen. Jeder, der Zeit hat, ist herzlich willkommen, sich anzuschließen.
+
+![Ort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.png)
+
+Bitte lasse dein Fahrrad wie in blau gekennzeichnet. Der Eingang ist mit einem
+roten Kreuz markiert.
+
 
 ## Sonstiges
 
