@@ -36,7 +36,7 @@ REMOVE_SOURCE_FILES = True
 """
 Expected format of the CSV file (exported from Google Forms):
 
-Timestamp,Date of the event,"1. Practical use: For my life, what we did today will have ...",2. The atmosphere / vibe was ...,3. The amount of content / exercises covered was ...,4. The difficulty level of the content / discussion was ...,5. Structure: On the whole the event needed ...,6. The moderation should have been ...,7. Host preparation: The content / exercises were ...,8. Changing your mind: The event made me ...,9. Do you think you will come to one (or more) of the next three events?,"10. If you answered ""probably no"" in the previous question or are very uncertain, why is that?",11. What did you like the most today? What did you like the least?,12. (optional) Name
+Timestamp,Date of the event,"1. Practical use: For my life, what we did today will have ...",2. The atmosphere / vibe was ...,3. The amount of content / exercises covered was ...,4. The difficulty level of the content / discussion was ...,5. Structure: On the whole the event needed ...,6. The moderation should have been ...,7. Host preparation: The content / exercises were ...,8. Changing your mind: The event made me ...,9. Do you think you will come to one (or more) of the next three events?,"10. If you answered ""probably no"" in the previous question or are very uncertain, why is that?",11. What did you like the most today?,12. What did you like the least?,13. (optional) Name
 19/01/2024 20:36:42,19/01/2024,2,2,3,3,2,3,2,3,probably yes,,,
 02/02/2024 20:36:12,02/02/2024,3,1,3,3,3,2,1,3,probably yes,,,
 """
@@ -45,7 +45,7 @@ FEEDBACK_EN_SOURCE = 'Event Feedback (Responses) - EN.csv'
 """
 Expected format of the CSV file (exported from Google Forms):
 
-Timestamp,Datum der Veranstaltung,1. Was wir heute getan haben wird für mich ... praktischen Nutzen haben.,2. Die Atmosphäre / Stimmung war ...,3. Die Menge an Inhalt / Übungen war ...,4. Das Schwierigkeitsniveau des Inhalts / der Diskussion war ...,5. Struktur: Insgesamt brauchte die Veranstaltung ...,6. Die Moderation hätte ... sein sollen.,7. Der Inhalt / die Übungen waren ... vorbereitet.,8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.,"9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?","10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?",11. Was hat dir heute am besten gefallen? Was hat dir am wenigsten gefallen?,12. (optional) Name
+Timestamp,Datum der Veranstaltung,1. Was wir heute getan haben wird für mich ... praktischen Nutzen haben.,2. Die Atmosphäre / Stimmung war ...,3. Die Menge an Inhalt / Übungen war ...,4. Das Schwierigkeitsniveau des Inhalts / der Diskussion war ...,5. Struktur: Insgesamt brauchte die Veranstaltung ...,6. Die Moderation hätte ... sein sollen.,7. Der Inhalt / die Übungen waren ... vorbereitet.,8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.,"9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?","10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?",11. Was hat dir heute am besten gefallen?,12. Was hat dir am wenigsten gefallen?,13. (optional) Name
 02/02/2024 20:37:08,02/02/2024,4,1,3,3,3,3,2,4,eher ja,,"Am Besten die Übung, am wenigsten nichts.",Frodo
 02/02/2024 20:37:19,02/02/2024,4,2,3,3,3,3,1,2,eher ja,,,
 """
@@ -78,7 +78,8 @@ QUESTIONS = {
     8: '8. Changing your mind: The event made me ...',
     9: '9. Do you think you will come to one (or more) of the next three events?',
     10: '10. If you answered "probably no" in the previous question or are very uncertain, why is that?',
-    11: '11. What did you like the most today? What did you like the least?',
+    11: '11. What did you like the most today?',
+    12: '12. What did you like the least?',
 }
 
 QUESTIONS_DE = {
@@ -92,7 +93,8 @@ QUESTIONS_DE = {
     QUESTIONS[8]: '8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.',
     QUESTIONS[9]: '9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?',
     QUESTIONS[10]: '10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?',
-    QUESTIONS[11]: '11. Was hat dir heute am besten gefallen? Was hat dir am wenigsten gefallen?',
+    QUESTIONS[11]: '11. Was hat dir heute am besten gefallen?',
+    QUESTIONS[12]: '12. Was hat dir am wenigsten gefallen?',
 }
 
 QUESTION_RESPONSE_OPTIONS = {
@@ -230,7 +232,7 @@ def generate_feedback_file(de_source: str, en_source: str, cleaned: str):
     df = pd.concat([df_de, df_en], axis=0, ignore_index=True)
 
     # Remove the timestamp and name columns
-    df.drop(['Timestamp', '12. (optional) Name'], axis=1, inplace=True)
+    df.drop(['Timestamp', '13. (optional) Name'], axis=1, inplace=True)
 
     df['Date of the event'] = pd.to_datetime(df['Date of the event'], format='%d/%m/%Y')
     q09_mapping = {v: k for k, v in Q09_RESPONSES_DE.items()}
@@ -497,15 +499,27 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     page_content += f'![{QUESTIONS[10]}](./{question_to_filename(QUESTIONS[10])}.png)\n\n'
 
     # Question 11
-    comments = feedback_df[QUESTIONS[11]].dropna().values
+    comments_best = feedback_df[QUESTIONS[11]].dropna().values
     page_content += f'### {QUESTIONS[11]}\n\n'
     page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[11]].count())} ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
     page_content += f'**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n'
-    if len(comments) > 0:
+    if len(comments_best) > 0:
         quoted_comments = []
-        for c in comments:
+        for c in comments_best:
             quoted_comments.append('> ' + c.replace("\n", "  \n> "))
         page_content += '\n\n'.join(quoted_comments) + '\n'
+
+    # Question 12
+    comments_worst = feedback_df[QUESTIONS[12]].dropna().values
+    page_content += f'### {QUESTIONS[12]}\n\n'
+    page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[12]].count())} ({feedback_df[QUESTIONS[12]].count() / total_participants * 100:.2f}% of attendees)\n\n'
+    page_content += f'**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n'
+    if len(comments_worst) > 0:
+        quoted_comments = []
+        for c in comments_worst:
+            quoted_comments.append('> ' + c.replace("\n", "  \n> "))
+        page_content += '\n\n'.join(quoted_comments) + '\n'
+
     return page_content
 
 
