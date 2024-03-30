@@ -147,14 +147,19 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ![10. If you answered "probably no" in the previous question or are very uncertain, why is that?](./10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that.png)
 
-### 11. What did you like the most today? What did you like the least?
+### 11. What did you like the most today?
 
-* **Responses:** 3 people (15.79% of attendees)
+* **Responses:** 2 people (10.53% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
 > I liked the „make the elephants like each other idea“
 
-> Schade war, dass viel Zeit dafür verwendet wurde Dinge zu wiederholen, die man auch vorher hätte lesen können. Andererseits bereue ich das Lesen nicht, da dort viel mehr interessantes stand. Ich sehe auch, dass man nicht erwarten kann, dass alle vorbereitet zum Meeting kommen. Deshalb eine Idee, welche sich vielleicht praktisch umsetzen lässt: Beim Bilden von Untergruppen teilen wir die Leute auf zwischen denen, die zur Vorbereitung gelesen haben, und den anderen. So profitiert man zumindest dadurch von der eigenen Vorbereitung, dass man mit besser informierten Personen diskutieren kann. Ausnahme evtl. für Leute, die zum ersten Mal auftauchen.
-
 > Preconditions to ensure before using the method would be interesting to formalise. A list of common typical cruxes would be nice
+### 12. What did you like the least?
+
+* **Responses:** 1 person (5.26% of attendees)
+
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
+> Schade war, dass viel Zeit dafür verwendet wurde Dinge zu wiederholen, die man auch vorher hätte lesen können. Andererseits bereue ich das Lesen nicht, da dort viel mehr interessantes stand. Ich sehe auch, dass man nicht erwarten kann, dass alle vorbereitet zum Meeting kommen. Deshalb eine Idee, welche sich vielleicht praktisch umsetzen lässt: Beim Bilden von Untergruppen teilen wir die Leute auf zwischen denen, die zur Vorbereitung gelesen haben, und den anderen. So profitiert man zumindest dadurch von der eigenen Vorbereitung, dass man mit besser informierten Personen diskutieren kann. Ausnahme evtl. für Leute, die zum ersten Mal auftauchen.

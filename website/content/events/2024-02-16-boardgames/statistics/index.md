@@ -147,7 +147,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ![10. If you answered "probably no" in the previous question or are very uncertain, why is that?](./10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that.png)
 
-### 11. What did you like the most today? What did you like the least?
+### 11. What did you like the most today?
 
 * **Responses:** 9 people (50.00% of attendees)
 
@@ -155,20 +155,31 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > die Stimmung + entspannte Atmosphäre
 
-> - das Spielen hat sehr viel Spaß gemacht  
-> - der Beginn hätte etwas lockerer / gesprächiger sein können
+> - das Spielen hat sehr viel Spaß gemacht
 
 > Was fun
 
 > Viele neue Leute + Spiele kennengelernt
 
-> Was fun to be introduced to new games. 
+> Was fun to be introduced to new games.
 
-> Best: Cool games, worst: too much game explanation time due to new players joining in between
+> Cool games
 
 > [The game] Karriere Poker
 
-> Most: got to play Scrabble  
-> least: didn't get to play any new game [Typo fixed]
+> Got to play Scrabble
 
-> Positiv: Mich mal wieder ein bisschen an die Karriere-Poker Strategie erinnern. War leider zu kurz, um komplett rein zu kommen. Insgesamt ist das Feedback-Formular eher unpassend für einen Spieleabend. ;)
+> Mich mal wieder ein bisschen an die Karriere-Poker Strategie erinnern. War leider zu kurz, um komplett rein zu kommen.
+### 12. What did you like the least?
+
+* **Responses:** 4 people (22.22% of attendees)
+
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
+> - der Beginn hätte etwas lockerer / gesprächiger sein können
+
+> too much game explanation time due to new players joining in between
+
+> Didn't get to play any new game [Typo fixed]
+
+> Insgesamt ist das Feedback-Formular eher unpassend für einen Spieleabend. ;)

@@ -148,30 +148,26 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ![10. If you answered "probably no" in the previous question or are very uncertain, why is that?](./10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that.png)
 
-### 11. What did you like the most today? What did you like the least?
+### 11. What did you like the most today?
 
-* **Responses:** 14 people (53.85% of attendees)
+* **Responses:** 13 people (50.00% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
-> Most - topic least - less time
+> topic
 
 > Many interesting impulses.  
 > Great atmosphere of discussions.
 
-> A little bit chaotic today, longer discussion in small groups would have nice, clear definition of consciousness was not given 
-
-> Least: first part didn't really 'introduced' what was then presented by Nawid. Felt a bit irrelevant for the discussion part.  
-> Most: the topic in general!
+> the topic in general!
 
 > Mind blown
 
-> I think some parts of the presentations were not really relevant for the topic. But some very interesting ideas popped up during presentation and discussion. 
+> Some very interesting ideas popped up during presentation and discussion. [An older version of the feedback form had only one answer field for "best" and "worst". An organizer split that comment, making the best guess what the commenter was trying to say.]
 
-> Most: the topic, the progression. Least: will wasn't fully clear about the arguments are the end. But might just need to think more about it.
+> The topic, the progression.
 
-> Gute Präsentationen, angenehme Stimmung  
-> Mehr Zeit, um tiefer in die Diskussion zu gehen wäre gut
+> Gute Präsentationen, angenehme Stimmung.
 
 > Open discussion. 
 
@@ -179,10 +175,31 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > the small group discussion (was too little time though)
 
-> Most: Very interesting presentations focusing on two different aspects/approaches to the question of consciousness.  
-> Least: Time management
+> Very interesting presentations focusing on two different aspects/approaches to the question of consciousness.
 
-> Most: The presentations and the discussions were really interesting and fun.  
-> Least: I would have preferred more time for discussions, maybe by splitting up the content into several Meetups.
+> The presentations and the discussions were really interesting and fun.
 
-> Presentation is rich in content. The discussion is not structured or guided. 
+> Presentation is rich in content. [An older version of the feedback form had only one answer field for "best" and "worst". An organizer split that comment, making the best guess what the commenter was trying to say.]
+### 12. What did you like the least?
+
+* **Responses:** 9 people (34.62% of attendees)
+
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
+> less time
+
+> A little bit chaotic today, longer discussion in small groups would have nice, clear definition of consciousness was not given
+
+> First part didn't really 'introduced' what was then presented by Nawid. Felt a bit irrelevant for the discussion part.
+
+> I think some parts of the presentations were not really relevant for the topic.
+
+> Will wasn't fully clear about the arguments are the end. But might just need to think more about it.
+
+> Mehr Zeit, um tiefer in die Diskussion zu gehen wäre gut
+
+> Time management
+
+> I would have preferred more time for discussions, maybe by splitting up the content into several Meetups.
+
+> The discussion is not structured or guided.

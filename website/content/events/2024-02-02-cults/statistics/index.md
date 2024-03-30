@@ -147,7 +147,7 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ![10. If you answered "probably no" in the previous question or are very uncertain, why is that?](./10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that.png)
 
-### 11. What did you like the most today? What did you like the least?
+### 11. What did you like the most today?
 
 * **Responses:** 9 people (56.25% of attendees)
 
@@ -157,17 +157,29 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > The discussion in the smaller group (though the group was still somewhat big)
 
-> The exercise of fooling an outsider was great! The conclusion to our discussion about cult. It could have been more structured. Maybe with a voting at the end from 1 to 5 how cultish this group is.
+> The exercise of fooling an outsider was great! [An older version of the feedback form had only one answer field for "best" and "worst". An organizer split that comment, making the best guess what the commenter was trying to say.]
 
-> Small discussion group/ n/a
+> Small discussion group
 
-> Most- people least- nothing
+> people
 
-> Most: The many views brought about by the different participants. The reading list.  
-> Least: the content felt not cohesive. Some consolidation could help.
+> The many views brought about by the different participants. The reading list.
 
-> Am Besten die Übung, am wenigsten nichts.
+> Die Übung
 
 > the structure with 3 levels of preparation was very good idea
 
 > Was fun
+### 12. What did you like the least?
+
+* **Responses:** 4 people (25.00% of attendees)
+
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
+> The conclusion to our discussion about cult. It could have been more structured. Maybe with a voting at the end from 1 to 5 how cultish this group is.
+
+> nothing
+
+> The content felt not cohesive. Some consolidation could help.
+
+> Nichts

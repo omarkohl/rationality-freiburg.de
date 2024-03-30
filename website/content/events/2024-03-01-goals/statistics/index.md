@@ -147,9 +147,9 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 ![10. If you answered "probably no" in the previous question or are very uncertain, why is that?](./10-if-you-answered-probably-no-in-the-previous-question-or-are-very-uncertain-why-is-that.png)
 
-### 11. What did you like the most today? What did you like the least?
+### 11. What did you like the most today?
 
-* **Responses:** 13 people (65.00% of attendees)
+* **Responses:** 12 people (60.00% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -158,12 +158,11 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 > Es gab eine sehr gute Balance zwischen Diskussion, Input und Übungen.  
 > Die Triviafragen waren eine gute Idee, aber auch etwas stressig 😄
 
-> Texts  
-> Exercise
+> Texts [An older version of the feedback form had only one answer field for "best" and "worst". An organizer split that comment, making the best guess what the commenter was trying to say.]
 
 > New room is nice!
 
-> Der große Raum war gut (wenn auch etwas kalt). Die Diskussionen und übung hätten inhaltlich noch etwas spannendere Argumente bringen können, aber das ist halt nicht immer gleich. 
+> Der große Raum war gut (wenn auch etwas kalt).
 
 > discussions
 
@@ -171,16 +170,29 @@ See also the [2024 summary]({{< ref "posts/statistics-feedback-2024" >}}).
 
 > I enjoyed the big group discussion about procrastination.
 
-> Discussion was great.  
-> Exercise was quite hard.
+> Discussion was great. [An older version of the feedback form had only one answer field for "best" and "worst". An organizer split that comment, making the best guess what the commenter was trying to say.]
 
-> Most topic least I was not prepared 
+> Topic
 
 > Room 10/10  
 >   
 > We have space for some movement exercises there maybe. Like arranging in order of attribute of person for introduction [Typo corrected]
 
-> discussions + exercise  
-> snacks :-D
+> discussions + exercise
+### 12. What did you like the least?
 
-> Least: Many discussions in offtopic examples. Low abstraction level.
+* **Responses:** 6 people (30.00% of attendees)
+
+**Note:** Anything contained in square brackets [] is an edit by the organizers.
+
+> Exercise
+
+> Die Diskussionen und übung hätten inhaltlich noch etwas spannendere Argumente bringen können, aber das ist halt nicht immer gleich.
+
+> Exercise was quite hard.
+
+> I was not prepared
+
+> snacks :-D [This is an inside joke since some participants would like to snack less.]
+
+> Many discussions in offtopic examples. Low abstraction level.
