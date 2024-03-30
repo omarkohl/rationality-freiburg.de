@@ -8,7 +8,7 @@ eventGeoLat: 47.99761
 eventGeoLon: 7.84226
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Hbf Freiburg. Wann: Samstag, 13. April 2024 um 10:00 Uhr MESZ."
+description: "Wo: Hbf Freiburg. Wann: Samstag, 13. April 2024 um 09:25 Uhr MESZ."
 eventHost:
   - Bibhu
   - David

@@ -8,7 +8,7 @@ eventGeoLat: 47.99761
 eventGeoLon: 7.84226
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Main train station, Freiburg. When: Saturday, April 13th 2024 at 10:00 hours CEST."
+description: "Where: Main train station, Freiburg. When: Saturday, April 13th 2024 at 09:25 hours CEST."
 eventHost:
   - Bibhu
   - David
