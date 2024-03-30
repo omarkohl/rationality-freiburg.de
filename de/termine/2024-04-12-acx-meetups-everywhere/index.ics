@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Berlin:20240412T180000
 DTEND;TZID=Europe/Berlin:20240412T203000
 SUMMARY:ACX Spring Meetups Everywhere 2024
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2024-04-12-acx-meetups-everywhere/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2024-04-12-acx-meetups-everywhere/\n
-LOCATION:Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg
-GEO:47.98934;7.83945
+LOCATION:Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg
+GEO:47.98953;7.83979
 URL:https://www.rationality-freiburg.de/de/termine/2024-04-12-acx-meetups-everywhere/
 END:VEVENT
 END:VCALENDAR
