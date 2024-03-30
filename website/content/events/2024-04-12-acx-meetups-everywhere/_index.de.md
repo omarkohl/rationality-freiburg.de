@@ -21,6 +21,10 @@ outputs:
 url: termine/2024-04-12-acx-meetups-everywhere
 ---
 
+Vielleicht hast du auch Lust an der
+**[Wanderung am Samstag]({{< ref "events/2024-04-13-hike" >}})** teilzunehmen.
+
+
 ## Vorbereitung
 
 Lies einen oder mehrere der folgenden Beiträge:

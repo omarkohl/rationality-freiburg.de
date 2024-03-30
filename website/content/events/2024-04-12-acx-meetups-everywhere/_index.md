@@ -20,6 +20,9 @@ outputs:
   - Calendar
 ---
 
+You may also be interested in attending the
+**[hike on Saturday]({{< ref "events/2024-04-13-hike" >}})**.
+
 ## Preparation
 
 Read one or multiple of the following posts:
