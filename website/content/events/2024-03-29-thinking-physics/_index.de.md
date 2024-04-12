@@ -45,6 +45,13 @@ Problemlösungsstrategien zu finden.
 
 Du brauchst keine Vorkenntnisse in Physik oder Mathematik, um teilzunehmen!
 
+Die Idee für dieses Meetup stammt von
+[(Englisch) Exercise: Solve "Thinking Physics"](https://www.lesswrong.com/posts/PiPH4gkcMuvLALymK/exercise-solve-thinking-physics).
+
+Das Buch mit Übungen findest auf Englisch auf archive.org in verschiedenen
+Formaten (z.B. EPUB, PDF): [Thinking Physics - Practical Lessons In Critical
+Thinking](https://archive.org/details/thinkingPhysicsPracticalLessonsInCriticalThinking_201808).
+
 
 ## Organisation
 
