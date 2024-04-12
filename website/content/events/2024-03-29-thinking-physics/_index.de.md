@@ -18,8 +18,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2024-03-29-thinking-physics
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen, das nur für Personen gedacht
