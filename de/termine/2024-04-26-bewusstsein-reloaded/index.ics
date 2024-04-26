@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Berlin:20240426T180000
 DTEND;TZID=Europe/Berlin:20240426T203000
 SUMMARY:Das schwierige Problem des Bewusstseins Reloaded (Geschlossenes Treffen)
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2024-04-26-consciousness-reloaded/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2024-04-26-bewusstsein-reloaded/\n
-LOCATION:Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg
-GEO:47.98953;7.83979
+LOCATION:Grüner Raum, Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg
+GEO:47.98934;7.83945
 URL:https://www.rationality-freiburg.de/de/termine/2024-04-26-bewusstsein-reloaded/
 END:VEVENT
 END:VCALENDAR
