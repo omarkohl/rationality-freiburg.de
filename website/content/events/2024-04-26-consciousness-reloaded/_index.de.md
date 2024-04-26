@@ -3,9 +3,9 @@ title: "Das schwierige Problem des Bewusstseins Reloaded (Geschlossenes Treffen)
 date: 2024-04-12T16:00:24+02:00
 eventStart: 2024-04-26T18:00:00+02:00
 eventEnd: 2024-04-26T20:30:00+02:00
-eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
-eventGeoLat: 47.98953
-eventGeoLon: 7.83979
+eventLocation: "Grüner Raum, Haus des Engagements, Rehlingstraße 9 (Innenhof), 79100 Freiburg"
+eventGeoLat: 47.98934
+eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 26. April 2024 um 18:00 Uhr MESZ."
@@ -61,7 +61,7 @@ Es wird Snacks und Getränke geben.
 Wir werden nach dem Treffen zum Abendessen gehen. Jeder, der Zeit hat, ist
 herzlich eingeladen, sich anzuschließen.
 
-![Ort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.png)
+![Ort (Grüner Raum, Haus des Engagements)](/images/hde-old-building.png)
 
 <small>Auf der obigen Karte ist der Ort markiert, an dem du dein Fahrrad
 abstellen solltest (blau) und der Eingang mit einem roten Kreuz.</small>

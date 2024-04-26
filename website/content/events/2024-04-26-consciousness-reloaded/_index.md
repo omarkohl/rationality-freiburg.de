@@ -3,9 +3,9 @@ title: "The Hard Problem of Consciousness Reloaded (Closed Meetup)"
 date: 2024-04-12T16:00:24+02:00
 eventStart: 2024-04-26T18:00:00+02:00
 eventEnd: 2024-04-26T20:30:00+02:00
-eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
-eventGeoLat: 47.98953
-eventGeoLon: 7.83979
+eventLocation: "Grüner Raum, Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
+eventGeoLat: 47.98934
+eventGeoLon: 7.83945
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, April 26th 2024 at 18:00 hours CEST."
@@ -63,7 +63,7 @@ There will be snacks and drinks.
 We will go and get dinner after the meetup. Anyone who has time is welcome to
 join.
 
-![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.png)
+![Location (Grüner Raum, Haus des Engagements)](/images/hde-old-building.png)
 
 <small>In the above map the location where you should leave your bikes is marked
 in blue and the entrance with a red cross.</small>
