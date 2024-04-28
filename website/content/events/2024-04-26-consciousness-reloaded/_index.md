@@ -19,8 +19,6 @@ outputs:
   - HTML
   - Calendar
 #url: termine/2024-02-02-deutscher-slug
-build:
-  list: never
 ---
 
 **IMPORTANT:** This is a closed meetup, meaning it is only meant for people who

@@ -19,8 +19,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2024-04-26-bewusstsein-reloaded
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen, das bedeutet, es ist nur für
