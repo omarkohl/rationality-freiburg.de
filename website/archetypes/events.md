@@ -1,15 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
 eventStart: {{ .Date }}
 eventEnd: {{ .Date }}
-eventLocation: "Haus des Engagements, Rehlingstraße 9 (inner courtyard), 79100 Freiburg"
-eventGeoLat: 47.98934
-eventGeoLon: 7.83945
+eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
+eventGeoLat: 47.98953
+eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2024 at 18:00 hours CET."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2024 at 18:00 hours CEST."
 eventHost:
   - Omar
 eventType:
@@ -22,7 +21,16 @@ outputs:
   - HTML
   - Calendar
 #url: termine/2024-02-02-deutscher-slug
+#build:
+#  list: never
 ---
+
+**IMPORTANT:** This is a closed meetup, meaning it is only meant for people who
+have attended at least ONE previous event. Please do not come if this does not
+apply to you! [Why? Read this.]({{< ref "posts/closed-meetups" >}}) Check the
+[list of events]({{< ref "events" >}}) to find the next public event, where
+everyone is welcome. Anything listed there is 100% open to anyone.
+
 
 ## Preparation
 
@@ -49,6 +57,11 @@ There will be snacks and drinks.
 
 We will go and get dinner after the meetup. Anyone who has time is welcome to
 join.
+
+![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.png)
+
+<small>In the above map the location where you should leave your bikes is marked
+in blue and the entrance with a red cross.</small>
 
 
 ## Other
