@@ -18,8 +18,6 @@ layout: single
 outputs:
   - HTML
   - Calendar
-build:
-  list: never
 ---
 
 **IMPORTANT:** This is a closed meetup, meaning it is only meant for people who

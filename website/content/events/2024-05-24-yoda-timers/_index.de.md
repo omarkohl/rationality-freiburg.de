@@ -19,8 +19,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2024-05-25-yoda-timer
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen und daher nur für Personen gedacht, die mindestens an EINEM vorherigen Event teilgenommen haben. Bitte komm nicht, wenn das nicht auf dich zutrifft! [Warum? Lies hier.]({{< ref "posts/closed-meetups" >}}) Überprüfe die [Liste der Veranstaltungen]({{< ref "events" >}}), um das nächste öffentliche Event zu finden, zu dem alle willkommen sind. Alles, was dort aufgeführt ist, steht allen zu 100 % offen.
