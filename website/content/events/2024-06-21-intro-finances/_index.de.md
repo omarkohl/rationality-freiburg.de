@@ -1,5 +1,5 @@
 ---
-title: "Einführung in Finanzen & ETFs"
+title: "Einführung in Finanzen & ETFs (Geschlossenes Treffen)"
 date: 2024-06-06T20:41:06+02:00
 eventStart: 2024-06-21T18:00:00+02:00
 eventEnd: 2024-06-21T20:30:00+02:00
