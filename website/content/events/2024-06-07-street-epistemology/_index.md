@@ -22,6 +22,13 @@ outputs:
 #url: termine/2024-02-02-deutscher-slug
 ---
 
+## Update 09.06
+
+This is the talk we watched during the event: [Learn Street Epistemology:
+Assumptions | Elements | Recovery (Oslo 2018) (blue
+slides)](https://www.youtube.com/watch?v=bB-HKbtUdzM)
+
+
 ## Preparation
 
 SE stands for Street Epistemology.

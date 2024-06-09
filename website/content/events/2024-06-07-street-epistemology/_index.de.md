@@ -22,6 +22,13 @@ outputs:
 url: termine/2024-06-07-street-epistemology
 ---
 
+## Update 09.06
+
+Dies ist der Vortrag den wir während des Meetups angesehen haben: (Englisch)
+[Learn Street Epistemology: Assumptions | Elements | Recovery (Oslo 2018) (blue
+slides)](https://www.youtube.com/watch?v=bB-HKbtUdzM)
+
+
 ## Vorbereitung
 
 SE steht für Street Epistemology.
