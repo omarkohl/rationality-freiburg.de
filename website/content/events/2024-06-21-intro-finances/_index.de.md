@@ -19,8 +19,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2024-06-21-einführung-finanzen
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen, das bedeutet, es ist nur für Personen gedacht, die mindestens an EINEM früheren Meetup teilgenommen haben. Bitte komm nicht, wenn dies nicht auf dich zutrifft! [Warum? Lies hier. ]({{< ref "posts/closed-meetups" >}}) Schau in die [Liste der Ereignisse]({{< ref "events" >}}), um das nächste öffentliche Ereignis zu finden, zu dem jeder willkommen ist. Alles, was dort aufgeführt ist, ist zu 100% für jeden offen.
