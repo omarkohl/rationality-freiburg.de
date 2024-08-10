@@ -22,7 +22,7 @@ url: termine/2024-08-11-sommerparty
 
 Uhrzeit korrigiert.
 
-## Note
+## Anmerkung
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen, das nur für Personen gedacht ist, die bereits mindestens EINE frühere Veranstaltung besucht haben. Bitte komm nicht, wenn dies nicht auf dich zutrifft! [Warum? Lies hier nach.]({{< ref "posts/closed-meetups" >}}) Überprüfe die [Liste der Veranstaltungen]({{< ref "events" >}}), um das nächste öffentliche Ereignis zu finden, zu dem jeder willkommen ist. Alles, was dort aufgeführt ist, steht zu 100 % allen offen.
 
