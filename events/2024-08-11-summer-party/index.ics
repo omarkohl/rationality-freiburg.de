@@ -21,9 +21,9 @@ BEGIN:VEVENT
 DTSTAMP:20240609T105441
 ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
 STATUS:CONFIRMED
-UID:20240811T090000@rationality-freiburg.de
-DTSTART;TZID=Europe/Berlin:20240811T090000
-DTEND;TZID=Europe/Berlin:20240811T220000
+UID:20240811T150000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20240811T150000
+DTEND;TZID=Europe/Berlin:20240811T190000
 SUMMARY:Summer Party (Closed Event)
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2024-08-11-summer-party/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2024-08-11-sommerparty/\n
 LOCATION:Freiburg
