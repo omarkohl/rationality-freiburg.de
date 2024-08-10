@@ -1,8 +1,8 @@
 ---
 title: "Sommerparty (Geschlossenes Treffen)"
 date: 2024-06-09T10:54:41+02:00
-eventStart: 2024-08-11T09:00:00+02:00
-eventEnd: 2024-08-11T22:00:00+02:00
+eventStart: 2024-08-11T15:00:00+02:00
+eventEnd: 2024-08-11T19:00:00+02:00
 eventLocation: "Freiburg"
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
@@ -17,6 +17,12 @@ outputs:
   - Calendar
 url: termine/2024-08-11-sommerparty
 ---
+
+## Update 10.08
+
+Uhrzeit korrigiert.
+
+## Note
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen, das nur für Personen gedacht ist, die bereits mindestens EINE frühere Veranstaltung besucht haben. Bitte komm nicht, wenn dies nicht auf dich zutrifft! [Warum? Lies hier nach.]({{< ref "posts/closed-meetups" >}}) Überprüfe die [Liste der Veranstaltungen]({{< ref "events" >}}), um das nächste öffentliche Ereignis zu finden, zu dem jeder willkommen ist. Alles, was dort aufgeführt ist, steht zu 100 % allen offen.
 

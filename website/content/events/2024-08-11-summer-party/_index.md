@@ -1,8 +1,8 @@
 ---
 title: "Summer Party (Closed Event)"
 date: 2024-06-09T10:54:41+02:00
-eventStart: 2024-08-11T09:00:00+02:00
-eventEnd: 2024-08-11T22:00:00+02:00
+eventStart: 2024-08-11T15:00:00+02:00
+eventEnd: 2024-08-11T19:00:00+02:00
 eventLocation: "Freiburg"
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
@@ -17,6 +17,12 @@ outputs:
   - Calendar
 #url: termine/2024-02-02-deutscher-slug
 ---
+
+## Update 10.08
+
+Corrected the time.
+
+## Note
 
 **IMPORTANT:** This is a closed event, meaning it is only meant for people who
 have attended at least ONE previous event. Please do not come if this does not
