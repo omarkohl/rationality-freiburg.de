@@ -22,6 +22,8 @@ url: termine/2024-10-11-acx-meetup-herbst-2024
 #  list: never
 ---
 
+**Kontext:** ACX (Astral Codex Ten) ist ein Blog, der in der Rationality-Community sehr beliebt ist. ACX Meetups werden zwei Mal im Jahr auf diesem Blog angekündigt damit Leser:innen sich gegenseitig treffen können. Wir werden einige aktuelle Artikel diskutieren (siehe Link unten), aber wie immer wird es mindestens eine Gruppe geben, die einfach jedes beliebige Thema bespricht. Insgesamt werden wir plaudern, uns austauschen und Spaß haben.
+
 ## Vorbereitung
 
 Lies einen oder mehrere der folgenden Artikel:

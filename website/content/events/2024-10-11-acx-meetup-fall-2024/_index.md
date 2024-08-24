@@ -22,6 +22,8 @@ outputs:
 #  list: never
 ---
 
+**Context:** ACX (Astral Codex Ten) is a blog popular in the rationality community. ACX Meetups are announced twice a year on that blog so readers can meet each other. We will discuss some recent articles (see link below), but as usual there will be at least one group that will just discuss any/every topic. On the whole we will chat, socialize and have fun.
+
 ## Preparation
 
 Read one or several of the following articles:
