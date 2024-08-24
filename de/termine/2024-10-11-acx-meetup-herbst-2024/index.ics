@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20241011T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20241011T180000
 DTEND;TZID=Europe/Berlin:20241011T203000
-SUMMARY:ACX Meetup Fall 2024
+SUMMARY:ACX Meetup Herbst 2024
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2024-10-11-acx-meetup-fall-2024/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2024-10-11-acx-meetup-herbst-2024/\n
 LOCATION:Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg
 GEO:47.98953;7.83979
-URL:https://www.rationality-freiburg.de/events/2024-10-11-acx-meetup-fall-2024/
+URL:https://www.rationality-freiburg.de/de/termine/2024-10-11-acx-meetup-herbst-2024/
 END:VEVENT
 END:VCALENDAR
