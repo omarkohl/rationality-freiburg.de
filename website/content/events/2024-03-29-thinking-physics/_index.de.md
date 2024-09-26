@@ -50,7 +50,7 @@ Die Idee für dieses Meetup stammt von
 
 Das Buch mit Übungen findest auf Englisch auf archive.org in verschiedenen
 Formaten (z.B. EPUB, PDF): [Thinking Physics - Practical Lessons In Critical
-Thinking](https://archive.org/details/thinkingPhysicsPracticalLessonsInCriticalThinking_201808).
+Thinking](https://archive.org/details/ThinkingPhysicsPracticalLessonsInCriticalThinking_201808).
 
 
 ## Organisation

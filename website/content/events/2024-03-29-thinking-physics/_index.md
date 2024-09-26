@@ -46,7 +46,7 @@ The idea from the meetup is from
 [Exercise: Solve "Thinking Physics"](https://www.lesswrong.com/posts/PiPH4gkcMuvLALymK/exercise-solve-thinking-physics).
 
 You can find the book with the exercises on archive.org in multiple formats (e.g. EPUB, PDF):
-[Thinking Physics - Practical Lessons In Critical Thinking](https://archive.org/details/thinkingPhysicsPracticalLessonsInCriticalThinking_201808).
+[Thinking Physics - Practical Lessons In Critical Thinking](https://archive.org/details/ThinkingPhysicsPracticalLessonsInCriticalThinking_201808).
 
 ## Organization
 
