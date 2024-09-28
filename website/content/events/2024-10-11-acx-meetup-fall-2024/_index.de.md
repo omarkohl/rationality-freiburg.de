@@ -53,10 +53,11 @@ Es wird Snacks und Getränke geben.
 Nach dem Meetup gehen wir gemeinsam essen. Jeder, der Zeit hat, ist herzlich
 eingeladen mitzukommen.
 
-![Ort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building.png)
+![Ort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
 
 <small>Auf der obigen Karte ist der Ort, an dem du dein Fahrrad abstellen
-solltest, blau markiert und der Eingang mit einem roten Kreuz.</small>
+solltest, blau markiert und der Eingang (am Ende der Metallrampe) mit einem
+roten Kreuz.</small>
 
 ## Sonstiges
 

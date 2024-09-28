@@ -32,14 +32,14 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1"
-     inkscape:cx="105.5"
-     inkscape:cy="196.5"
+     inkscape:cx="254"
+     inkscape:cy="210.5"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2">
     <filter
@@ -365,7 +365,7 @@
          y="158.76529">openstreetmap.org</tspan></text>
     <g
        id="g30497"
-       transform="rotate(43.44338,128.09522,104.49101)"
+       transform="matrix(0.57078948,0.54058799,-0.54058799,0.57078948,108.39151,-24.281066)"
        style="opacity:1">
       <ellipse
          style="opacity:1;fill:#c2c2ff;fill-opacity:0.437455;stroke:#0000ff;stroke-width:0.50005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -397,7 +397,7 @@
      transform="translate(-4.4979094,-3.4395792)">
     <a
        id="a33739"
-       transform="translate(-38.05927,-72.916243)">
+       transform="translate(-53.846421,-62.855875)">
       <g
          id="g33737"
          transform="matrix(0.18220718,0.27804132,-0.27804132,0.18220718,125.24869,78.243046)">
