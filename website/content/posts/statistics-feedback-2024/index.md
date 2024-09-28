@@ -2,7 +2,7 @@
 title: "Statistics & Feedback 2024"
 date: 2024-02-12T13:41:50+0100
 toc: true
-summary: "In 2024 there were 15 public events (so far),
+summary: "In 2024 there were 16 public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
@@ -27,13 +27,14 @@ for the individual events here:
 * [Introduction to Finances & ETFs (Closed Meetup)]({{< ref "events/2024-06-21-intro-finances/statistics" >}})
 * [Rationality Taboo]({{< ref "events/2024-07-05-rationality-taboo/statistics" >}})
 * [Street Epistemology 2 (Closed Meetup)]({{< ref "events/2024-07-19-street-epistemology-2/statistics" >}})
+* [Thinking Physics 2]({{< ref "events/2024-09-27-thinking-physics-2/statistics" >}})
 
 
 ## Attendees
 
-* 15 events.
-* 14.53 people per event on average (σ=5.17).
-* 1.60 newcomers per event (σ=2.26).
+* 16 events.
+* 14.19 people per event on average (σ=5.18).
+* 1.75 newcomers per event (σ=2.27).
 * Maximum number of attendees was 26 and minimum was 6 people.
 
 **Recurring** is any person coming for the second, third etc. time whereas
@@ -41,124 +42,124 @@ for the individual events here:
 
 ## Feedback
 
-* **Responses:** 189 people (86.70% of attendees)
+* **Responses:** 198 people (87.22% of attendees)
 
 ### 1. Practical use: For my life, what we did today will have ...
 
-* **Responses:** 186 people (85.32% of attendees)
+* **Responses:** 195 people (85.90% of attendees)
 * **Answers:**
-  * a lot of practical use (1): 37 people
-  * quite a bit of practical use (2): 63 people
-  * some practical use (3): 32 people
-  * little practical use (4): 34 people
-  * very little practical use (5): 20 people
+  * a lot of practical use (1): 38 people
+  * quite a bit of practical use (2): 68 people
+  * some practical use (3): 33 people
+  * little practical use (4): 35 people
+  * very little practical use (5): 21 people
 * **Average answer:** 2.66 (σ=1.28)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
 
 ### 2. The atmosphere / vibe was ...
 
-* **Responses:** 188 people (86.24% of attendees)
+* **Responses:** 197 people (86.78% of attendees)
 * **Answers:**
-  * fantastic (1): 87 people
-  * good (2): 93 people
+  * fantastic (1): 93 people
+  * good (2): 96 people
   * okay (3): 5 people
   * bad (4): 2 people
   * horrible (5): 1 person
-* **Average answer:** 1.60 (σ=0.65)
+* **Average answer:** 1.59 (σ=0.65)
 
 ![2. The atmosphere / vibe was ...](./2-the-atmosphere-vibe-was.png)
 
 ### 3. The amount of content / exercises covered was ...
 
-* **Responses:** 182 people (83.49% of attendees)
+* **Responses:** 191 people (84.14% of attendees)
 * **Answers:**
   * way too much (1): 5 people
-  * too much (2): 29 people
-  * just right (3): 128 people
-  * too little (4): 18 people
+  * too much (2): 30 people
+  * just right (3): 134 people
+  * too little (4): 20 people
   * way too little (5): 2 people
-* **Average answer:** 2.91 (σ=0.64)
+* **Average answer:** 2.92 (σ=0.64)
 
 ![3. The amount of content / exercises covered was ...](./3-the-amount-of-content-exercises-covered-was.png)
 
 ### 4. The difficulty level of the content / discussion was ...
 
-* **Responses:** 184 people (84.40% of attendees)
+* **Responses:** 193 people (85.02% of attendees)
 * **Answers:**
-  * much too easy (1): 3 people
+  * much too easy (1): 4 people
   * too easy (2): 32 people
-  * just right (3): 124 people
-  * too difficult (4): 24 people
+  * just right (3): 131 people
+  * too difficult (4): 25 people
   * much too difficult (5): 1 person
-* **Average answer:** 2.93 (σ=0.62)
+* **Average answer:** 2.93 (σ=0.63)
 
 ![4. The difficulty level of the content / discussion was ...](./4-the-difficulty-level-of-the-content-discussion-was.png)
 
 ### 5. Structure: On the whole the event needed ...
 
-* **Responses:** 186 people (85.32% of attendees)
+* **Responses:** 195 people (85.90% of attendees)
 * **Answers:**
   * much more structure (1): 5 people
   * more structure (2): 29 people
-  * (was just right) (3): 147 people
+  * (was just right) (3): 156 people
   * less structure (4): 5 people
   * much less structure (5): 0 people
-* **Average answer:** 2.82 (σ=0.51)
+* **Average answer:** 2.83 (σ=0.50)
 
 ![5. Structure: On the whole the event needed ...](./5-structure-on-the-whole-the-event-needed.png)
 
 ### 6. The moderation should have been ...
 
-* **Responses:** 184 people (84.40% of attendees)
+* **Responses:** 193 people (85.02% of attendees)
 * **Answers:**
   * much more relaxed (1): 6 people
   * more relaxed (2): 6 people
-  * (was just right) (3): 152 people
-  * more assertive (4): 16 people
+  * (was just right) (3): 158 people
+  * more assertive (4): 19 people
   * much more assertive (5): 4 people
-* **Average answer:** 3.03 (σ=0.58)
+* **Average answer:** 3.05 (σ=0.58)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
 
 ### 7. Host preparation: The content / exercises were ...
 
-* **Responses:** 183 people (83.94% of attendees)
+* **Responses:** 192 people (84.58% of attendees)
 * **Answers:**
-  * very well prepared (1): 70 people
-  * well prepared (2): 71 people
-  * okay prepared (3): 37 people
+  * very well prepared (1): 75 people
+  * well prepared (2): 73 people
+  * okay prepared (3): 39 people
   * not well prepared (4): 3 people
   * not well prepared at all (5): 2 people
-* **Average answer:** 1.89 (σ=0.86)
+* **Average answer:** 1.88 (σ=0.86)
 
 ![7. Host preparation: The content / exercises were ...](./7-host-preparation-the-content-exercises-were.png)
 
 ### 8. Changing your mind: The event made me ...
 
-* **Responses:** 183 people (83.94% of attendees)
+* **Responses:** 192 people (84.58% of attendees)
 * **Answers:**
   * question many things (1): 9 people
-  * question some things (2): 78 people
-  * question few things (3): 53 people
-  * question very few things (4): 34 people
-  * not question anything (5): 9 people
+  * question some things (2): 83 people
+  * question few things (3): 55 people
+  * question very few things (4): 35 people
+  * not question anything (5): 10 people
 * **Average answer:** 2.76 (σ=0.98)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
 
 ### 9. Do you think you will come to one (or more) of the next three events?
 
-* **Responses:** 187 people (85.78% of attendees)
+* **Responses:** 196 people (86.34% of attendees)
 * **Answers:**
   * probably no: 11 people
-  * probably yes: 176 people
+  * probably yes: 185 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 10 people (4.59% of attendees)
+* **Responses:** 10 people (4.41% of attendees)
 * **Answers:**
   * Calendar too full.: 1 person
   * Do not get much enlightened due to diverse of discussions.: 1 person
@@ -175,7 +176,7 @@ for the individual events here:
 
 ### 11. What did you like the most today?
 
-* **Responses:** 106 people (48.62% of attendees)
+* **Responses:** 113 people (49.78% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -399,9 +400,25 @@ for the individual events here:
 > Challenging questions.
 
 > People
+
+> Exchanging the strategies, interaktive Ansatz
+
+> Systematic approach to thinking. Thanks so much!
+
+> - Thinking logically  
+> - Deconstruction of problems  
+> - Focusing on the essential
+
+> Das Nachdenken und diskutieren 
+
+> Physics questions
+
+> Speculatius
+
+> Discussing & explaining
 ### 12. What did you like the least?
 
-* **Responses:** 62 people (28.44% of attendees)
+* **Responses:** 66 people (29.07% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -528,3 +545,11 @@ for the individual events here:
 > SE didn't work the other times
 
 > Ich hatte etwas Zahnweh
+
+> Some Background Text or Input on strategies wouldve veen helpful
+
+> Time management 
+
+> The uncertainty 
+
+> Differences in speed within group
