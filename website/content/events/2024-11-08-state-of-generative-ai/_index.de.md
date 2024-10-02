@@ -38,12 +38,14 @@ Wir werden nicht auf die theoretischen Grundlagen dieser Modelle eingehen.
 
 Außerdem werden wir einige dieser Modelle und Tools ausprobieren.
 
+## Organisation
+
 Du machst dir Sorgen, dass du nichts beitragen kannst? Keine Sorge! Jeder ist
 willkommen!
 
 Es gibt immer eine Mischung aus Deutsch- und Englischsprechenden, und wir stellen die Diskussionsrunden so zusammen, dass sich jeder wohlfühlt. Die Hauptsprache ist Englisch.
 
-Dieses Meetup wird von Omar moderiert.
+Dieses Meetup wird von Jakob moderiert.
 
 Es wird Snacks und Getränke geben.
 
