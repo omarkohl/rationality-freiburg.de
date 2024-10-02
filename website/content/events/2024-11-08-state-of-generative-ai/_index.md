@@ -64,7 +64,7 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![State of Generative AI](/images/state-of-generative-ai.png "State of Generative AI")
+![State of Generative AI](cover.webp "State of Generative AI")
 
 <small>Bild generiert mit Flux Dev.</small>
 

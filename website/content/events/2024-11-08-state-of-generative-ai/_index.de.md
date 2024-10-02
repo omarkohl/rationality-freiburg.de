@@ -60,6 +60,6 @@ roten Kreuz.</small>
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![State of Generative AI](/images/state-of-generative-ai.png "State of Generative AI")
+![State of Generative AI](cover.webp "State of Generative AI")
 
 <small>Bild generiert mit Flux Dev.</small>
