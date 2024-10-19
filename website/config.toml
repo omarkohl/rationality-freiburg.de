@@ -26,6 +26,24 @@ unsafe = true # enable html in markdown
     languageName = "English"
     languageCode = "en-US"
 
+    [languages.en.menus]
+    [[languages.en.menus.main]]
+      name = 'Home'
+      pageRef = '/'
+      weight = 10
+    [[languages.en.menus.main]]
+      name = 'Events'
+      pageRef = '/events'
+      weight = 20
+    [[languages.en.menus.main]]
+      name = 'Posts'
+      pageRef = '/posts'
+      weight = 30
+    [[languages.en.menus.main]]
+      name = 'About'
+      pageRef = '/about'
+      weight = 40
+
   [languages.de]
     weight = 2
     languageName = "Deutsch"
@@ -37,3 +55,21 @@ unsafe = true # enable html in markdown
 
     [languages.de.params]
       description = "Treffpunkt für LessWrong- oder SSC/ACX-Leser sowie für andere an Rationalität (Rationality) interessierte Menschen in und um Freiburg im Breisgau."
+
+    [languages.de.menus]
+    [[languages.de.menus.main]]
+      name = 'Startseite'
+      pageRef = '/'
+      weight = 10
+    [[languages.de.menus.main]]
+      name = 'Termine'
+      pageRef = '/events'
+      weight = 20
+    [[languages.de.menus.main]]
+      name = 'Beiträge'
+      pageRef = '/posts'
+      weight = 30
+    [[languages.de.menus.main]]
+      name = 'Über uns'
+      pageRef = '/about'
+      weight = 40
