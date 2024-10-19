@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on Rationality Freiburg</title><link>https://www.rationality-freiburg.de/events/</link><description>Recent content in Events on Rationality Freiburg</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Anki: Optimize your Learning</title><link>https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/</link><pubDate>Sun, 29 Oct 2023 08:12:47 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/</guid><description>&lt;h2 id="update-2023-12-10">Update 2023-12-10&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on Rationality Freiburg</title><link>https://www.rationality-freiburg.de/events/</link><description>Recent content in Events on Rationality Freiburg</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://www.rationality-freiburg.de/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Anki: Optimize your Learning</title><link>https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/</link><pubDate>Sun, 29 Oct 2023 08:12:47 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/</guid><description>&lt;h2 id="update-2023-12-10">Update 2023-12-10&lt;/h2>
 &lt;ul>
 &lt;li>Slides: &lt;a href="https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/2023-12-08%20Anki%20Optimize%20Your%20Learning.pdf">2023-12-08 Anki Optimize Your Learning.pdf&lt;/a>&lt;/li>
 &lt;li>Anki deck for essential concepts: &lt;a href="https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/RatFr%20Anki%20Basics%20-%20v2.apkg">RatFr Anki Basics - v2.apkg&lt;/a>
@@ -849,10 +849,14 @@ people who turn up. Just come, we will figure it out!&lt;/p>
 &lt;h3 id="video-trusting-experts">Video &amp;lsquo;Trusting Experts&amp;rsquo;&lt;/h3>
 &lt;p>Watch the following video (1 hour) about &lt;a href="https://www.youtube.com/watch?v=RDlj2S2DWwQ">&amp;lsquo;Trusting
 experts&amp;rsquo;&lt;/a>&lt;/p>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/RDlj2S2DWwQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
->&lt;/iframe>
-&lt;/div>
+
+
+ 
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/RDlj2S2DWwQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+ >&lt;/iframe>
+ &lt;/div>
+
 &lt;h3 id="prepare-hamming-circle">Prepare Hamming circle&lt;/h3>
 &lt;p>Think about at least one problem or bottleneck you have in any area of your
 life that you might want to discuss with the group. Ideally something you might
@@ -939,11 +943,11 @@ somewhere.&lt;/p>
 market&lt;/a> on
 how many people will attend:&lt;/p>
 &lt;div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;">
-&lt;iframe style="height: 100%"
-src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-acx"
-title="How many people will attend the ACX meetup on Oct 14th 2022 in
-Freiburg, Germany?" frameborder="0">
-&lt;/iframe>
+ &lt;iframe style="height: 100%"
+ src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-acx"
+ title="How many people will attend the ACX meetup on Oct 14th 2022 in
+ Freiburg, Germany?" frameborder="0">
+ &lt;/iframe>
 &lt;/div></description></item><item><title>October 15th Hike with 'Karlsruhe Rationality'</title><link>https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/</link><pubDate>Mon, 11 Jul 2022 20:21:19 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/</guid><description>&lt;p>&lt;strong>UPDATE 24.09:&lt;/strong> Please note that this event was postponed from October 1st to
 October 15th!&lt;/p>
 &lt;p>You may also want to join the &lt;a href="https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/">ACX meetup&lt;/a> on the evening before
@@ -964,11 +968,11 @@ elevation gain and the same in elevation loss.&lt;/p>
 market&lt;/a> on
 how many people will attend:&lt;/p>
 &lt;div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;">
-&lt;iframe style="height: 100%"
-src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-rat"
-title="How many people will attend the rationalist hike on Oct 15th 2022 in
-Freiburg, Germany?" frameborder="0">
-&lt;/iframe>
+ &lt;iframe style="height: 100%"
+ src="https://manifold.markets/embed/Omar/how-many-people-will-attend-the-rat"
+ title="How many people will attend the rationalist hike on Oct 15th 2022 in
+ Freiburg, Germany?" frameborder="0">
+ &lt;/iframe>
 &lt;/div></description></item><item><title>Meetup September 30th - Predicting the Future</title><link>https://www.rationality-freiburg.de/events/2022-09-30-predicting-the-future/</link><pubDate>Mon, 11 Jul 2022 20:20:59 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-09-30-predicting-the-future/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
 &lt;p>&lt;strong>UPDATE 29.09&lt;/strong> We will meet in &amp;ldquo;Kursraum 1&amp;rdquo; of FlexRooms, right next to
 Bertholdsbrunnen in the center of Freiburg.&lt;/p>
