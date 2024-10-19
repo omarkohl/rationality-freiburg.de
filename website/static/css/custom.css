@@ -1,3 +1,16 @@
+.header.layout__header {
+  margin-bottom: 0;
+}
+
+.main-menu {
+  margin-top: 0;
+}
+
+/* Ensure site-name is centered with respect to the logo */
+.header__site-name {
+  line-height: 1.7;
+}
+
 .events h2 {
     margin-bottom: 5px;
 }
@@ -125,7 +138,7 @@ aside #TableOfContents ul li a {
     gap: 10px;
   }
 
-.content ul.calendar-links {
+ul.calendar-links {
     margin-top: 12px;
 }
 
