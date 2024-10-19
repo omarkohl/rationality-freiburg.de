@@ -9,7 +9,7 @@
   {{ end }}
 {{ end }}
 
-<h1 class="title">{{ i18n "Past Events" }}</h1>
+<h1 class="title mt--xl">{{ i18n "Past Events" }}</h1>
 
 {{ range (.Pages.ByParam "eventStart").Reverse }}
   {{ if (time .Params.eventStart).Before now }}
