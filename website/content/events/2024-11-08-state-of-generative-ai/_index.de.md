@@ -1,14 +1,14 @@
 ---
 title: "State of Generative AI"
 date: 2024-10-02T15:22:46+02:00
-eventStart: 2024-11-08T18:00:00+02:00
-eventEnd: 2024-11-08T20:30:00+02:00
+eventStart: 2024-11-08T18:00:00+01:00
+eventEnd: 2024-11-08T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2024 at 18:00 hours CEST."
+description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 8. November 2024 um 18:00 Uhr MEZ."
 eventHost:
   - Jakob
 eventType:
