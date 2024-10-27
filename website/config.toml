@@ -10,7 +10,7 @@ protocol = ''
 
 [params]
 contact = "info@rationality-freiburg.de"
-description = "Meeting place for LessWrong and SSC/ACX readers, as well as other rationalists in and around Freiburg im Breisgau, Germany"
+description = "Meeting place for people who like to learn, discuss, think and improve their life. In and around Freiburg im Breisgau, Germany"
 footer = "info@rationality-freiburg.de"
 logo = true
 realfavicongenerator = true
@@ -54,7 +54,7 @@ unsafe = true # enable html in markdown
       posts = "beiträge/:slug"
 
     [languages.de.params]
-      description = "Treffpunkt für LessWrong- oder SSC/ACX-Leser sowie für andere an Rationalität (Rationality) interessierte Menschen in und um Freiburg im Breisgau."
+      description = "Treffpunkt für Menschen, die gerne lernen, diskutieren, nachdenken und ihr Leben verbessern. In und um Freiburg im Breisgau, Deutschland."
 
     [languages.de.menus]
     [[languages.de.menus.main]]

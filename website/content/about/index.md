@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-This site is meant as a meeting place for like-minded people in and around
-Freiburg im Breisgau, Germany to debate, question, laugh, walk, drink coffee,
-improve, help and inspire each other. Anyone is welcome!
+Meeting place for people who like to learn, discuss, think and improve their
+life. We organize presentations, workshops and social activities in Freiburg im
+Breisgau, Germany. Anyone is welcome!
 
 <!--more-->
 
@@ -36,18 +36,27 @@ Group'")
 
 ### What is Rationality?
 
-The desire to see the world as it really is, not as you want it to be. This
-means having an open mind, learning about human cognitive biases and how to
-work around them as well as applying the scientific method (hypothesis +
-experiment).
+The art of thinking in ways that result in accurate beliefs and good decisions.
+Accurate beliefs means having mental models that correlate with reality and is
+usually called _epistemic rationality_. Making good decisions means making
+decisions that get you closer to your own personal goals and is usually called
+_instrumental rationality_.
+
+Having more accurate beliefs and making better decisions is what we **aspire**
+to.
+
+Rationality should not be confused with rationalism (the philosophical belief
+that reason and intellectual deduction are the primary source of knowledge,
+rather than sensory experience).
 
 ### Is Rationality the rejection of emotions or are human emotions bad?
 
 No. Emotions and gut feelings are an integral part of the human experience and
-in fact, vital for our survival. Seeing the world as it really is also implies
-seeing humans as they really are. Emotions and intuitions work very well in
-most situations, only in some cases they can mislead us. Recognizing those
-cases and then improving the result of your decisions is useful.
+in fact, vital for our survival. Having accurate beliefs (i.e. seeing the world
+as it really is) also implies seeing humans as they really are. Emotions and
+intuitions work very well in most situations, only in some cases they can
+mislead us. Recognizing those cases and then improving the result of your
+decisions is useful.
 
 ### What do you do?
 
