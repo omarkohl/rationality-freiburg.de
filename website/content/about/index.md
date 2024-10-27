@@ -49,6 +49,8 @@ Rationality should not be confused with rationalism (the philosophical belief
 that reason and intellectual deduction are the primary source of knowledge,
 rather than sensory experience).
 
+[Read more](https://www.lesswrong.com/tag/rationality).
+
 ### Is Rationality the rejection of emotions or are human emotions bad?
 
 No. Emotions and gut feelings are an integral part of the human experience and

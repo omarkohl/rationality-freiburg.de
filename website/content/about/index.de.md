@@ -58,6 +58,8 @@ Rationalität sollte nicht mit Rationalismus verwechselt werden (dem
 philosophischen Glauben, dass Vernunft und intellektuelle Deduktion die primäre
 Quelle des Wissens sind, und nicht die Sinneserfahrung).
 
+[Lies mehr (Englisch)](https://www.lesswrong.com/tag/rationality).
+
 ### Ist Rationalität die Ablehnung von Emotionen oder sind menschliche Emotionen schlecht?
 
 Nein. Emotionen und Bauchgefühle sind ein wesentlicher Bestandteil der
