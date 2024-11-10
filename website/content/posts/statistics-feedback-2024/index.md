@@ -45,26 +45,26 @@ for the individual events here:
 
 ## Feedback
 
-* **Responses:** 225 people (81.23% of attendees)
+* **Responses:** 226 people (81.59% of attendees)
 
 ### 1. Practical use: For my life, what we did today will have ...
 
-* **Responses:** 222 people (80.14% of attendees)
+* **Responses:** 223 people (80.51% of attendees)
 * **Answers:**
-  * a lot of practical use (1): 40 people
+  * a lot of practical use (1): 41 people
   * quite a bit of practical use (2): 74 people
   * some practical use (3): 41 people
   * little practical use (4): 40 people
   * very little practical use (5): 27 people
-* **Average answer:** 2.73 (σ=1.29)
+* **Average answer:** 2.72 (σ=1.29)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
 
 ### 2. The atmosphere / vibe was ...
 
-* **Responses:** 224 people (80.87% of attendees)
+* **Responses:** 225 people (81.23% of attendees)
 * **Answers:**
-  * fantastic (1): 102 people
+  * fantastic (1): 103 people
   * good (2): 109 people
   * okay (3): 10 people
   * bad (4): 2 people
@@ -75,24 +75,24 @@ for the individual events here:
 
 ### 3. The amount of content / exercises covered was ...
 
-* **Responses:** 218 people (78.70% of attendees)
+* **Responses:** 219 people (79.06% of attendees)
 * **Answers:**
   * way too much (1): 5 people
   * too much (2): 31 people
-  * just right (3): 157 people
+  * just right (3): 158 people
   * too little (4): 21 people
   * way too little (5): 4 people
-* **Average answer:** 2.94 (σ=0.63)
+* **Average answer:** 2.95 (σ=0.63)
 
 ![3. The amount of content / exercises covered was ...](./3-the-amount-of-content-exercises-covered-was.png)
 
 ### 4. The difficulty level of the content / discussion was ...
 
-* **Responses:** 220 people (79.42% of attendees)
+* **Responses:** 221 people (79.78% of attendees)
 * **Answers:**
   * much too easy (1): 5 people
   * too easy (2): 36 people
-  * just right (3): 150 people
+  * just right (3): 151 people
   * too difficult (4): 28 people
   * much too difficult (5): 1 person
 * **Average answer:** 2.93 (σ=0.63)
@@ -101,11 +101,11 @@ for the individual events here:
 
 ### 5. Structure: On the whole the event needed ...
 
-* **Responses:** 222 people (80.14% of attendees)
+* **Responses:** 223 people (80.51% of attendees)
 * **Answers:**
   * much more structure (1): 5 people
   * more structure (2): 33 people
-  * (was just right) (3): 179 people
+  * (was just right) (3): 180 people
   * less structure (4): 5 people
   * much less structure (5): 0 people
 * **Average answer:** 2.83 (σ=0.48)
@@ -114,11 +114,11 @@ for the individual events here:
 
 ### 6. The moderation should have been ...
 
-* **Responses:** 220 people (79.42% of attendees)
+* **Responses:** 221 people (79.78% of attendees)
 * **Answers:**
   * much more relaxed (1): 6 people
   * more relaxed (2): 6 people
-  * (was just right) (3): 183 people
+  * (was just right) (3): 184 people
   * more assertive (4): 21 people
   * much more assertive (5): 4 people
 * **Average answer:** 3.05 (σ=0.55)
@@ -127,36 +127,36 @@ for the individual events here:
 
 ### 7. Host preparation: The content / exercises were ...
 
-* **Responses:** 219 people (79.06% of attendees)
+* **Responses:** 220 people (79.42% of attendees)
 * **Answers:**
-  * very well prepared (1): 82 people
+  * very well prepared (1): 83 people
   * well prepared (2): 80 people
   * okay prepared (3): 52 people
   * not well prepared (4): 3 people
   * not well prepared at all (5): 2 people
-* **Average answer:** 1.92 (σ=0.86)
+* **Average answer:** 1.91 (σ=0.86)
 
 ![7. Host preparation: The content / exercises were ...](./7-host-preparation-the-content-exercises-were.png)
 
 ### 8. Changing your mind: The event made me ...
 
-* **Responses:** 219 people (79.06% of attendees)
+* **Responses:** 220 people (79.42% of attendees)
 * **Answers:**
   * question many things (1): 10 people
-  * question some things (2): 91 people
+  * question some things (2): 92 people
   * question few things (3): 65 people
   * question very few things (4): 37 people
   * not question anything (5): 16 people
-* **Average answer:** 2.81 (σ=1.01)
+* **Average answer:** 2.80 (σ=1.01)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
 
 ### 9. Do you think you will come to one (or more) of the next three events?
 
-* **Responses:** 223 people (80.51% of attendees)
+* **Responses:** 224 people (80.87% of attendees)
 * **Answers:**
   * probably no: 11 people
-  * probably yes: 212 people
+  * probably yes: 213 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
@@ -179,7 +179,7 @@ for the individual events here:
 
 ### 11. What did you like the most today?
 
-* **Responses:** 126 people (45.49% of attendees)
+* **Responses:** 127 people (45.85% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -441,6 +441,8 @@ for the individual events here:
 > Was surprised by the advances
 
 > Moderator Humor 
+
+> Extraordinarily well structure and compact overview of currently available GenAI tools/plattforms/services that are worth trying. [Typo fixed]
 
 > It was fun!
 
