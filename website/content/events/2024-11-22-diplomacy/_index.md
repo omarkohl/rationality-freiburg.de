@@ -26,7 +26,36 @@ outputs:
 
 ## Preparation
 
-To be defined.
+Bring a **laptop** (preferable) or at least a smartphone to the meetup.
+
+Make sure you have a **Google/Gmail account** because you'll need it to play on
+[Backstabbr](https://www.backstabbr.com). Note that it is possible to create a
+Google account with any other e-mail address, you don't need to create a Gmail
+e-mail address. Follow this link: https://accounts.google.com/SignUpWithoutGmail .
+
+If you REALLY don't want to create a Google account then register on
+https://www.playdiplomacy.com/ but note that I will be able to provide less
+support because I don't know the platform. You'll also have to find enough
+other meetup participants who want to play there.
+
+Watch the following two **game tutorials**. I will assume some people don't know
+the rules so I will explain them, but it will be very useful if in every group
+there are as many people as possible with a solid understanding of the rules.
+
+* [Video: How to play on Backstabbr (12 min)](https://www.youtube.com/watch?v=l53oL0ptt7k)
+* [Video: Learn Diplomacy (22 min)](https://www.youtube.com/watch?v=S-sSWsBdbNI)
+
+Optional:
+
+* [Short rules](https://world-diplomacy-wiki.fandom.com/wiki/Diplomacy_Rules_(Short_version))
+* [Detailed rules (PDF)](https://media.wizards.com/2015/downloads/ah/diplomacy_rules.pdf)
+* [Video: Diplomacy: The Game of Knife (38 min)](https://www.youtube.com/watch?v=oUaLEgzvMQs)
+
+**Note "Winter":** All versions of Diplomacy involve two seasons of the
+year Spring and Fall. The end-of-the-year phase where new units are built or
+removed is sometimes called Winter (for example on Backstabbr) but many sources
+just lump that in as a special step in the Fall season. Don't be confused, the
+result is the same.
 
 
 ## What will we do?

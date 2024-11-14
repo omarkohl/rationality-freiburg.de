@@ -24,7 +24,40 @@ url: termine/2024-11-22-diplomacy
 
 ## Vorbereitung
 
-Noch zu definieren.
+Bring einen **Laptop** (bevorzugt) oder mindestens ein Smartphone zum Treffen
+mit.
+
+Stelle sicher, dass du ein **Google/Gmail-Konto** hast, weil du es benötigst,
+um auf [Backstabbr](https://www.backstabbr.com) zu spielen. Beachte, dass es
+möglich ist, ein Google-Konto mit einer anderen E-Mail-Adresse zu erstellen,
+du musst keine Gmail-Adresse anlegen. Folge diesem Link:
+https://accounts.google.com/SignUpWithoutGmail.
+
+Wenn du wirklich nicht ein Google-Konto erstellen möchtest, dann registriere
+dich auf [https://www.playdiplomacy.com/](https://www.playdiplomacy.com/), aber
+beachte, dass ich dir weniger Unterstützung bieten kann, da ich die Plattform
+nicht kenne. Du musst außerdem genügend andere Teilnehmer finden, die ebenfalls
+dort spielen möchten.
+
+Sieh dir die folgenden beiden **Spiel-Tutorials** an. Ich gehe davon aus, dass
+einige Leute die Regeln nicht kennen, also werde ich sie erklären, aber es wird
+sehr hilfreich sein, wenn in jeder Gruppe so viele Personen wie möglich eine
+solide Kenntnis der Regeln haben.
+
+* [Video: Wie man auf Backstabbr spielt (12 min)](https://www.youtube.com/watch?v=l53oL0ptt7k) (Englisch)
+* [Video: Diplomacy lernen (22 min)](https://www.youtube.com/watch?v=S-sSWsBdbNI) (Englisch)
+
+Optional:
+
+* [Kurze Regeln](https://world-diplomacy-wiki.fandom.com/wiki/Diplomacy_Rules_(Short_version)) (Englisch)
+* [Detaillierte Regeln (PDF)](https://media.wizards.com/2015/downloads/ah/diplomacy_rules.pdf) (Englisch)
+* [Video: Diplomacy: The Game of Knife (38 min)](https://www.youtube.com/watch?v=oUaLEgzvMQs) (Englisch)
+
+**Hinweis "Winter":** Alle Versionen von Diplomacy umfassen zwei Jahreszeiten:
+Frühling und Herbst. Die Phase zum Jahresende, in der neue Einheiten gebaut oder
+entfernt werden, wird manchmal als Winter bezeichnet (zum Beispiel auf
+Backstabbr), aber viele Quellen fassen das einfach als speziellen Schritt in der
+Herbstsaison zusammen. Lass dich nicht verwirren, das Ergebnis ist dasselbe.
 
 
 ## Was werden wir tun?
