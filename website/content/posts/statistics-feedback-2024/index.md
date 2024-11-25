@@ -2,7 +2,7 @@
 title: "Statistics & Feedback 2024"
 date: 2024-02-12T13:41:50+0100
 toc: true
-summary: "In 2024 there were 19 public events (so far),
+summary: "In 2024 there were 20 public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
@@ -31,13 +31,14 @@ for the individual events here:
 * [ACX Meetup Fall 2024]({{< ref "events/2024-10-11-acx-meetup-fall-2024/statistics" >}})
 * [Secret Hitler & Other Games]({{< ref "events/2024-10-25-secret-hitler-and-other-games/statistics" >}})
 * [State of Generative AI]({{< ref "events/2024-11-08-state-of-generative-ai/statistics" >}})
+* [Diplomacy]({{< ref "events/2024-11-22-diplomacy/statistics" >}})
 
 
 ## Attendees
 
-* 19 events.
-* 14.58 people per event on average (σ=5.16).
-* 2.26 newcomers per event (σ=3.14).
+* 20 events.
+* 14.35 people per event on average (σ=5.12).
+* 2.15 newcomers per event (σ=3.10).
 * Maximum number of attendees was 26 and minimum was 6 people.
 
 **Recurring** is any person coming for the second, third etc. time whereas
@@ -45,124 +46,124 @@ for the individual events here:
 
 ## Feedback
 
-* **Responses:** 226 people (81.59% of attendees)
+* **Responses:** 235 people (81.88% of attendees)
 
 ### 1. Practical use: For my life, what we did today will have ...
 
-* **Responses:** 223 people (80.51% of attendees)
+* **Responses:** 232 people (80.84% of attendees)
 * **Answers:**
   * a lot of practical use (1): 41 people
-  * quite a bit of practical use (2): 74 people
-  * some practical use (3): 41 people
-  * little practical use (4): 40 people
-  * very little practical use (5): 27 people
-* **Average answer:** 2.72 (σ=1.29)
+  * quite a bit of practical use (2): 75 people
+  * some practical use (3): 42 people
+  * little practical use (4): 45 people
+  * very little practical use (5): 29 people
+* **Average answer:** 2.77 (σ=1.30)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
 
 ### 2. The atmosphere / vibe was ...
 
-* **Responses:** 225 people (81.23% of attendees)
+* **Responses:** 234 people (81.53% of attendees)
 * **Answers:**
-  * fantastic (1): 103 people
-  * good (2): 109 people
+  * fantastic (1): 108 people
+  * good (2): 113 people
   * okay (3): 10 people
   * bad (4): 2 people
   * horrible (5): 1 person
-* **Average answer:** 1.62 (σ=0.66)
+* **Average answer:** 1.61 (σ=0.65)
 
 ![2. The atmosphere / vibe was ...](./2-the-atmosphere-vibe-was.png)
 
 ### 3. The amount of content / exercises covered was ...
 
-* **Responses:** 219 people (79.06% of attendees)
+* **Responses:** 227 people (79.09% of attendees)
 * **Answers:**
   * way too much (1): 5 people
   * too much (2): 31 people
-  * just right (3): 158 people
-  * too little (4): 21 people
+  * just right (3): 164 people
+  * too little (4): 23 people
   * way too little (5): 4 people
-* **Average answer:** 2.95 (σ=0.63)
+* **Average answer:** 2.96 (σ=0.63)
 
 ![3. The amount of content / exercises covered was ...](./3-the-amount-of-content-exercises-covered-was.png)
 
 ### 4. The difficulty level of the content / discussion was ...
 
-* **Responses:** 221 people (79.78% of attendees)
+* **Responses:** 230 people (80.14% of attendees)
 * **Answers:**
-  * much too easy (1): 5 people
-  * too easy (2): 36 people
-  * just right (3): 151 people
-  * too difficult (4): 28 people
+  * much too easy (1): 6 people
+  * too easy (2): 37 people
+  * just right (3): 157 people
+  * too difficult (4): 29 people
   * much too difficult (5): 1 person
-* **Average answer:** 2.93 (σ=0.63)
+* **Average answer:** 2.92 (σ=0.64)
 
 ![4. The difficulty level of the content / discussion was ...](./4-the-difficulty-level-of-the-content-discussion-was.png)
 
 ### 5. Structure: On the whole the event needed ...
 
-* **Responses:** 223 people (80.51% of attendees)
+* **Responses:** 232 people (80.84% of attendees)
 * **Answers:**
   * much more structure (1): 5 people
   * more structure (2): 33 people
-  * (was just right) (3): 180 people
+  * (was just right) (3): 189 people
   * less structure (4): 5 people
   * much less structure (5): 0 people
-* **Average answer:** 2.83 (σ=0.48)
+* **Average answer:** 2.84 (σ=0.47)
 
 ![5. Structure: On the whole the event needed ...](./5-structure-on-the-whole-the-event-needed.png)
 
 ### 6. The moderation should have been ...
 
-* **Responses:** 221 people (79.78% of attendees)
+* **Responses:** 230 people (80.14% of attendees)
 * **Answers:**
   * much more relaxed (1): 6 people
-  * more relaxed (2): 6 people
-  * (was just right) (3): 184 people
+  * more relaxed (2): 7 people
+  * (was just right) (3): 192 people
   * more assertive (4): 21 people
   * much more assertive (5): 4 people
-* **Average answer:** 3.05 (σ=0.55)
+* **Average answer:** 3.04 (σ=0.54)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
 
 ### 7. Host preparation: The content / exercises were ...
 
-* **Responses:** 220 people (79.42% of attendees)
+* **Responses:** 229 people (79.79% of attendees)
 * **Answers:**
-  * very well prepared (1): 83 people
-  * well prepared (2): 80 people
-  * okay prepared (3): 52 people
+  * very well prepared (1): 88 people
+  * well prepared (2): 83 people
+  * okay prepared (3): 53 people
   * not well prepared (4): 3 people
   * not well prepared at all (5): 2 people
-* **Average answer:** 1.91 (σ=0.86)
+* **Average answer:** 1.90 (σ=0.86)
 
 ![7. Host preparation: The content / exercises were ...](./7-host-preparation-the-content-exercises-were.png)
 
 ### 8. Changing your mind: The event made me ...
 
-* **Responses:** 220 people (79.42% of attendees)
+* **Responses:** 229 people (79.79% of attendees)
 * **Answers:**
   * question many things (1): 10 people
-  * question some things (2): 92 people
-  * question few things (3): 65 people
-  * question very few things (4): 37 people
-  * not question anything (5): 16 people
-* **Average answer:** 2.80 (σ=1.01)
+  * question some things (2): 93 people
+  * question few things (3): 66 people
+  * question very few things (4): 42 people
+  * not question anything (5): 18 people
+* **Average answer:** 2.85 (σ=1.03)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
 
 ### 9. Do you think you will come to one (or more) of the next three events?
 
-* **Responses:** 224 people (80.87% of attendees)
+* **Responses:** 233 people (81.18% of attendees)
 * **Answers:**
   * probably no: 11 people
-  * probably yes: 213 people
+  * probably yes: 222 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 11 people (3.97% of attendees)
+* **Responses:** 12 people (4.18% of attendees)
 * **Answers:**
   * Calendar too full.: 1 person
   * Do not get much enlightened due to diverse of discussions.: 1 person
@@ -171,7 +172,7 @@ for the individual events here:
   * I can't fit another activity into my life.: 1 person
   * I did not like (some of) the people here.: 0 people
   * I did not like today's venue.: 0 people
-  * I live too far away.: 7 people
+  * I live too far away.: 8 people
   * I'm not very interested in your usual topics.: 0 people
   * The level of English is too advanced for me.: 0 people
 
@@ -179,7 +180,7 @@ for the individual events here:
 
 ### 11. What did you like the most today?
 
-* **Responses:** 127 people (45.85% of attendees)
+* **Responses:** 133 people (46.34% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -447,9 +448,21 @@ for the individual events here:
 > It was fun!
 
 > Got a very good overview on AI tools. 
+
+> Interactivity
+
+> The story of Cicero
+
+> The game
+
+> combination of input, play and discussion,  vibe
+
+> Playing Diplomacy 
+
+> Playing together was quite fun
 ### 12. What did you like the least?
 
-* **Responses:** 71 people (25.63% of attendees)
+* **Responses:** 75 people (26.13% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -594,3 +607,11 @@ for the individual events here:
 > Being a fascist
 
 > Results of practical session were not presented. 
+
+> the about 30 min. delay to get started
+
+> The betrayal 
+
+> Technical issues with beamer etc.
+
+> Not entirely my topic...
