@@ -2,7 +2,7 @@
 title: "Statistics & Feedback 2024"
 date: 2024-02-12T13:41:50+0100
 toc: true
-summary: "In 2024 there were 20 public events (so far),
+summary: "In 2024 there were 21 public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
@@ -32,13 +32,14 @@ for the individual events here:
 * [Secret Hitler & Other Games]({{< ref "events/2024-10-25-secret-hitler-and-other-games/statistics" >}})
 * [State of Generative AI]({{< ref "events/2024-11-08-state-of-generative-ai/statistics" >}})
 * [Diplomacy]({{< ref "events/2024-11-22-diplomacy/statistics" >}})
+* [Is Any Knowledge Intrinsically Harmful?]({{< ref "events/2024-12-06-harmful-knowledge/statistics" >}})
 
 
 ## Attendees
 
-* 20 events.
-* 14.35 people per event on average (σ=5.12).
-* 2.15 newcomers per event (σ=3.10).
+* 21 events.
+* 14.24 people per event on average (σ=5.02).
+* 2.05 newcomers per event (σ=3.06).
 * Maximum number of attendees was 26 and minimum was 6 people.
 
 **Recurring** is any person coming for the second, third etc. time whereas
@@ -46,28 +47,28 @@ for the individual events here:
 
 ## Feedback
 
-* **Responses:** 235 people (81.88% of attendees)
+* **Responses:** 245 people (81.94% of attendees)
 
 ### 1. Practical use: For my life, what we did today will have ...
 
-* **Responses:** 232 people (80.84% of attendees)
+* **Responses:** 242 people (80.94% of attendees)
 * **Answers:**
   * a lot of practical use (1): 41 people
-  * quite a bit of practical use (2): 75 people
-  * some practical use (3): 42 people
-  * little practical use (4): 45 people
-  * very little practical use (5): 29 people
-* **Average answer:** 2.77 (σ=1.30)
+  * quite a bit of practical use (2): 77 people
+  * some practical use (3): 46 people
+  * little practical use (4): 48 people
+  * very little practical use (5): 30 people
+* **Average answer:** 2.79 (σ=1.29)
 
 ![1. Practical use: For my life, what we did today will have ...](./1-practical-use-for-my-life-what-we-did-today-will-have.png)
 
 ### 2. The atmosphere / vibe was ...
 
-* **Responses:** 234 people (81.53% of attendees)
+* **Responses:** 244 people (81.61% of attendees)
 * **Answers:**
-  * fantastic (1): 108 people
-  * good (2): 113 people
-  * okay (3): 10 people
+  * fantastic (1): 112 people
+  * good (2): 118 people
+  * okay (3): 11 people
   * bad (4): 2 people
   * horrible (5): 1 person
 * **Average answer:** 1.61 (σ=0.65)
@@ -76,94 +77,94 @@ for the individual events here:
 
 ### 3. The amount of content / exercises covered was ...
 
-* **Responses:** 227 people (79.09% of attendees)
+* **Responses:** 237 people (79.26% of attendees)
 * **Answers:**
   * way too much (1): 5 people
   * too much (2): 31 people
-  * just right (3): 164 people
-  * too little (4): 23 people
+  * just right (3): 171 people
+  * too little (4): 26 people
   * way too little (5): 4 people
-* **Average answer:** 2.96 (σ=0.63)
+* **Average answer:** 2.97 (σ=0.63)
 
 ![3. The amount of content / exercises covered was ...](./3-the-amount-of-content-exercises-covered-was.png)
 
 ### 4. The difficulty level of the content / discussion was ...
 
-* **Responses:** 230 people (80.14% of attendees)
+* **Responses:** 240 people (80.27% of attendees)
 * **Answers:**
   * much too easy (1): 6 people
-  * too easy (2): 37 people
-  * just right (3): 157 people
+  * too easy (2): 40 people
+  * just right (3): 164 people
   * too difficult (4): 29 people
   * much too difficult (5): 1 person
-* **Average answer:** 2.92 (σ=0.64)
+* **Average answer:** 2.91 (σ=0.63)
 
 ![4. The difficulty level of the content / discussion was ...](./4-the-difficulty-level-of-the-content-discussion-was.png)
 
 ### 5. Structure: On the whole the event needed ...
 
-* **Responses:** 232 people (80.84% of attendees)
+* **Responses:** 242 people (80.94% of attendees)
 * **Answers:**
   * much more structure (1): 5 people
-  * more structure (2): 33 people
-  * (was just right) (3): 189 people
+  * more structure (2): 35 people
+  * (was just right) (3): 197 people
   * less structure (4): 5 people
   * much less structure (5): 0 people
-* **Average answer:** 2.84 (σ=0.47)
+* **Average answer:** 2.83 (σ=0.47)
 
 ![5. Structure: On the whole the event needed ...](./5-structure-on-the-whole-the-event-needed.png)
 
 ### 6. The moderation should have been ...
 
-* **Responses:** 230 people (80.14% of attendees)
+* **Responses:** 240 people (80.27% of attendees)
 * **Answers:**
   * much more relaxed (1): 6 people
   * more relaxed (2): 7 people
-  * (was just right) (3): 192 people
-  * more assertive (4): 21 people
+  * (was just right) (3): 201 people
+  * more assertive (4): 22 people
   * much more assertive (5): 4 people
-* **Average answer:** 3.04 (σ=0.54)
+* **Average answer:** 3.05 (σ=0.54)
 
 ![6. The moderation should have been ...](./6-the-moderation-should-have-been.png)
 
 ### 7. Host preparation: The content / exercises were ...
 
-* **Responses:** 229 people (79.79% of attendees)
+* **Responses:** 239 people (79.93% of attendees)
 * **Answers:**
-  * very well prepared (1): 88 people
-  * well prepared (2): 83 people
-  * okay prepared (3): 53 people
-  * not well prepared (4): 3 people
+  * very well prepared (1): 92 people
+  * well prepared (2): 85 people
+  * okay prepared (3): 56 people
+  * not well prepared (4): 4 people
   * not well prepared at all (5): 2 people
-* **Average answer:** 1.90 (σ=0.86)
+* **Average answer:** 1.91 (σ=0.87)
 
 ![7. Host preparation: The content / exercises were ...](./7-host-preparation-the-content-exercises-were.png)
 
 ### 8. Changing your mind: The event made me ...
 
-* **Responses:** 229 people (79.79% of attendees)
+* **Responses:** 239 people (79.93% of attendees)
 * **Answers:**
-  * question many things (1): 10 people
-  * question some things (2): 93 people
-  * question few things (3): 66 people
+  * question many things (1): 11 people
+  * question some things (2): 100 people
+  * question few things (3): 68 people
   * question very few things (4): 42 people
   * not question anything (5): 18 people
-* **Average answer:** 2.85 (σ=1.03)
+* **Average answer:** 2.82 (σ=1.02)
 
 ![8. Changing your mind: The event made me ...](./8-changing-your-mind-the-event-made-me.png)
 
 ### 9. Do you think you will come to one (or more) of the next three events?
 
-* **Responses:** 233 people (81.18% of attendees)
+* **Responses:** 243 people (81.27% of attendees)
 * **Answers:**
   * probably no: 11 people
-  * probably yes: 222 people
+  * probably yes: 232 people
 
 ![9. Do you think you will come to one (or more) of the next three events?](./9-do-you-think-you-will-come-to-one-or-more-of-the-next-three-events.png)
 
 ### 10. If you answered "probably no" in the previous question or are very uncertain, why is that?
 
-* **Responses:** 12 people (4.18% of attendees)
+* **Responses:** 12 people (4.01% of attendees)
 * **Answers:**
   * Calendar too full.: 1 person
   * Do not get much enlightened due to diverse of discussions.: 1 person
@@ -180,7 +181,7 @@ for the individual events here:
 
 ### 11. What did you like the most today?
 
-* **Responses:** 133 people (46.34% of attendees)
+* **Responses:** 139 people (46.49% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -460,9 +461,21 @@ for the individual events here:
 > Playing Diplomacy 
 
 > Playing together was quite fun
+
+> topic + discussions
+
+> Atmosphere, learning my death chance 
+
+> Open topic, great for discussion.
+
+> Working questions, nice discussion groups, the topic
+
+> Very interesting topic, nice discussions rounds
+
+> The couch and the smiles
 ### 12. What did you like the least?
 
-* **Responses:** 75 people (26.13% of attendees)
+* **Responses:** 78 people (26.09% of attendees)
 
 **Note:** Anything contained in square brackets [] is an edit by the organizers.
 
@@ -615,3 +628,9 @@ for the individual events here:
 > Technical issues with beamer etc.
 
 > Not entirely my topic...
+
+> Would have preferred to read the text in advance, instead of during the event
+
+> The presentation could have been a bit longer
+
+> Den Text hätte ich gerne vor der Veranstaltung gelesen und die Zeit für weitere Diskussionen genutzt 
