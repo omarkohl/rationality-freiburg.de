@@ -37,7 +37,7 @@ Please read the following texts:
 ## What will we do?
 
 We will reflect on and discuss secular rituals. Do humans need rituals? Is it
-possible to have non-religious rituals? Are their risks associated with it? To
+possible to have non-religious rituals? Are there risks associated with it? To
 direct our discussion please read the texts above since they will be the
 framing. People who were unable to read the texts beforehand will read one of
 them during the meetup and only then join the discussion.
