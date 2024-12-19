@@ -8,7 +8,7 @@ eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, December 20th 2024 at 18:00 hours CET."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, January 17th at 18:00 hours CET."
 eventHost:
   - Ben
 eventType:
