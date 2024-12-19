@@ -8,7 +8,7 @@ eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 20. Dezember 2024 um 18:00 Uhr MEZ."
+description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 17. Januar 2025 um 18:00 Uhr MEZ."
 eventHost:
   - Ben
 eventType:
@@ -28,7 +28,7 @@ url: termine/2025-01-17-wahrscheinlichkeit-des-untergangs
 
 Dieser Event basiert auf Ideen die ich hier gelernt habe:
 
-[ACX - The Extinction Tournament](https://www.astralcodexten.com/p/the-extinction-tournament)
+[ACX - The Extinction Tournament](https://www.astralcodexten.com/p/the-extinction-tournament) (Englisch)
 
 Den Text zu lesen ist empfohlen, aber nicht notwendig.
 
@@ -52,7 +52,7 @@ Mach dir keine Sorgen, wenn du denkst, dass du nichts beitragen kannst! Jeder is
 
 Es gibt immer eine Mischung aus Deutsch- und Englischsprachigen, und wir gestalten die Diskussionsrunden so, dass sich jeder wohlfühlt. Die Hauptsprache ist Englisch.
 
-Dieses Treffen wird von Omar moderiert.
+Dieses Treffen wird von Ben moderiert.
 
 Es wird Snacks und Getränke geben.
 
