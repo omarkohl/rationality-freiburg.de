@@ -1,6 +1,6 @@
 ---
 title: "Probability of Doom"
-date: 2025-12-18T10:24:50+01:00
+date: 2024-12-18T10:24:50+01:00
 eventStart: 2025-01-17T18:00:00+01:00
 eventEnd: 2025-01-17T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
