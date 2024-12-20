@@ -73,6 +73,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Thinking about despair](cover.webp "Thinkng about despair")
+![Thinking about despair](cover.webp "Thinking about despair")
 
 <small>Image generated with _Recraft_.</small>
