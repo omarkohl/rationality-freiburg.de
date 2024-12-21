@@ -71,6 +71,10 @@ blockquote {
     background-color: #f9f9f9;
 }
 
+blockquote p, blockquote ul {
+    margin: 18px 0;
+}
+
 aside {
     margin-top: 20px;
     padding: 0px 20px;
