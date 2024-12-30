@@ -15,12 +15,15 @@ Look for "Filenames" below for a little more information.
 """
 
 import os
+from pathlib import Path
 import sys
 import re
 import pytz
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
+from plotly import express as px
+import plotly.io as pio
 
 from ratfr_statistics.helper import get_page_metadata
 from ratfr_statistics import questions
@@ -137,6 +140,7 @@ title: "Statistics: {event_title}"
 date: {event_stats_page_creation_date}
 type: "default"
 toc: true
+usePlotly: true
 summary: "Statistics for the '{event_title}' event."
 ---
 
@@ -179,6 +183,7 @@ See also the [{YEAR} summary]({summary_link}).
 title: "Statistics & Feedback {YEAR}"
 date: {summary_page_creation_date}
 toc: true
+usePlotly: true
 summary: "In {YEAR} there were {len(dates)} public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
@@ -202,6 +207,12 @@ for the individual events here:
 **New** is anyone coming for the first time to a Rationality Freiburg event.
 
 """
+
+    page_content += "## Referrals\n\n"
+    newcomer = pd.read_csv(Path("data", "newcomer.csv"))
+    referrals_fig = plot_referrals(newcomer)
+    referrals_html = pio.to_html(referrals_fig, include_plotlyjs=False, full_html=False)
+    page_content += "<div>" + referrals_html + "</div>\n\n"
 
     page_content += generate_feedback_output(
         feedback_df, total_participants, SUMMARY_WEBDIR
@@ -354,6 +365,25 @@ def plot_bar_chart_horizontal(data, q, output_dir):
     plt.subplots_adjust(left=0.2)
     plt.savefig(f"{output_dir}/{question_to_filename(q)}.png")
     plt.close()
+
+
+def plot_referrals(newcomer: pd.DataFrame):
+    """
+    Generate the referrals figure.
+    """
+    newcomer = newcomer.groupby("Referral").agg({"People": "sum"}).reset_index()
+    fig = px.pie(
+        newcomer,
+        values="People",
+        names="Referral",
+        title="How did newcomers find RatFr?",
+    )
+
+    fig.update_traces(
+        hovertemplate=None,
+    )
+
+    return fig
 
 
 def question_to_filename(q):
