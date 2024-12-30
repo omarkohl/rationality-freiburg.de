@@ -61,9 +61,9 @@ Bilbo Baggins,,1,1,1,1,4,100%
 ATTENDANCE_SOURCE = "attendance-statistics.csv"
 
 # The following files are generated based on the above input files.
-FEEDBACK_CLEANED = f"feedback{YEAR}.csv"
-ATTENDANCE_CLEANED = f"attendance{YEAR}.csv"
-REFERRAL_CLEANED = f"referrals{YEAR}.csv"
+FEEDBACK_CLEANED = os.path.join("data", f"feedback{YEAR}.csv")
+ATTENDANCE_CLEANED = os.path.join("data", f"attendance{YEAR}.csv")
+REFERRAL_CLEANED = os.path.join("data", f"referrals{YEAR}.csv")
 
 # End of Filenames
 
