@@ -25,9 +25,9 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 
-YEAR = '2024'
-SUMMARY_WEBDIR = f'../website/content/posts/statistics-feedback-{YEAR}/'
-EVENTS_WEBDIR = '../website/content/events/'
+YEAR = "2024"
+SUMMARY_WEBDIR = f"../website/content/posts/statistics-feedback-{YEAR}/"
+EVENTS_WEBDIR = "../website/content/events/"
 
 REMOVE_SOURCE_FILES = True
 
@@ -40,7 +40,7 @@ Timestamp,Date of the event,"1. Practical use: For my life, what we did today wi
 19/01/2024 20:36:42,19/01/2024,2,2,3,3,2,3,2,3,probably yes,,,
 02/02/2024 20:36:12,02/02/2024,3,1,3,3,3,2,1,3,probably yes,,,
 """
-FEEDBACK_EN_SOURCE = 'Event Feedback (Responses) - EN.csv'
+FEEDBACK_EN_SOURCE = "Event Feedback (Responses) - EN.csv"
 
 """
 Expected format of the CSV file (exported from Google Forms):
@@ -49,7 +49,7 @@ Timestamp,Datum der Veranstaltung,1. Was wir heute getan haben wird für mich ..
 02/02/2024 20:37:08,02/02/2024,4,1,3,3,3,3,2,4,eher ja,,"Am Besten die Übung, am wenigsten nichts.",Frodo
 02/02/2024 20:37:19,02/02/2024,4,2,3,3,3,3,1,2,eher ja,,,
 """
-FEEDBACK_DE_SOURCE = 'Event Feedback (Responses) - DE.csv'
+FEEDBACK_DE_SOURCE = "Event Feedback (Responses) - DE.csv"
 
 """
 Expected format of the CSV file:
@@ -58,112 +58,118 @@ Expected format of the CSV file:
 Frodo Baggins,,1,1,1,1,4,100%
 Bilbo Baggins,,1,1,1,1,4,100%
 """
-ATTENDANCE_SOURCE = 'attendance-statistics.csv'
+ATTENDANCE_SOURCE = "attendance-statistics.csv"
 
 # The following files are generated based on the above input files.
-FEEDBACK_CLEANED = f'feedback{YEAR}.csv'
-ATTENDANCE_CLEANED = f'attendance{YEAR}.csv'
-REFERRAL_CLEANED = f'referrals{YEAR}.csv'
+FEEDBACK_CLEANED = f"feedback{YEAR}.csv"
+ATTENDANCE_CLEANED = f"attendance{YEAR}.csv"
+REFERRAL_CLEANED = f"referrals{YEAR}.csv"
 
 # End of Filenames
 
 QUESTIONS = {
-    1: '1. Practical use: For my life, what we did today will have ...',
-    2: '2. The atmosphere / vibe was ...',
-    3: '3. The amount of content / exercises covered was ...',
-    4: '4. The difficulty level of the content / discussion was ...',
-    5: '5. Structure: On the whole the event needed ...',
-    6: '6. The moderation should have been ...',
-    7: '7. Host preparation: The content / exercises were ...',
-    8: '8. Changing your mind: The event made me ...',
-    9: '9. Do you think you will come to one (or more) of the next three events?',
+    1: "1. Practical use: For my life, what we did today will have ...",
+    2: "2. The atmosphere / vibe was ...",
+    3: "3. The amount of content / exercises covered was ...",
+    4: "4. The difficulty level of the content / discussion was ...",
+    5: "5. Structure: On the whole the event needed ...",
+    6: "6. The moderation should have been ...",
+    7: "7. Host preparation: The content / exercises were ...",
+    8: "8. Changing your mind: The event made me ...",
+    9: "9. Do you think you will come to one (or more) of the next three events?",
     10: '10. If you answered "probably no" in the previous question or are very uncertain, why is that?',
-    11: '11. What did you like the most today?',
-    12: '12. What did you like the least?',
+    11: "11. What did you like the most today?",
+    12: "12. What did you like the least?",
 }
 
 QUESTIONS_DE = {
-    QUESTIONS[1]: '1. Was wir heute getan haben wird für mich ... praktischen Nutzen haben.',
-    QUESTIONS[2]: '2. Die Atmosphäre / Stimmung war ...',
-    QUESTIONS[3]: '3. Die Menge an Inhalt / Übungen war ...',
-    QUESTIONS[4]: '4. Das Schwierigkeitsniveau des Inhalts / der Diskussion war ...',
-    QUESTIONS[5]: '5. Struktur: Insgesamt brauchte die Veranstaltung ...',
-    QUESTIONS[6]: '6. Die Moderation hätte ... sein sollen.',
-    QUESTIONS[7]: '7. Der Inhalt / die Übungen waren ... vorbereitet.',
-    QUESTIONS[8]: '8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.',
-    QUESTIONS[9]: '9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?',
-    QUESTIONS[10]: '10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?',
-    QUESTIONS[11]: '11. Was hat dir heute am besten gefallen?',
-    QUESTIONS[12]: '12. Was hat dir am wenigsten gefallen?',
+    QUESTIONS[
+        1
+    ]: "1. Was wir heute getan haben wird für mich ... praktischen Nutzen haben.",
+    QUESTIONS[2]: "2. Die Atmosphäre / Stimmung war ...",
+    QUESTIONS[3]: "3. Die Menge an Inhalt / Übungen war ...",
+    QUESTIONS[4]: "4. Das Schwierigkeitsniveau des Inhalts / der Diskussion war ...",
+    QUESTIONS[5]: "5. Struktur: Insgesamt brauchte die Veranstaltung ...",
+    QUESTIONS[6]: "6. Die Moderation hätte ... sein sollen.",
+    QUESTIONS[7]: "7. Der Inhalt / die Übungen waren ... vorbereitet.",
+    QUESTIONS[8]: "8. Die Veranstaltung hat mich dazu gebracht ... zu hinterfragen.",
+    QUESTIONS[
+        9
+    ]: "9. Glaubst du, dass du zu einer (oder mehreren) der nächsten drei Veranstaltungen kommen wirst?",
+    QUESTIONS[
+        10
+    ]: "10. Wenn du die vorherige Frage mit „eher nein“ beantwortet hast oder sehr unsicher bist, warum?",
+    QUESTIONS[11]: "11. Was hat dir heute am besten gefallen?",
+    QUESTIONS[12]: "12. Was hat dir am wenigsten gefallen?",
 }
 
 QUESTION_RESPONSE_OPTIONS = {
     QUESTIONS[1]: [
-        'a lot of practical use',
-        'quite a bit of practical use',
-        'some practical use',
-        'little practical use',
-        'very little practical use',
+        "a lot of practical use",
+        "quite a bit of practical use",
+        "some practical use",
+        "little practical use",
+        "very little practical use",
     ],
     QUESTIONS[2]: [
-        'fantastic',
-        'good',
-        'okay',
-        'bad',
-        'horrible',
+        "fantastic",
+        "good",
+        "okay",
+        "bad",
+        "horrible",
     ],
     QUESTIONS[3]: [
-        'way too much',
-        'too much',
-        'just right',
-        'too little',
-        'way too little',
+        "way too much",
+        "too much",
+        "just right",
+        "too little",
+        "way too little",
     ],
     QUESTIONS[4]: [
-        'much too easy',
-        'too easy',
-        'just right',
-        'too difficult',
-        'much too difficult',
+        "much too easy",
+        "too easy",
+        "just right",
+        "too difficult",
+        "much too difficult",
     ],
     QUESTIONS[5]: [
-        'much more structure',
-        'more structure',
-        '(was just right)',
-        'less structure',
-        'much less structure',
+        "much more structure",
+        "more structure",
+        "(was just right)",
+        "less structure",
+        "much less structure",
     ],
     QUESTIONS[6]: [
-        'much more relaxed',
-        'more relaxed',
-        '(was just right)',
-        'more assertive',
-        'much more assertive',
+        "much more relaxed",
+        "more relaxed",
+        "(was just right)",
+        "more assertive",
+        "much more assertive",
     ],
     QUESTIONS[7]: [
-        'very well prepared',
-        'well prepared',
-        'okay prepared',
-        'not well prepared',
-        'not well prepared at all',
+        "very well prepared",
+        "well prepared",
+        "okay prepared",
+        "not well prepared",
+        "not well prepared at all",
     ],
     QUESTIONS[8]: [
-        'question many things',
-        'question some things',
-        'question few things',
-        'question very few things',
-        'not question anything',
+        "question many things",
+        "question some things",
+        "question few things",
+        "question very few things",
+        "not question anything",
     ],
 }
 
 Q09_RESPONSES = [
-    'probably yes',
-    'probably no',
+    "probably yes",
+    "probably no",
 ]
 
 Q09_RESPONSES_DE = {
-    'probably yes': 'eher ja',
-    'probably no': 'eher nein',
+    "probably yes": "eher ja",
+    "probably no": "eher nein",
 }
 
 Q10_RESPONSES = [
@@ -197,19 +203,23 @@ def main():
 
     regenerate = False
     print_help = False
-    if len(sys.argv) == 2 and sys.argv[1] == '--regenerate':
+    if len(sys.argv) == 2 and sys.argv[1] == "--regenerate":
         regenerate = True
-    elif len(sys.argv) == 2 and sys.argv[1] != '--help':
+    elif len(sys.argv) == 2 and sys.argv[1] != "--help":
         print_help = True
     elif len(sys.argv) == 1:
         pass
-    else: # e.g. unknown argument or more than one argument
+    else:  # e.g. unknown argument or more than one argument
         print_help = True
 
     if print_help:
-        print('This script generates a markdown page suitable for Hugo containing tables with data and plots.')
-        print('Usage: generate.py [--regenerate]')
-        print('If the argument --regenerate is given, the script will replace the existing markdown files with new ones.')
+        print(
+            "This script generates a markdown page suitable for Hugo containing tables with data and plots."
+        )
+        print("Usage: generate.py [--regenerate]")
+        print(
+            "If the argument --regenerate is given, the script will replace the existing markdown files with new ones."
+        )
         exit(0)
 
     generate_output(FEEDBACK_CLEANED, ATTENDANCE_CLEANED, regenerate)
@@ -232,21 +242,22 @@ def generate_feedback_file(de_source: str, en_source: str, cleaned: str):
     df = pd.concat([df_de, df_en], axis=0, ignore_index=True)
 
     # Remove the timestamp and name columns
-    df.drop(['Timestamp', '13. (optional) Name'], axis=1, inplace=True)
+    df.drop(["Timestamp", "13. (optional) Name"], axis=1, inplace=True)
 
-    df['Date of the event'] = pd.to_datetime(df['Date of the event'], format='%d/%m/%Y')
+    df["Date of the event"] = pd.to_datetime(df["Date of the event"], format="%d/%m/%Y")
     q09_mapping = {v: k for k, v in Q09_RESPONSES_DE.items()}
     q09_mapping.update({v: v for v in Q09_RESPONSES})
     df[QUESTIONS[9]] = df[QUESTIONS[9]].map(q09_mapping)
     df[QUESTIONS[10]] = df[QUESTIONS[10]].map(_map_q10_responses)
 
-    df.sort_values(by=['Date of the event'] + list(df.columns[1:]), inplace=True)
+    df.sort_values(by=["Date of the event"] + list(df.columns[1:]), inplace=True)
 
     df.to_csv(cleaned, index=False)
     if REMOVE_SOURCE_FILES:
         # Remove the original files
         os.remove(de_source)
         os.remove(en_source)
+
 
 def _map_q10_responses(response: Optional[str]) -> Optional[Tuple[str]]:
     """
@@ -262,14 +273,17 @@ def _map_q10_responses(response: Optional[str]) -> Optional[Tuple[str]]:
     # user is allowed to input their own response, which could contain
     # a comma. Therefore we split the string by '.,'. We then append
     # the missing dot.
-    for i in response.split('.,'):
+    for i in response.split(".,"):
         i = i.strip()
-        if i and i[-1] not in '.!?':
-            i += '.'
+        if i and i[-1] not in ".!?":
+            i += "."
         res.append(q10_mapping.get(i, i))
     return tuple(res) if res else None
 
-def generate_attendance_files(source: str, cleaned_attendance: str, newcomer_referral: str):
+
+def generate_attendance_files(
+    source: str, cleaned_attendance: str, newcomer_referral: str
+):
     """
     This function reads the attendance data from the source file, cleans it up
     and writes it out into two new files.
@@ -280,27 +294,44 @@ def generate_attendance_files(source: str, cleaned_attendance: str, newcomer_ref
     """
     if not os.path.isfile(source):
         return
-    df = pd.read_csv(source, sep=';')
+    df = pd.read_csv(source, sep=";")
 
-    referrals = df['How did you find RatFr?'].value_counts()
+    referrals = df["How did you find RatFr?"].value_counts()
     referrals.sort_index(ascending=True, inplace=True)
     referrals.to_csv(newcomer_referral, index=True)
 
-    df.drop(['How did you find RatFr?', 'Abs. Attendance', 'Rel. Attendance', ], axis=1, inplace=True)
+    df.drop(
+        [
+            "How did you find RatFr?",
+            "Abs. Attendance",
+            "Rel. Attendance",
+        ],
+        axis=1,
+        inplace=True,
+    )
     df.drop(df.columns[0], axis=1, inplace=True)
-    out_df = pd.DataFrame(columns=['Date', 'Recurring participants', 'New participants', 'Total participants'])
+    out_df = pd.DataFrame(
+        columns=[
+            "Date",
+            "Recurring participants",
+            "New participants",
+            "Total participants",
+        ]
+    )
     for c in df.columns:
         # count the number of 1s in the column, that's the number of recurring participants
         recurring = df[c].value_counts().get(1, 0)
         # count the number of 2s in the column, that's the number of new participants
         new = df[c].value_counts().get(2, 0)
         total = recurring + new
-        out_row = pd.DataFrame({
-            'Date': [pd.to_datetime(c, dayfirst=True)],
-            'Recurring participants': [recurring],
-            'New participants': [new],
-            'Total participants': [total]},
-            )
+        out_row = pd.DataFrame(
+            {
+                "Date": [pd.to_datetime(c, dayfirst=True)],
+                "Recurring participants": [recurring],
+                "New participants": [new],
+                "Total participants": [total],
+            },
+        )
         out_df = pd.concat([out_df, out_row], ignore_index=True)
     out_df.to_csv(cleaned_attendance, index=False)
     if REMOVE_SOURCE_FILES:
@@ -311,11 +342,11 @@ def generate_output(feedback_file: str, attendance_file: str, regenerate: bool =
     """
     This function reads the cleaned data and generates a markdown page containing tables with data and plots.
     """
-    now = datetime.now(pytz.timezone('CET'))
+    now = datetime.now(pytz.timezone("CET"))
 
     # Read the cleaned data into a dataframe
     if not os.path.isfile(feedback_file):
-        raise FileNotFoundError(f'The file {feedback_file} does not exist')
+        raise FileNotFoundError(f"The file {feedback_file} does not exist")
 
     feedback_df = pd.read_csv(feedback_file)
     attendance_df = pd.read_csv(attendance_file)
@@ -326,26 +357,36 @@ def generate_output(feedback_file: str, attendance_file: str, regenerate: bool =
 
     all_event_stats_links = ""
     # Display all unique values of 'Date of the event'
-    dates = feedback_df['Date of the event'].unique()
+    dates = feedback_df["Date of the event"].unique()
     dates = sorted(dates)
     for d in dates:
         dirs = [f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(str(d))]
         if len(dirs) == 0:
-            raise ValueError(f'No directory for {d} exists')
+            raise ValueError(f"No directory for {d} exists")
         elif len(dirs) > 1:
-            raise ValueError(f'More than one directory for {d} exists')
+            raise ValueError(f"More than one directory for {d} exists")
 
         event_dir = os.path.join(EVENTS_WEBDIR, dirs[0])
-        event_stats_dir = os.path.join(EVENTS_WEBDIR, dirs[0], 'statistics')
+        event_stats_dir = os.path.join(EVENTS_WEBDIR, dirs[0], "statistics")
         os.makedirs(event_stats_dir, exist_ok=True)
-        event_stats_page = os.path.join(event_stats_dir, 'index.md')
+        event_stats_page = os.path.join(event_stats_dir, "index.md")
 
-        event_data = get_page_metadata(os.path.join(event_dir, '_index.md'))
-        event_title = event_data['title']
-        event_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '" >}}'
-        event_stats_link = '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '/statistics" >}}'
-        all_event_stats_links += f'* [{event_title}]({event_stats_link})\n'
-        summary_link = '{{< ref "posts/' + os.path.normpath(SUMMARY_WEBDIR).split(os.sep)[-1] + '" >}}'
+        event_data = get_page_metadata(os.path.join(event_dir, "_index.md"))
+        event_title = event_data["title"]
+        event_link = (
+            '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '" >}}'
+        )
+        event_stats_link = (
+            '{{< ref "events/'
+            + os.path.normpath(event_dir).split(os.sep)[-1]
+            + '/statistics" >}}'
+        )
+        all_event_stats_links += f"* [{event_title}]({event_stats_link})\n"
+        summary_link = (
+            '{{< ref "posts/'
+            + os.path.normpath(SUMMARY_WEBDIR).split(os.sep)[-1]
+            + '" >}}'
+        )
 
         if not regenerate and os.path.exists(event_stats_page):
             # If the page already exists, skip it
@@ -353,11 +394,11 @@ def generate_output(feedback_file: str, attendance_file: str, regenerate: bool =
 
         # Get the creation date of the event's statistics page so as not to
         # overwrite it if the page already exists
-        event_stats_page_creation_date = now.strftime('%Y-%m-%dT%H:%M:%S%z')
+        event_stats_page_creation_date = now.strftime("%Y-%m-%dT%H:%M:%S%z")
         if os.path.exists(event_stats_page):
             event_stats_data = get_page_metadata(event_stats_page)
-            if 'date' in event_stats_data:
-                event_stats_page_creation_date = event_stats_data['date']
+            if "date" in event_stats_data:
+                event_stats_page_creation_date = event_stats_data["date"]
         page_content = f"""---
 title: "Statistics: {event_title}"
 date: {event_stats_page_creation_date}
@@ -374,28 +415,32 @@ See also the [{YEAR} summary]({summary_link}).
 
 """
         # Filter the dataframe for the current date
-        feedback_filtered_df = feedback_df[feedback_df['Date of the event'] == d]
-        attendance_filtered_df = attendance_df[attendance_df['Date'] == d]
-        recurring_participants = attendance_filtered_df.iloc[0]['Recurring participants']
-        new_participants = attendance_filtered_df.iloc[0]['New participants']
-        total_participants = attendance_filtered_df.iloc[0]['Total participants']
+        feedback_filtered_df = feedback_df[feedback_df["Date of the event"] == d]
+        attendance_filtered_df = attendance_df[attendance_df["Date"] == d]
+        recurring_participants = attendance_filtered_df.iloc[0][
+            "Recurring participants"
+        ]
+        new_participants = attendance_filtered_df.iloc[0]["New participants"]
+        total_participants = attendance_filtered_df.iloc[0]["Total participants"]
 
-        page_content += f'* **Total:** {pluralize_people(total_participants)}\n'
-        page_content += f'* **Recurring:** {pluralize_people(recurring_participants)}\n'
-        page_content += f'* **New:** {pluralize_people(new_participants)}\n\n'
+        page_content += f"* **Total:** {pluralize_people(total_participants)}\n"
+        page_content += f"* **Recurring:** {pluralize_people(recurring_participants)}\n"
+        page_content += f"* **New:** {pluralize_people(new_participants)}\n\n"
 
-        page_content += generate_feedback_output(feedback_filtered_df, total_participants, event_stats_dir)
+        page_content += generate_feedback_output(
+            feedback_filtered_df, total_participants, event_stats_dir
+        )
         # Generate the markdown page
-        with open(event_stats_page, 'w') as f:
+        with open(event_stats_page, "w") as f:
             f.write(page_content)
 
-    summary_page = os.path.join(SUMMARY_WEBDIR, 'index.md')
-    total_participants = attendance_df['Total participants'].sum()
-    summary_page_creation_date = now.strftime('%Y-%m-%dT%H:%M:%S%z')
+    summary_page = os.path.join(SUMMARY_WEBDIR, "index.md")
+    total_participants = attendance_df["Total participants"].sum()
+    summary_page_creation_date = now.strftime("%Y-%m-%dT%H:%M:%S%z")
     if os.path.exists(summary_page):
         summary_page_data = get_page_metadata(summary_page)
-        if 'date' in summary_page_data:
-            summary_page_creation_date = summary_page_data['date']
+        if "date" in summary_page_data:
+            summary_page_creation_date = summary_page_data["date"]
 
     page_content = f"""---
 title: "Statistics & Feedback {YEAR}"
@@ -425,8 +470,10 @@ for the individual events here:
 
 """
 
-    page_content += generate_feedback_output(feedback_df, total_participants, SUMMARY_WEBDIR)
-    with open(summary_page, 'w') as f:
+    page_content += generate_feedback_output(
+        feedback_df, total_participants, SUMMARY_WEBDIR
+    )
+    with open(summary_page, "w") as f:
         f.write(page_content)
 
 
@@ -439,11 +486,11 @@ def get_page_metadata(page: str) -> Dict:
     with open(page) as f:
         lines = f.readlines()
         for line in lines:
-            if in_yaml and line == '---\n':
+            if in_yaml and line == "---\n":
                 break
             if in_yaml:
                 yaml_content += line
-            if not in_yaml and line == '---\n':
+            if not in_yaml and line == "---\n":
                 in_yaml = True
     data = yaml.safe_load(yaml_content)
     return data
@@ -451,14 +498,14 @@ def get_page_metadata(page: str) -> Dict:
 
 def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     page_content = "## Feedback\n\n"
-    page_content += f'* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n'
+    page_content += f"* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n"
     for q in [QUESTIONS[i] for i in range(1, 9)]:
-        page_content += f'### {q}\n\n'
-        page_content += f'* **Responses:** {pluralize_people(feedback_df[q].count())} ({feedback_df[q].count() / total_participants * 100:.2f}% of attendees)\n'
-        page_content += '* **Answers:**\n'
+        page_content += f"### {q}\n\n"
+        page_content += f"* **Responses:** {pluralize_people(feedback_df[q].count())} ({feedback_df[q].count() / total_participants * 100:.2f}% of attendees)\n"
+        page_content += "* **Answers:**\n"
         for i, label in enumerate(QUESTION_RESPONSE_OPTIONS[q], start=1):
-            page_content += f'  * {label} ({i}): {pluralize_people(feedback_df[q].value_counts().get(i, 0))}\n'
-        page_content += f'* **Average answer:** {feedback_df[q].mean():.2f} (σ={feedback_df[q].std():.2f})\n\n'
+            page_content += f"  * {label} ({i}): {pluralize_people(feedback_df[q].value_counts().get(i, 0))}\n"
+        page_content += f"* **Average answer:** {feedback_df[q].mean():.2f} (σ={feedback_df[q].std():.2f})\n\n"
         data = feedback_df[q].value_counts().sort_index()
         # if any index from 1 to 5 is missing, add it with a value of 0
         for i in range(1, 6):
@@ -466,7 +513,7 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
                 data[i] = 0
         data = data.sort_index()
         plot_bar_chart(data, q, img_dir)
-        page_content += f'![{q}](./{question_to_filename(q)}.png)\n\n'
+        page_content += f"![{q}](./{question_to_filename(q)}.png)\n\n"
 
     # Question 9
     q09_data = feedback_df[QUESTIONS[9]].value_counts()
@@ -474,12 +521,15 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
         if i not in q09_data.index:
             q09_data[i] = 0
     q09_data = q09_data.sort_index()
-    page_content += f'### {QUESTIONS[9]}\n\n'
-    page_content += f'* **Responses:** {pluralize_people(q09_data.sum())} ({q09_data.sum() / total_participants * 100:.2f}% of attendees)\n'
-    page_content += '* **Answers:**\n'
-    page_content += '\n'.join([f'  * {k}: {pluralize_people(v)}' for k, v in q09_data.items()]) + '\n\n'
+    page_content += f"### {QUESTIONS[9]}\n\n"
+    page_content += f"* **Responses:** {pluralize_people(q09_data.sum())} ({q09_data.sum() / total_participants * 100:.2f}% of attendees)\n"
+    page_content += "* **Answers:**\n"
+    page_content += (
+        "\n".join([f"  * {k}: {pluralize_people(v)}" for k, v in q09_data.items()])
+        + "\n\n"
+    )
     plot_bar_chart(q09_data, QUESTIONS[9], img_dir)
-    page_content += f'![{QUESTIONS[9]}](./{question_to_filename(QUESTIONS[9])}.png)\n\n'
+    page_content += f"![{QUESTIONS[9]}](./{question_to_filename(QUESTIONS[9])}.png)\n\n"
 
     # Question 10
     q10_responses = []
@@ -492,33 +542,38 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
             q10_data[i] = 0
     q10_data = q10_data.sort_index()
     plot_bar_chart_horizontal(q10_data, QUESTIONS[10], img_dir)
-    page_content += f'### {QUESTIONS[10]}\n\n'
-    page_content += f'* **Responses:** {pluralize_people(q10_data.sum())} ({q10_data.sum() / total_participants * 100:.2f}% of attendees)\n'
-    page_content += '* **Answers:**\n'
-    page_content += '\n'.join([f'  * {k}: {pluralize_people(v)}' for k, v in q10_data.items()]) + '\n\n'
-    page_content += f'![{QUESTIONS[10]}](./{question_to_filename(QUESTIONS[10])}.png)\n\n'
+    page_content += f"### {QUESTIONS[10]}\n\n"
+    page_content += f"* **Responses:** {pluralize_people(q10_data.sum())} ({q10_data.sum() / total_participants * 100:.2f}% of attendees)\n"
+    page_content += "* **Answers:**\n"
+    page_content += (
+        "\n".join([f"  * {k}: {pluralize_people(v)}" for k, v in q10_data.items()])
+        + "\n\n"
+    )
+    page_content += (
+        f"![{QUESTIONS[10]}](./{question_to_filename(QUESTIONS[10])}.png)\n\n"
+    )
 
     # Question 11
     comments_best = feedback_df[QUESTIONS[11]].dropna().values
-    page_content += f'### {QUESTIONS[11]}\n\n'
-    page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[11]].count())} ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n'
-    page_content += f'**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n'
+    page_content += f"### {QUESTIONS[11]}\n\n"
+    page_content += f"* **Responses:** {pluralize_people(feedback_df[QUESTIONS[11]].count())} ({feedback_df[QUESTIONS[11]].count() / total_participants * 100:.2f}% of attendees)\n\n"
+    page_content += "**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n"
     if len(comments_best) > 0:
         quoted_comments = []
         for c in comments_best:
-            quoted_comments.append('> ' + c.replace("\n", "  \n> "))
-        page_content += '\n\n'.join(quoted_comments) + '\n'
+            quoted_comments.append("> " + c.replace("\n", "  \n> "))
+        page_content += "\n\n".join(quoted_comments) + "\n"
 
     # Question 12
     comments_worst = feedback_df[QUESTIONS[12]].dropna().values
-    page_content += f'### {QUESTIONS[12]}\n\n'
-    page_content += f'* **Responses:** {pluralize_people(feedback_df[QUESTIONS[12]].count())} ({feedback_df[QUESTIONS[12]].count() / total_participants * 100:.2f}% of attendees)\n\n'
-    page_content += f'**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n'
+    page_content += f"### {QUESTIONS[12]}\n\n"
+    page_content += f"* **Responses:** {pluralize_people(feedback_df[QUESTIONS[12]].count())} ({feedback_df[QUESTIONS[12]].count() / total_participants * 100:.2f}% of attendees)\n\n"
+    page_content += "**Note:** Anything contained in square brackets [] is an edit by the organizers.\n\n"
     if len(comments_worst) > 0:
         quoted_comments = []
         for c in comments_worst:
-            quoted_comments.append('> ' + c.replace("\n", "  \n> "))
-        page_content += '\n\n'.join(quoted_comments) + '\n'
+            quoted_comments.append("> " + c.replace("\n", "  \n> "))
+        page_content += "\n\n".join(quoted_comments) + "\n"
 
     return page_content
 
@@ -528,20 +583,20 @@ def plot_bar_chart(data, q, output_dir):
     This function plots a bar chart based on the given data and question.
     """
     # Increase font sizes
-    plt.rcParams['font.size'] = 12
-    plt.rcParams['axes.labelsize'] = 14
-    plt.rcParams['axes.titlesize'] = 16
-    plt.rcParams['xtick.labelsize'] = 10
-    plt.rcParams['ytick.labelsize'] = 10
+    plt.rcParams["font.size"] = 12
+    plt.rcParams["axes.labelsize"] = 14
+    plt.rcParams["axes.titlesize"] = 16
+    plt.rcParams["xtick.labelsize"] = 10
+    plt.rcParams["ytick.labelsize"] = 10
 
     # Create a bar chart where the x-axis is the index of the data and the y-axis is the value of the data
     plt.figure(figsize=(10, 7))
-    plt.bar(data.index, data.values, color='navy', zorder=2)
+    plt.bar(data.index, data.values, color="navy", zorder=2)
 
     # Add gridlines
-    plt.grid(axis='y', zorder=1)
-    plt.xlabel('Answer')
-    plt.ylabel('Number of people')
+    plt.grid(axis="y", zorder=1)
+    plt.xlabel("Answer")
+    plt.ylabel("Number of people")
     ytick_step = 1
     ytick_max = data.max() + 1
     if data.max() > 15:
@@ -553,10 +608,13 @@ def plot_bar_chart(data, q, output_dir):
     plt.yticks(range(0, ytick_max, ytick_step))
     plt.title(q, pad=20)
     if q in QUESTION_RESPONSE_OPTIONS:
-        labels = [f'{label} ({i})' for i, label in zip(data.index, QUESTION_RESPONSE_OPTIONS[q])]
+        labels = [
+            f"{label} ({i})"
+            for i, label in zip(data.index, QUESTION_RESPONSE_OPTIONS[q])
+        ]
         plt.xticks(data.index, labels, rotation=45)
     plt.subplots_adjust(bottom=0.3)
-    plt.savefig(f'{output_dir}/{question_to_filename(q)}.png')
+    plt.savefig(f"{output_dir}/{question_to_filename(q)}.png")
     plt.close()
 
 
@@ -564,10 +622,10 @@ def plot_bar_chart_horizontal(data, q, output_dir):
     # plot question 10
     plt.figure(figsize=(20, 16))
     # Create a horizontal bar chart
-    plt.barh(data.index, data.values, color='navy', zorder=2)
-    plt.grid(axis='x', zorder=1)
-    plt.ylabel('Answer')
-    plt.xlabel('Number of people')
+    plt.barh(data.index, data.values, color="navy", zorder=2)
+    plt.grid(axis="x", zorder=1)
+    plt.ylabel("Answer")
+    plt.xlabel("Number of people")
     xtick_step = 1
     xtick_max = data.max() + 1
     if data.max() > 15:
@@ -582,7 +640,7 @@ def plot_bar_chart_horizontal(data, q, output_dir):
     plt.title(q, pad=20)
     plt.yticks(rotation=0)
     plt.subplots_adjust(left=0.2)
-    plt.savefig(f'{output_dir}/{question_to_filename(q)}.png')
+    plt.savefig(f"{output_dir}/{question_to_filename(q)}.png")
     plt.close()
 
 
@@ -590,8 +648,8 @@ def question_to_filename(q):
     """
     This function converts a 'question' to a reasonable filename.
     """
-    filename = re.sub('\W+', '-', q).lower()
-    filename = filename.strip('-')
+    filename = re.sub("\W+", "-", q).lower()
+    filename = filename.strip("-")
     return filename
 
 
@@ -602,5 +660,5 @@ def pluralize_people(n):
     return f'{n} {"person" if n == 1 else "people"}'
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
