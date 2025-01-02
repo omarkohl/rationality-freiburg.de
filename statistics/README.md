@@ -13,6 +13,32 @@ The .csv files contain clean raw data for the events 2024.
 poetry install
 ```
 
+## Linting and Formatting
+
+```bash
+poetry run ruff check --fix
+poetry run ruff format
+```
+
+If you are using Ju Jutsu VCS you can also add the following to
+`../.jj/repo/config.toml`:
+
+```toml
+[fix.tools.ruff-check]
+command = ["poetry", "run", "ruff", "check", "--fix", "-", "--stdin-filename=$path"]
+patterns = ["glob:'statistics/**/*.py'"]
+
+[fix.tools.ruff-format]
+command = ["poetry", "run", "ruff", "format", "-", "--stdin-filename=$path"]
+patterns = ["glob:'statistics/**/*.py'"]
+```
+
+And then execute:
+
+```bash
+jj fix
+```
+
 
 ## Re-generate .csv files
 
