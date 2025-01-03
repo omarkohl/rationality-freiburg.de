@@ -24,6 +24,15 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+  
+      - name: Install npm packages
+        run: npm install
+        working-directory: website
+
       - name: Build
         run: hugo --minify
         working-directory: website

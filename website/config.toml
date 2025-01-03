@@ -19,6 +19,11 @@ mainSections = ["posts"]
 [markup.goldmark.renderer]
 unsafe = true # enable html in markdown
 
+[module]
+  [[module.mounts]]
+    source = "./node_modules/plotly.js-dist-min"
+    target = "./assets/js/plotly"
+
 [languages]
 
   [languages.en]

@@ -1,0 +1,4 @@
+{{ if .Params.usePlotly }}
+{{ $plotly := resources.Get "js/plotly/plotly.min.js" }}
+<script src="{{ $plotly.Permalink }}"></script>
+{{ end }}
