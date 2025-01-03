@@ -92,7 +92,7 @@ def preprocess_attendance(
 
 def generate_attendance_files(
     source_path: Path,
-    attendance_per_event_path: Path,
+    attendance_path: Path,
     events_per_person_path: Path,
     newcomer_path: Path,
 ):
@@ -120,31 +120,19 @@ def generate_attendance_files(
     attendance_per_person = attendance_per_person.rename("People")
     attendance_per_person.to_csv(events_per_person_path, index=True)
 
-    all_dates = {}
+    attendance = attendance_preprocessed.copy(deep=True)
+    attendance["Retained3"] = 0
+    attendance["RetainedAll"] = 0
 
-    for date in attendance_preprocessed["Date"].unique():
-        new_people = new_people_preprocessed["First event"].value_counts().get(date, 0)
-        total_people = attendance_preprocessed[attendance_preprocessed["Date"] == date][
-            "Name"
-        ].nunique()
-        recurring_people = total_people - new_people
-        all_dates[date] = {
-            "New": int(new_people),
-            "Recurring": int(recurring_people),
-            "Total": int(total_people),
-            "Retained3": 0,
-            "RetainedAll": 0,
-        }
+    all_dates = sorted(set(attendance_preprocessed["Date"]))
 
-    all_dates_keys = sorted(all_dates.keys())
-
-    for date_index, date in enumerate(all_dates_keys):
-        people = attendance_preprocessed[attendance_preprocessed["Date"] == date][
-            "Name"
-        ].unique()
-        for person in people:
-            for next_date_index in range(date_index + 1, len(all_dates_keys)):
-                next_date = all_dates_keys[next_date_index]
+    for date_index, date in enumerate(all_dates):
+        for idx, row in attendance.iterrows():
+            if row["Date"] != date:
+                continue
+            person = row["Name"]
+            for next_date_index in range(date_index + 1, len(all_dates)):
+                next_date = all_dates[next_date_index]
                 if (
                     person
                     in attendance_preprocessed[
@@ -152,29 +140,51 @@ def generate_attendance_files(
                     ]["Name"].unique()
                 ):
                     if next_date_index - date_index <= 3:
-                        all_dates[date]["Retained3"] += 1
-                    all_dates[date]["RetainedAll"] += 1
+                        attendance.loc[idx, "Retained3"] += 1
+                    attendance.loc[idx, "RetainedAll"] += 1
                     break
 
-    out_df = pd.DataFrame.from_dict(all_dates, orient="index").reset_index()
-    out_df.rename(columns={"index": "Date"}, inplace=True)
-    out_df.sort_values(by="Date", inplace=True)
-    out_df = out_df[["Date", "Recurring", "New", "Total", "Retained3", "RetainedAll"]]
-    out_df.to_csv(attendance_per_event_path, index=False)
+    attendance = (
+        attendance.groupby("Date")
+        .agg(
+            {
+                "Name": "count",
+                "Retained3": "sum",
+                "RetainedAll": "sum",
+            }
+        )
+        .reset_index()
+        .rename(columns={"Name": "Total"})
+    )
+
+    attendance["New"] = 0
+    attendance["Recurring"] = 0
+    for idx, row in attendance.iterrows():
+        date = row["Date"]
+        new = new_people_preprocessed[new_people_preprocessed["First event"] == date]
+        attendance.loc[idx, "New"] = len(new)
+        attendance.loc[idx, "Recurring"] = row["Total"] - len(new)
+
+    # Reorder columns
+    attendance = attendance[
+        ["Date", "Recurring", "New", "Total", "Retained3", "RetainedAll"]
+    ]
+
+    attendance.to_csv(attendance_path, index=False)
 
     referrals_summary = new_people_preprocessed.copy(deep=True)
     # add retained column
     referrals_summary["Retained3"] = 0
     referrals_summary["RetainedAll"] = 0
 
-    for date_index, date in enumerate(all_dates_keys):
+    for date_index, date in enumerate(all_dates):
         # iterate over all people (i.e. rows) of referrals_summary
         for idx, row in referrals_summary.iterrows():
             if row["First event"] != date:
                 continue
             person = row["Name"]
-            for next_date_index in range(date_index + 1, len(all_dates_keys)):
-                next_date = all_dates_keys[next_date_index]
+            for next_date_index in range(date_index + 1, len(all_dates)):
+                next_date = all_dates[next_date_index]
                 if (
                     person
                     in attendance_preprocessed[
@@ -250,13 +260,13 @@ def main():
     source_feedback_en_path = Path("Event Feedback (Responses) - EN.csv")
     source_feedback_de_path = Path("Event Feedback (Responses) - DE.csv")
 
-    attendance_per_event_path = Path("data", "attendance_per_event.csv")
+    attendance_path = Path("data", "attendance.csv")
     events_per_person_path = Path("data", f"events_per_person_{YEAR}.csv")
     newcomer_path = Path("data", "newcomer.csv")
     feedback_path = Path("data", f"feedback{YEAR}.csv")
     generate_attendance_files(
         source_attendance_path,
-        attendance_per_event_path,
+        attendance_path,
         events_per_person_path,
         newcomer_path,
     )
