@@ -212,6 +212,11 @@ for the individual events here:
     attendance2 = attendance2[
         attendance2["Date"].apply(lambda x: x.split("-")[0]) == str(YEAR)
     ]
+    all_dates = [d for d in attendance2["Date"]]
+    event_metadata = get_event_metadata(all_dates)
+    attendance2["Event"] = attendance2["Date"].apply(
+        lambda date: event_metadata.get(date, {}).get("title", "No title")
+    )
 
     page_content += "### Attendance\n\n"
     attendance_fig = plot_attendance(attendance2)
@@ -227,6 +232,12 @@ for the individual events here:
     referrals_html = pio.to_html(referrals_fig, include_plotlyjs=False, full_html=False)
     page_content += "<div>" + referrals_html + "</div>\n\n"
 
+    page_content += "## Feedback\n\n"
+    page_content += f"* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n"
+    feedback_fig = plot_feedback_frequency(feedback_df, attendance2)
+    feedback_html = pio.to_html(feedback_fig, include_plotlyjs=False, full_html=False)
+    page_content += "<div>" + feedback_html + "</div>\n\n"
+
     page_content += generate_feedback_output(
         feedback_df, total_participants, SUMMARY_WEBDIR
     )
@@ -235,8 +246,7 @@ for the individual events here:
 
 
 def generate_feedback_output(feedback_df, total_participants, img_dir: str):
-    page_content = "## Feedback\n\n"
-    page_content += f"* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n"
+    page_content = ""
     for q in [questions.QUESTIONS[i] for i in range(1, 9)]:
         page_content += f"### {q}\n\n"
         page_content += f"* **Responses:** {pluralize_people(feedback_df[q].count())} ({feedback_df[q].count() / total_participants * 100:.2f}% of attendees)\n"
@@ -405,12 +415,9 @@ def plot_attendance(attendance: pd.DataFrame):
     """
     attendance = attendance.drop(columns=["Retained3", "RetainedAll"])
     attendance = attendance.melt(
-        id_vars=["Date"], var_name="Participant type", value_name="Participants"
-    )
-    all_dates = [d for d in attendance["Date"]]
-    event_metadata = get_event_metadata(all_dates)
-    attendance["Event"] = attendance["Date"].apply(
-        lambda date: event_metadata.get(date, {}).get("title", "No title")
+        id_vars=["Date", "Event"],
+        var_name="Participant type",
+        value_name="Participants",
     )
 
     fig = px.line(
@@ -433,6 +440,43 @@ def plot_attendance(attendance: pd.DataFrame):
             range=[0, attendance["Participants"].max() + 5], title="Participants"
         ),
         xaxis=dict(range=[f"{YEAR}-01-01", f"{YEAR}-12-31"], title="Date"),
+    )
+
+    return fig
+
+
+def plot_feedback_frequency(feedback: pd.DataFrame, attendance: pd.DataFrame):
+    """
+    Plot what percentage of participants gave feedback.
+    Each line in 'feedback' for a specific 'Date of the event' is a feedback.
+    """
+    feedback = feedback.rename(columns={"Date of the event": "Date"})
+    feedback["Feedback Count"] = 1
+    feedback = feedback.groupby("Date").sum().reset_index()
+
+    feedback = feedback.merge(attendance, on="Date", how="left")
+    # as percentage, rounded
+
+    feedback["Feedback percentage"] = round(
+        feedback["Feedback Count"] / feedback["Total"] * 100, 2
+    )
+
+    fig = px.line(
+        feedback,
+        x="Date",
+        y="Feedback percentage",
+        title="Percentage of people that filled out the feedback form",
+        color_discrete_sequence=["#ffd320"],
+        custom_data=["Event", "Feedback Count", "Total"],
+    )
+    fig.update_traces(
+        mode="markers+lines",
+        marker=dict(size=10),
+        hovertemplate="%{customdata[0]}<br>Date: %{x}<br>%{customdata[1]}/%{customdata[2]} participants gave feedback<br>%{y}%",
+    )
+    fig.update_layout(
+        yaxis=dict(range=[0, 100], title="Feedback percentage"),
+        xaxis=dict(range=["2024-01-01", "2024-12-31"], title="Date"),
     )
 
     return fig
