@@ -33,3 +33,24 @@ def test_generate_attendance_files(
     )
     cugp(pytestconfig, golden_dir / "newcomer.csv", newcomer_path)
 
+
+def test_generate_feedback_file(
+    golden_dir: pathlib.Path,
+    testdata_dir: pathlib.Path,
+    tmpdir: pathlib.Path,
+    pytestconfig: pytest.Config,
+):
+    from ratfr_statistics.parse import generate_feedback_file
+
+    source_path_de = testdata_dir / "Event Feedback (Responses) - DE.csv"
+    source_path_en = testdata_dir / "Event Feedback (Responses) - EN.csv"
+    feedback_path = tmpdir / "feedback.csv"
+
+    generate_feedback_file(
+        source_path_de,
+        source_path_en,
+        feedback_path,
+        remove_source_files=False,
+    )
+
+    cugp(pytestconfig, golden_dir / "feedback.csv", feedback_path)
