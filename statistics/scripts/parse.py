@@ -172,14 +172,14 @@ def generate_attendance_files(
 
     attendance.to_csv(attendance_path, index=False)
 
-    referrals_summary = new_people_preprocessed.copy(deep=True)
+    newcomer = new_people_preprocessed.copy(deep=True)
     # add retained column
-    referrals_summary["Retained3"] = 0
-    referrals_summary["RetainedAll"] = 0
+    newcomer["Retained3"] = 0
+    newcomer["RetainedAll"] = 0
 
     for date_index, date in enumerate(all_dates):
         # iterate over all people (i.e. rows) of referrals_summary
-        for idx, row in referrals_summary.iterrows():
+        for idx, row in newcomer.iterrows():
             if row["First event"] != date:
                 continue
             person = row["Name"]
@@ -192,13 +192,13 @@ def generate_attendance_files(
                     ]["Name"].unique()
                 ):
                     if next_date_index - date_index <= 3:
-                        referrals_summary.loc[idx, "Retained3"] += 1
-                    referrals_summary.loc[idx, "RetainedAll"] += 1
+                        newcomer.loc[idx, "Retained3"] += 1
+                    newcomer.loc[idx, "RetainedAll"] += 1
                     break
 
     # Calculate retention per referral type
-    referrals_summary = (
-        referrals_summary.groupby(["First event", "Referral"])
+    newcomer = (
+        newcomer.groupby(["First event", "Referral"])
         .agg(
             {
                 "Name": "count",  # Count the number of people
@@ -210,7 +210,7 @@ def generate_attendance_files(
         .rename(columns={"Name": "People", "First event": "Date"})
     )
 
-    referrals_summary.to_csv(newcomer_path, index=False)
+    newcomer.to_csv(newcomer_path, index=False)
 
     if REMOVE_SOURCE_FILES:
         os.remove(source_path)
