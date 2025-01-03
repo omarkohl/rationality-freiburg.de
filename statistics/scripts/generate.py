@@ -25,10 +25,10 @@ from datetime import datetime
 from plotly import express as px
 import plotly.io as pio
 
-from ratfr_statistics.helper import get_page_metadata
+from ratfr_statistics.helper import get_event_metadata, get_page_metadata
 from ratfr_statistics import questions
 
-YEAR = "2024"
+YEAR = 2024
 SUMMARY_WEBDIR = f"../website/content/posts/statistics-feedback-{YEAR}/"
 EVENTS_WEBDIR = "../website/content/events/"
 
@@ -208,8 +208,21 @@ for the individual events here:
 
 """
 
-    page_content += "## Referrals\n\n"
+    attendance2 = pd.read_csv(Path("data", "attendance.csv"))
+    attendance2 = attendance2[
+        attendance2["Date"].apply(lambda x: x.split("-")[0]) == str(YEAR)
+    ]
+
+    page_content += "### Attendance\n\n"
+    attendance_fig = plot_attendance(attendance2)
+    attendance_html = pio.to_html(
+        attendance_fig, include_plotlyjs=False, full_html=False
+    )
+    page_content += "<div>" + attendance_html + "</div>\n\n"
+
+    page_content += "### Referrals\n\n"
     newcomer = pd.read_csv(Path("data", "newcomer.csv"))
+    newcomer = newcomer[newcomer["Date"].apply(lambda x: x.split("-")[0]) == str(YEAR)]
     referrals_fig = plot_referrals(newcomer)
     referrals_html = pio.to_html(referrals_fig, include_plotlyjs=False, full_html=False)
     page_content += "<div>" + referrals_html + "</div>\n\n"
@@ -381,6 +394,45 @@ def plot_referrals(newcomer: pd.DataFrame):
 
     fig.update_traces(
         hovertemplate=None,
+    )
+
+    return fig
+
+
+def plot_attendance(attendance: pd.DataFrame):
+    """
+    Generate the attendance figure.
+    """
+    attendance = attendance.drop(columns=["Retained3", "RetainedAll"])
+    attendance = attendance.melt(
+        id_vars=["Date"], var_name="Participant type", value_name="Participants"
+    )
+    all_dates = [d for d in attendance["Date"]]
+    event_metadata = get_event_metadata(all_dates)
+    attendance["Event"] = attendance["Date"].apply(
+        lambda date: event_metadata.get(date, {}).get("title", "No title")
+    )
+
+    fig = px.line(
+        attendance,
+        x="Date",
+        y="Participants",
+        color="Participant type",
+        title="Attendance",
+        color_discrete_map={"Recurring": "#ffd320", "New": "red", "Total": "darkblue"},
+        custom_data=["Event", "Participant type"],
+    )
+
+    fig.update_traces(
+        mode="markers+lines",
+        marker=dict(size=10),
+        hovertemplate="%{customdata[0]}<br>Date: %{x}<br>%{customdata[1]} participants: %{y}",
+    )
+    fig.update_layout(
+        yaxis=dict(
+            range=[0, attendance["Participants"].max() + 5], title="Participants"
+        ),
+        xaxis=dict(range=[f"{YEAR}-01-01", f"{YEAR}-12-31"], title="Date"),
     )
 
     return fig
