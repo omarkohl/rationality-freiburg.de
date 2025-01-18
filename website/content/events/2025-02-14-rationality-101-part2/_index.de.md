@@ -18,7 +18,7 @@ layout: single
 outputs:
   - HTML
   - Calendar
-url: termine/2025-01-31-rationalität-101-teil2
+url: termine/2025-02-14-rationalität-101-teil2
 #build:
 #  list: never
 ---
