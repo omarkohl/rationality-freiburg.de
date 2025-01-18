@@ -18,7 +18,7 @@ layout: single
 outputs:
   - HTML
   - Calendar
-#url: termine/2024-02-02-deutscher-slug
+url: termine/2025-01-31-rationalität-101-teil2
 #build:
 #  list: never
 ---
