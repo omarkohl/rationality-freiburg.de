@@ -28,7 +28,7 @@ import plotly.io as pio
 from ratfr_statistics.helper import get_event_metadata, get_page_metadata
 from ratfr_statistics import questions
 
-YEAR = 2024
+YEAR = 2025
 SUMMARY_WEBDIR = f"../website/content/posts/statistics-feedback-{YEAR}/"
 EVENTS_WEBDIR = "../website/content/events/"
 

@@ -9,7 +9,7 @@ from pathlib import Path
 from ratfr_statistics.parse import generate_attendance_files, generate_feedback_file
 
 
-YEAR = 2024
+YEAR = 2025
 REMOVE_SOURCE_FILES = False
 
 
