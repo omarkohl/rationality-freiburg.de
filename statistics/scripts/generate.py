@@ -232,29 +232,72 @@ for the individual events here:
         retention_data["Date"].apply(lambda x: x.year) == year
     ]
 
-    average_retention = round(
-        (retention_data["Retained3"] / retention_data["Total"]).mean() * 100, 2
-    )
+    if not retention_data.empty:
+        average_retention = round(
+            (retention_data["Retained3"] / retention_data["Total"]).mean() * 100, 2
+        )
 
-    page_content += "### Retention per event\n\n"
-    page_content += (
-        "Retention means the percentage of participants who "
-        "attended one or more of the three following events.\n"
-    )
+        page_content += "### Retention per event\n\n"
+        page_content += (
+            "Retention means the percentage of participants who "
+            "attended one or more of the three following events.\n"
+        )
 
-    page_content += f"* **Average retention:** {average_retention}%\n\n"
-    page_content += "\n"
+        page_content += f"* **Average retention:** {average_retention}%\n\n"
+        page_content += "\n"
 
-    retention_per_event_fig = plot_retention_per_event(retention_data, year)
-    retention_per_event_html = pio.to_html(
-        retention_per_event_fig, include_plotlyjs=False, full_html=False
-    )
-    page_content += "<div>" + retention_per_event_html + "</div>\n\n"
+        retention_per_event_fig = plot_retention_per_event(retention_data, year)
+        retention_per_event_html = pio.to_html(
+            retention_per_event_fig, include_plotlyjs=False, full_html=False
+        )
+        page_content += "<div>" + retention_per_event_html + "</div>\n\n"
 
     page_content += "### Referrals\n\n"
     referrals_fig = plot_referrals(newcomer)
     referrals_html = pio.to_html(referrals_fig, include_plotlyjs=False, full_html=False)
     page_content += "<div>" + referrals_html + "</div>\n\n"
+
+    if not retention_data.empty:
+        retention_data_per_referral = retention_data.merge(
+            newcomer_all, on="Date", how="inner"
+        )
+        retention_data_per_referral = retention_data_per_referral.groupby(
+            "Referral"
+        ).agg({"Retained3_y": "sum", "People": "sum"})
+        retention_data_per_referral["Retention"] = (
+            retention_data_per_referral["Retained3_y"]
+            / retention_data_per_referral["People"]
+        )
+        retention_data_per_referral["Retention"] = (
+            retention_data_per_referral["Retention"].round(2) * 100
+        )
+        average_retention_per_referral = round(
+            retention_data_per_referral["Retention"].mean(), 2
+        )
+        # rename some columns
+        retention_data_per_referral = retention_data_per_referral.rename(
+            columns={"People": "Total", "Retained3_y": "Retained3"}
+        )
+        # sort alphabetically, ignoring case
+        retention_data_per_referral = retention_data_per_referral.reindex(
+            sorted(retention_data_per_referral.index, key=lambda x: x.lower())
+        )
+        page_content += "### Newcomer retention\n\n"
+        page_content += (
+            "Retention means the percentage of newcomers who "
+            "attended one or more of the three following events, "
+            "grouped by how they originally found RatFr.\n"
+        )
+        page_content += (
+            f"* **Average retention:** {average_retention_per_referral}%\n\n"
+        )
+        retention_per_referral_fig = plot_retention_per_referral(
+            retention_data_per_referral
+        )
+        retention_per_referral_html = pio.to_html(
+            retention_per_referral_fig, include_plotlyjs=False, full_html=False
+        )
+        page_content += "<div>" + retention_per_referral_html + "</div>\n\n"
 
     page_content += "## Feedback\n\n"
     page_content += f"* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n"
@@ -531,6 +574,30 @@ def plot_retention_per_event(retention_data: pd.DataFrame, year: int):
     fig.update_layout(
         yaxis=dict(range=[0, 100], title="Retention (%)"),
         xaxis=dict(range=[f"{year}-01-01", f"{year}-12-31"], title="Date"),
+    )
+
+    return fig
+
+
+def plot_retention_per_referral(retention_data_per_referral: pd.DataFrame):
+    """
+    Plot the retention per referral source.
+    """
+    # plot bar chart
+    fig = px.bar(
+        retention_data_per_referral,
+        x=retention_data_per_referral.index,
+        y="Retention",
+        title="Newcomer retention per referral source",
+        color_discrete_sequence=["#ffd320"],
+        custom_data=["Total", "Retained3"],
+    )
+    fig.update_traces(
+        hovertemplate="%{x}<br>%{customdata[1]}/%{customdata[0]} retained<br>%{y}%",
+    )
+    fig.update_layout(
+        yaxis=dict(range=[0, 100], title="Retention (%)"),
+        xaxis=dict(title="Referral source"),
     )
 
     return fig
