@@ -535,7 +535,7 @@ def plot_feedback_frequency(
         x="Date",
         y="Feedback percentage",
         title="Percentage of people that filled out the feedback form",
-        color_discrete_sequence=["#ffd320"],
+        color_discrete_sequence=["darkblue"],
         custom_data=["Event", "Feedback Count", "Total"],
     )
     fig.update_traces(
@@ -563,7 +563,7 @@ def plot_retention_per_event(retention_data: pd.DataFrame, year: int):
         x="Date",
         y="Retention",
         title="Retention per event",
-        color_discrete_sequence=["#ffd320"],
+        color_discrete_sequence=["darkblue"],
         custom_data=["Event", "Total", "Retained3"],
     )
     fig.update_traces(
@@ -589,7 +589,7 @@ def plot_retention_per_referral(retention_data_per_referral: pd.DataFrame):
         x=retention_data_per_referral.index,
         y="Retention",
         title="Newcomer retention per referral source",
-        color_discrete_sequence=["#ffd320"],
+        color_discrete_sequence=["red"],
         custom_data=["Total", "Retained3"],
     )
     fig.update_traces(
