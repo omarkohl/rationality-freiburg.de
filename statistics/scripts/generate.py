@@ -37,9 +37,9 @@ REMOVE_SOURCE_FILES = True
 # Filenames
 
 # The following files are generated based on the above input files.
-FEEDBACK_CLEANED = os.path.join("data", f"feedback{YEAR}.csv")
-ATTENDANCE_CLEANED = os.path.join("data", f"attendance{YEAR}.csv")
-REFERRAL_CLEANED = os.path.join("data", f"referrals{YEAR}.csv")
+FEEDBACK_CLEANED = os.path.join("data", "feedback.csv")
+ATTENDANCE_CLEANED = os.path.join("data", "attendance.csv")
+NEWCOMER_CLEANED = os.path.join("data", "newcomer.csv")
 
 # End of Filenames
 
@@ -77,13 +77,21 @@ def generate_output(feedback_file: str, attendance_file: str, regenerate: bool =
     This function reads the cleaned data and generates a markdown page containing tables with data and plots.
     """
     now = datetime.now(pytz.timezone("CET"))
+    os.makedirs(SUMMARY_WEBDIR, exist_ok=True)
 
     # Read the cleaned data into a dataframe
     if not os.path.isfile(feedback_file):
         raise FileNotFoundError(f"The file {feedback_file} does not exist")
 
-    feedback_df = pd.read_csv(feedback_file)
-    attendance_df = pd.read_csv(attendance_file)
+    feedback_df = pd.read_csv(feedback_file, parse_dates=["Date of the event"])
+    attendance_df = pd.read_csv(attendance_file, parse_dates=["Date"])
+    newcomer = pd.read_csv(NEWCOMER_CLEANED, parse_dates=["Date"])
+    # Filter the data for the selected year
+    feedback_df = feedback_df[
+        feedback_df["Date of the event"].apply(lambda x: x.year) == YEAR
+    ]
+    attendance_df = attendance_df[attendance_df["Date"].apply(lambda x: x.year) == YEAR]
+    newcomer = newcomer[newcomer["Date"].apply(lambda x: x.year) == YEAR]
 
     # q10 in feedback_df is a string representing a list of strings.
     # I want to convert it to a list of strings.
@@ -92,11 +100,12 @@ def generate_output(feedback_file: str, attendance_file: str, regenerate: bool =
     )
 
     all_event_stats_links = ""
-    # Display all unique values of 'Date of the event'
-    dates = feedback_df["Date of the event"].unique()
-    dates = sorted(dates)
+    # All event dates for the selected year
+    dates = feedback_df["Date of the event"].sort_values().unique()
     for d in dates:
-        dirs = [f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(str(d))]
+        dirs = [
+            f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(d.strftime("%Y-%m-%d"))
+        ]
         if len(dirs) == 0:
             raise ValueError(f"No directory for {d} exists")
         elif len(dirs) > 1:
@@ -154,11 +163,9 @@ See also the [{YEAR} summary]({summary_link}).
         # Filter the dataframe for the current date
         feedback_filtered_df = feedback_df[feedback_df["Date of the event"] == d]
         attendance_filtered_df = attendance_df[attendance_df["Date"] == d]
-        recurring_participants = attendance_filtered_df.iloc[0][
-            "Recurring participants"
-        ]
-        new_participants = attendance_filtered_df.iloc[0]["New participants"]
-        total_participants = attendance_filtered_df.iloc[0]["Total participants"]
+        recurring_participants = attendance_filtered_df.iloc[0]["Recurring"]
+        new_participants = attendance_filtered_df.iloc[0]["New"]
+        total_participants = attendance_filtered_df.iloc[0]["Total"]
 
         page_content += f"* **Total:** {pluralize_people(total_participants)}\n"
         page_content += f"* **Recurring:** {pluralize_people(recurring_participants)}\n"
@@ -172,7 +179,7 @@ See also the [{YEAR} summary]({summary_link}).
             f.write(page_content)
 
     summary_page = os.path.join(SUMMARY_WEBDIR, "index.md")
-    total_participants = attendance_df["Total participants"].sum()
+    total_participants = attendance_df["Total"].sum()
     summary_page_creation_date = now.strftime("%Y-%m-%dT%H:%M:%S%z")
     if os.path.exists(summary_page):
         summary_page_data = get_page_metadata(summary_page)
@@ -199,42 +206,36 @@ for the individual events here:
 ## Attendees
 
 * {len(dates)} events.
-* {total_participants / len(dates):.2f} people per event on average (σ={attendance_df['Total participants'].std():.2f}).
-* {attendance_df['New participants'].mean():.2f} newcomers per event (σ={attendance_df['New participants'].std():.2f}).
-* Maximum number of attendees was {attendance_df['Total participants'].max()} and minimum was {pluralize_people(attendance_df['Total participants'].min())}.
+* {total_participants / len(dates):.2f} people per event on average (σ={attendance_df['Total'].std():.2f}).
+* {attendance_df['New'].mean():.2f} newcomers per event (σ={attendance_df['New'].std():.2f}).
+* Maximum number of attendees was {attendance_df['Total'].max()} and minimum was {pluralize_people(attendance_df['Total'].min())}.
 
 **Recurring** is any person coming for the second, third etc. time whereas
 **New** is anyone coming for the first time to a Rationality Freiburg event.
 
 """
 
-    attendance2 = pd.read_csv(Path("data", "attendance.csv"))
-    attendance2 = attendance2[
-        attendance2["Date"].apply(lambda x: x.split("-")[0]) == str(YEAR)
-    ]
-    all_dates = [d for d in attendance2["Date"]]
+    all_dates = [d for d in attendance_df["Date"]]
     event_metadata = get_event_metadata(all_dates)
-    attendance2["Event"] = attendance2["Date"].apply(
+    attendance_df["Event"] = attendance_df["Date"].apply(
         lambda date: event_metadata.get(date, {}).get("title", "No title")
     )
 
     page_content += "### Attendance\n\n"
-    attendance_fig = plot_attendance(attendance2)
+    attendance_fig = plot_attendance(attendance_df)
     attendance_html = pio.to_html(
         attendance_fig, include_plotlyjs=False, full_html=False
     )
     page_content += "<div>" + attendance_html + "</div>\n\n"
 
     page_content += "### Referrals\n\n"
-    newcomer = pd.read_csv(Path("data", "newcomer.csv"))
-    newcomer = newcomer[newcomer["Date"].apply(lambda x: x.split("-")[0]) == str(YEAR)]
     referrals_fig = plot_referrals(newcomer)
     referrals_html = pio.to_html(referrals_fig, include_plotlyjs=False, full_html=False)
     page_content += "<div>" + referrals_html + "</div>\n\n"
 
     page_content += "## Feedback\n\n"
     page_content += f"* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n"
-    feedback_fig = plot_feedback_frequency(feedback_df, attendance2)
+    feedback_fig = plot_feedback_frequency(feedback_df, attendance_df)
     feedback_html = pio.to_html(feedback_fig, include_plotlyjs=False, full_html=False)
     page_content += "<div>" + feedback_html + "</div>\n\n"
 
@@ -476,7 +477,7 @@ def plot_feedback_frequency(feedback: pd.DataFrame, attendance: pd.DataFrame):
     )
     fig.update_layout(
         yaxis=dict(range=[0, 100], title="Feedback percentage"),
-        xaxis=dict(range=["2024-01-01", "2024-12-31"], title="Date"),
+        xaxis=dict(range=[f"{YEAR}-01-01", f"{YEAR}-12-31"], title="Date"),
     )
 
     return fig
