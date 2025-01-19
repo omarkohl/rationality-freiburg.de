@@ -243,7 +243,11 @@ for the individual events here:
             "attended one or more of the three following events.\n"
         )
 
-        page_content += f"* **Average retention:** {average_retention}%\n\n"
+        page_content += (
+            f"* **Average retention:** {average_retention}%"
+            f" ({retention_data['Retained3'].sum()} / "
+            f"{retention_data['Total'].sum()})\n\n"
+        )
         page_content += "\n"
 
         retention_per_event_fig = plot_retention_per_event(retention_data, year)
@@ -271,12 +275,15 @@ for the individual events here:
         retention_data_per_referral["Retention"] = (
             retention_data_per_referral["Retention"].round(2) * 100
         )
-        average_retention_per_referral = round(
-            retention_data_per_referral["Retention"].mean(), 2
-        )
         # rename some columns
         retention_data_per_referral = retention_data_per_referral.rename(
             columns={"People": "Total", "Retained3_y": "Retained3"}
+        )
+        average_retention_per_referral = round(
+            retention_data_per_referral["Retained3"].sum()
+            / retention_data_per_referral["Total"].sum()
+            * 100,
+            2,
         )
         # sort alphabetically, ignoring case
         retention_data_per_referral = retention_data_per_referral.reindex(
@@ -285,11 +292,14 @@ for the individual events here:
         page_content += "### Newcomer retention\n\n"
         page_content += (
             "Retention means the percentage of newcomers who "
-            "attended one or more of the three following events, "
-            "grouped by how they originally found RatFr.\n"
+            "attended one or more of the three following events (after their "
+            "first event), grouped by how they originally found RatFr.\n"
         )
         page_content += (
-            f"* **Average retention:** {average_retention_per_referral}%\n\n"
+            "* **Average newcomer retention:** "
+            f"{average_retention_per_referral}% "
+            f"({retention_data_per_referral['Retained3'].sum()} / "
+            f"{retention_data_per_referral['Total'].sum()})\n\n"
         )
         retention_per_referral_fig = plot_retention_per_referral(
             retention_data_per_referral
