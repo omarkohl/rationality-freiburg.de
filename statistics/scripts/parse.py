@@ -21,7 +21,7 @@ def main():
     attendance_path = Path("data", "attendance.csv")
     events_per_person_path = Path("data", f"events_per_person_{YEAR}.csv")
     newcomer_path = Path("data", "newcomer.csv")
-    feedback_path = Path("data", f"feedback{YEAR}.csv")
+    feedback_path = Path("data", "feedback.csv")
     generate_attendance_files(
         source_attendance_path,
         attendance_path,

@@ -161,6 +161,16 @@ def generate_attendance_files(
         ["Date", "Recurring", "New", "Total", "Retained3", "RetainedAll"]
     ]
 
+    try:
+        existing_attendance_data = pd.read_csv(attendance_path, parse_dates=["Date"])
+    except FileNotFoundError:
+        existing_attendance_data = pd.DataFrame()
+
+    # Overwrite existing data if we updated that event (same date)
+    attendance = pd.concat([existing_attendance_data, attendance], ignore_index=True)
+    attendance.drop_duplicates(subset=["Date"], keep="last", inplace=True)
+    attendance.sort_values(by="Date", inplace=True)
+
     attendance.to_csv(attendance_path, index=False)
 
     newcomer = new_people_preprocessed.copy(deep=True)
@@ -201,6 +211,16 @@ def generate_attendance_files(
         .rename(columns={"Name": "People", "First event": "Date"})
     )
 
+    try:
+        existing_newcomer_data = pd.read_csv(newcomer_path, parse_dates=["Date"])
+    except FileNotFoundError:
+        existing_newcomer_data = pd.DataFrame()
+
+    # Overwrite existing data if we updated that event (same date)
+    newcomer = pd.concat([existing_newcomer_data, newcomer], ignore_index=True)
+    newcomer.drop_duplicates(subset=["Date", "Referral"], keep="last", inplace=True)
+    newcomer.sort_values(by=["Date", "Referral"], inplace=True)
+
     newcomer.to_csv(newcomer_path, index=False)
 
     if remove_source_files:
@@ -238,6 +258,27 @@ def generate_feedback_file(
     df[questions.QUESTIONS[9]] = df[questions.QUESTIONS[9]].map(q09_mapping)
     df[questions.QUESTIONS[10]] = df[questions.QUESTIONS[10]].map(
         questions.map_q10_responses
+    )
+
+    df.sort_values(by=["Date of the event"] + list(df.columns[1:]), inplace=True)
+
+    try:
+        existing_feedback_data = pd.read_csv(
+            cleaned_path, parse_dates=["Date of the event"]
+        )
+    except FileNotFoundError:
+        existing_feedback_data = pd.DataFrame(
+            columns=["Date of the event"] + list(df.columns[1:])
+        )
+
+    # drop every row in the existing_feedback_data that has the same date as the new data
+    existing_feedback_data = existing_feedback_data[
+        ~existing_feedback_data["Date of the event"].isin(df["Date of the event"])
+    ]
+
+    df = pd.concat(
+        [existing_feedback_data if not existing_feedback_data.empty else None, df],
+        ignore_index=True,
     )
 
     df.sort_values(by=["Date of the event"] + list(df.columns[1:]), inplace=True)
