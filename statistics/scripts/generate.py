@@ -105,6 +105,10 @@ def generate_output(
     ].copy()
     newcomer = newcomer_all[newcomer_all["Date"].apply(lambda x: x.year) == year].copy()
 
+    people_per_events_attended_df = pd.read_csv(
+        Path("data", f"events_per_person_{year}.csv")
+    )
+
     # q10 in feedback_df is a string representing a list of strings.
     # I want to convert it to a list of strings.
     feedback_df[questions.QUESTIONS[10]] = (
@@ -255,6 +259,22 @@ for the individual events here:
             retention_per_event_fig, include_plotlyjs=False, full_html=False
         )
         page_content += "<div>" + retention_per_event_html + "</div>\n\n"
+
+    page_content += "### People per events attended\n\n"
+    page_content += (
+        "How many people attended how many events.\n\n"
+    )
+    people_per_events_fig = px.bar(
+        people_per_events_attended_df,
+        x="Events attended",
+        y="People",
+        title="People per events attended",
+    )
+    people_per_events_html = pio.to_html(
+        people_per_events_fig, include_plotlyjs=False, full_html=False
+    )
+    page_content += "<div>" + people_per_events_html + "</div>\n\n"
+
 
     page_content += "### Referrals\n\n"
     referrals_fig = plot_referrals(newcomer)
