@@ -87,15 +87,23 @@ def generate_output(
     if not feedback_file.is_file():
         raise FileNotFoundError(f"The file {feedback_file} does not exist")
 
-    feedback_df = pd.read_csv(feedback_file, parse_dates=["Date of the event"])
-    attendance_df = pd.read_csv(attendance_file, parse_dates=["Date"])
-    newcomer = pd.read_csv(NEWCOMER_CLEANED, parse_dates=["Date"])
+    feedback_df_all = pd.read_csv(feedback_file, parse_dates=["Date of the event"])
+    attendance_df_all = pd.read_csv(attendance_file, parse_dates=["Date"])
+    newcomer_all = pd.read_csv(NEWCOMER_CLEANED, parse_dates=["Date"])
+
+    event_metadata = get_event_metadata([d for d in attendance_df_all["Date"]])
+    attendance_df_all["Event"] = attendance_df_all["Date"].apply(
+        lambda date: event_metadata.get(date, {}).get("title", "No title")
+    )
+
     # Filter the data for the selected year
-    feedback_df = feedback_df[
-        feedback_df["Date of the event"].apply(lambda x: x.year) == year
-    ]
-    attendance_df = attendance_df[attendance_df["Date"].apply(lambda x: x.year) == year]
-    newcomer = newcomer[newcomer["Date"].apply(lambda x: x.year) == year]
+    feedback_df = feedback_df_all[
+        feedback_df_all["Date of the event"].apply(lambda x: x.year) == year
+    ].copy()
+    attendance_df = attendance_df_all[
+        attendance_df_all["Date"].apply(lambda x: x.year) == year
+    ].copy()
+    newcomer = newcomer_all[newcomer_all["Date"].apply(lambda x: x.year) == year].copy()
 
     # q10 in feedback_df is a string representing a list of strings.
     # I want to convert it to a list of strings.
@@ -211,18 +219,37 @@ for the individual events here:
 
 """
 
-    all_dates = [d for d in attendance_df["Date"]]
-    event_metadata = get_event_metadata(all_dates)
-    attendance_df["Event"] = attendance_df["Date"].apply(
-        lambda date: event_metadata.get(date, {}).get("title", "No title")
-    )
-
     page_content += "### Attendance\n\n"
     attendance_fig = plot_attendance(attendance_df, year)
     attendance_html = pio.to_html(
         attendance_fig, include_plotlyjs=False, full_html=False
     )
     page_content += "<div>" + attendance_html + "</div>\n\n"
+
+    # Remove events for which we have no retention data
+    retention_data = attendance_df_all.iloc[:-3]
+    retention_data = retention_data[
+        retention_data["Date"].apply(lambda x: x.year) == year
+    ]
+
+    average_retention = round(
+        (retention_data["Retained3"] / retention_data["Total"]).mean() * 100, 2
+    )
+
+    page_content += "### Retention per event\n\n"
+    page_content += (
+        "Retention means the percentage of participants who "
+        "attended one or more of the three following events.\n"
+    )
+
+    page_content += f"* **Average retention:** {average_retention}%\n\n"
+    page_content += "\n"
+
+    retention_per_event_fig = plot_retention_per_event(retention_data, year)
+    retention_per_event_html = pio.to_html(
+        retention_per_event_fig, include_plotlyjs=False, full_html=False
+    )
+    page_content += "<div>" + retention_per_event_html + "</div>\n\n"
 
     page_content += "### Referrals\n\n"
     referrals_fig = plot_referrals(newcomer)
@@ -475,6 +502,34 @@ def plot_feedback_frequency(
     )
     fig.update_layout(
         yaxis=dict(range=[0, 100], title="Feedback percentage"),
+        xaxis=dict(range=[f"{year}-01-01", f"{year}-12-31"], title="Date"),
+    )
+
+    return fig
+
+
+def plot_retention_per_event(retention_data: pd.DataFrame, year: int):
+    """
+    Plot the retention per event.
+    """
+    retention_data["Retention"] = retention_data["Retained3"] / retention_data["Total"]
+    retention_data["Retention"] = retention_data["Retention"].round(2) * 100
+
+    fig = px.line(
+        retention_data,
+        x="Date",
+        y="Retention",
+        title="Retention per event",
+        color_discrete_sequence=["#ffd320"],
+        custom_data=["Event", "Total", "Retained3"],
+    )
+    fig.update_traces(
+        mode="markers+lines",
+        marker=dict(size=10),
+        hovertemplate="%{customdata[0]}<br>Date: %{x}<br>%{customdata[2]}/%{customdata[1]} retained<br>%{y}%",
+    )
+    fig.update_layout(
+        yaxis=dict(range=[0, 100], title="Retention (%)"),
         xaxis=dict(range=[f"{year}-01-01", f"{year}-12-31"], title="Date"),
     )
 
