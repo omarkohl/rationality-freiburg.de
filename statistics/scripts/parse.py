@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Script to parse the input data and generate the CSV files in the data/ folder.
 """
