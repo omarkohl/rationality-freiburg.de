@@ -14,7 +14,6 @@ exported CSV files.
 Look for "Filenames" below for a little more information.
 """
 
-import os
 from pathlib import Path
 import sys
 import re
@@ -29,17 +28,17 @@ from ratfr_statistics.helper import get_event_metadata, get_page_metadata
 from ratfr_statistics import questions
 
 YEAR = 2025
-SUMMARY_WEBDIR = f"../website/content/posts/statistics-feedback-{YEAR}/"
-EVENTS_WEBDIR = "../website/content/events/"
+SUMMARY_WEBDIR = Path(f"../website/content/posts/statistics-feedback-{YEAR}/")
+EVENTS_WEBDIR = Path("../website/content/events/")
 
 REMOVE_SOURCE_FILES = True
 
 # Filenames
 
 # The following files are generated based on the above input files.
-FEEDBACK_CLEANED = os.path.join("data", "feedback.csv")
-ATTENDANCE_CLEANED = os.path.join("data", "attendance.csv")
-NEWCOMER_CLEANED = os.path.join("data", "newcomer.csv")
+FEEDBACK_CLEANED = Path("data", "feedback.csv")
+ATTENDANCE_CLEANED = Path("data", "attendance.csv")
+NEWCOMER_CLEANED = Path("data", "newcomer.csv")
 
 # End of Filenames
 
@@ -72,15 +71,17 @@ def main():
     generate_output(FEEDBACK_CLEANED, ATTENDANCE_CLEANED, regenerate)
 
 
-def generate_output(feedback_file: str, attendance_file: str, regenerate: bool = False):
+def generate_output(
+    feedback_file: Path, attendance_file: Path, regenerate: bool = False
+):
     """
     This function reads the cleaned data and generates a markdown page containing tables with data and plots.
     """
     now = datetime.now(pytz.timezone("CET"))
-    os.makedirs(SUMMARY_WEBDIR, exist_ok=True)
+    SUMMARY_WEBDIR.mkdir(parents=True, exist_ok=True)
 
     # Read the cleaned data into a dataframe
-    if not os.path.isfile(feedback_file):
+    if not feedback_file.is_file():
         raise FileNotFoundError(f"The file {feedback_file} does not exist")
 
     feedback_df = pd.read_csv(feedback_file, parse_dates=["Date of the event"])
@@ -104,43 +105,35 @@ def generate_output(feedback_file: str, attendance_file: str, regenerate: bool =
     dates = feedback_df["Date of the event"].sort_values().unique()
     for d in dates:
         dirs = [
-            f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(d.strftime("%Y-%m-%d"))
+            f
+            for f in EVENTS_WEBDIR.iterdir()
+            if str(f.name).startswith(d.strftime("%Y-%m-%d"))
         ]
         if len(dirs) == 0:
             raise ValueError(f"No directory for {d} exists")
         elif len(dirs) > 1:
             raise ValueError(f"More than one directory for {d} exists")
 
-        event_dir = os.path.join(EVENTS_WEBDIR, dirs[0])
-        event_stats_dir = os.path.join(EVENTS_WEBDIR, dirs[0], "statistics")
-        os.makedirs(event_stats_dir, exist_ok=True)
-        event_stats_page = os.path.join(event_stats_dir, "index.md")
+        event_dir = dirs[0]
+        event_stats_dir = event_dir / "statistics"
+        event_stats_dir.mkdir(parents=True, exist_ok=True)
+        event_stats_page = Path(event_stats_dir, "index.md")
 
-        event_data = get_page_metadata(os.path.join(event_dir, "_index.md"))
+        event_data = get_page_metadata(Path(event_dir, "_index.md"))
         event_title = event_data["title"]
-        event_link = (
-            '{{< ref "events/' + os.path.normpath(event_dir).split(os.sep)[-1] + '" >}}'
-        )
-        event_stats_link = (
-            '{{< ref "events/'
-            + os.path.normpath(event_dir).split(os.sep)[-1]
-            + '/statistics" >}}'
-        )
+        event_link = '{{< ref "events/' + event_dir.name + '" >}}'
+        event_stats_link = '{{< ref "events/' + event_dir.name + '/statistics" >}}'
         all_event_stats_links += f"* [{event_title}]({event_stats_link})\n"
-        summary_link = (
-            '{{< ref "posts/'
-            + os.path.normpath(SUMMARY_WEBDIR).split(os.sep)[-1]
-            + '" >}}'
-        )
+        summary_link = '{{< ref "posts/' + SUMMARY_WEBDIR.name + '" >}}'
 
-        if not regenerate and os.path.exists(event_stats_page):
+        if not regenerate and event_stats_page.exists():
             # If the page already exists, skip it
             continue
 
         # Get the creation date of the event's statistics page so as not to
         # overwrite it if the page already exists
         event_stats_page_creation_date = now.strftime("%Y-%m-%dT%H:%M:%S%z")
-        if os.path.exists(event_stats_page):
+        if event_stats_page.exists():
             event_stats_data = get_page_metadata(event_stats_page)
             if "date" in event_stats_data:
                 event_stats_page_creation_date = event_stats_data["date"]
@@ -178,10 +171,10 @@ See also the [{YEAR} summary]({summary_link}).
         with open(event_stats_page, "w") as f:
             f.write(page_content)
 
-    summary_page = os.path.join(SUMMARY_WEBDIR, "index.md")
+    summary_page = Path(SUMMARY_WEBDIR, "index.md")
     total_participants = attendance_df["Total"].sum()
     summary_page_creation_date = now.strftime("%Y-%m-%dT%H:%M:%S%z")
-    if os.path.exists(summary_page):
+    if summary_page.exists():
         summary_page_data = get_page_metadata(summary_page)
         if "date" in summary_page_data:
             summary_page_creation_date = summary_page_data["date"]
@@ -246,7 +239,7 @@ for the individual events here:
         f.write(page_content)
 
 
-def generate_feedback_output(feedback_df, total_participants, img_dir: str):
+def generate_feedback_output(feedback_df, total_participants, img_dir: Path):
     page_content = ""
     for q in [questions.QUESTIONS[i] for i in range(1, 9)]:
         page_content += f"### {q}\n\n"
@@ -325,7 +318,7 @@ def generate_feedback_output(feedback_df, total_participants, img_dir: str):
     return page_content
 
 
-def plot_bar_chart(data, q, output_dir):
+def plot_bar_chart(data, q, output_dir: Path):
     """
     This function plots a bar chart based on the given data and question.
     """
@@ -361,11 +354,11 @@ def plot_bar_chart(data, q, output_dir):
         ]
         plt.xticks(data.index, labels, rotation=45)
     plt.subplots_adjust(bottom=0.3)
-    plt.savefig(f"{output_dir}/{question_to_filename(q)}.png")
+    plt.savefig(output_dir / f"{question_to_filename(q)}.png")
     plt.close()
 
 
-def plot_bar_chart_horizontal(data, q, output_dir):
+def plot_bar_chart_horizontal(data, q, output_dir: Path):
     # plot question 10
     plt.figure(figsize=(20, 16))
     # Create a horizontal bar chart
@@ -387,7 +380,7 @@ def plot_bar_chart_horizontal(data, q, output_dir):
     plt.title(q, pad=20)
     plt.yticks(rotation=0)
     plt.subplots_adjust(left=0.2)
-    plt.savefig(f"{output_dir}/{question_to_filename(q)}.png")
+    plt.savefig(output_dir / f"{question_to_filename(q)}.png")
     plt.close()
 
 
