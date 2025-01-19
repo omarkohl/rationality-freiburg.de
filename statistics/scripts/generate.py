@@ -227,7 +227,7 @@ for the individual events here:
     page_content += "<div>" + attendance_html + "</div>\n\n"
 
     # Remove events for which we have no retention data
-    retention_data = attendance_df_all.iloc[:-3]
+    retention_data = attendance_df_all.iloc[:-4]
     retention_data = retention_data[
         retention_data["Date"].apply(lambda x: x.year) == year
     ]
