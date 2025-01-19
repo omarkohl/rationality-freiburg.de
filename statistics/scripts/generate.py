@@ -15,7 +15,6 @@ Look for "Filenames" below for a little more information.
 """
 
 from pathlib import Path
-import sys
 import re
 import pytz
 import pandas as pd
@@ -23,62 +22,66 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from plotly import express as px
 import plotly.io as pio
+import argparse
 
 from ratfr_statistics.helper import get_event_metadata, get_page_metadata
 from ratfr_statistics import questions
 
-YEAR = 2025
-SUMMARY_WEBDIR = Path(f"../website/content/posts/statistics-feedback-{YEAR}/")
+POSTS_WEBDIR = Path("../website/content/posts/")
 EVENTS_WEBDIR = Path("../website/content/events/")
 
-REMOVE_SOURCE_FILES = True
-
-# Filenames
-
-# The following files are generated based on the above input files.
 FEEDBACK_CLEANED = Path("data", "feedback.csv")
 ATTENDANCE_CLEANED = Path("data", "attendance.csv")
 NEWCOMER_CLEANED = Path("data", "newcomer.csv")
 
-# End of Filenames
+REMOVE_SOURCE_FILES = True
 
 
 def main():
     """
     This function is the entry point of the script.
     """
-    regenerate = False
-    print_help = False
-    if len(sys.argv) == 2 and sys.argv[1] == "--regenerate":
-        regenerate = True
-    elif len(sys.argv) == 2 and sys.argv[1] != "--help":
-        print_help = True
-    elif len(sys.argv) == 1:
-        pass
-    else:  # e.g. unknown argument or more than one argument
-        print_help = True
-
-    if print_help:
-        print(
-            "This script generates a markdown page suitable for Hugo containing tables with data and plots."
+    # Create the parser
+    parser = argparse.ArgumentParser(
+        description=(
+            "This script generates a markdown page suitable for Hugo "
+            "containing tables with data and plots."
         )
-        print("Usage: generate.py [--regenerate]")
-        print(
-            "If the argument --regenerate is given, the script will replace the existing markdown files with new ones."
-        )
-        exit(0)
+    )
 
-    generate_output(FEEDBACK_CLEANED, ATTENDANCE_CLEANED, regenerate)
+    # Add the arguments
+    parser.add_argument(
+        "--regenerate",
+        action="store_true",
+        help=(
+            "If given, the script will replace the existing markdown "
+            "files with new ones."
+        ),
+        default=False,
+    )
+
+    parser.add_argument(
+        "--year",
+        type=int,
+        help="The year for which to generate the statistics.",
+        default=datetime.now().year,
+    )
+
+    # Parse the arguments
+    args = parser.parse_args()
+
+    generate_output(FEEDBACK_CLEANED, ATTENDANCE_CLEANED, args.year, args.regenerate)
 
 
 def generate_output(
-    feedback_file: Path, attendance_file: Path, regenerate: bool = False
+    feedback_file: Path, attendance_file: Path, year: int, regenerate: bool = False
 ):
     """
     This function reads the cleaned data and generates a markdown page containing tables with data and plots.
     """
     now = datetime.now(pytz.timezone("CET"))
-    SUMMARY_WEBDIR.mkdir(parents=True, exist_ok=True)
+    summary_webdir = POSTS_WEBDIR / f"statistics-feedback-{year}"
+    summary_webdir.mkdir(parents=True, exist_ok=True)
 
     # Read the cleaned data into a dataframe
     if not feedback_file.is_file():
@@ -89,10 +92,10 @@ def generate_output(
     newcomer = pd.read_csv(NEWCOMER_CLEANED, parse_dates=["Date"])
     # Filter the data for the selected year
     feedback_df = feedback_df[
-        feedback_df["Date of the event"].apply(lambda x: x.year) == YEAR
+        feedback_df["Date of the event"].apply(lambda x: x.year) == year
     ]
-    attendance_df = attendance_df[attendance_df["Date"].apply(lambda x: x.year) == YEAR]
-    newcomer = newcomer[newcomer["Date"].apply(lambda x: x.year) == YEAR]
+    attendance_df = attendance_df[attendance_df["Date"].apply(lambda x: x.year) == year]
+    newcomer = newcomer[newcomer["Date"].apply(lambda x: x.year) == year]
 
     # q10 in feedback_df is a string representing a list of strings.
     # I want to convert it to a list of strings.
@@ -124,7 +127,7 @@ def generate_output(
         event_link = '{{< ref "events/' + event_dir.name + '" >}}'
         event_stats_link = '{{< ref "events/' + event_dir.name + '/statistics" >}}'
         all_event_stats_links += f"* [{event_title}]({event_stats_link})\n"
-        summary_link = '{{< ref "posts/' + SUMMARY_WEBDIR.name + '" >}}'
+        summary_link = '{{< ref "posts/' + summary_webdir.name + '" >}}'
 
         if not regenerate and event_stats_page.exists():
             # If the page already exists, skip it
@@ -148,7 +151,7 @@ summary: "Statistics for the '{event_title}' event."
 
 Read more about [this event]({event_link}).
 
-See also the [{YEAR} summary]({summary_link}).
+See also the [{year} summary]({summary_link}).
 
 ## Attendees
 
@@ -171,7 +174,7 @@ See also the [{YEAR} summary]({summary_link}).
         with open(event_stats_page, "w") as f:
             f.write(page_content)
 
-    summary_page = Path(SUMMARY_WEBDIR, "index.md")
+    summary_page = Path(summary_webdir, "index.md")
     total_participants = attendance_df["Total"].sum()
     summary_page_creation_date = now.strftime("%Y-%m-%dT%H:%M:%S%z")
     if summary_page.exists():
@@ -180,16 +183,16 @@ See also the [{YEAR} summary]({summary_link}).
             summary_page_creation_date = summary_page_data["date"]
 
     page_content = f"""---
-title: "Statistics & Feedback {YEAR}"
+title: "Statistics & Feedback {year}"
 date: {summary_page_creation_date}
 toc: true
 usePlotly: true
-summary: "In {YEAR} there were {len(dates)} public events (so far),
+summary: "In {year} there were {len(dates)} public events (so far),
   not counting book club, statistics study group and meta-meetup.
   Some interesting facts and graphs."
 ---
 
-**Note that this page will be updated through {YEAR}.**
+**Note that this page will be updated through {year}.**
 
 This page contains a summary of all events. You can see the statistics
 for the individual events here:
@@ -215,7 +218,7 @@ for the individual events here:
     )
 
     page_content += "### Attendance\n\n"
-    attendance_fig = plot_attendance(attendance_df)
+    attendance_fig = plot_attendance(attendance_df, year)
     attendance_html = pio.to_html(
         attendance_fig, include_plotlyjs=False, full_html=False
     )
@@ -228,12 +231,12 @@ for the individual events here:
 
     page_content += "## Feedback\n\n"
     page_content += f"* **Responses:** {pluralize_people(len(feedback_df))} ({len(feedback_df) / total_participants * 100:.2f}% of attendees)\n\n"
-    feedback_fig = plot_feedback_frequency(feedback_df, attendance_df)
+    feedback_fig = plot_feedback_frequency(feedback_df, attendance_df, year)
     feedback_html = pio.to_html(feedback_fig, include_plotlyjs=False, full_html=False)
     page_content += "<div>" + feedback_html + "</div>\n\n"
 
     page_content += generate_feedback_output(
-        feedback_df, total_participants, SUMMARY_WEBDIR
+        feedback_df, total_participants, summary_webdir
     )
     with open(summary_page, "w") as f:
         f.write(page_content)
@@ -403,7 +406,7 @@ def plot_referrals(newcomer: pd.DataFrame):
     return fig
 
 
-def plot_attendance(attendance: pd.DataFrame):
+def plot_attendance(attendance: pd.DataFrame, year: int):
     """
     Generate the attendance figure.
     """
@@ -433,13 +436,15 @@ def plot_attendance(attendance: pd.DataFrame):
         yaxis=dict(
             range=[0, attendance["Participants"].max() + 5], title="Participants"
         ),
-        xaxis=dict(range=[f"{YEAR}-01-01", f"{YEAR}-12-31"], title="Date"),
+        xaxis=dict(range=[f"{year}-01-01", f"{year}-12-31"], title="Date"),
     )
 
     return fig
 
 
-def plot_feedback_frequency(feedback: pd.DataFrame, attendance: pd.DataFrame):
+def plot_feedback_frequency(
+    feedback: pd.DataFrame, attendance: pd.DataFrame, year: int
+):
     """
     Plot what percentage of participants gave feedback.
     Each line in 'feedback' for a specific 'Date of the event' is a feedback.
@@ -470,7 +475,7 @@ def plot_feedback_frequency(feedback: pd.DataFrame, attendance: pd.DataFrame):
     )
     fig.update_layout(
         yaxis=dict(range=[0, 100], title="Feedback percentage"),
-        xaxis=dict(range=[f"{YEAR}-01-01", f"{YEAR}-12-31"], title="Date"),
+        xaxis=dict(range=[f"{year}-01-01", f"{year}-12-31"], title="Date"),
     )
 
     return fig
