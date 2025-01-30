@@ -23,6 +23,10 @@ outputs:
 #  list: never
 ---
 
+## Update 31.01
+
+* Anki deck: [Rationality 101 - Part 1.apkg](<Rationality 101 - Part 1.apkg>)
+* Slides: [2025-01-31-rationality101-v1.pdf](https://raw.githubusercontent.com/omarkohl/rationality-freiburg.de/2601b6325216c317235104863c46c48b5e74cdb2/slides/2025-01-31-rationality101/2025-01-31-rationality101-v1.pdf)
 
 ## Preparation
 
