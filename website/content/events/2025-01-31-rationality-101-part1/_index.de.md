@@ -23,6 +23,10 @@ url: termine/2025-01-31-rationalität-101-teil1
 #  list: never
 ---
 
+## Update 31.01
+
+* Anki Stapel: [Rationality 101 - Part 1.apkg](<Rationality 101 - Part 1.apkg>)
+* Folien: [2025-01-31-rationality101-v2.pdf](https://raw.githubusercontent.com/omarkohl/rationality-freiburg.de/15e3979c/slides/2025-01-31-rationality101/2025-01-31-rationality101-v2.pdf)
 
 ## Vorbereitung
 
