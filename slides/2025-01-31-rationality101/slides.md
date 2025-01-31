@@ -1,6 +1,7 @@
 ---
 theme: gaia
 ---
+<!-- Global style -->
 <style>
   section.title-slide {
     background: linear-gradient(135deg, #1e3a8a, #2563eb);
