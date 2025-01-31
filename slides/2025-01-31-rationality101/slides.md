@@ -161,6 +161,14 @@ The art of thinking in ways that result in **true beliefs** and **good decisions
 
 ---
 
+# Embrace errors
+
+* It's not about being right but ...
+* ... becoming less wrong
+* Please do NOT change your answers
+
+---
+
 <!-- Scoped style -->
 <style scoped>
 section {
@@ -334,6 +342,17 @@ A player and trainer with decades of experience tries to encourage me to sign up
 # Swimmer's Body Illusion
 
 ![width:700px](swimming-7004451_1280.jpg)
+
+---
+
+# Coin flipping
+
+* Everyone needs one coin
+* The side with a number is T **tails** (the other H heads)
+
+<!-- Survivorship bias, data snooping -->
+<!-- I made person X flip N times heads/tail. Amazing right? I chose N because... -->
+<!-- It's easy to see patterns after the fact. -->
 
 ---
 
