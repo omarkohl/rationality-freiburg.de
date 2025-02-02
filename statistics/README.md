@@ -56,5 +56,6 @@ Note you need special access permissions to be able to do this.
 Execute:
 
 ```bash
+poetry run scripts/parse.py
 poetry run scripts/generate.py
 ```
