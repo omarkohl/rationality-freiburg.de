@@ -1,0 +1,20 @@
+section[data-marpit-slide="title"] {
+  background: linear-gradient(135deg, #1e3a8a, #2563eb);
+  color: white;
+  text-align: center;
+}
+
+section.columns {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+section.columns > div {
+  width: 48%;
+  padding: 10px;
+  background: #f8fafc;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
