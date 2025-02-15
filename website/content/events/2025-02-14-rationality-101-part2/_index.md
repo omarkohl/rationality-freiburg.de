@@ -23,6 +23,10 @@ outputs:
 #  list: never
 ---
 
+## Update 15.02
+
+* Slides: [2025-02-14-rationality101-v1.pdf](https://raw.githubusercontent.com/omarkohl/rationality-freiburg.de/9352ff1b/slides/2025-02-14-rationality101/2025-02-14-rationality101-v1.pdf)
+
 
 ## Preparation
 

@@ -23,6 +23,10 @@ url: termine/2025-02-14-rationalität-101-teil2
 #  list: never
 ---
 
+## Update 15.02
+
+* Folien: [2025-02-14-rationality101-v1.pdf](https://raw.githubusercontent.com/omarkohl/rationality-freiburg.de/9352ff1b/slides/2025-02-14-rationality101/2025-02-14-rationality101-v1.pdf)
+
 
 ## Vorbereitung
 
