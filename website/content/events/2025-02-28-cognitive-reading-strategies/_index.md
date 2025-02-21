@@ -25,7 +25,7 @@ outputs:
 
 ## Preparation
 
-None.
+Please bring your **laptop**.
 
 
 ## What will we do?

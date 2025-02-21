@@ -25,7 +25,7 @@ url: termine/2025-02-28-kognitive-lesestrategien
 
 ## Vorbereitung
 
-Keine.
+Bring bitte deinen **Laptop** mit.
 
 
 ## Was werden wir tun?
