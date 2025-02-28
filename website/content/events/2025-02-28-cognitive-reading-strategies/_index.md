@@ -27,6 +27,9 @@ outputs:
 
 Please bring your **laptop**.
 
+Downloads:
+* [Material 1]("Material 1.pdf")
+
 
 ## What will we do?
 
