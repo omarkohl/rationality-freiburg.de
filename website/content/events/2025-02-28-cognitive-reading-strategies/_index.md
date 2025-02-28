@@ -29,6 +29,7 @@ Please bring your **laptop**.
 
 Downloads:
 * [Material 1](<Material 1.pdf>)
+* [Material 2](<Material 2.pdf>)
 
 
 ## What will we do?
