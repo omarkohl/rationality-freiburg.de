@@ -45,15 +45,14 @@ Open http://localhost:1313 in a browser and check your post.
 
 ```bash
 cd website
-NAME=2023-01-06-cognitive-biases
+NAME=2025-03-28-cognitive-biases
 hugo new events/${NAME}/_index.md
 vim content/events/${NAME}/_index.md
 cp ~/Desktop/cover.webp content/events/${NAME}/cover.webp
 convert -resize 512x512 content/events/${NAME}/cover.webp content/events/${NAME}/cover.webp
 cp content/events/${NAME}/_index.md content/events/${NAME}/_index.de.md
 vim content/events/${NAME}/_index*.md
-git add content/events/${NAME}/
-git commit -m "Add event ${NAME}"
+jj commit -m "Add event ${NAME}"
 ```
 
 To edit an existing event (e.g. because initially there was no theme).
