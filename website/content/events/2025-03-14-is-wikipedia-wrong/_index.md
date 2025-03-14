@@ -50,6 +50,8 @@ After the audience has made their guesses, we’ll **reveal the actual changes**
 
 This event is a fun way to test your critical thinking, challenge your assumptions, and practice being wrong.
 
+Original idea: [Brief notes on the Wikipedia game](https://www.lesswrong.com/posts/4fqdfrDzFebsx8amf/brief-notes-on-the-wikipedia-game)
+
 
 ## Organization
 

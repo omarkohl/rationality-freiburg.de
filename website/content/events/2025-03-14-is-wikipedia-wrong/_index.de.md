@@ -46,6 +46,8 @@ Nachdem das Publikum seine Vermutungen geäußert hat, **werden die tatsächlich
 
 Dieses Event ist eine unterhaltsame Möglichkeit, dein kritisches Denken zu testen, Annahmen zu hinterfragen und zu üben, wie es ist, sich zu irren.
 
+Ursprüngliche Idee (Englisch): [Brief notes on the Wikipedia game](https://www.lesswrong.com/posts/4fqdfrDzFebsx8amf/brief-notes-on-the-wikipedia-game)
+
 
 ## Organisation
 
