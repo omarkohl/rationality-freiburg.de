@@ -21,8 +21,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2025-03-14-liegt-wikipedia-falsch
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Treffen, das nur für Personen gedacht ist, die bereits mindestens EINE frühere Veranstaltung besucht haben. Bitte komm nicht, wenn dies nicht auf dich zutrifft! [Warum? Lies hier nach.]({{< ref "posts/closed-meetups" >}}) Überprüfe die [Liste der Veranstaltungen]({{< ref "events" >}}), um das nächste öffentliche Event zu finden, bei dem jeder willkommen ist. Alles, was dort aufgelistet ist, ist zu 100 % offen für alle.
