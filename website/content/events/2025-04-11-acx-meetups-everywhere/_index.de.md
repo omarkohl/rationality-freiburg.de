@@ -22,6 +22,11 @@ url: termine/2025-04-11-acx-meetups-everywhere
 #  list: never
 ---
 
+**Hintergrund:** [ACX (Astral Codex Ten)](https://www.astralcodexten.com) ist ein
+Blog von Scott Alexander. Einmal im Jahr kündigt er "Meetups Everywhere" an, bei
+denen Fans des Blogs zusammenkommen. Komme gerne auch, wenn du (noch) kein Fan
+bist!
+
 ## Vorbereitung
 
 Lies mindestens einen der folgenden Artikel:

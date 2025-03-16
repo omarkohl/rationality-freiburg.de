@@ -22,6 +22,10 @@ outputs:
 #  list: never
 ---
 
+**Background:** [ACX (Astral Codex Ten)](https://www.astralcodexten.com) is a blog
+by Scott Alexander. Once a year he announces "Meetups Everywhere" where fans of
+the blog get together. Please join even if you are not (yet) a fan!
+
 ## Preparation
 
 Read at least one of the following:
