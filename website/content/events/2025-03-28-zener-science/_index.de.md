@@ -32,6 +32,10 @@ Bringe einen Laptop mit.
 
 Links:
 * [People](https://docs.google.com/forms/d/e/1FAIpQLSf6uR4mK9YH4c2s6r27WAgGkp-b9DpanZdi8EGV7FtCBl0paw/viewform?usp=sharing)
+* [Group 1 form](https://docs.google.com/forms/d/e/1FAIpQLScR0iGmWXmjqSr2tHoV96kCdIG9GBGmY0RObqq4kNW7Ec-qgA/viewform?usp=sharing) and [results](https://docs.google.com/spreadsheets/d/13my8hQgyn39TQoo4i77yQuNpdu2cVq6rRM8p_HL8408/edit?usp=drive_link)
+* [Group 2 form](https://docs.google.com/forms/d/e/1FAIpQLScL9j_8VEMzRZj4J5wOUijl0OA01AS0M28uXMH-N7M9rOmH6A/viewform?usp=sharing) and [results](https://docs.google.com/spreadsheets/d/1j6uV4JgodaOLd7Y66V2gpyaw27TeMhxgV4B_AiIrWkQ/edit?usp=sharing)
+* [Group 3 form](https://docs.google.com/forms/d/e/1FAIpQLScKOEW6SXjM2LZZDlwIT8JBUBqegp2mt7DdmzRGDQ7z1T6i7w/viewform?usp=sharing) and [results](https://docs.google.com/spreadsheets/d/1th9TcK-pW-O9-bFJZ6uBh-PXjxitHwm0aKr6YuiyBm8/edit?usp=drive_link)
+* [Group 4 form](https://docs.google.com/forms/d/e/1FAIpQLScX2SmQhdYRQ9eMoY8Fi4-aeCW2UiVFivOoOL4_TOBwHbBarA/viewform?usp=sharing) and [results](https://docs.google.com/spreadsheets/d/1xX1FM9JOtE-OY-RzPSL860O1BAvHjKRu10H09wp3FaM/edit?usp=sharing)
 
 
 ## Was werden wir tun?
