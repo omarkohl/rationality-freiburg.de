@@ -30,6 +30,9 @@ url: termine/2025-03-28-zener-wissenschaft
 
 Bringe einen Laptop mit.
 
+Links:
+* [People](https://docs.google.com/forms/d/e/1FAIpQLSf6uR4mK9YH4c2s6r27WAgGkp-b9DpanZdi8EGV7FtCBl0paw/viewform?usp=sharing)
+
 
 ## Was werden wir tun?
 

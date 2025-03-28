@@ -30,6 +30,9 @@ outputs:
 
 Bring a laptop.
 
+Links:
+* [People](https://docs.google.com/forms/d/e/1FAIpQLSf6uR4mK9YH4c2s6r27WAgGkp-b9DpanZdi8EGV7FtCBl0paw/viewform?usp=sharing)
+
 
 ## What will we do?
 
