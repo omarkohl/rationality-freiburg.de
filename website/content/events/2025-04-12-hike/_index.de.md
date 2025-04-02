@@ -8,7 +8,7 @@ eventGeoLat: 47.99761
 eventGeoLon: 7.84226
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Hauptbahnhof Freiburg. Wann: Samstag, 12. April 2025 um 09:00 Uhr MESZ."
+description: "Wo: Hauptbahnhof Freiburg. Wann: Samstag, 12. April 2025 um 08:55 Uhr MESZ."
 eventHost:
   - Omar
 eventType:

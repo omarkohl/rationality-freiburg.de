@@ -8,7 +8,7 @@ eventGeoLat: 47.99761
 eventGeoLon: 7.84226
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Main train station, Freiburg. When: Saturday, April 12th 2025 at 09:00 hours CEST."
+description: "Where: Main train station, Freiburg. When: Saturday, April 12th 2025 at 08:55 hours CEST."
 eventHost:
   - Omar
 eventType:
