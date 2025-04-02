@@ -28,3 +28,8 @@ International](http://creativecommons.org/licenses/by-sa/4.0/) excepting the
 brain icon which has its own license and which needs to be credited separately
 (but can be used for free for commercial and non-commercial purposes) as
 flaticon.com . Please credit the work with www.rationality-freiburg.de .
+
+## pexels-gabby-k-7412095.jpg
+
+Source: https://www.pexels.com/de-de/foto/licht-kreativ-reisen-richtung-7412095/
+
