@@ -48,8 +48,8 @@ cd website
 NAME=2025-03-28-cognitive-biases
 hugo new events/${NAME}/_index.md
 vim content/events/${NAME}/_index.md
-cp ~/Desktop/cover.webp content/events/${NAME}/cover.webp
-convert -resize 512x512 content/events/${NAME}/cover.webp content/events/${NAME}/cover.webp
+cp ~/Desktop/cover.png content/events/${NAME}/cover.png
+convert -resize 512x512 content/events/${NAME}/cover.png content/events/${NAME}/cover.png
 cp content/events/${NAME}/_index.md content/events/${NAME}/_index.de.md
 vim content/events/${NAME}/_index*.md
 jj commit -m "Add event ${NAME}"

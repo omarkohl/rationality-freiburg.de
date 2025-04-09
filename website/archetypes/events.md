@@ -8,7 +8,7 @@ eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2025 at 18:00 hours CET."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2025 at 18:00 hours CEST."
 eventHost:
   - Omar
 eventType:
@@ -68,6 +68,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![TODO](cover.webp "TODO")
+![TODO](cover.png "TODO")
 
-<small>Image generated with _DALL·E_.</small>
+<small>Image generated with _GPT 4o_.</small>
