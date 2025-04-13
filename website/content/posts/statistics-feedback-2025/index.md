@@ -309,7 +309,7 @@ Retention means the percentage of newcomers who attended one or more of the thre
 
 > Various topics 
 
-> Open discussion, respect interactions
+> Open discussion, respectful interactions
 
 > Conflict theory
 

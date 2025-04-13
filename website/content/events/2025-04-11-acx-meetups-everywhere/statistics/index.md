@@ -162,7 +162,7 @@ See also the [2025 summary]({{< ref "posts/statistics-feedback-2025" >}}).
 
 > Various topics 
 
-> Open discussion, respect interactions
+> Open discussion, respectful interactions
 
 > Conflict theory
 
