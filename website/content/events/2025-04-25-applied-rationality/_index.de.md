@@ -18,8 +18,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2025-04-25-angewandte-rationalität
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Meetup – das heißt, es ist nur für
