@@ -10,7 +10,7 @@ meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, May 23rd 2025 at 18:00 hours CEST."
 eventHost:
-  - Ben
+  - Jakob
 eventType:
   - discussion
   - presentation
@@ -65,6 +65,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Magical finger snap](cover.png "Magical finger snap")
+![The Elephant in the Brain](cover.png "The Elephant in the Brain")
 
 <small>Image generated with _GPT 4o_.</small>

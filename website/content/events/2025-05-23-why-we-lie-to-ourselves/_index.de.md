@@ -10,7 +10,7 @@ meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 23. Mai 2025 um 18:00 Uhr MESZ."
 eventHost:
-  - Ben
+  - Jakob
 eventType:
   - discussion
   - presentation
@@ -45,7 +45,7 @@ Es gibt immer eine Mischung aus deutsch- und englischsprachigen Teilnehmer*innen
 und wir gestalten die Diskussionsrunden so, dass sich alle wohlfühlen. Die
 Hauptsprache ist Englisch.
 
-Dieses Meetup wird von Ben moderiert.
+Dieses Meetup wird von Jakob moderiert.
 
 Es wird Snacks und Getränke geben.
 
@@ -60,6 +60,6 @@ Nach dem Meetup gehen wir gemeinsam essen. Wer Zeit hat, ist herzlich eingeladen
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Magisches Fingerschnippen](cover.png "Magisches Fingerschnippen")
+![The Elephant in the Brain](cover.png "The Elephant in the Brain")
 
 <small>Bild erstellt mit _GPT 4o_.</small>
