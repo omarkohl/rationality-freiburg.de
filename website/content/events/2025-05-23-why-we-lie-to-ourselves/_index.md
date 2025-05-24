@@ -21,6 +21,11 @@ outputs:
 #url: termine/2025-02-02-deutscher-slug
 ---
 
+## Update 24.05
+
+* Slides Jakob: [whywelietoourselves.pdf](./whywelietoourselves.pdf) .
+* [Truthseeking is the ground in which other principles grow - Elizabeth Van Nostrand](https://www.lesswrong.com/posts/kbnJHpapusMJZb6Gs)
+
 ## Preparation
 
 No preparation necessary.

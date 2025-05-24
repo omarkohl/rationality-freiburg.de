@@ -21,6 +21,12 @@ outputs:
 url: termine/2025-05-23-selbstbetrug
 ---
 
+## Update 24.05
+
+* Folien Jakob: [whywelietoourselves.pdf](./whywelietoourselves.pdf) .
+* [Truthseeking is the ground in which other principles grow - Elizabeth Van Nostrand](https://www.lesswrong.com/posts/kbnJHpapusMJZb6Gs)
+
+
 ## Vorbereitung
 
 Keine Vorbereitung notwendig.
