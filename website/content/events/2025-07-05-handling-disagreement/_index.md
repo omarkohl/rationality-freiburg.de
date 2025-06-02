@@ -77,6 +77,10 @@ respectfully yet rigorously.
 
 [Source](https://www.effectivedisagreement.org/about-5)
 
+Contact information:
+* Email: camille.berger-at-psl.eu
+* Phone: +33 six 40 97 94 94 (Signal, Messenger, WhatsApp or Telegram)
+
 
 ### Costs & Financial Aid
 

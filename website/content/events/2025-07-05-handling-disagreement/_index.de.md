@@ -65,6 +65,10 @@ Ziel ist es, die Fähigkeit zu **effektiver Kommunikation mit Andersdenkenden** 
 
 [(Englisch) Quelle](https://www.effectivedisagreement.org/about-5)
 
+Kontaktinformation:
+* E-Mail: camille.berger-at-psl.eu
+* Telefon: +33 six 40 97 94 94 (Signal, Messenger, WhatsApp oder Telegram)
+
 ### Kosten & finanzielle Unterstützung
 
 Der **Basispreis beträgt 35 € pro Person**. Davon gehen 30 € an den Gastdozenten Camille, 5 € dienen zur Raummiete.
