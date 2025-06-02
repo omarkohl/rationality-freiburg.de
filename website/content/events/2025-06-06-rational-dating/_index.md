@@ -38,11 +38,6 @@ Read the following texts:
 * [Dating: Accordions Vs. Sitars - Aella](https://knowingless.com/2017/10/21/dating-accordions-vs-sitars/)
 * [Nice Guy Anti-FAQ - Damon Sasi](https://daystareld.com/nice-guy-anti-faq/)
 
-I chose the texts because they seem interesting and because I predict they
-will be good conversation starters. If you dislike them, feel free to send me some
-other texts before May 30th and if I like your suggestion I will make a
-replacement.
-
 
 ## What will we do?
 

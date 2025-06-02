@@ -37,8 +37,6 @@ Lies bitte vorab diese Texte:
 * [Dating: Accordions Vs. Sitars – Aella](https://knowingless.com/2017/10/21/dating-accordions-vs-sitars/)
 * [Nice Guy Anti-FAQ – Damon Sasi](https://daystareld.com/nice-guy-anti-faq/)
 
-Ich habe sie ausgewählt, weil sie spannend sind und vermutlich gute Diskussions­starter liefern.
-Wenn dir etwas daran nicht gefällt, schick mir bis **30. Mai** gern Alternativ­vorschläge; gefällt mir dein Tipp, ersetze ich einen der Texte.
 
 ## Was machen wir?
 
