@@ -17,9 +17,6 @@ layout: single
 outputs:
   - HTML
   - Calendar
-#url: termine/2025-02-02-deutscher-slug
-build:
-  list: never
 ---
 
 **IMPORTANT:** This is a closed meetup, meaning it is only meant for people who
@@ -31,8 +28,8 @@ everyone is welcome. Anything listed there is 100% open to anyone.
 
 ## Links
 
-* [Propose Topics](https://forms.gle/fjtRhi74i62NUPdh9)
-* [Group Selection](https://forms.gle/Yys2p1DmxAGJVcHb6)
+* [Form: Propose Topics](https://forms.gle/fjtRhi74i62NUPdh9)
+* [Form: Group Selection](https://forms.gle/Yys2p1DmxAGJVcHb6)
 
 
 ## Preparation

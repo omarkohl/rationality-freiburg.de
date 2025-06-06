@@ -18,9 +18,13 @@ outputs:
   - HTML
   - Calendar
 url: termine/2025-06-06-rationales-dating
-build:
-  list: never
 ---
+
+## Links
+
+* [Formular: Themen vorschlagen](https://forms.gle/fjtRhi74i62NUPdh9)
+* [Formular: Gruppen auswählen](https://forms.gle/Yys2p1DmxAGJVcHb6)
+
 
 **WICHTIG:** Dies ist ein *geschlossenes* Meetup, d. h. es richtet sich nur an Personen,
 die bereits mindestens **ein** früheres Event besucht haben. Bitte komm nicht,
