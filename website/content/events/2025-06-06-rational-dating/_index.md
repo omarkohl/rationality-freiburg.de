@@ -29,6 +29,12 @@ apply to you! [Why? Read this.]({{< ref "posts/closed-meetups" >}}) Check the
 everyone is welcome. Anything listed there is 100% open to anyone.
 
 
+## Links
+
+* [Propose Topics](https://forms.gle/fjtRhi74i62NUPdh9)
+* [Group Selection](https://forms.gle/Yys2p1DmxAGJVcHb6)
+
+
 ## Preparation
 
 Read the following texts:
