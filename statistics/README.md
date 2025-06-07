@@ -9,15 +9,18 @@ The .csv files contain clean raw data for the events 2024.
 
 ## Setup
 
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+
 ```bash
-poetry install
+uv sync
+uv sync --dev
 ```
 
 ## Linting and Formatting
 
 ```bash
-poetry run ruff check --fix
-poetry run ruff format
+uv run ruff check --fix
+uv run ruff format
 ```
 
 If you are using Ju Jutsu VCS you can also add the following to
@@ -25,11 +28,11 @@ If you are using Ju Jutsu VCS you can also add the following to
 
 ```toml
 [fix.tools.ruff-check]
-command = ["poetry", "run", "ruff", "check", "--fix", "-", "--stdin-filename=$path"]
+command = ["uv", "run", "ruff", "check", "--fix", "-", "--stdin-filename=$path"]
 patterns = ["glob:'statistics/**/*.py'"]
 
 [fix.tools.ruff-format]
-command = ["poetry", "run", "ruff", "format", "-", "--stdin-filename=$path"]
+command = ["uv", "run", "ruff", "format", "-", "--stdin-filename=$path"]
 patterns = ["glob:'statistics/**/*.py'"]
 ```
 
@@ -56,6 +59,6 @@ Note you need special access permissions to be able to do this.
 Execute:
 
 ```bash
-poetry run scripts/parse.py
-poetry run scripts/generate.py
+uv run scripts/parse.py
+uv run scripts/generate.py
 ```
