@@ -214,9 +214,9 @@ for the individual events here:
 ## Attendees
 
 * {len(dates)} events.
-* {total_participants / len(dates):.2f} people per event on average (σ={attendance_df['Total'].std():.2f}).
-* {attendance_df['New'].mean():.2f} newcomers per event (σ={attendance_df['New'].std():.2f}).
-* Maximum number of attendees was {attendance_df['Total'].max()} and minimum was {pluralize_people(attendance_df['Total'].min())}.
+* {total_participants / len(dates):.2f} people per event on average (σ={attendance_df["Total"].std():.2f}).
+* {attendance_df["New"].mean():.2f} newcomers per event (σ={attendance_df["New"].std():.2f}).
+* Maximum number of attendees was {attendance_df["Total"].max()} and minimum was {pluralize_people(attendance_df["Total"].min())}.
 
 **Recurring** is any person coming for the second, third etc. time whereas
 **New** is anyone coming for the first time to a Rationality Freiburg event.
@@ -261,9 +261,7 @@ for the individual events here:
         page_content += "<div>" + retention_per_event_html + "</div>\n\n"
 
     page_content += "### People per events attended\n\n"
-    page_content += (
-        "How many people attended how many events.\n\n"
-    )
+    page_content += "How many people attended how many events.\n\n"
     people_per_events_fig = px.bar(
         people_per_events_attended_df,
         x="Events attended",
@@ -274,7 +272,6 @@ for the individual events here:
         people_per_events_fig, include_plotlyjs=False, full_html=False
     )
     page_content += "<div>" + people_per_events_html + "</div>\n\n"
-
 
     page_content += "### Referrals\n\n"
     referrals_fig = plot_referrals(newcomer)
@@ -646,7 +643,7 @@ def pluralize_people(n):
     """
     This function pluralizes the word 'people' in English.
     """
-    return f'{n} {"person" if n == 1 else "people"}'
+    return f"{n} {'person' if n == 1 else 'people'}"
 
 
 if __name__ == "__main__":

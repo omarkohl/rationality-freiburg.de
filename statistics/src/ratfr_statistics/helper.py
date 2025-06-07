@@ -27,7 +27,9 @@ def get_page_metadata(page: str) -> Dict:
 def get_event_metadata(dates: List[str]):
     metadata = dict()
     for d in dates:
-        dirs = [f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(d.strftime("%Y-%m-%d"))]
+        dirs = [
+            f for f in os.listdir(EVENTS_WEBDIR) if f.startswith(d.strftime("%Y-%m-%d"))
+        ]
         if len(dirs) == 0:
             raise ValueError(f"No directory for {d} exists")
         elif len(dirs) > 1:
