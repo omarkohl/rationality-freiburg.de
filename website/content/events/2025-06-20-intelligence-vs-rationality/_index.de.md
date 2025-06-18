@@ -57,7 +57,7 @@ Nach dem Meetup gehen wir gemeinsam essen – wer Zeit und Lust hat, ist herzlic
 
 ## Sonstiges
 
-\[Mehr über uns erfahren]\({{< ref "about" >}}).
+[Mehr über uns erfahren]({{< ref "about" >}}).
 
 ![Verspieltes Bild: zwei Gehirne – eines steht für Intelligenz, das andere für Rationalität](cover.png "Verspieltes Bild: zwei Gehirne – eines steht für Intelligenz, das andere für Rationalität")
 
