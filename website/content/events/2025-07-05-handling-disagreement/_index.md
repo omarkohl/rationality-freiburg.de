@@ -119,6 +119,11 @@ This meetup will be hosted by Camille.
 
 There will be snacks and drinks.
 
+How many people will participate? On Manifold you can see the current prognosis
+and make your own prediction: [How many people will attend the "Effectively
+Handling Disagreement" workshop (Freiburg, July
+2025)?](https://manifold.markets/Omar/how-many-people-will-attend-the-eff?r=T21hcg)
+
 ![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
 
 <small>In the above map the location where you should leave your bikes is marked

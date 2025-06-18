@@ -96,6 +96,11 @@ Der Workshop wird von Camille geleitet.
 
 Es wird Snacks und Getränke geben.
 
+Wie viele Personen werden teilnehmen? Auf Manifold kannst du die aktuelle
+Prognose sehen und eigene Vorhersagen erstellen: [How many people will attend
+the "Effectively Handling Disagreement" workshop (Freiburg, July
+2025)?](https://manifold.markets/Omar/how-many-people-will-attend-the-eff?r=T21hcg)
+
 ![Ort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
 
 <small>Auf der obigen Karte ist der Fahrradabstellplatz blau markiert, der Eingang (am Ende der Metallrampe) mit einem roten Kreuz.</small>
