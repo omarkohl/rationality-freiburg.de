@@ -19,8 +19,6 @@ outputs:
   - HTML
   - Calendar
 url: termine/2025-07-04-vorhersagen-sind-ihr-hobby
-build:
-  list: never
 ---
 
 **WICHTIG:** Dies ist ein geschlossenes Meetup, also **nur für Leute, die schon mindestens einmal bei einem früheren Event dabei waren**. Bitte komm nicht, wenn das auf dich nicht zutrifft! [Warum? Hier steht's.]({{< ref "posts/closed-meetups" >}})
