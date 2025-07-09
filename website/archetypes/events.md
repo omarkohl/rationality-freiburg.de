@@ -1,16 +1,16 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-eventStart: {{ .Date }}
-eventEnd: {{ .Date }}
+eventStart: 2025-01-01T18:00:00+02:00
+eventEnd: 2025-01-01T20:30:00+02:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, February 2nd 2025 at 18:00 hours CEST."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, TODO at TODO hours CEST."
 eventHost:
-  - Omar
+  - TODO
 eventType:
   - discussion
   - exercise
@@ -20,7 +20,7 @@ layout: single
 outputs:
   - HTML
   - Calendar
-#url: termine/2025-02-02-deutscher-slug
+#url: termine/2025-01-01-TODO
 #build:
 #  list: never
 ---
