@@ -103,8 +103,8 @@ def generate_attendance_files(
     attendance_per_person.index = attendance_per_person.index.astype(str)
     if "10" in attendance_per_person.index:
         attendance_per_person.rename(index={"10": "10+"}, inplace=True)
-        attendance_per_person.loc["10+"] += attendance_per_person.iloc[10:].sum()
-    attendance_per_person.drop(attendance_per_person.index[10:], inplace=True)
+        attendance_per_person.loc["10+"] += attendance_per_person.iloc[9:].sum()
+    attendance_per_person.drop(attendance_per_person.index[9:], inplace=True)
 
     # Rename for clarity
     attendance_per_person.index.name = "Events attended"
