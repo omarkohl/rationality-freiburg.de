@@ -44,7 +44,7 @@ We will spend the weekend with a series of workshops, talks and social activitie
 Current ideas for sessions include
 * Improv Theatre
 * How to achieve the flow state
-* Effectivly Handling Disagreement
+* Effectively Handling Disagreement
 * Sunset Hike
 * Board Games
 
@@ -57,10 +57,10 @@ We will prepare our own meals. If you are interested to help, please get in touc
 We will start Friday afternoon with flexible arrival from 6:00 PM. On Sunday, we will continues with sessions until lunch time and then start cleaning up. We have to return the keys by 6:00 PM. 
 
 ## Registration
-* **Costs** are 210€ per person + 35€ refundable deposit including 2 nights of accommodation and all meals, drinks and snacks. 
+* **Costs** are estimated at 210€ per person + 35€ refundable deposit including 2 nights of accommodation and all meals, drinks and snacks. A final calculation will be made after the event and the difference will be reimbursed or paid by the participant. 
 * The deposit is required by the landlord and will be refunded provided there is no damage. 
 * Registration and full payment is required by August 15th, 2025. 
-* Cancellation policy: Cancellation is free of charge, as long as a replacement can be found. If no replacement can be found, we can refund 45€, which is the variable part of the calculated cost. If you are concerned about this, please get in touch and we´ll work out a solution. 
+* Cancellation policy: Cancellation is free of charge, as long as a suitable replacement can be found. If no replacement can be found, we can look into it on a case-by-case basis. Note that most of the cost of the event is fixed independent of the number of participants.   
 * Please get in touch with David to register. 
 
 
