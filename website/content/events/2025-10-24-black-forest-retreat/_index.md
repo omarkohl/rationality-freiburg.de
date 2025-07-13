@@ -1,8 +1,8 @@
 ---
 title: "Black Forest Retreat 2025 (Closed Meetup)"
 date: 2025-07-12T11:47:03+02:00
-eventStart: 2025-10-24T17:00:00+02:00
-eventEnd: 2025-10-26T20:30:00+02:00
+eventStart: 2025-10-24T18:00:00+02:00
+eventEnd: 2025-10-26T18:00:00+01:00
 eventLocation: "Schwarzwald-Chalet Ferienhaus Scheuermatthof, Ennerbachstraße 38, 79674 Todtnauberg"
 eventGeoLat: 47.84959376904894 
 eventGeoLon: 7.948933543100189
@@ -10,7 +10,9 @@ meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Where: Schwarzwald-Chalet Ferienhaus Scheuermatthof, Ennerbachstraße 38, 79674 Todtnauberg. When: Friday, October 24th at 18:00 until Sunday, October 26th at 18:00 hours CEST."
 eventHost:
-  - David, Omar, Catarina
+  - David
+  - Omar
+  - Catarina
 eventType:
   - discussion
   - presentation
@@ -59,7 +61,7 @@ We will start Friday late afternoon with flexible arrival from 18:00. On Sunday,
 Please bring your own bed linen (fitted sheet, duvet cover, and pillowcase) and towels, as these are not provided. Apart from this, just curiosity and good mood is needed!
 
 ## Registration
-* **Costs** are estimated at 210€ per person + 35€ refundable deposit including 2 nights of accommodation and all meals, drinks and snacks. A final calculation will be made after the event and the difference will be reimbursed or paid by the participant. 
+* **Costs** are estimated at 245€ per person (incl. 35€ refundable deposit) including 2 nights of accommodation and all meals, drinks and snacks. A final calculation will be made after the event and the difference will be reimbursed or paid by the participant. 
 * The deposit is required by the landlord and will be refunded provided there is no damage. 
 * Registration and full payment (245€) is required by **August 15th, 2025**. 
 * Cancellation policy: Cancellation is free of charge, as long as a suitable replacement can be found. If no replacement can be found, we can look into it on a case-by-case basis. Note that most of the cost of the event is fixed independent of the number of participants, hence giving a full refund in case of cancellation would imply every other participant has to pay more. 
