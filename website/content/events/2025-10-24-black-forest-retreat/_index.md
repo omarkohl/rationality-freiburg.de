@@ -8,7 +8,7 @@ eventGeoLat: 47.84959376904894
 eventGeoLon: 7.948933543100189
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Schwarzwald-Chalet Ferienhaus Scheuermatthof, Ennerbachstraße 38, 79674 Todtnauberg. When: Friday, October 24th at 18:00 until Sunday, October 26th at 18:00 hours CEST."
+description: "Where: Schwarzwald-Chalet Ferienhaus Scheuermatthof, Ennerbachstraße 38, 79674 Todtnauberg. When: Friday, October 24th at 18:00 CEST until Sunday, October 26th at 18:00 hours CET."
 eventHost:
   - David
   - Omar
@@ -36,7 +36,7 @@ build:
 
 ## Preparation
 
-None. If you would like to run your own session, please get in touch with Omar. 
+None. If you would like to run your own session, please get in touch with Omar via Signal or email to [omar@ratfr.de](mailto:omar@ratfr.de). 
 
 ## What will we do?
 
@@ -53,7 +53,7 @@ Current ideas for sessions include
 
 The venue is a charming old Black Forest mansion in Todtnauberg, over 1000 meters above sea level. It has 24 beds in total (2-5 per room), a large common room and smaller TV room to use for the workshops. For more information about the venue, check the [Scheuermatthof website](https://ferienhaus-schwarzwald-todtnauberg.de/).
 
-We will prepare our own meals. If you are interested to help, please get in touch with Catarina. 
+We will prepare our own meals. If you are interested to help, please get in touch with Catarina via Signal or email to [catarina@ratfr.de](mailto:catarina@ratfr.de). 
 
 We will start Friday late afternoon with flexible arrival from 18:00. On Sunday, we will continue with sessions until lunch time and then start cleaning up. We have to return the keys by 18:00. 
 
@@ -65,7 +65,7 @@ Please bring your own bed linen (fitted sheet, duvet cover, and pillowcase) and 
 * The deposit is required by the landlord and will be refunded provided there is no damage. 
 * Registration and full payment (245€) is required by **August 15th, 2025**. 
 * Cancellation policy: Cancellation is free of charge, as long as a suitable replacement can be found. If no replacement can be found, we can look into it on a case-by-case basis. Note that most of the cost of the event is fixed independent of the number of participants, hence giving a full refund in case of cancellation would imply every other participant has to pay more. 
-* To register, please get in touch with David or send an email to [retreat@rationality-freiburg.de](mailto:retreat@rationality-freiburg.de). 
+* To register, please get in touch with David via Signal or email to [david@ratfr.de](mailto:david@ratfr.de). 
 
 
 ## Other
