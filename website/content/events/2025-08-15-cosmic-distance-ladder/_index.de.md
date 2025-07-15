@@ -30,9 +30,11 @@ Bitte unvorbereitet kommen!
 
 ## Was machen wir?
 
-Wie wichtig ist es, die Auswirkungen unserer Handlungen auf zukünftige Generationen zu berücksichtigen – Menschen, die in Jahrzehnten, Jahrhunderten oder sogar Jahrtausenden leben könnten?
+Woher wissen wir wie weit entfernt der Mond ist? Wie haben wir die Planetenbahnen entdeckt? 
 
-Dieses Event beschäftigt sich mit der Philosophie des Longtermismus, der Idee, dass der Schutz und die Verbesserung der langfristigen Zukunft eine der dringendsten moralischen Herausforderungen unserer Zeit sind. Wir werden durch kurze Präsentationen und zwei Runden Kleingruppendiskussionen sowohl die überzeugenden Argumente dafür als auch die stärksten Kritiken untersuchen.
+Beginnend in der Antike und ausgerüstet mit den Werkzeugen ihrer Zeit, werden wir Schritt für Schritt die 
+Größenverhältnisse unseres Sonnensystems erschließen. Dabei werden wir auf einige bemerkenswerte Erkentnisse stoßen, 
+die das Fundament unseres heutigen Verständnisses gelegt haben.
 
 
 ## Organisation

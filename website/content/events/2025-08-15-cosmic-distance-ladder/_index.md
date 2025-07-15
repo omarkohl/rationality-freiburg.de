@@ -30,9 +30,11 @@ Please come unprepared!
 
 ## What will we do?
 
-How much should we care about the impact of our actions on future generations — those who may live decades, centuries, or even millennia from now?
+How do we know the distance to the moon? How did we discover the orbits of the planets? 
 
-This event explores the philosophy of Longtermism, the idea that protecting and improving the long-term future is one of the most urgent moral challenges of our time. We'll examine through short presentations and two rounds of small-group discussion both the compelling arguments in its favor and the strongest critiques.
+Beginning in the era of the greek philosophers and armed with the tools of their time, we are going to 
+deduce the scale of our solar system step by step -- and uncover some remarkable insights that laid 
+the foundation for our modern understanding.
 
 
 ## Organization
