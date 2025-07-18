@@ -43,7 +43,7 @@ Du machst dir Sorgen, dass du nichts beitragen kannst? Keine Sorge! Jede*r ist w
 
 Es gibt immer eine Mischung aus deutsch- und englischsprachigen Teilnehmer*innen, und wir gestalten die Diskussionsrunden so, dass sich alle wohlfühlen. Die Hauptsprache ist Englisch.
 
-Dieses Meetup wird von Ben, Felicio, Gabe und Randolf moderiert.
+Dieses Meetup wird von Nawid moderiert.
 
 Es gibt Snacks und Getränke.
 

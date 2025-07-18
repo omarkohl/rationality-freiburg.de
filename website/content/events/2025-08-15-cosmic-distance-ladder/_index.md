@@ -18,7 +18,7 @@ layout: single
 outputs:
   - HTML
   - Calendar
-#url: termine/2025-08-15
+url: termine/2025-08-15-kosmische-entfernungsleiter
 #build:
 #  list: never
 ---
@@ -46,7 +46,7 @@ There always is a mix of German and English speakers and we configure the
 discussion rounds so that everyone feels comfortable participating. The primary
 language is English.
 
-This meetup will be hosted by Ben, Felicio, Gabe and Randolf.
+This meetup will be hosted by Nawid.
 
 There will be snacks and drinks.
 
