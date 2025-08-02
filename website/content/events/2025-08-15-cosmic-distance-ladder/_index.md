@@ -18,7 +18,6 @@ layout: single
 outputs:
   - HTML
   - Calendar
-url: termine/2025-08-15-kosmische-entfernungsleiter
 #build:
 #  list: never
 ---
