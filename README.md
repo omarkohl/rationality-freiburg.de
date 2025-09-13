@@ -26,7 +26,14 @@ under `website/content/de/` .
 This website is created using the static site generator
 [Hugo](https://gohugo.io/). If you want to contribute frequently or want to
 preview your post you can [install
-Hugo](https://gohugo.io/getting-started/installing/) and then:
+Hugo](https://gohugo.io/getting-started/installing/).
+
+Install npm packages:
+
+```bash
+cd website
+npm install
+```
 
 ```bash
 cd website
