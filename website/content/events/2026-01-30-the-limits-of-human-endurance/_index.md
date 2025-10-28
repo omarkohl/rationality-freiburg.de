@@ -1,6 +1,6 @@
 ---
 title: "The Limits of Human Endurance"
-date: 2026-01-24T15:00:00+01:00
+date: 2025-10-28T15:00:00+01:00
 eventStart: 2026-01-30T18:00:00+01:00
 eventEnd: 2026-01-30T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
