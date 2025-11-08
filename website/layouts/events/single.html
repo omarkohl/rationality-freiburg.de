@@ -41,7 +41,7 @@
           </a>
         </li>
         <li>
-          <a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Rationality Freiburg: {{ .Title }}&startdt={{ $.Param "eventStart" | time.Format "2006-01-02T15:04:05.000Z" }}&enddt={{ $.Param "eventEnd" | time.Format "2006-01-02T15:04:05.000Z" }}&location={{ $.Param "eventLocation" }}&body={{ .Permalink }}" target="_blank">
+          <a href="https://outlook.office.com/calendar/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt={{ ($.Param "eventStart" | time.AsTime).UTC.Format "2006-01-02T15:04:05Z" }}&enddt={{ ($.Param "eventEnd" | time.AsTime).UTC.Format "2006-01-02T15:04:05Z" }}&subject=Rationality%20Freiburg%3A%20{{ .Title | urlquery }}&location={{ $.Param "eventLocation" | urlquery }}&body={{ .Permalink | urlquery }}" target="_blank">
           {{ i18n "Add to Outlook" }}
           </a>
         </li>
