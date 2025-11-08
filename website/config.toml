@@ -7,6 +7,7 @@ enableGitInfo = true
 
 [outputFormats.Calendar]
 protocol = ''
+baseName = 'rationality-freiburg-event'
 
 [params]
 contact = "info@rationality-freiburg.de"
