@@ -27,12 +27,21 @@ url: termine/2025-12-19-kurzvortraege
 
 ## Vorbereitung
 
-Noch festzulegen.
+Keine.
 
 
 ## Was werden wir machen?
 
-Noch festzulegen.
+Heute gibt es eine bunte Mischung aus Kurzvorträgen und Übungen:
+
+* Rahel wird eine Präsentation halten über: Die Magie des Wortes "weil" und den
+  menschlichen Bias, gegebene Informationen nicht zu nutzen.
+* Stefan wird eine Einführung in Neurodiversität geben.
+* Omar wird die "Grundlagen des rationalistischen Diskurses" vorstellen und
+  dann eine einfache Technik namens "Systemisierung" erklären und anleiten,
+  bei der ihr versucht, einen Aspekt eures Lebens zu optimieren, der Reibung
+  verursacht.
+* Wir werden mit einer Diskussionsrunde abschließen.
 
 
 ## Organisation

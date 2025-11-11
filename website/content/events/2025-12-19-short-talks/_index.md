@@ -26,12 +26,20 @@ outputs:
 
 ## Preparation
 
-To be defined.
+None.
 
 
 ## What will we do?
 
-To be defined.
+Today there will be a mixed bag of short talks and exercises:
+
+* Rahel will give a presentation on: The magic of the word 'because' and the
+  human bias of not utilizing given information.
+* Stefan will give an introduction to neurodiversity.
+* Omar will present the "Basics of Rationalist Discourse" and will then explain
+  and guide you in the application of a simple technique called "Systemization"
+  whereby you try to optimize some aspect of your life that is causing friction.
+* We will end with a discussion round.
 
 
 ## Organization
