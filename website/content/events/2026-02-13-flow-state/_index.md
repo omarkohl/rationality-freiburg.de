@@ -34,12 +34,12 @@ Previous knowledge is not required. Suggested reading:
 What makes an enjoyable life? In the quest to understand how some people remain
 happy even in adverse circumstances, the Hungarian-American psychologist Mihály
 Csíkszentmihályi did groundbreaking research on a unique kind of fulfilling,
-productive, and optimal experiences, which he coined "flow state." Across
-cultures and in the most different occupations, he observed that "the experience
-itself is so enjoyable that people will do it even at great cost, for the sheer
-sake of doing it.” Popularly known as being "in the zone", this is characterized
-by a deep immersion in an activity, with heightened awareness, optimized
-performance, and intrinsic reward.
+productive, and optimal experiences, which he coined "flow state." Popularly
+known as being "in the zone", this is characterized by a deep immersion in an
+activity, with heightened awareness, optimized performance, and intrinsic
+reward. Across cultures and in the most different occupations, he observed that
+"the experience itself is so enjoyable that people will do it even at great
+cost, for the sheer sake of doing it.”
 
 In a 25-minute introduction, we will dive into the concept of flow state, its
 psychological and neurophysiological correlates, and tips to enhance flow in our
