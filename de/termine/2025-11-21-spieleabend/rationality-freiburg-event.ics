@@ -18,16 +18,16 @@ TZOFFSETTO:+0200
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251109T213634
+DTSTAMP:20251121T090000
 ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
 STATUS:CONFIRMED
-UID:20260116T180000@rationality-freiburg.de
-DTSTART;TZID=Europe/Berlin:20260116T180000
-DTEND;TZID=Europe/Berlin:20260116T203000
-SUMMARY:Digital Democracy
-DESCRIPTION:English: https://www.rationality-freiburg.de/events/2026-01-16-digital-democracy/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2026-01-16-digitale-demokratie/\n
+UID:20251121T180000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20251121T180000
+DTEND;TZID=Europe/Berlin:20251121T203000
+SUMMARY:Spieleabend
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2025-11-21-game-night/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2025-11-21-spieleabend/\n
 LOCATION:Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg
 GEO:47.98953;7.83979
-URL:https://www.rationality-freiburg.de/events/2026-01-16-digital-democracy/
+URL:https://www.rationality-freiburg.de/de/termine/2025-11-21-spieleabend/
 END:VEVENT
 END:VCALENDAR
