@@ -1,14 +1,14 @@
 ---
 title: "The Science of Cell Culture"
 date: 2025-10-04T16:00:00+02:00
-eventStart: 2025-11-21T18:00:00+01:00
-eventEnd: 2025-11-21T20:30:00+01:00
+eventStart: 2026-01-16T18:00:00+01:00
+eventEnd: 2026-01-16T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, November 21st 2025 at 18:00 hours CET."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, January 16th 2026 at 18:00 hours CET."
 eventHost:
   - Catarina
 eventType:
@@ -18,10 +18,16 @@ layout: single
 outputs:
   - HTML
   - Calendar
-#url: termine/2025-11-21-science-of-cell-culture
+aliases:
+  - /events/2026-01-16-digital-democracy/
+#url: termine/2026-01-16-science-of-cell-culture
 #build:
 #  list: never
 ---
+
+**Note:** This event was originally scheduled for November 21st, 2025 but has been postponed to January 16th, 2026.
+
+**Looking for Digital Democracy?** The Digital Democracy event that was originally scheduled for January 16th, 2026 has been postponed to a later date. We apologize for any inconvenience.
 
 ## Preparation
 

@@ -1,14 +1,14 @@
 ---
 title: "Die Wissenschaft der Zellkultur"
 date: 2025-10-04T16:00:00+02:00
-eventStart: 2025-11-21T18:00:00+01:00
-eventEnd: 2025-11-21T20:30:00+01:00
+eventStart: 2026-01-16T18:00:00+01:00
+eventEnd: 2026-01-16T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 21. November 2025 um 18:00 Uhr MEZ."
+description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 16. Januar 2026 um 18:00 Uhr MEZ."
 eventHost:
   - Catarina
 eventType:
@@ -18,10 +18,16 @@ layout: single
 outputs:
   - HTML
   - Calendar
-url: termine/2025-11-21-die-wissenschaft-der-zellkultur
+url: termine/2026-01-16-die-wissenschaft-der-zellkultur
+aliases:
+  - /termine/2026-01-16-digitale-demokratie/
 #build:
 #  list: never
 ---
+
+**Hinweis:** Dieses Event war ursprünglich für den 21. November 2025 geplant, wurde aber auf den 16. Januar 2026 verschoben.
+
+**Suchst du "Digitale Demokratie"?** Das Event "Digitale Demokratie", das ursprünglich für den 16. Januar 2026 geplant war, wurde auf einen späteren Termin verschoben. Wir entschuldigen uns für etwaige Unannehmlichkeiten.
 
 ## Vorbereitung
 
