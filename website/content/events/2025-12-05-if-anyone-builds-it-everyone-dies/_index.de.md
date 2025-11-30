@@ -3,12 +3,12 @@ title: "Wenn es jemand baut, sterben alle"
 date: 2025-10-04T16:00:00+02:00
 eventStart: 2025-12-05T18:00:00+01:00
 eventEnd: 2025-12-05T20:30:00+01:00
-eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
+eventLocation: "Co-Working-Space, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 5. Dezember 2025 um 18:00 Uhr MEZ."
+description: "Wo: Co-Working-Space, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 5. Dezember 2025 um 18:00 Uhr MEZ."
 eventHost:
   - Omar
 eventType:
@@ -22,6 +22,10 @@ url: termine/2025-12-05-wenn-es-jemand-baut-sterben-alle
 #build:
 #  list: never
 ---
+
+## Hinweis zur Raumänderung
+
+**Bitte beachten: Diese Veranstaltung findet im Co-Working-Space im Altbau statt, NICHT im üblichen Veranstaltungsraum im Neubau.**
 
 ## Vorbereitung
 
@@ -49,11 +53,9 @@ Es wird Snacks und Getränke geben.
 Wir werden nach dem Meetup zum Abendessen gehen. Jeder, der Zeit hat, ist
 willkommen mitzukommen.
 
-![Standort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
+![Standort (Co-Working-Space, Haus des Engagements)](/images/hde-old-building.png)
 
-<small>Auf der obigen Karte ist der Ort, an dem ihr eure Fahrräder abstellen
-sollt, blau markiert und der Eingang (am Ende der Metallrampe) mit einem roten
-Kreuz.</small>
+<small>Der Ort befindet sich im Altbau. Der Eingang ist mit einem roten Kreuz markiert.</small>
 
 
 ## Sonstiges

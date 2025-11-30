@@ -3,12 +3,12 @@ title: "If Anyone Builds It, Everyone Dies"
 date: 2025-10-04T16:00:00+02:00
 eventStart: 2025-12-05T18:00:00+01:00
 eventEnd: 2025-12-05T20:30:00+01:00
-eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
+eventLocation: "Co-Working-Space, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, December 5th 2025 at 18:00 hours CET."
+description: "Where: Co-Working-Space, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, December 5th 2025 at 18:00 hours CET."
 eventHost:
   - Omar
 eventType:
@@ -22,6 +22,10 @@ outputs:
 #build:
 #  list: never
 ---
+
+## Room Change Notice
+
+**Please note: This event will take place in the Co-Working-Space in the old building (Altbau), NOT in the usual Veranstaltungsraum in the new building.**
 
 ## Preparation
 
@@ -49,10 +53,9 @@ There will be snacks and drinks.
 We will go and get dinner after the meetup. Anyone who has time is welcome to
 join.
 
-![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
+![Location (Co-Working-Space, Haus des Engagements)](/images/hde-old-building.png)
 
-<small>In the above map the location where you should leave your bikes is marked
-in blue and the entrance (at the end of the metal ramp) with a red cross.</small>
+<small>The location is in the old building. The entrance is marked with a red cross.</small>
 
 
 ## Other
