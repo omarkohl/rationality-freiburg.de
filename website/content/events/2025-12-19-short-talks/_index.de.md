@@ -23,7 +23,12 @@ outputs:
 url: termine/2025-12-19-kurzvortraege
 ---
 
+## Update 2025-12-20
 
+* [(Englisch) Folien "The Magic of the Word 'Because'"](./2025-12-19_magic-word-because.pdf)
+* [(Englisch) Folien "Neurodiversity"](./2025-12-19_neurodiversity.pdf)
+* [(Englisch) Folien "Basics of Rationalist Discourse"](https://raw.githubusercontent.com/omarkohl/talks/1302a53399f0dd7cbfd7049ebc310841d0521fd5/basics-rationalist-discourse/2025-12-19_basics-rationalist-discourse.pdf)
+* [(Englisch) Folien "Systemization"](https://raw.githubusercontent.com/omarkohl/talks/1302a53399f0dd7cbfd7049ebc310841d0521fd5/systemization/2025-12-19_systemization.pdf)
 
 ## Vorbereitung
 

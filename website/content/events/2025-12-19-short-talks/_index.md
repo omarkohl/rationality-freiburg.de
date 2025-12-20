@@ -22,7 +22,12 @@ outputs:
   - Calendar
 ---
 
+## Update 2025-12-20
 
+* [Slides "The Magic of the Word 'Because'"](./2025-12-19_magic-word-because.pdf)
+* [Slides "Neurodiversity"](./2025-12-19_neurodiversity.pdf)
+* [Slides "Basics of Rationalist Discourse"](https://raw.githubusercontent.com/omarkohl/talks/1302a53399f0dd7cbfd7049ebc310841d0521fd5/basics-rationalist-discourse/2025-12-19_basics-rationalist-discourse.pdf)
+* [Slides "Systemization"](https://raw.githubusercontent.com/omarkohl/talks/1302a53399f0dd7cbfd7049ebc310841d0521fd5/systemization/2025-12-19_systemization.pdf)
 
 ## Preparation
 
