@@ -24,10 +24,10 @@ STATUS:CONFIRMED
 UID:20260313T180000@rationality-freiburg.de
 DTSTART;TZID=Europe/Berlin:20260313T180000
 DTEND;TZID=Europe/Berlin:20260313T203000
-SUMMARY:Glaubenssache
+SUMMARY:Believe it or not
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2026-03-13-believe-it-or-not/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2026-03-13-glaubenssache/\n
 LOCATION:Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg
 GEO:47.98953;7.83979
-URL:https://www.rationality-freiburg.de/de/termine/2026-03-13-glaubenssache/
+URL:https://www.rationality-freiburg.de/events/2026-03-13-believe-it-or-not/
 END:VEVENT
 END:VCALENDAR
