@@ -1258,7 +1258,10 @@ people&lt;/strong&gt; with open arms, &lt;strong&gt;will keep happening nonethel
 &lt;p&gt;How can you tell the difference? &lt;strong&gt;Closed meetups will not be announced
 online.&lt;/strong&gt; So, if you find an event on this website or meetup.com, please come
 whether you are new or not!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/closed-meetups/cover.webp" alt="Armchairs around a table" title="Armchairs around a table"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/closed-meetups/cover.webp" alt="Armchairs around a table" title="Armchairs around a table"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Statistics &amp; Feedback 2024</title><link>https://www.rationality-freiburg.de/posts/statistics-feedback-2024/</link><pubDate>Mon, 12 Feb 2024 13:41:50 +0100</pubDate><guid>https://www.rationality-freiburg.de/posts/statistics-feedback-2024/</guid><description>&lt;p&gt;&lt;strong&gt;Note that this page will be updated through 2024.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This page contains a summary of all events. You can see the statistics
 for the individual events here:&lt;/p&gt;
@@ -2407,8 +2410,7 @@ college course. Mastery means something a little beyond just being able to
 theoretically pass an exam, rather actually getting a good intuitive grasp of
 the material.&lt;/p&gt;
 &lt;p&gt;We are working through the text book &amp;ldquo;Statistics&amp;rdquo; by Freedman, Pisani and Purves.&lt;/p&gt;
-&lt;p&gt;If you are interested in joining the study group please come to a &lt;a href="https://www.rationality-freiburg.de/events/"&gt;meetup&lt;/a&gt;
- first.&lt;/p&gt;
+&lt;p&gt;If you are interested in joining the study group please come to a &lt;a href="https://www.rationality-freiburg.de/events/"&gt;meetup&lt;/a&gt; first.&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="process" id="process"&gt;Process&lt;/h2&gt;
 &lt;a class="" href="#process" aria-label="Permalink: Process"&gt;
@@ -2506,8 +2508,7 @@ Rule&lt;/a&gt;.&lt;/li&gt;
 &lt;/div&gt;
 &lt;p&gt;The forms have been updated. The online links below still work fine. To find
 the PDF files (and the new Scribus sources) check the
-&lt;a href="https://github.com/omarkohl/rationality-freiburg.de/tree/main/design/forms" target="_blank" rel="noopener noreferrer"&gt;design/forms/&lt;/a&gt;
-
+&lt;a href="https://github.com/omarkohl/rationality-freiburg.de/tree/main/design/forms"&gt;design/forms/&lt;/a&gt;
 folder on GitHub.&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="original" id="original"&gt;Original&lt;/h2&gt;
@@ -2526,20 +2527,13 @@ provide printed copies that are attached as PDFs below.&lt;/p&gt;
 &lt;p&gt;The forms and PDF files below are published under the license CC BY-SA 4.0 .&lt;/p&gt;
 &lt;p&gt;Please do not fill out our form unless you participated in an event.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://forms.gle/GmGErV9HTCU81foQA" target="_blank" rel="noopener noreferrer"&gt;Online: English Feedback Form&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://forms.gle/V8F3UrRHvRhEQ1wC8" target="_blank" rel="noopener noreferrer"&gt;Online: German Feedback Form&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="event-feedback-EN.pdf"&gt;PDF: English Feedback Form&lt;/a&gt;
- or for &lt;a href="event-feedback-two-sided-EN.pdf"&gt;two-sided
-half-page printing&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="event-feedback-DE.pdf"&gt;PDF: German Feedback Form&lt;/a&gt;
- or for &lt;a href="event-feedback-two-sided-DE.pdf"&gt;two-sided
-half-page printing&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="event-feedback-overview.pdf"&gt;PDF: Feedback Overview&lt;/a&gt;
-: This is meant for
+&lt;li&gt;&lt;a href="https://forms.gle/GmGErV9HTCU81foQA"&gt;Online: English Feedback Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://forms.gle/V8F3UrRHvRhEQ1wC8"&gt;Online: German Feedback Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rationality-freiburg.de/posts/feedback-form/event-feedback-EN.pdf"&gt;PDF: English Feedback Form&lt;/a&gt; or for &lt;a href="https://www.rationality-freiburg.de/posts/feedback-form/event-feedback-two-sided-EN.pdf"&gt;two-sided
+half-page printing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rationality-freiburg.de/posts/feedback-form/event-feedback-DE.pdf"&gt;PDF: German Feedback Form&lt;/a&gt; or for &lt;a href="https://www.rationality-freiburg.de/posts/feedback-form/event-feedback-two-sided-DE.pdf"&gt;two-sided
+half-page printing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rationality-freiburg.de/posts/feedback-form/event-feedback-overview.pdf"&gt;PDF: Feedback Overview&lt;/a&gt;: This is meant for
 printing once and showing to participants so they can find the feedback
 forms. The form key is meant to explain what the different answer options
 mean, in case it&amp;rsquo;s not completely clear.&lt;/li&gt;
@@ -2558,7 +2552,10 @@ them completely new. The maximum was 12 people and the minimum 3 people.&lt;/p&g
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Recurring&lt;/strong&gt; is any person coming for the second, third etc. time whereas
 &lt;strong&gt;New&lt;/strong&gt; is anyone coming for the first time to a Rationality Freiburg event.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/statistics-feedback-2022/stats-2022.png" alt="Meetup attendance 2022" title="Meetup attendance 2022"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/statistics-feedback-2022/stats-2022.png" alt="Meetup attendance 2022" title="Meetup attendance 2022"&gt;
+&lt;/p&gt;
 &lt;table cellspacing="0" border="0" class="styled-table"&gt;
 	&lt;colgroup width="101"&gt;&lt;/colgroup&gt;
 	&lt;colgroup span="3" width="85"&gt;&lt;/colgroup&gt;
@@ -3176,7 +3173,10 @@ increasing the donation amount.&lt;/p&gt;</description></item><item><title>LWCW 
 &lt;p&gt;That was the question posed to the entire circle of people sitting in a park in
 the center of Berlin. And then one by one people started bragging and everyone
 else cheered them on.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/lwcw2022/cover.jpg" alt="Berlin Reichstag at sunset" title="Berlin Reichstag at sunset"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/lwcw2022/cover.jpg" alt="Berlin Reichstag at sunset" title="Berlin Reichstag at sunset"&gt;
+&lt;/p&gt;
 &lt;p&gt;Strictly speaking this happened after the LessWrong Community Weekend during
 the &lt;em&gt;Rationality Dojo&lt;/em&gt; that the Berlin Community organized, but it is an
 illustrative example of the unusual nature of this event.&lt;/p&gt;
@@ -3205,7 +3205,10 @@ especially in the moments where it&amp;rsquo;s hardest, really resonanted with m
 participants. Does making the right choices most of the time count for nothing?
 It does count, but if in the really crucial moments, the &lt;em&gt;moments that matter&lt;/em&gt;
 you keep making the wrong decisions, what is the difference?&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/lwcw2022/chairs.jpg" alt="Empty chairs are waiting…" title="Empty chairs are waiting..."&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/lwcw2022/chairs.jpg" alt="Empty chairs are waiting&amp;hellip;" title="Empty chairs are waiting..."&gt;
+&lt;/p&gt;
 &lt;p&gt;Around 150 people from all over the world, though mostly Europe, showed up and
 the entire vibe was inspiring, beautiful and touching. So many fascinating
 conversations in the hallways, during lunch or on the way to one of the evening
@@ -3224,14 +3227,19 @@ worked tirelessly to make the event fantastic for everyone.&lt;/p&gt;
 See you next time!&lt;/p&gt;
 &lt;p&gt;If you are in or around Freiburg come to the meetups in the next months to
 learn much more about the exercises and experiences of this awesome weekend!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/lwcw2022/lake_wannsee.jpg" alt="Lake Wannsee" title="Lake Wannsee"&gt;&lt;/p&gt;</description></item><item><title>Hiking with Karlsruhe Rationality</title><link>https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/</link><pubDate>Mon, 04 Jul 2022 17:55:35 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/</guid><description>&lt;p&gt;Sunday morning. Armed with hiking boots and epistemic curiosity a car full of
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/lwcw2022/lake_wannsee.jpg" alt="Lake Wannsee" title="Lake Wannsee"&gt;
+&lt;/p&gt;</description></item><item><title>Hiking with Karlsruhe Rationality</title><link>https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/</link><pubDate>Mon, 04 Jul 2022 17:55:35 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/</guid><description>&lt;p&gt;Sunday morning. Armed with hiking boots and epistemic curiosity a car full of
 aspiring Freiburger rationalists leaves the train station in Freiburg towards
 Bad Herrenalb.&lt;/p&gt;
-&lt;p&gt;Marcus, one of the founders of the &lt;a href="https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R" target="_blank" rel="noopener noreferrer"&gt;Karlsruhe
-group&lt;/a&gt;
- had organized a
+&lt;p&gt;Marcus, one of the founders of the &lt;a href="https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R"&gt;Karlsruhe
+group&lt;/a&gt; had organized a
 beautiful hike that was challenging and beginner friendly at the same time.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/trail.jpg" alt="The trail through the forest" title="The trail through the forest"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/trail.jpg" alt="The trail through the forest" title="The trail through the forest"&gt;
+&lt;/p&gt;
 &lt;p&gt;The group size was such that it was possible to frequently change conversation
 partners and our walking speed were well matched as well as ideal for
 conversing during the hike.&lt;/p&gt;
@@ -3240,13 +3248,19 @@ safety, meaningful and meaningless questions after the death of a loved one,
 ethical implications of Covid triage in hospitals, what &amp;ldquo;beliefs&amp;rdquo; are all the
 way to to model aeroplanes and how to measure energy efficience and heat
 dissipation in your home.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/landscape.jpg" alt="Overlooking forest and villages from the Teufelsmühle" title="Overlooking forest and villages from the Teufelsmühle"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/landscape.jpg" alt="Overlooking forest and villages from the Teufelsmühle" title="Overlooking forest and villages from the Teufelsmühle"&gt;
+&lt;/p&gt;
 &lt;p&gt;During the break at the Teufelsmühle, Marcus unpacked a camping cooker, a
 manual coffee grinder as well as a few other accessories and real espresso
 cups! While we enjoyed the excellent coffee we, of course, discussed our
 confidence in actually being able to taste the difference vs. pretentious BS.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/group.jpg" alt="A few members of the group enjoying coffee" title="A few members of the
-group enjoying coffee"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/hiking-with-rationality-karlsruhe-2022-07-03/group.jpg" alt="A few members of the group enjoying coffee" title="A few members of the
+group enjoying coffee"&gt;
+&lt;/p&gt;
 &lt;p&gt;After the hike was over, the evening tapered off with a piece of cake and a
 round of coffee in one of the cafés in Bad Herrenalb. Is it good to give the
 waiter the (polite) feedback that their coffee is really bad? What are the
@@ -3356,7 +3370,10 @@ quality of the discussed topics. Nevertheless, it was the perfect time and
 place to discuss the latest news in the Heard vs Depp trial. Turns out rational
 people also have guilty pleasures 😄️&lt;/p&gt;
 &lt;p&gt;We are all looking forward to the next meeting, this time with you there as well!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/summary-meetup-2022-06-03/rationality-meetup-group-pic.jpeg" alt="Group photo ‘Rationality Freiburg’" title="Group photo &amp;#39;Rationality Freiburg&amp;#39;"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/posts/summary-meetup-2022-06-03/rationality-meetup-group-pic.jpeg" alt="Group photo &amp;lsquo;Rationality Freiburg&amp;rsquo;" title="Group photo &amp;#39;Rationality Freiburg&amp;#39;"&gt;
+&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h1 id="further-reading" id="further-reading"&gt;Further reading&lt;/h1&gt;
 &lt;a class="" href="#further-reading" aria-label="Permalink: Further reading"&gt;
@@ -3380,9 +3397,7 @@ people also have guilty pleasures 😄️&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>We met!</title><link>https://www.rationality-freiburg.de/posts/summary-meetup-2022-05-13/</link><pubDate>Sat, 14 May 2022 14:00:53 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/summary-meetup-2022-05-13/</guid><description>&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/summary-meetup-2022-05-13/cardboard-sign.jpg" alt="Cardboard sign" title="Cardboard sign saying www.rationality-freiburg.de"&gt;&lt;/p&gt;
 &lt;p&gt;Yesterday was the first meetup of the &lt;em&gt;Rationality Freiburg&lt;/em&gt; group and it was fantastic!&lt;/p&gt;
-&lt;p&gt;We were eight people in total, three of them newcomers who had found us via &lt;a href="https://www.meetup.com/rationality-freiburg/" target="_blank" rel="noopener noreferrer"&gt;meetup.com&lt;/a&gt;
-. Also joining us were two rationalists from the &lt;em&gt;&lt;a href="https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R" target="_blank" rel="noopener noreferrer"&gt;Karlsruhe Rationality&lt;/a&gt;
-&lt;/em&gt; community.&lt;/p&gt;
+&lt;p&gt;We were eight people in total, three of them newcomers who had found us via &lt;a href="https://www.meetup.com/rationality-freiburg/"&gt;meetup.com&lt;/a&gt;. Also joining us were two rationalists from the &lt;em&gt;&lt;a href="https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R"&gt;Karlsruhe Rationality&lt;/a&gt;&lt;/em&gt; community.&lt;/p&gt;
 &lt;p&gt;Meeting place was Schwabentor, Freiburg and everyone was very punctual. After an introduction round we walked up to the Kanonenplatz, enjoying the lovely weather.&lt;/p&gt;
 &lt;p&gt;Omar gave an overview of epistemic and instrumental rationality, as well as some common cognitive biases. Everyone got involved, giving examples, answering questions and reflecting on the topics.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/posts/summary-meetup-2022-05-13/maps.jpg" alt="Maps help us move around the territory" title="Three maps on a table, one from Berlin, two from Freiburg with different resolutions"&gt;&lt;/p&gt;
@@ -3401,14 +3416,10 @@ people also have guilty pleasures 😄️&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/Book-I-Map-And-Territory" target="_blank" rel="noopener noreferrer"&gt;Book I: Map and Territory&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/Availability" target="_blank" rel="noopener noreferrer"&gt;Availability&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/Burdensome-Details" target="_blank" rel="noopener noreferrer"&gt;Burdensome Details&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/What-Do-I-Mean-By-Rationality" target="_blank" rel="noopener noreferrer"&gt;What Do I Mean By “Rationality”?&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/Book-I-Map-And-Territory"&gt;Book I: Map and Territory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/Availability"&gt;Availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/Burdensome-Details"&gt;Burdensome Details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/What-Do-I-Mean-By-Rationality"&gt;What Do I Mean By “Rationality”?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>What Is Rationality (Not)?</title><link>https://www.rationality-freiburg.de/posts/what-is-rationality/</link><pubDate>Sat, 16 Apr 2022 14:47:17 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/what-is-rationality/</guid><description>&lt;p&gt;Rationality is a desire to see the world as it &lt;strong&gt;is&lt;/strong&gt;, not as you wished it to be. It is about accepting the fallibility of human cognition and nevertheless striving to reach valuable conclusions. It&amp;rsquo;s applying empirical thinking to prove yourself wrong. It&amp;rsquo;s being humble and thirsty.&lt;/p&gt;
 &lt;p&gt;Rationality is not about being cold, unfeeling and robotic. It is not prioritizing abstract logic over human emotion. Rather it is accepting human emotion, both in oneself and others and understanding its beauty and purpose. If you are baffled by &lt;em&gt;irrational&lt;/em&gt; behaviour it&amp;rsquo;s actually you who is behaving &lt;em&gt;irrationally&lt;/em&gt; by expecting anything else.&lt;/p&gt;
 &lt;p&gt;Rationality is not supressing that warm glow you feel when hearing a beautiful piece of music. Rather it is bathing in that feeling. And maybe afterwards, if you are so inclined, reflecting in amazement how it is possible to produce such an effect.&lt;/p&gt;
@@ -3433,7 +3444,5 @@ people also have guilty pleasures 😄️&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
  &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/chALQCm9VgE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;</description></item><item><title>Welcome!</title><link>https://www.rationality-freiburg.de/posts/welcome/</link><pubDate>Fri, 15 Apr 2022 14:25:43 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/welcome/</guid><description>&lt;p&gt;Welcome to &lt;a href="https://www.rationality-freiburg.de" target="_blank" rel="noopener noreferrer"&gt;rationality-freiburg.de&lt;/a&gt;
-!&lt;/p&gt;
-&lt;p&gt;Read &lt;a href="https://www.rationality-freiburg.de/about/" title="About"&gt;About&lt;/a&gt;
- to learn more.&lt;/p&gt;</description></item></channel></rss>
+ &lt;/div&gt;</description></item><item><title>Welcome!</title><link>https://www.rationality-freiburg.de/posts/welcome/</link><pubDate>Fri, 15 Apr 2022 14:25:43 +0200</pubDate><guid>https://www.rationality-freiburg.de/posts/welcome/</guid><description>&lt;p&gt;Welcome to &lt;a href="https://www.rationality-freiburg.de"&gt;rationality-freiburg.de&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Read &lt;a href="https://www.rationality-freiburg.de/about/" title="About"&gt;About&lt;/a&gt; to learn more.&lt;/p&gt;</description></item></channel></rss>
