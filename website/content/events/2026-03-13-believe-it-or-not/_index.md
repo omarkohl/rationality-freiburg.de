@@ -1,6 +1,6 @@
 ---
 title: "Believe it or not"
-date: 2026-02-20T12:00:00+01:00
+date: 2025-12-20T00:36:00+01:00
 eventStart: 2026-03-13T18:00:00+01:00
 eventEnd: 2026-03-13T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
