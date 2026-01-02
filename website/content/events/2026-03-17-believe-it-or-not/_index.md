@@ -1,8 +1,8 @@
 ---
 title: "Believe it or not"
 date: 2026-02-20T12:00:00+01:00
-eventStart: 2026-02-27T18:00:00+01:00
-eventEnd: 2026-02-27T20:30:00+01:00
+eventStart: 2026-03-17T18:00:00+01:00
+eventEnd: 2026-03-17T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
