@@ -1,8 +1,8 @@
 ---
 title: "Glaubenssache"
 date: 2025-12-20T00:36:00+01:00
-eventStart: 2026-03-17T18:00:00+01:00
-eventEnd: 2026-03-17T20:30:00+01:00
+eventStart: 2026-03-13T18:00:00+01:00
+eventEnd: 2026-03-13T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
@@ -18,7 +18,7 @@ layout: single
 outputs:
   - HTML
   - Calendar
-url: termine/2026-03-17-glaubenssache
+url: termine/2026-03-13-glaubenssache
 ---
 
 ## Vorbereitung
