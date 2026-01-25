@@ -29,6 +29,10 @@ aliases:
 
 **Suchst du "Digitale Demokratie"?** Das Event "Digitale Demokratie", das ursprünglich für den 16. Januar 2026 geplant war, wurde auf einen späteren Termin verschoben. Wir entschuldigen uns für etwaige Unannehmlichkeiten.
 
+## Update 2026-01-25
+
+* Folien: [The Science of Cell Culture_RatFr.pdf](<The Science of Cell Culture_RatFr.pdf>)
+
 ## Vorbereitung
 
 Keine.

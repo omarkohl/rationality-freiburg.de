@@ -29,6 +29,10 @@ aliases:
 
 **Looking for Digital Democracy?** The Digital Democracy event that was originally scheduled for January 16th, 2026 has been postponed to a later date. We apologize for any inconvenience.
 
+## Update 2026-01-25
+
+* Slides: [The Science of Cell Culture_RatFr.pdf](<The Science of Cell Culture_RatFr.pdf>)
+
 ## Preparation
 
 None.
