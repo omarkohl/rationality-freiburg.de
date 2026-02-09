@@ -9,8 +9,10 @@
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;Slides: &lt;a href="https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/2023-12-08%20Anki%20Optimize%20Your%20Learning.pdf"&gt;2023-12-08 Anki Optimize Your Learning.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Anki deck for essential concepts: &lt;a href="https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/RatFr%20Anki%20Basics%20-%20v2.apkg"&gt;RatFr Anki Basics - v2.apkg&lt;/a&gt;
+&lt;li&gt;Slides: &lt;a href="2023-12-08%20Anki%20Optimize%20Your%20Learning.pdf"&gt;2023-12-08 Anki Optimize Your Learning.pdf&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Anki deck for essential concepts: &lt;a href="RatFr%20Anki%20Basics%20-%20v2.apkg"&gt;RatFr Anki Basics - v2.apkg&lt;/a&gt;
+
 &lt;ul&gt;
 &lt;li&gt;v2: Export in different format to make it compatible with older Anki versions&lt;/li&gt;
 &lt;/ul&gt;
@@ -37,24 +39,29 @@ phone/tablet or an iPhone/iPad. If you have no device you can participate by
 using paper flashcards that I&amp;rsquo;ll provide or collaborate with someone that has
 an electronic device.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Install Anki&lt;/strong&gt; (Windows/Linux/macOS/Android/iOS) on the device you are
-bringing: &lt;a href="https://apps.ankiweb.net/#download"&gt;https://apps.ankiweb.net/#download&lt;/a&gt; (Note that the iOS app for
+bringing: &lt;a href="https://apps.ankiweb.net/#download" target="_blank" rel="noopener noreferrer"&gt;https://apps.ankiweb.net/#download&lt;/a&gt;
+ (Note that the iOS app for
 iPhone/iPad costs $25 - money well spent so I encourage you to buy it - but
 everything else is free).&lt;/li&gt;
 &lt;li&gt;If Anki is already installed please ensure you &lt;strong&gt;update&lt;/strong&gt; to the latest
 version (for PC 23.10.1, AnkiDroid for Android 2.16.5, AnkiMobile for iOS
 23.10)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sign up&lt;/strong&gt; for AnkiWeb (free): &lt;a href="https://ankiweb.net/account/signup"&gt;https://ankiweb.net/account/signup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sign up&lt;/strong&gt; for AnkiWeb (free): &lt;a href="https://ankiweb.net/account/signup" target="_blank" rel="noopener noreferrer"&gt;https://ankiweb.net/account/signup&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Optional&lt;/strong&gt; additional preparation:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Read about some key concepts:
-&lt;a href="https://docs.ankiweb.net/getting-started.html#key-concepts"&gt;https://docs.ankiweb.net/getting-started.html#key-concepts&lt;/a&gt;&lt;/li&gt;
+&lt;a href="https://docs.ankiweb.net/getting-started.html#key-concepts" target="_blank" rel="noopener noreferrer"&gt;https://docs.ankiweb.net/getting-started.html#key-concepts&lt;/a&gt;
+&lt;/li&gt;
 &lt;li&gt;Very thorough article on spaced repetition including data and research:
-&lt;a href="https://gwern.net/spaced-repetition"&gt;https://gwern.net/spaced-repetition&lt;/a&gt;&lt;/li&gt;
+&lt;a href="https://gwern.net/spaced-repetition" target="_blank" rel="noopener noreferrer"&gt;https://gwern.net/spaced-repetition&lt;/a&gt;
+&lt;/li&gt;
 &lt;li&gt;Michael Nielsen (a famous quantum physicist and computer scientist) explains
 how he uses Anki (e.g. to read research papers) and gives background
 information. This article probably motivated myself to get started with Anki
-a few years ago. &lt;a href="https://augmentingcognition.com/ltm.html"&gt;https://augmentingcognition.com/ltm.html&lt;/a&gt;&lt;/li&gt;
+a few years ago. &lt;a href="https://augmentingcognition.com/ltm.html" target="_blank" rel="noopener noreferrer"&gt;https://augmentingcognition.com/ltm.html&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -135,8 +142,12 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/cover.png" alt="Learning" title="Learning"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-12-08-anki-spaced-repetition/cover.png" alt="Learning" title="Learning"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>What is Entropy?</title><link>https://www.rationality-freiburg.de/events/2023-11-24-what-is-entropy/</link><pubDate>Sat, 28 Oct 2023 17:44:28 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-11-24-what-is-entropy/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="update-2023-12-05" id="update-2023-12-05"&gt;Update 2023-12-05&lt;/h2&gt;
 &lt;a class="" href="#update-2023-12-05" aria-label="Permalink: Update 2023-12-05"&gt;
@@ -207,7 +218,10 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-11-24-what-is-entropy/cover.png" alt="Entropy in the Universe" title="Entropy in the Universe"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-11-24-what-is-entropy/cover.png" alt="Entropy in the Universe" title="Entropy in the Universe"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>The Wolf as a Native Species - Current Findings and Challenges</title><link>https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/</link><pubDate>Fri, 15 Sep 2023 08:20:26 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="update-2023-11-13" id="update-2023-11-13"&gt;Update 2023-11-13&lt;/h2&gt;
 &lt;a class="" href="#update-2023-11-13" aria-label="Permalink: Update 2023-11-13"&gt;
@@ -219,7 +233,8 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;The slides (in German!):
-&lt;a href="https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/2023-11-10-der-wolf-als-heimisches-wildtier.pdf"&gt;2023-11-10-der-wolf-als-heimisches-wildtier.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;a href="./2023-11-10-der-wolf-als-heimisches-wildtier.pdf"&gt;2023-11-10-der-wolf-als-heimisches-wildtier.pdf&lt;/a&gt;
+&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -232,12 +247,15 @@ join.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Some resources you can read beforehand (all in German):&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://um.baden-wuerttemberg.de/de/umwelt-natur/naturschutz/biologische-vielfalt/artenschutz/wolf"&gt;Ministerium für Umwelt, Klima und Energiewirtschaft
-Baden-Württemberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fva-bw.de/wolf"&gt;Forstliche Versuchs- und Forschungsanstalt
-Baden-Württemberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://dbb-wolf.de/"&gt;Dokumentations- und Beratungsstelle des Bundes zum Thema
-Wolf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://um.baden-wuerttemberg.de/de/umwelt-natur/naturschutz/biologische-vielfalt/artenschutz/wolf" target="_blank" rel="noopener noreferrer"&gt;Ministerium für Umwelt, Klima und Energiewirtschaft
+Baden-Württemberg&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fva-bw.de/wolf" target="_blank" rel="noopener noreferrer"&gt;Forstliche Versuchs- und Forschungsanstalt
+Baden-Württemberg&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dbb-wolf.de/" target="_blank" rel="noopener noreferrer"&gt;Dokumentations- und Beratungsstelle des Bundes zum Thema
+Wolf&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -304,8 +322,12 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/cover.png" alt="A wolf in the forest" title="A wolf in the forest"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-11-10-the-wolf-as-a-native-species/cover.png" alt="A wolf in the forest" title="A wolf in the forest"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>AI Safety Bootcamp - Lessons Learned</title><link>https://www.rationality-freiburg.de/events/2023-09-29-ai-safety-bootcamp/</link><pubDate>Sat, 22 Jul 2023 11:37:57 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-09-29-ai-safety-bootcamp/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -360,8 +382,12 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-09-29-ai-safety-bootcamp/cover.png" alt="Robot in the forest" title="Robot in the forest"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-09-29-ai-safety-bootcamp/cover.png" alt="Robot in the forest" title="Robot in the forest"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Hike</title><link>https://www.rationality-freiburg.de/events/2023-10-14-hike/</link><pubDate>Sat, 22 Jul 2023 11:23:51 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-10-14-hike/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
 &lt;a class="" href="#what-will-we-do" aria-label="Permalink: What will we do?"&gt;
@@ -391,9 +417,11 @@ way.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-10-14-hike/cover.png" alt="Hiking philosophers" title="Hiking philosophers"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-10-14-hike/cover.png" alt="Hiking philosophers" title="Hiking philosophers"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Reducing your Environmental Footprint: A Physical Perspective - Part 2</title><link>https://www.rationality-freiburg.de/events/2023-10-27-environmental-footprint-part-2/</link><pubDate>Sat, 22 Jul 2023 09:05:00 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-10-27-environmental-footprint-part-2/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -519,8 +547,12 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-10-13-environmental-footprint-part-1/cover.png" alt="Flower growing" title="Flower growing"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-10-13-environmental-footprint-part-1/cover.png" alt="Flower growing" title="Flower growing"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with &lt;em&gt;DALL·E&lt;/em&gt;.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Poker and Statistics</title><link>https://www.rationality-freiburg.de/events/2023-09-15-poker-and-statistics/</link><pubDate>Fri, 16 Jun 2023 22:43:14 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-09-15-poker-and-statistics/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -577,7 +609,10 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-09-15-poker-and-statistics/cover.png" alt="Roulette table" title="Roulette table"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-09-15-poker-and-statistics/cover.png" alt="Roulette table" title="Roulette table"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Boardgames</title><link>https://www.rationality-freiburg.de/events/2023-07-21-boardgames/</link><pubDate>Fri, 16 Jun 2023 22:36:25 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-07-21-boardgames/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -628,8 +663,12 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-07-21-boardgames/cover.png" alt="Board games" title="Board games"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-07-21-boardgames/cover.png" alt="Board games" title="Board games"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Explore the Confluence of Ancient Wisdom and Modern Technology!</title><link>https://www.rationality-freiburg.de/events/2023-07-07-ancient-wisdom-modern-technology/</link><pubDate>Fri, 16 Jun 2023 22:28:32 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-07-07-ancient-wisdom-modern-technology/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -700,9 +739,11 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-07-07-ancient-wisdom-modern-technology/cover.png" alt="Daoism and technology" title="Daoism and technology"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-07-07-ancient-wisdom-modern-technology/cover.png" alt="Daoism and technology" title="Daoism and technology"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Why Do We Believe?</title><link>https://www.rationality-freiburg.de/events/2023-06-23-why-do-we-believe/</link><pubDate>Fri, 16 Jun 2023 22:12:09 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-06-23-why-do-we-believe/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -766,7 +807,10 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-06-23-why-do-we-believe/cover.png" alt="Flat Earth" title="Flat Earth"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-06-23-why-do-we-believe/cover.png" alt="Flat Earth" title="Flat Earth"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Inner Simulator &amp; Murphyjitsu</title><link>https://www.rationality-freiburg.de/events/2023-06-09-inner-simulator-murphyjitsu/</link><pubDate>Mon, 29 May 2023 21:01:44 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-06-09-inner-simulator-murphyjitsu/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -793,11 +837,13 @@ join.&lt;/p&gt;
 examples. The goal is to make you better at planning.&lt;/p&gt;
 &lt;p&gt;Inner Simulator is a CFAR technique where you check how surprised you&amp;rsquo;d be if
 you got a particular outcome.
-(&lt;a href="https://www.lesswrong.com/tag/inner-simulator-surprise-o-meter"&gt;source&lt;/a&gt;).&lt;/p&gt;
+(&lt;a href="https://www.lesswrong.com/tag/inner-simulator-surprise-o-meter" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
+).&lt;/p&gt;
 &lt;p&gt;In the course of making plans, Murphyjitsu is the practice of strengthening
 plans by repeatedly envisioning and defending against failure modes until you
 would be shocked to see it fail.
-(&lt;a href="https://www.lesswrong.com/posts/Htjbj8ystqc2zLtMX/murphyjitsu-an-inner-simulator-algorithm"&gt;source&lt;/a&gt;).&lt;/p&gt;
+(&lt;a href="https://www.lesswrong.com/posts/Htjbj8ystqc2zLtMX/murphyjitsu-an-inner-simulator-algorithm" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
+).&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="organization" id="organization"&gt;Organization&lt;/h2&gt;
 &lt;a class="" href="#organization" aria-label="Permalink: Organization"&gt;
@@ -826,8 +872,12 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-06-09-inner-simulator-murphyjitsu/cover.png" alt="Jiu Jitsu" title="Jiu Jitsu"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-06-09-inner-simulator-murphyjitsu/cover.png" alt="Jiu Jitsu" title="Jiu Jitsu"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Stag Hunt</title><link>https://www.rationality-freiburg.de/events/2023-05-26-stag-hunt/</link><pubDate>Fri, 12 May 2023 16:02:46 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-05-26-stag-hunt/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -891,7 +941,10 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-05-26-stag-hunt/cover.png" alt="Stag" title="Stag"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-05-26-stag-hunt/cover.png" alt="Stag" title="Stag"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Spot the Lie</title><link>https://www.rationality-freiburg.de/events/2023-05-12-spot-the-lie/</link><pubDate>Fri, 28 Apr 2023 14:18:45 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-05-12-spot-the-lie/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -952,7 +1005,10 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-05-12-spot-the-lie/cover.png" alt="Presentation" title="Presentation"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-05-12-spot-the-lie/cover.png" alt="Presentation" title="Presentation"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>ACX Meetups Everywhere - Spring 2023</title><link>https://www.rationality-freiburg.de/events/2023-04-28-acx-meetups-everywhere/</link><pubDate>Wed, 29 Mar 2023 21:02:40 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-04-28-acx-meetups-everywhere/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -1036,7 +1092,10 @@ join.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-04-28-acx-meetups-everywhere/cover.png" alt="Rationalist in spring" title="Rationalist in spring"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-04-28-acx-meetups-everywhere/cover.png" alt="Rationalist in spring" title="Rationalist in spring"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Everyday Scientific Experiments</title><link>https://www.rationality-freiburg.de/events/2023-04-14-everyday-scientific-experiments/</link><pubDate>Wed, 29 Mar 2023 20:00:38 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2023-04-14-everyday-scientific-experiments/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -1096,9 +1155,11 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-04-14-everyday-scientific-experiments/cover.png" alt="Microscope in the kitchen" title="Microscope in the kitchen"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-04-14-everyday-scientific-experiments/cover.png" alt="Microscope in the kitchen" title="Microscope in the kitchen"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>Hike</title><link>https://www.rationality-freiburg.de/events/2023-03-18-hike/</link><pubDate>Sat, 25 Feb 2023 20:58:41 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-03-18-hike/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -1152,7 +1213,8 @@ drink or lunch) and then back to the starting point.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Units of Exchange</title><link>https://www.rationality-freiburg.de/events/2023-01-21-units-of-exchange/</link><pubDate>Sun, 15 Jan 2023 21:48:04 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-01-21-units-of-exchange/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;</description></item><item><title>Units of Exchange</title><link>https://www.rationality-freiburg.de/events/2023-01-21-units-of-exchange/</link><pubDate>Sun, 15 Jan 2023 21:48:04 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-01-21-units-of-exchange/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1164,12 +1226,10 @@ drink or lunch) and then back to the starting point.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Read the following texts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/" target="_blank" rel="noopener noreferrer"&gt;Nobody Is Perfect, Everything Is
-Commensurable&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/" target="_blank" rel="noopener noreferrer"&gt;The Cambist and Lord Iron: A Fairy Tale of
-Economics&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/"&gt;Nobody Is Perfect, Everything Is
+Commensurable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/"&gt;The Cambist and Lord Iron: A Fairy Tale of
+Economics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -1220,8 +1280,7 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>How Statistics Trick Our Brain</title><link>https://www.rationality-freiburg.de/events/2023-02-03-how-statistics-trick-our-brain/</link><pubDate>Sun, 15 Jan 2023 21:30:15 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-02-03-how-statistics-trick-our-brain/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>How Statistics Trick Our Brain</title><link>https://www.rationality-freiburg.de/events/2023-02-03-how-statistics-trick-our-brain/</link><pubDate>Sun, 15 Jan 2023 21:30:15 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-02-03-how-statistics-trick-our-brain/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1485,7 +1544,10 @@ join.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/2023-03-31-free-will/cover.png" alt="Freedom" title="Freedom"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/2023-03-31-free-will/cover.png" alt="Freedom" title="Freedom"&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Image generated with the &lt;em&gt;Dreams AI&lt;/em&gt; on Manifold Markets.&lt;/small&gt;&lt;/p&gt;</description></item><item><title>The Scientific Method &amp; Zendo</title><link>https://www.rationality-freiburg.de/events/2023-03-03-scientific-method-and-zendo/</link><pubDate>Sun, 15 Jan 2023 21:10:15 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-03-03-scientific-method-and-zendo/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -1498,29 +1560,22 @@ join.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Watch the following videos and write down your questions and thoughts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=OL6-x0modwY" target="_blank" rel="noopener noreferrer"&gt;The Scientific Method - Richard Feynman (1
-min)&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=j12BBcKSgEQ" target="_blank" rel="noopener noreferrer"&gt;The scientific method is crap: Teman Cooke at TEDxLancaster (14
-min)&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=JnTA-VVLxkI" target="_blank" rel="noopener noreferrer"&gt;Zendo Sample Game (18 min)&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=OL6-x0modwY"&gt;The Scientific Method - Richard Feynman (1
+min)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=j12BBcKSgEQ"&gt;The scientific method is crap: Teman Cooke at TEDxLancaster (14
+min)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=JnTA-VVLxkI"&gt;Zendo Sample Game (18 min)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Optional:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/" target="_blank" rel="noopener noreferrer"&gt;SSC - The Control Group Is Out Of
-Control&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/s/pwK9RsvCdpPgKmrf6/p/wustx45CPL5rZenuo" target="_blank" rel="noopener noreferrer"&gt;The Sequences - No Safe Defense, Not Even
-Science&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%201.pdf" target="_blank" rel="noopener noreferrer"&gt;Getting Started: Zendo Rules Book
-1.pdf&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%202.pdf" target="_blank" rel="noopener noreferrer"&gt;Going Deeper: Zendo Rules Book
-2.pdf&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/"&gt;SSC - The Control Group Is Out Of
+Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/s/pwK9RsvCdpPgKmrf6/p/wustx45CPL5rZenuo"&gt;The Sequences - No Safe Defense, Not Even
+Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%201.pdf"&gt;Getting Started: Zendo Rules Book
+1.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.looneylabs.com/sites/default/files/literature/Zendo%20Rules%20Book%202.pdf"&gt;Going Deeper: Zendo Rules Book
+2.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -1563,8 +1618,7 @@ join.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>Outsmart Your Cognitive Biases</title><link>https://www.rationality-freiburg.de/events/2023-01-06-cognitive-biases/</link><pubDate>Sat, 31 Dec 2022 13:26:58 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-01-06-cognitive-biases/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Outsmart Your Cognitive Biases</title><link>https://www.rationality-freiburg.de/events/2023-01-06-cognitive-biases/</link><pubDate>Sat, 31 Dec 2022 13:26:58 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-01-06-cognitive-biases/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1577,10 +1631,8 @@ join.&lt;/p&gt;
 &lt;p&gt;You can get a headstart by reading the following posts on lesswrong.com about
 cognitive biases.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ptxnyfLWqRZ98wnYi/biases-an-introduction" target="_blank" rel="noopener noreferrer"&gt;Biases: An Introduction&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside" target="_blank" rel="noopener noreferrer"&gt;What cognitive biases feel like from the inside&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ptxnyfLWqRZ98wnYi/biases-an-introduction"&gt;Biases: An Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside"&gt;What cognitive biases feel like from the inside&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -1632,8 +1684,7 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>Probabilities: Why They Matter and How to Apply Them in Daily Life - Part 3/3: Application</title><link>https://www.rationality-freiburg.de/events/2023-01-15-probabilities-daily-life-part-3/</link><pubDate>Sat, 31 Dec 2022 12:00:08 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-01-15-probabilities-daily-life-part-3/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Probabilities: Why They Matter and How to Apply Them in Daily Life - Part 3/3: Application</title><link>https://www.rationality-freiburg.de/events/2023-01-15-probabilities-daily-life-part-3/</link><pubDate>Sat, 31 Dec 2022 12:00:08 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2023-01-15-probabilities-daily-life-part-3/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1701,7 +1752,8 @@ will be a brief recap.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;The slides: &lt;a href="https://www.rationality-freiburg.de/events/2022-12-11-probabilities-daily-life-part-2/Probabilities_Daily_Life_-_Part_2_-_Bayes.pdf"&gt;Probabilities Daily Life - Part 2 - Bayes.pdf&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;The slides: &lt;a href="./Probabilities_Daily_Life_-_Part_2_-_Bayes.pdf"&gt;Probabilities Daily Life - Part 2 - Bayes.pdf&lt;/a&gt;
+ .&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="organization" id="organization"&gt;Organization&lt;/h2&gt;
 &lt;a class="" href="#organization" aria-label="Permalink: Organization"&gt;
@@ -1747,7 +1799,8 @@ decisions. This time we will focus on Bayes&amp;rsquo; theorem, bayesian thinkin
 evaluate new evidence etc.&lt;/p&gt;
 &lt;p&gt;No mathematical background is required. The goal is to make the topic very
 intuitive and simple.&lt;/p&gt;
-&lt;p&gt;This is a joint event with &lt;a href="https://ea-freiburg.org/"&gt;EA Freiburg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is a joint event with &lt;a href="https://ea-freiburg.org/" target="_blank" rel="noopener noreferrer"&gt;EA Freiburg&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;There will be snacks and drinks.&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="other" id="other"&gt;Other&lt;/h2&gt;
@@ -1759,7 +1812,8 @@ intuitive and simple.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Probabilities: Why They Matter and How to Apply Them in Daily Life - Part 1/3: Basics</title><link>https://www.rationality-freiburg.de/events/2022-11-27-probabilities-daily-life-part-1/</link><pubDate>Sun, 06 Nov 2022 09:55:54 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2022-11-27-probabilities-daily-life-part-1/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
+.&lt;/p&gt;</description></item><item><title>Probabilities: Why They Matter and How to Apply Them in Daily Life - Part 1/3: Basics</title><link>https://www.rationality-freiburg.de/events/2022-11-27-probabilities-daily-life-part-1/</link><pubDate>Sun, 06 Nov 2022 09:55:54 +0100</pubDate><guid>https://www.rationality-freiburg.de/events/2022-11-27-probabilities-daily-life-part-1/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="organization" id="organization"&gt;Organization&lt;/h2&gt;
 &lt;a class="" href="#organization" aria-label="Permalink: Organization"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1801,8 +1855,7 @@ apply them in your daily life to improve your thinking and make better
 decisions.&lt;/p&gt;
 &lt;p&gt;No mathematical background is required. The goal is to make the subject very
 intuitive and simple.&lt;/p&gt;
-&lt;p&gt;This is a joint event with &lt;a href="https://ea-freiburg.org/" target="_blank" rel="noopener noreferrer"&gt;EA Freiburg&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;This is a joint event with &lt;a href="https://ea-freiburg.org/"&gt;EA Freiburg&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There will be snacks and drinks.&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="other" id="other"&gt;Other&lt;/h2&gt;
@@ -1814,8 +1867,7 @@ intuitive and simple.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>Podcasts and Talk</title><link>https://www.rationality-freiburg.de/events/2022-11-11-podcasts-and-talk/</link><pubDate>Tue, 01 Nov 2022 15:16:42 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-11-11-podcasts-and-talk/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Podcasts and Talk</title><link>https://www.rationality-freiburg.de/events/2022-11-11-podcasts-and-talk/</link><pubDate>Tue, 01 Nov 2022 15:16:42 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-11-11-podcasts-and-talk/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="content" id="content"&gt;Content&lt;/h2&gt;
 &lt;a class="" href="#content" aria-label="Permalink: Content"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1831,9 +1883,11 @@ welcome!&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!
 In doubt we split up the groups into a German and an English part.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;&lt;/p&gt;
-&lt;p&gt;coworking freiburg (&lt;a href="https://coworking-freiburg.de/en/contact/" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
-)&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;
+&lt;/p&gt;
+&lt;p&gt;coworking freiburg (&lt;a href="https://coworking-freiburg.de/en/contact/"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -1869,8 +1923,7 @@ I want this part to start 18:15 and we will see how long it takes.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>Sequences &amp; TAPs</title><link>https://www.rationality-freiburg.de/events/2022-11-25-sequences-taps/</link><pubDate>Sun, 16 Oct 2022 15:16:42 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-11-25-sequences-taps/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Sequences &amp; TAPs</title><link>https://www.rationality-freiburg.de/events/2022-11-25-sequences-taps/</link><pubDate>Sun, 16 Oct 2022 15:16:42 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-11-25-sequences-taps/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="organization" id="organization"&gt;Organization&lt;/h2&gt;
 &lt;a class="" href="#organization" aria-label="Permalink: Organization"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -1884,7 +1937,10 @@ I want this part to start 18:15 and we will see how long it takes.&lt;/p&gt;
 welcome!&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;
+&lt;/p&gt;
 &lt;p&gt;coworking freiburg (&lt;a href="https://coworking-freiburg.de/en/contact/" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
 )&lt;/p&gt;
 &lt;div class="anchor"&gt;
@@ -1974,9 +2030,11 @@ judgement and vice versa.&lt;/p&gt;
 welcome!&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;&lt;/p&gt;
-&lt;p&gt;coworking freiburg (&lt;a href="https://coworking-freiburg.de/en/contact/" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
-)&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;
+&lt;/p&gt;
+&lt;p&gt;coworking freiburg (&lt;a href="https://coworking-freiburg.de/en/contact/"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
 &lt;a class="" href="#preparation" aria-label="Permalink: Preparation"&gt;
@@ -1997,9 +2055,8 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;Watch the following video (1 hour) about &lt;a href="https://www.youtube.com/watch?v=RDlj2S2DWwQ" target="_blank" rel="noopener noreferrer"&gt;&amp;lsquo;Trusting
-experts&amp;rsquo;&lt;/a&gt;
-&lt;/p&gt;
+&lt;p&gt;Watch the following video (1 hour) about &lt;a href="https://www.youtube.com/watch?v=RDlj2S2DWwQ"&gt;&amp;lsquo;Trusting
+experts&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
  &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/RDlj2S2DWwQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
  &lt;/div&gt;
@@ -2029,9 +2086,8 @@ no obligation to do anything anyone suggests.&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;We will discuss each other&amp;rsquo;s thoughts on the above video &amp;lsquo;Trusting experts&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;Then we will do one or several rounds of &lt;a href="https://www.lesswrong.com/posts/xAqRkrnjJTMZ6YmZA/appendix-how-to-run-a-successful-hamming-circle" target="_blank" rel="noopener noreferrer"&gt;Hamming
-circles&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Then we will do one or several rounds of &lt;a href="https://www.lesswrong.com/posts/xAqRkrnjJTMZ6YmZA/appendix-how-to-run-a-successful-hamming-circle"&gt;Hamming
+circles&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A Hamming circle is a tool/process for making some kind of progress on some
 large, significant bottleneck.&lt;/p&gt;
@@ -2079,8 +2135,7 @@ strategies, etc.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>ACX (Astral Codex Ten) Meetup October 14th</title><link>https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/</link><pubDate>Tue, 23 Aug 2022 18:00:59 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ACX (Astral Codex Ten) Meetup October 14th</title><link>https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/</link><pubDate>Tue, 23 Aug 2022 18:00:59 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="organization" id="organization"&gt;Organization&lt;/h2&gt;
 &lt;a class="" href="#organization" aria-label="Permalink: Organization"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -2097,8 +2152,7 @@ Bertholdsbrunnen in the center of Freiburg.&lt;/p&gt;
 welcome!&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!&lt;/p&gt;
-&lt;p&gt;Maybe you also want to join the &lt;a href="https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/"&gt;hike&lt;/a&gt;
- on the day after this
+&lt;p&gt;Maybe you also want to join the &lt;a href="https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/"&gt;hike&lt;/a&gt; on the day after this
 event!&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="preparation" id="preparation"&gt;Preparation&lt;/h2&gt;
@@ -2110,14 +2164,11 @@ event!&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;Select one or two &lt;a href="https://slatestarcodex.com/" target="_blank" rel="noopener noreferrer"&gt;SSC (Slate Star Codex)&lt;/a&gt;
- or &lt;a href="https://astralcodexten.substack.com/" target="_blank" rel="noopener noreferrer"&gt;ACX
-(Astral Codex Ten)&lt;/a&gt;
- posts that you
+&lt;p&gt;Select one or two &lt;a href="https://slatestarcodex.com/"&gt;SSC (Slate Star Codex)&lt;/a&gt; or &lt;a href="https://astralcodexten.substack.com/"&gt;ACX
+(Astral Codex Ten)&lt;/a&gt; posts that you
 particularly enjoy so you can give a short summary to other participants.&lt;/p&gt;
-&lt;p&gt;If you need inspiration check the &lt;a href="https://slatestarcodex.com/top-posts/" target="_blank" rel="noopener noreferrer"&gt;SSC top
-posts&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;If you need inspiration check the &lt;a href="https://slatestarcodex.com/top-posts/"&gt;SSC top
+posts&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
 &lt;a class="" href="#what-will-we-do" aria-label="Permalink: What will we do?"&gt;
@@ -2154,11 +2205,9 @@ somewhere.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;Check out the &lt;a href="https://manifold.markets/Omar/how-many-people-will-attend-the-acx" target="_blank" rel="noopener noreferrer"&gt;prediction
-market&lt;/a&gt;
- on
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href="https://manifold.markets/Omar/how-many-people-will-attend-the-acx"&gt;prediction
+market&lt;/a&gt; on
 how many people will attend:&lt;/p&gt;
 &lt;div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;"&gt;
  &lt;iframe style="height: 100%"
@@ -2168,12 +2217,10 @@ how many people will attend:&lt;/p&gt;
  &lt;/iframe&gt;
 &lt;/div&gt;</description></item><item><title>October 15th Hike with 'Karlsruhe Rationality'</title><link>https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/</link><pubDate>Mon, 11 Jul 2022 20:21:19 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-10-15-hike-with-karlsruhe-rationality/</guid><description>&lt;p&gt;&lt;strong&gt;UPDATE 24.09:&lt;/strong&gt; Please note that this event was postponed from October 1st to
 October 15th!&lt;/p&gt;
-&lt;p&gt;You may also want to join the &lt;a href="https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/"&gt;ACX meetup&lt;/a&gt;
- on the evening before
+&lt;p&gt;You may also want to join the &lt;a href="https://www.rationality-freiburg.de/events/2022-10-14-acx-astral-codex-ten-meetup/"&gt;ACX meetup&lt;/a&gt; on the evening before
 this hike!&lt;/p&gt;
-&lt;p&gt;This will be a joint event with &lt;a href="https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R" target="_blank" rel="noopener noreferrer"&gt;Karlsruhe
-Rationality&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;This will be a joint event with &lt;a href="https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R"&gt;Karlsruhe
+Rationality&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We will meet at the Schwabentor, then hike up to Roßkopf, from there to St.
 Ottilien where depending on the weather we can stay to have a drink or eat and
 then back to the starting point.&lt;/p&gt;
@@ -2197,11 +2244,9 @@ Schwabentor (B)"&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;Check out the &lt;a href="https://manifold.markets/Omar/how-many-people-will-attend-the-rat" target="_blank" rel="noopener noreferrer"&gt;prediction
-market&lt;/a&gt;
- on
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href="https://manifold.markets/Omar/how-many-people-will-attend-the-rat"&gt;prediction
+market&lt;/a&gt; on
 how many people will attend:&lt;/p&gt;
 &lt;div class="row-container" style="display: flex; width: 100%; height: 400px; flex-direction: column; overflow: hidden;"&gt;
  &lt;iframe style="height: 100%"
@@ -2238,30 +2283,21 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Please do the following as preparation. If you can&amp;rsquo;t prepare, come anyway!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Read &lt;a href="https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/" target="_blank" rel="noopener noreferrer"&gt;If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;Read &lt;a href="https://fs.blog/ten-commandments-for-superforecasters/" target="_blank" rel="noopener noreferrer"&gt;Ten Commandments for Aspiring Superforecasters&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;Register on &lt;a href="https://manifold.markets?referrer=Omar" target="_blank" rel="noopener noreferrer"&gt;Manifold Markets&lt;/a&gt;
-
-(Google account required) and join the &lt;a href="https://manifold.markets/group/rationality-freiburg-30092022?referrer=Omar" target="_blank" rel="noopener noreferrer"&gt;Rationality Freiburg
+&lt;li&gt;Read &lt;a href="https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/"&gt;If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read &lt;a href="https://fs.blog/ten-commandments-for-superforecasters/"&gt;Ten Commandments for Aspiring Superforecasters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Register on &lt;a href="https://manifold.markets?referrer=Omar"&gt;Manifold Markets&lt;/a&gt;
+(Google account required) and join the &lt;a href="https://manifold.markets/group/rationality-freiburg-30092022?referrer=Omar"&gt;Rationality Freiburg
 30.09.2022&lt;/a&gt;
-
 group where we will experiment during the meetup&lt;/li&gt;
-&lt;li&gt;Register on &lt;a href="https://www.metaculus.com/" target="_blank" rel="noopener noreferrer"&gt;Metaculus&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;Register on &lt;a href="https://www.metaculus.com/"&gt;Metaculus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Bring a smartphone or laptop to the meetup&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Optional reading&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://fs.blog/knowledge-project-podcast/philip-tetlock/" target="_blank" rel="noopener noreferrer"&gt;Podcast interview with Philip Tetlock (46 minutes)&lt;/a&gt;
-
-or his book &lt;a href="https://www.amazon.de/Superforecasting-Science-Prediction-Philip-Tetlock/dp/1847947158/" target="_blank" rel="noopener noreferrer"&gt;&amp;ldquo;Superforecasting: The Art and Science of Prediction&amp;rdquo;&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.gwern.net/Prediction-markets" target="_blank" rel="noopener noreferrer"&gt;Prediction Markets (Gwern)&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=4yZKGbq1YmA" target="_blank" rel="noopener noreferrer"&gt;Introduction to Prediction Markets, Robin Hanson&lt;/a&gt;
- (video, 18 minutes)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fs.blog/knowledge-project-podcast/philip-tetlock/"&gt;Podcast interview with Philip Tetlock (46 minutes)&lt;/a&gt;
+or his book &lt;a href="https://www.amazon.de/Superforecasting-Science-Prediction-Philip-Tetlock/dp/1847947158/"&gt;&amp;ldquo;Superforecasting: The Art and Science of Prediction&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gwern.net/Prediction-markets"&gt;Prediction Markets (Gwern)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=4yZKGbq1YmA"&gt;Introduction to Prediction Markets, Robin Hanson&lt;/a&gt; (video, 18 minutes)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -2291,8 +2327,7 @@ the results&lt;/li&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;
-.&lt;/p&gt;</description></item><item><title>Meetup September 16th - Overton Gymnastics</title><link>https://www.rationality-freiburg.de/events/2022-09-16-overton-gymnastics/</link><pubDate>Mon, 11 Jul 2022 20:20:58 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-09-16-overton-gymnastics/</guid><description>&lt;div class="anchor"&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Meetup September 16th - Overton Gymnastics</title><link>https://www.rationality-freiburg.de/events/2022-09-16-overton-gymnastics/</link><pubDate>Mon, 11 Jul 2022 20:20:58 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/2022-09-16-overton-gymnastics/</guid><description>&lt;div class="anchor"&gt;
 &lt;h2 id="update" id="update"&gt;UPDATE&lt;/h2&gt;
 &lt;a class="" href="#update" aria-label="Permalink: UPDATE"&gt;
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"&gt;
@@ -2319,7 +2354,10 @@ you can&amp;rsquo;t find the place &lt;a href="mailto:info@rationality-freiburg.
 welcome!&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/images/coworking-freiburg.jpg" alt="coworking freiburg entrance" title="coworking freiburg entrance"&gt;
+&lt;/p&gt;
 &lt;p&gt;coworking freiburg (&lt;a href="https://coworking-freiburg.de/en/contact/"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -2371,11 +2409,9 @@ you were holding back 😉).&lt;/p&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;Learn more about us&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Meetup July 8th 2022 - Sequences &amp; TAP Result Discussion</title><link>https://www.rationality-freiburg.de/events/meetup-2022-07-08-sequences-tap-result-discussion/</link><pubDate>Sat, 18 Jun 2022 17:37:02 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/meetup-2022-07-08-sequences-tap-result-discussion/</guid><description>&lt;p&gt;This event on
-&lt;a href="https://www.meetup.com/de-DE/rationality-freiburg/events/286652963/" target="_blank" rel="noopener noreferrer"&gt;meetup.com&lt;/a&gt;
- .&lt;/p&gt;
+&lt;a href="https://www.meetup.com/de-DE/rationality-freiburg/events/286652963/"&gt;meetup.com&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;This event on
-&lt;a href="https://www.lesswrong.com/events/jDTcu8JovTSBathpS/freiburg-sequences-and-tap-result-discussion" target="_blank" rel="noopener noreferrer"&gt;lesswrong.com&lt;/a&gt;
- .&lt;/p&gt;
+&lt;a href="https://www.lesswrong.com/events/jDTcu8JovTSBathpS/freiburg-sequences-and-tap-result-discussion"&gt;lesswrong.com&lt;/a&gt; .&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="when-and-where" id="when-and-where"&gt;When and where?&lt;/h2&gt;
 &lt;a class="" href="#when-and-where" aria-label="Permalink: When and where?"&gt;
@@ -2389,18 +2425,15 @@ you were holding back 😉).&lt;/p&gt;
 &lt;p&gt;We will meet on Friday, July 8th 2022 at 18:00 pm CEST (German time) at the
 end of the bridge in the Stadtgarten in Freiburg. Afterwards we will sit with
 picnic blankets somewhere in the park, so even if you are late you can try
-finding us. We will carry a cardboard sign saying &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de" target="_blank" rel="noopener noreferrer"&gt;www.rationality-freiburg.de&lt;/a&gt;
-&amp;rdquo;
+finding us. We will carry a cardboard sign saying &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&amp;rdquo;
 . The meetup will finish at 20:00 pm CEST and we may go to get dinner
 afterwards. In case of very bad weather we will look for an alternative venue,
 so please watch this site for updates or get in touch beforehand so we can
 reach out.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.openstreetmap.org/search?whereami=1&amp;amp;query=47.99764%252C7.85688" target="_blank" rel="noopener noreferrer"&gt;https://www.openstreetmap.org/search?whereami=1&amp;query=47.99764%252C7.85688&lt;/a&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/search?whereami=1&amp;amp;query=47.99764%252C7.85688"&gt;https://www.openstreetmap.org/search?whereami=1&amp;query=47.99764%252C7.85688&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/meetup-2022-07-08-sequences-tap-result-discussion/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;&lt;/p&gt;
 &lt;p&gt;Karlssteg, Stadtgarten, Freiburg
-(&lt;a href="https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
-)&lt;/p&gt;
+(&lt;a href="https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
 &lt;a class="" href="#what-will-we-do" aria-label="Permalink: What will we do?"&gt;
@@ -2411,19 +2444,14 @@ reach out.&lt;/p&gt;
  &lt;/svg&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;We will &lt;strong&gt;discuss&lt;/strong&gt; the three posts from the sequence &lt;a href="https://www.readthesequences.com/Fake-Beliefs-Sequence" target="_blank" rel="noopener noreferrer"&gt;Fake
-Beliefs&lt;/a&gt;
- of &lt;a href="https://www.readthesequences.com/Book-I-Map-And-Territory" target="_blank" rel="noopener noreferrer"&gt;Book I:
+&lt;p&gt;We will &lt;strong&gt;discuss&lt;/strong&gt; the three posts from the sequence &lt;a href="https://www.readthesequences.com/Fake-Beliefs-Sequence"&gt;Fake
+Beliefs&lt;/a&gt; of &lt;a href="https://www.readthesequences.com/Book-I-Map-And-Territory"&gt;Book I:
 Map and Territory&lt;/a&gt;
-
 of &lt;strong&gt;&amp;ldquo;The Sequences&amp;rdquo;&lt;/strong&gt;, a &lt;em&gt;standard compendium&lt;/em&gt; of the Rationality community.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/Professing-And-Cheering" target="_blank" rel="noopener noreferrer"&gt;Professing and Cheering&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/Belief-As-Attire" target="_blank" rel="noopener noreferrer"&gt;Belief as Attire&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.readthesequences.com/Applause-Lights" target="_blank" rel="noopener noreferrer"&gt;Applause Lights&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/Professing-And-Cheering"&gt;Professing and Cheering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/Belief-As-Attire"&gt;Belief as Attire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.readthesequences.com/Applause-Lights"&gt;Applause Lights&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It would be ideal if you read this beforehand and note your thoughts and
 questions, but feel free to turn up even if that is not the case! We will
@@ -2433,11 +2461,9 @@ Planning)&lt;/strong&gt;.
 TAP is a technique for changing habits or reaching goals. You choose a very
 specific external trigger and a very small action to do in reaction to that
 trigger.&lt;/p&gt;
-&lt;p&gt;If you did not participate in the meetup on &lt;a href="https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/"&gt;July 1st&lt;/a&gt;
- where we introduced TAPs it
-would be best if you read pages 44 to 56 of the &lt;a href="https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf" target="_blank" rel="noopener noreferrer"&gt;CFAR
-Handbook&lt;/a&gt;
- and try
+&lt;p&gt;If you did not participate in the meetup on &lt;a href="https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/"&gt;July 1st&lt;/a&gt; where we introduced TAPs it
+would be best if you read pages 44 to 56 of the &lt;a href="https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf"&gt;CFAR
+Handbook&lt;/a&gt; and try
 it for yourself for a few days before the meetup.&lt;/p&gt;
 &lt;p&gt;There will be snacks and drinks.&lt;/p&gt;
 &lt;div class="anchor"&gt;
@@ -2457,12 +2483,10 @@ development of tools for reaching personal goals.&lt;/p&gt;
 &lt;p&gt;You are worried you have nothing to contribute? No worries! Everyone is
 welcome!&lt;/p&gt;
 &lt;p&gt;Feel free to just turn up, but if you want to reach out or RSVP that would be
-even better &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt;
- .&lt;/p&gt;
+even better &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the
 people who turn up. Just come, we will figure it out!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/" target="_blank" rel="noopener noreferrer"&gt;https://www.rationality-freiburg.de/about/&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>Meetup July 1st 2022 - Sequences &amp; TAP Introduction</title><link>https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/</link><pubDate>Sat, 18 Jun 2022 17:36:48 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/</guid><description>&lt;p&gt;This event on
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/about/"&gt;https://www.rationality-freiburg.de/about/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Meetup July 1st 2022 - Sequences &amp; TAP Introduction</title><link>https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/</link><pubDate>Sat, 18 Jun 2022 17:36:48 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/</guid><description>&lt;p&gt;This event on
 &lt;a href="https://www.meetup.com/de-DE/rationality-freiburg/events/286652950/"&gt;meetup.com&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;This event on
 &lt;a href="https://www.lesswrong.com/events/nnQDttAijTXj6b5EG/freiburg-sequences-and-tap-introduction"&gt;lesswrong.com&lt;/a&gt; .&lt;/p&gt;
@@ -2485,7 +2509,10 @@ afterwards. In case of very bad weather we will look for an alternative venue,
 so please watch this site for updates or get in touch beforehand so we can
 reach out.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.openstreetmap.org/search?whereami=1&amp;amp;query=47.99764%252C7.85688"&gt;https://www.openstreetmap.org/search?whereami=1&amp;query=47.99764%252C7.85688&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/meetup-2022-07-01-sequences-tap-introduction/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;
+&lt;/p&gt;
 &lt;p&gt;Karlssteg, Stadtgarten, Freiburg
 (&lt;a href="https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
@@ -2562,7 +2589,10 @@ afterwards. In case of very bad weather we will look for an alternative venue,
 so please watch this site for updates or get in touch beforehand so we can
 reach out.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.openstreetmap.org/search?whereami=1&amp;amp;query=47.99764%252C7.85688"&gt;https://www.openstreetmap.org/search?whereami=1&amp;query=47.99764%252C7.85688&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/meetup-2022-06-17/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/meetup-2022-06-17/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;
+&lt;/p&gt;
 &lt;p&gt;Karlssteg, Stadtgarten, Freiburg (&lt;a href="https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -2631,7 +2661,10 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;We will meet on Friday, June 3rd 2022 at 17:00 pm CEST (German time) at the end of the bridge in the Stadtgarten in Freiburg. Afterwards we will sit with picnic blankets somewhere in the park, so even if you are late you can try finding us. We will carry a cardboard sign saying &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&amp;rdquo; . The meetup will finish at 19:00 pm CEST and we may go to get dinner afterwards.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.openstreetmap.org/search?whereami=1&amp;amp;query=47.99764%252C7.85688"&gt;https://www.openstreetmap.org/search?whereami=1&amp;query=47.99764%252C7.85688&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/meetup-2022-06-03/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/meetup-2022-06-03/karlssteg.jpg" alt="Karlssteg, Stadtgarten, Freiburg" title="Karlssteg, Stadtgarten, Freiburg"&gt;
+&lt;/p&gt;
 &lt;p&gt;Karlssteg, Stadtgarten, Freiburg (&lt;a href="https://commons.wikimedia.org/wiki/Category:Karlssteg?uselang=de#/media/File:Karlssteg1.jpg"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h2 id="what-will-we-do" id="what-will-we-do"&gt;What will we do?&lt;/h2&gt;
@@ -2674,14 +2707,10 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
 &lt;p&gt;Feel free to just turn up, but if you want to reach out or RSVP that would be even better &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the people who turn up. Just come, we will figure it out!&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Rationality Freiburg Welcome Meetup (May 13th)</title><link>https://www.rationality-freiburg.de/events/meetup-2022-05-13/</link><pubDate>Fri, 22 Apr 2022 13:52:32 +0200</pubDate><guid>https://www.rationality-freiburg.de/events/meetup-2022-05-13/</guid><description>&lt;p&gt;&lt;em&gt;Deutsche Version weiter unten.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Read a &lt;a href="https://www.rationality-freiburg.de/posts/summary-meetup-2022-05-13/" title="summary"&gt;summary&lt;/a&gt;
- of the event.&lt;/p&gt;
-&lt;p&gt;&lt;a href="freiburg-rationality-welcome-2022-05-13.ics"&gt;Download iCal (.ics) event&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.meetup.com/rationality-freiburg/events/285436952/" target="_blank" rel="noopener noreferrer"&gt;Find event on meetup.com&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.lesswrong.com/events/YyqngHiRrzFKrxfMK/rationality-freiburg-welcome-meetup" target="_blank" rel="noopener noreferrer"&gt;Find event on LessWrong&lt;/a&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Read a &lt;a href="https://www.rationality-freiburg.de/posts/summary-meetup-2022-05-13/" title="summary"&gt;summary&lt;/a&gt; of the event.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de/events/meetup-2022-05-13/freiburg-rationality-welcome-2022-05-13.ics"&gt;Download iCal (.ics) event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/rationality-freiburg/events/285436952/"&gt;Find event on meetup.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.lesswrong.com/events/YyqngHiRrzFKrxfMK/rationality-freiburg-welcome-meetup"&gt;Find event on LessWrong&lt;/a&gt;&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h1 id="english" id="english"&gt;English&lt;/h1&gt;
 &lt;a class="" href="#english" aria-label="Permalink: English"&gt;
@@ -2695,18 +2724,16 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
 &lt;p&gt;Rationality Freiburg is a meeting place for LessWrong or SSC readers as well as other people interested in Rationality. Rationality is the desire to see the world as it is, in particular using empirical sciences as well as the development of tools for reaching personal goals.&lt;/p&gt;
 &lt;p&gt;This meetup is intended to invite newcomers and anyone who is curious to see what this is all about. Come, have a look and you may be surprised!&lt;/p&gt;
 &lt;p&gt;There is no fixed agenda or structure other than talking and getting to know each other. If there is enough interest we will give an introduction to Bayesian thinking and how to apply it in your day-to-day life.&lt;/p&gt;
-&lt;p&gt;We will meet at 17:00 pm CEST (German time) at the Schwabentor in Freiburg and will walk up the Schloßberg to the Kanonenplatz and then decide where to go next. We will carry a sign saying &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de" target="_blank" rel="noopener noreferrer"&gt;www.rationality-freiburg.de&lt;/a&gt;
-&amp;rdquo;, so you can easily find us.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/129932309" target="_blank" rel="noopener noreferrer"&gt;https://www.openstreetmap.org/way/129932309&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Feel free to just turn up, but if you want to reach out or RSVP that would be even better &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt;
- .&lt;/p&gt;
+&lt;p&gt;We will meet at 17:00 pm CEST (German time) at the Schwabentor in Freiburg and will walk up the Schloßberg to the Kanonenplatz and then decide where to go next. We will carry a sign saying &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&amp;rdquo;, so you can easily find us.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/129932309"&gt;https://www.openstreetmap.org/way/129932309&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to just turn up, but if you want to reach out or RSVP that would be even better &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;We will decide on using German or English as the main language depending on the people who turn up. Just come, we will figure it out!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de" target="_blank" rel="noopener noreferrer"&gt;www.rationality-freiburg.de&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img class="image" src="https://www.rationality-freiburg.de/events/meetup-2022-05-13/schwabentor.jpg" alt="Schwabentor, Freiburg" title="Schwabentor, Freiburg"&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.rationality-freiburg.de/events/meetup-2022-05-13/schwabentor.jpg" alt="Schwabentor, Freiburg" title="Schwabentor, Freiburg"&gt;&lt;/p&gt;
-&lt;p&gt;Schwabentor, Freiburg (&lt;a href="https://de.wikipedia.org/wiki/Schwabentor_%28Freiburg_im_Breisgau%29#/media/Datei:Schwabentor_Freiburg.JPG" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;
-)&lt;/p&gt;
+&lt;p&gt;Schwabentor, Freiburg (&lt;a href="https://de.wikipedia.org/wiki/Schwabentor_%28Freiburg_im_Breisgau%29#/media/Datei:Schwabentor_Freiburg.JPG"&gt;source&lt;/a&gt;)&lt;/p&gt;
 &lt;div class="anchor"&gt;
 &lt;h1 id="deutsch" id="deutsch"&gt;Deutsch&lt;/h1&gt;
 &lt;a class="" href="#deutsch" aria-label="Permalink: Deutsch"&gt;
@@ -2720,12 +2747,8 @@ people who turn up. Just come, we will figure it out!&lt;/p&gt;
 &lt;p&gt;Rationality Freiburg ist ein Treffpunkt für LessWrong- oder SSC-Leser sowie für andere an Rationalität (Rationality) interessierte Menschen. Rationality ist der Wunsch, die Welt so zu sehen, wie sie ist, insbesondere mit Hilfe der empirischen Wissenschaften sowie der Entwicklung von Werkzeugen zur Erreichung persönlicher Ziele.&lt;/p&gt;
 &lt;p&gt;Dieses Treffen soll Neulinge und alle Neugierigen einladen, die wissen wollen, worum es hier geht. Kommt einfach, schaut euch um und lasst euch überraschen!&lt;/p&gt;
 &lt;p&gt;Es gibt keine feste Tagesordnung, sondern die Möglichkeit, miteinander zu reden und sich kennen zu lernen. Wenn genügend Interesse besteht, werden wir eine Einführung in das Bayes&amp;rsquo;sche Denken geben und zeigen, wie man es im täglichen Leben anwenden kann.&lt;/p&gt;
-&lt;p&gt;Wir treffen uns um 17:00 Uhr MESZ am Schwabentor in Freiburg und werden den Schloßberg hinauf zum Kanonenplatz gehen und dann entscheiden, wohin wir weitergehen. Wir werden ein Schild dabeihaben auf dem &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de" target="_blank" rel="noopener noreferrer"&gt;www.rationality-freiburg.de&lt;/a&gt;
-&amp;rdquo; steht, damit ihr uns problemlos findet.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/129932309" target="_blank" rel="noopener noreferrer"&gt;https://www.openstreetmap.org/way/129932309&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Ihr könnt einfach kommen, aber wenn ihr euch anmelden wollt, wäre das noch besser &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt;
- .&lt;/p&gt;
+&lt;p&gt;Wir treffen uns um 17:00 Uhr MESZ am Schwabentor in Freiburg und werden den Schloßberg hinauf zum Kanonenplatz gehen und dann entscheiden, wohin wir weitergehen. Wir werden ein Schild dabeihaben auf dem &amp;ldquo;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&amp;rdquo; steht, damit ihr uns problemlos findet.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/129932309"&gt;https://www.openstreetmap.org/way/129932309&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ihr könnt einfach kommen, aber wenn ihr euch anmelden wollt, wäre das noch besser &lt;a href="mailto:info@rationality-freiburg.de"&gt;info@rationality-freiburg.de&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;Wir werden uns für Deutsch oder Englisch als Hauptsprache entscheiden, je nachdem, welche Leute kommen. Kommt einfach, das klappt!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de" target="_blank" rel="noopener noreferrer"&gt;www.rationality-freiburg.de&lt;/a&gt;
-&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;a href="https://www.rationality-freiburg.de"&gt;www.rationality-freiburg.de&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
