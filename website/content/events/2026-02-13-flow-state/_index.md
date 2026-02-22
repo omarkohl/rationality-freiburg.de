@@ -20,6 +20,10 @@ outputs:
   - Calendar
 ---
 
+## Update 22.02
+
+* Slides: [2026-02-13-flow-state.pdf](./2026-02-13-flow-state.pdf)
+
 ## Preparation
 
 Previous knowledge is not required. Suggested reading:
