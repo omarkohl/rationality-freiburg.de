@@ -20,6 +20,10 @@ outputs:
   - Calendar
 ---
 
+## Update 04.03
+
+* Slides: [2026-02-27-extreme-inequality.pdf](./2026-02-27-extreme-inequality.pdf)
+
 ## Preparation
 
 None.

@@ -21,6 +21,10 @@ outputs:
 url: termine/2026-02-27-extreme-ungleichheit
 ---
 
+## Update 04.03
+
+* Folien: [2026-02-27-extreme-inequality.pdf](./2026-02-27-extreme-inequality.pdf)
+
 ## Vorbereitung
 
 Keine.
