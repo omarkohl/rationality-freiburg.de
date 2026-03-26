@@ -29,11 +29,9 @@ No preparation needed!
 
 ## What will we do?
 
-How do we know the distance to the moon? How did we discover the orbits of the planets? 
+This meetup broadly explores the topic of wealth and finance. Backed by data, the host is
+going to offer some ideas and encourage discussions. Some emphasis is going to be put on the topic of real estate.
 
-Beginning in the era of the greek philosophers and armed with the tools of their time, we are going to 
-deduce the scale of our solar system step by step -- and uncover some remarkable insights that laid 
-the foundation for our modern understanding.
 
 **IMPORTANT:** We will not and cannot give investment advice and cannot accept
 responsibility for your potential future losses. **None of us has any formal training 

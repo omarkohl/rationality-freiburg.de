@@ -30,11 +30,10 @@ Vorbereitung nicht nötig!
 
 ## Was machen wir?
 
-Woher wissen wir wie weit entfernt der Mond ist? Wie haben wir die Planetenbahnen entdeckt? 
+Dieses Meetup widmet sich im weiteren Sinne den Themen Vermögen und Finanzen. Auf Basis von 
+Daten wird der Gastgeber einige Ideen vorstellen und Diskussionen anregen. 
+Ein besonderer Schwerpunkt liegt dabei auf dem Thema Immobilien.
 
-Beginnend in der Antike und ausgerüstet mit den Werkzeugen ihrer Zeit, werden wir Schritt für Schritt die 
-Größenverhältnisse unseres Sonnensystems erschließen. Dabei werden wir auf einige bemerkenswerte Erkentnisse stoßen, 
-die das Fundament unseres heutigen Verständnisses gelegt haben.
 
 **WICHTIG:** Wir werden keine Anlageberatung geben können und können keine Verantwortung für 
 mögliche zukünftige Verluste übernehmen. Investieren birgt immer Risiken. **Keiner von uns hat eine 
