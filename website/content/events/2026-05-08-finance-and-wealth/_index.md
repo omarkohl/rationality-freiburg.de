@@ -62,6 +62,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Inflation adjusted historical growth of various economic metrics](cover.jpg "Inflation adjusted historical growth of various economic metrics")
+![Inflation adjusted historical growth of various economic metrics with annualised returns](cover.jpg "Inflation adjusted historical growth of various economic metrics with annualised returns")
 
 <small>Plot created from publicly available data.</small>

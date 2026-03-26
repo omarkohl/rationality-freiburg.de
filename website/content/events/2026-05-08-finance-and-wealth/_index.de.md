@@ -58,6 +58,6 @@ Nach dem Meetup gehen wir gemeinsam essen. Wer Zeit hat, ist herzlich eingeladen
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Historischer Inflationsbereinigter Wachstum von verschiedenen Wirtschaftsindikatoren](cover.jpg "Historischer Inflationsbereinigter Wachstum von verschiedenen Wirtschaftsindikatoren")
+![Historischer Inflationsbereinigter Wachstum von verschiedenen Wirtschaftsindikatoren mit annualisierten Erträgen](cover.jpg "Historischer Inflationsbereinigter Wachstum von verschiedenen Wirtschaftsindikatoren mit annualisierten Erträgen")
 
 <small>Graph erstellt mit öffentlich zugänglichen Daten.</small>
