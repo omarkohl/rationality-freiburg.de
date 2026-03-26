@@ -62,6 +62,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Flammarion engraving, Paris 1888](cover.jpg "Flammarion engraving, Paris 1888")
+![Inflation adjusted historical growth of various economic metrics](cover.jpg "Inflation adjusted historical growth of various economic metrics")
 
-<small>Image sourced from wikipedia.</small>
+<small>Plot created from publicly available data.</small>

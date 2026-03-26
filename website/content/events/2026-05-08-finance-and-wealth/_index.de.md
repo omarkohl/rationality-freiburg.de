@@ -58,6 +58,6 @@ Nach dem Meetup gehen wir gemeinsam essen. Wer Zeit hat, ist herzlich eingeladen
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Flammarions Holzstich, Paris 1888](cover.jpg "Flammarions Holzstich, Paris 1888")
+![Historischer Inflationsbereinigter Wachstum von verschiedenen Wirtschaftsindikatoren](cover.jpg "Historischer Inflationsbereinigter Wachstum von verschiedenen Wirtschaftsindikatoren")
 
-<small>Bild entnommen von Wikipedia.</small>
+<small>Graph erstellt mit öffentlich zugänglichen Daten.</small>
