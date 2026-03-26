@@ -36,6 +36,10 @@ Beginnend in der Antike und ausgerüstet mit den Werkzeugen ihrer Zeit, werden w
 Größenverhältnisse unseres Sonnensystems erschließen. Dabei werden wir auf einige bemerkenswerte Erkentnisse stoßen, 
 die das Fundament unseres heutigen Verständnisses gelegt haben.
 
+**WICHTIG:** Wir werden keine Anlageberatung geben können und können keine Verantwortung für 
+mögliche zukünftige Verluste übernehmen. Investieren birgt immer Risiken. **Keiner von uns hat eine 
+formale Ausbildung in Bankwesen, Finanzen oder Wirtschaft. Wir sind keine Finanzberater!**
+
 
 ## Organisation
 

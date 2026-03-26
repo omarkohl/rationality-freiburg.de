@@ -35,6 +35,10 @@ Beginning in the era of the greek philosophers and armed with the tools of their
 deduce the scale of our solar system step by step -- and uncover some remarkable insights that laid 
 the foundation for our modern understanding.
 
+**IMPORTANT:** We will not and cannot give investment advice and cannot accept
+responsibility for your potential future losses. **None of us has any formal training 
+in banking, finances or economics. We are not financial advisors!**
+
 
 ## Organization
 
