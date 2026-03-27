@@ -60,6 +60,8 @@ einem etwas anderen Charakter.
 
 ### Ablauf
 
+Öffne das [Übungsdokument](https://docs.google.com/document/d/1_0PCrU9hnNoXH6dK9wBIZoLNd_9rYgjSHBPJAwvWe1Q/edit?usp=sharing), um mitzumachen ([PDF-Version](planmaking-exercise.pdf)).
+
 1. Du bekommst ein Level eines Puzzle-Videospiels, das du noch nie gespielt
    hast.
 2. Anstatt herumzuprobieren und das Spiel so zu spielen, wie du es

@@ -57,6 +57,8 @@ somewhat different flavor.
 
 ### Format
 
+Open the [exercise document](https://docs.google.com/document/d/1_0PCrU9hnNoXH6dK9wBIZoLNd_9rYgjSHBPJAwvWe1Q/edit?usp=sharing) to follow along ([PDF version](planmaking-exercise.pdf)).
+
 1. You'll be given a puzzle video game level, which you haven't played before.
 2. Instead of fiddling around, playing with the game the way you might normally
    do... you will just look at the screen, and make a complete plan for solving
