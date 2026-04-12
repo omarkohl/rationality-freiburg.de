@@ -27,6 +27,7 @@ the blog get together. Please join even if you are not (yet) a fan!
 
 Read at least one of the following articles, preferably two:
 
+* [Being John Rawls](https://www.astralcodexten.com/p/being-john-rawls)
 * [The Fatima Sun Miracle: Much More Than You Wanted To Know](https://www.astralcodexten.com/p/the-fatima-sun-miracle-much-more)
 * [The Colors Of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)

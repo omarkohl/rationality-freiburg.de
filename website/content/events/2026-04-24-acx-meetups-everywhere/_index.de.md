@@ -29,6 +29,7 @@ bist!
 
 Lies mindestens einen der folgenden Artikel, am besten zwei:
 
+* [(Englisch) Being John Rawls](https://www.astralcodexten.com/p/being-john-rawls)
 * [(Englisch) The Fatima Sun Miracle: Much More Than You Wanted To Know](https://www.astralcodexten.com/p/the-fatima-sun-miracle-much-more)
 * [(Englisch) The Colors Of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [(Englisch) The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
