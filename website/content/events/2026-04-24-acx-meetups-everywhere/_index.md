@@ -32,6 +32,12 @@ Read at least one of the following articles, preferably two:
 * [The Colors Of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 
+There is an [official podcast](https://sscpodcast.libsyn.com/) where someone reads the blog posts aloud — available on Spotify, Apple Podcasts, and other platforms. Podcast episodes for the articles above (except "Being John Rawls" which has not been recorded yet):
+
+* [The Fatima Sun Miracle (podcast)](https://sscpodcast.libsyn.com/the-fatima-sun-miracle-much-more-than-you-wanted-to-know)
+* [The Colors Of Her Coat (podcast)](https://sscpodcast.libsyn.com/the-colors-of-her-coat)
+* [The Dilbert Afterlife (podcast)](https://sscpodcast.libsyn.com/the-dilbert-afterlife)
+
 Bring written answers to the following questions:
 
 * This I already **knew**

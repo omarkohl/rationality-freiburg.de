@@ -34,6 +34,12 @@ Lies mindestens einen der folgenden Artikel, am besten zwei:
 * [(Englisch) The Colors Of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [(Englisch) The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 
+Es gibt einen [offiziellen Podcast](https://sscpodcast.libsyn.com/), in dem die Blogartikel vorgelesen werden – verfügbar auf Spotify, Apple Podcasts und anderen Plattformen. Podcast-Episoden für die obigen Artikel (außer „Being John Rawls", das noch nicht aufgenommen wurde):
+
+* [(Englisch) The Fatima Sun Miracle (Podcast)](https://sscpodcast.libsyn.com/the-fatima-sun-miracle-much-more-than-you-wanted-to-know)
+* [(Englisch) The Colors Of Her Coat (Podcast)](https://sscpodcast.libsyn.com/the-colors-of-her-coat)
+* [(Englisch) The Dilbert Afterlife (Podcast)](https://sscpodcast.libsyn.com/the-dilbert-afterlife)
+
 Bring schriftliche Antworten zu folgenden Fragen mit:
 
 * Das wusste ich bereits **vorher**
