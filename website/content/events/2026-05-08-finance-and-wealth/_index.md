@@ -1,5 +1,5 @@
 ---
-title: "Finance and Wealth"
+title: "Wealth and the Monetary System"
 date: 2026-03-26T17:01:28+02:00
 eventStart: 2026-05-08T18:00:00+02:00
 eventEnd: 2026-05-08T20:30:00+02:00
@@ -29,9 +29,13 @@ No preparation needed!
 
 ## What will we do?
 
-This meetup broadly explores the topic of wealth and finance. Backed by data, the host is
-going to offer some ideas and encourage discussions. Some emphasis is going to be put on the topic of real estate.
+What is wealth?
+How is it created and how is it destroyed?
+How is it distributed?
+What does the monetary system have to do with it?
 
+We will explore these questions together during the meetup. The host (not an expert) will
+present a few basic economic concepts and encourage discussions.
 
 **IMPORTANT:** We will not and cannot give investment advice and cannot accept
 responsibility for your potential future losses. **None of us has any formal training 

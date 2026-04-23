@@ -1,5 +1,5 @@
 ---
-title: "Finanzen und Vermögen"
+title: "Reichtum und das Geldsystem"
 date: 2026-03-26T17:01:28+02:00
 eventStart: 2026-05-08T18:00:00+02:00
 eventEnd: 2026-05-08T20:30:00+02:00
@@ -30,10 +30,13 @@ Vorbereitung nicht nötig!
 
 ## Was machen wir?
 
-Dieses Meetup widmet sich im weiteren Sinne den Themen Vermögen und Finanzen. Auf Basis von 
-Daten wird der Gastgeber einige Ideen vorstellen und Diskussionen anregen. 
-Ein besonderer Schwerpunkt liegt dabei auf dem Thema Immobilien.
+Was ist Reichtum?
+Wie wird es kreiert und wie wird es zerstört? 
+Wie ist es verteilt?
+Was hat das Geldsystem damit zu tun?
 
+Diesen Fragen werden wir während des Meetups gemeinsam auf den Grund gehen. Der Gastgeber (kein Experte) wird
+ein paar Grundlegende Wirtschaftskonzepte vorstellen und Diskussionen anregen.
 
 **WICHTIG:** Wir werden keine Anlageberatung geben können und können keine Verantwortung für 
 mögliche zukünftige Verluste übernehmen. Investieren birgt immer Risiken. **Keiner von uns hat eine 
