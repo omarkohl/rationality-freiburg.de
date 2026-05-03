@@ -10,7 +10,8 @@ meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, July 31st 2026 at 18:00 hours CEST."
 eventHost:
-  - Omar
+  - Céline
+  - Nawid
 eventType:
   - social
 layout: single
@@ -36,7 +37,7 @@ There always is a mix of German and English speakers and we configure the
 discussion rounds so that everyone feels comfortable participating. The primary
 language is English.
 
-This meetup will be hosted by Omar.
+This meetup will be hosted by Céline and Nawid.
 
 There will be snacks and drinks.
 

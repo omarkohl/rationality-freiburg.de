@@ -8,7 +8,7 @@ meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
 description: "Wo: Freiburg. Wann: Sonntag, 5. Juli 2026."
 eventHost:
-  - Omar
+  - Céline
 eventType:
   - social
 layout: single
