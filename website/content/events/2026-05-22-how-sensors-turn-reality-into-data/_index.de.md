@@ -3,6 +3,8 @@ title: "Wie Sensoren Realität in Daten verwandeln"
 description: "Eine leicht verständliche Einführung in Sensorik, Messung, halbleiterbasierte Sensoren und den wachsenden Sensormarkt."
 slug: "wie-sensoren-realitaet-in-daten-verwandeln"
 date: 2026-05-22T18:00:00+02:00
+eventStart: 2026-05-22T18:00:00+02:00
+eventEnd: 2026-05-22T20:30:00+02:00
 draft: false
 location: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 cover: "Cover.png"
