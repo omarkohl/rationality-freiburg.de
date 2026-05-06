@@ -1,6 +1,6 @@
 ---
 title: "Wie Sensoren Realität in Daten verwandeln"
-date: 2026-05-22T18:00:00+02:00
+date: 2026-05-06T00:00:00+02:00
 eventStart: 2026-05-22T18:00:00+02:00
 eventEnd: 2026-05-22T20:30:00+02:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
@@ -46,7 +46,7 @@ Themen sind unter anderem:
 Dies ist ein sehr grundlegender und leicht verständlicher Vortrag. Es sind keine technischen Vorkenntnisse erforderlich.
 
 
-## Organization
+## Organisation
 
 Du denkst, du kannst nichts beitragen? Kein Problem! Alle sind willkommen!
 
@@ -63,7 +63,7 @@ Nach dem Meetup gehen wir gemeinsam essen. Wer Zeit hat, ist herzlich eingeladen
 <small>In der obigen Karte ist der Fahrradabstellbereich blau markiert und der Eingang (am Ende der Metallrampe) mit einem roten Kreuz gekennzeichnet.</small>
 
 
-## Other
+## Sonstiges
 
 [Mehr über uns erfahren]({{< ref "about" >}}).
 

@@ -1,6 +1,6 @@
 ---
 title: "How Sensors Turn Reality into Data"
-date: 2026-05-22T18:00:00+02:00
+date: 2026-05-06T00:00:00+02:00
 eventStart: 2026-05-22T18:00:00+02:00
 eventEnd: 2026-05-22T20:30:00+02:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
@@ -66,6 +66,6 @@ We will go and get dinner after the meetup. Anyone who has time is welcome to jo
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Sensor illustration](Cover.jpg "Example illustration related to sensing")
+![Sensor illustration](Cover.png "Example illustration related to sensing")
 
 <small>Image for illustrative purposes.</small>
