@@ -26,6 +26,9 @@ outputs:
 
 No preparation needed!
 
+## Update 09.05
+
+* Slides: [Wealth.pdf](./Wealth.pdf)
 
 ## What will we do?
 

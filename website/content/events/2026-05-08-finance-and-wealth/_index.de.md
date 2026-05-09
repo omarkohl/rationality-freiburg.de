@@ -27,6 +27,9 @@ url: termine/2026-05-08-finanzen-vermögen
 
 Vorbereitung nicht nötig!
 
+## Update 09.05
+
+* Folien: [Wealth.pdf](./Wealth.pdf)
 
 ## Was machen wir?
 
