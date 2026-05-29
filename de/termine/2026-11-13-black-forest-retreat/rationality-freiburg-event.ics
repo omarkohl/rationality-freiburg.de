@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260529T000000
+ORGANIZER;CN="Rationality Freiburg":mailto:info@rationality-freiburg.de
+STATUS:CONFIRMED
+UID:20261113T180000@rationality-freiburg.de
+DTSTART;TZID=Europe/Berlin:20261113T180000
+DTEND;TZID=Europe/Berlin:20261115T180000
+SUMMARY:Black Forest Retreat 2026 (Geschlossenes Meetup)
+DESCRIPTION:English: https://www.rationality-freiburg.de/events/2026-11-13-black-forest-retreat/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2026-11-13-black-forest-retreat/\n
+LOCATION:Schwarzwald-Chalet Ferienhaus Scheuermatthof, Ennerbachstraße 38, 79674 Todtnauberg
+GEO:47.84959376904894;7.948933543100189
+URL:https://www.rationality-freiburg.de/de/termine/2026-11-13-black-forest-retreat/
+END:VEVENT
+END:VCALENDAR
