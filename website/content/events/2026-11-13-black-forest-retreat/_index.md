@@ -76,4 +76,4 @@ Please bring your own bed linen (fitted sheet, duvet cover, and pillowcase) and 
 
 ![Rationality Black Forest Retreat](cover.png "Rationality Black Forest Retreat")
 
-<small>Image generated with _GPT 4o_.</small>
+<small>Image generated with _Gemini_.</small>

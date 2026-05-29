@@ -75,4 +75,4 @@ Bitte bring deine eigene Bettwäsche (Spannbettlaken, Bettbezug und Kissenbezug)
 
 ![Rationality Black Forest Retreat](cover.png "Rationality Black Forest Retreat")
 
-<small>Bild generiert mit _KI_.</small>
+<small>Bild generiert mit _Gemini_.</small>
