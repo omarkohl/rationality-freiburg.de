@@ -51,7 +51,7 @@ Wir starten am Freitagabend mit flexibler Ankunft ab 18:00 Uhr. Am Sonntag führ
 
 ## Was soll ich mitbringen?
 
-Bitte bring deine eigene Bettwäsche (Spannbettlaken, Bettbezug und Kissenbezug) sowie Handtücher mit, da diese nicht bereitgestellt werden. Ansonsten brauchst du nur Neugier und gute Laune!
+Bitte bring deine eigene Bettwäsche (Spannbettlaken, Bettbezug und Kissenbezug) sowie Handtücher mit. Alternativ kannst du komplette Bettwäsche (12€ pro Person: Spannbettlaken, Bettbezug und Kissenbezug) und Handtücher (ein großes, ein kleines: 4€ pro Person) buchen. Ansonsten brauchst du nur Neugier und gute Laune!
 
 ## Anmeldung
 

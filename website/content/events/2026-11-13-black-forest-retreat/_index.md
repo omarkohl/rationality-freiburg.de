@@ -52,7 +52,7 @@ We will start Friday late afternoon with flexible arrival from 18:00. On Sunday,
 
 ## Do I need to bring anything?
 
-Please bring your own bed linen (fitted sheet, duvet cover, and pillowcase) and towels, as these are not provided. Apart from this, just curiosity and good mood is needed!
+Please bring your own bed linen (fitted sheet, duvet cover, and pillowcase) and towels. Alternatively, you can book complete bed linen (12€ per person: fitted sheet, duvet cover, and pillowcase) and towels (one big, one small: 4€ per person). Apart from this, just curiosity and good mood is needed!
 
 ## Registration
 
