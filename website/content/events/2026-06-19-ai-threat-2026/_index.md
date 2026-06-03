@@ -72,4 +72,4 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 ![Two Futures](cover.png "Two Futures")
 
-<small>Image generated with Midjurney.</small>
+<small>Image generated with Midjourney.</small>

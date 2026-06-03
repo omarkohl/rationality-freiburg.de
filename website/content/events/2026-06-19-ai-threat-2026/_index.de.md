@@ -75,4 +75,4 @@ blau markiert, und der Eingang (am Ende der Metallrampe) mit einem roten Kreuz.<
 
 ![Two Futures](cover.png "Two Futures")
 
-<small>Bild generiert mit Midjurney.</small>
+<small>Bild generiert mit Midjourney.</small>
