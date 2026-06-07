@@ -23,11 +23,17 @@ url: termine/2026-07-03-manosphere-masculinity
 
 ## Vorbereitung
 
-TODO
+Lesematerial wird hier vor der Veranstaltung geteilt. Falls du keine Zeit hattest, im Voraus zu lesen, mach dir keine Sorgen — wir werden vor Ort Zeit zum Lesen haben.
 
 ## Was werden wir tun?
 
-TODO
+In den letzten Jahrzehnten hat sich die Rolle der Männer rasch verändert, zumindest in der westlichen Industriewelt. Die überwiegende Mehrheit dieser Veränderungen hat einen netto positiven Effekt auf die Gesellschaft gehabt, dennoch haben sie viele Männer verwirrt und orientierungslos zurückgelassen. Manche dieser Männer wenden sich zweifelhaften Ratgebern zu, die behaupten, ihrem Leben wieder einen Sinn geben zu können, während sie gefährliche Parolen verbreiten. Diese Online-Community aus Ratgebern, Influencern und deren Netzwerken wird oft als _The Manosphere_ bezeichnet.
+
+Beim Treffen werden wir gemeinsam erkunden, wie sich Männlichkeit verändert hat, wie _The Manosphere_ Männer und die Gesellschaft beeinflusst, und welche Alternativen existieren, die Männer unterstützen, ohne die gesellschaftlichen Fortschritte zu opfern.
+
+Die Veranstaltung beginnt mit einer kurzen Präsentation zur Einführung in das Thema, gefolgt von Diskussionsrunden in Kleingruppen zu vorgeschlagenen Fragen.
+
+Die explizite Rahmung der Veranstaltung ist, dass schädliche Handlungen und Worte verurteilt werden müssen, doch Menschen, die leiden, verdienen Unterstützung, und es ist in der Regel nicht produktiv, das Leid verschiedener Gruppen miteinander zu vergleichen oder gegeneinander aufzuwiegen.
 
 ## Organisation
 

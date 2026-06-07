@@ -22,11 +22,17 @@ outputs:
 
 ## Preparation
 
-TODO
+Reading material will be shared here before the event. If you haven't had a chance to read ahead of time, don't worry — we'll have time to do some reading on-site.
 
 ## What will we do?
 
-TODO
+In the last decades the role of men has changed rapidly, at least in the Western industrialized world. The vast majority of these changes have had a net positive effect on society, nonetheless, they have left many men confused and adrift. Some of these men are turning to questionable advisors that claim they can give back meaning to their lives, while spouting dangerous slogans. This online community of advisors, influencers and their network is often known as _The Manosphere_.
+
+During the meetup we will jointly explore how masculinity has changed, how _The Manosphere_ affects men and society, and what alternatives exist that support men without sacrificing the advances we have made as a society.
+
+The session will begin with a short presentation to introduce the topic, followed by small-group discussion rounds on suggested questions.
+
+The explicit framing of the event is that harmful actions and words must be condemned, yet people who are in pain deserve support and it is usually not productive to compare or pit the suffering of different groups against each other.
 
 ## Organization
 
