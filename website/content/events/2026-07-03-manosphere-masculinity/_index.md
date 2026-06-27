@@ -22,7 +22,15 @@ outputs:
 
 ## Preparation
 
-Reading material will be shared here before the event. If you haven't had a chance to read ahead of time, don't worry — we'll have time to do some reading on-site.
+Read or watch at least one of the following, preferably two:
+
+- [Untitled](https://slatestarcodex.com/2015/01/01/untitled/)
+- [Your Review: Dating Men In The Bay Area](https://www.astralcodexten.com/p/your-review-dating-men-in-the-bay) (also available as a [podcast](https://sscpodcast.libsyn.com/your-review-dating-men-in-the-bay-area))
+- [Louis Theroux: Inside the Manosphere](https://www.netflix.com/title/81920687) _(requires Netflix access)_
+- [The Camps Promising to Turn You — or Your Son — Into an Alpha Male](https://www.newyorker.com/magazine/2026/04/06/the-camps-promising-to-turn-you-or-your-son-into-an-alpha-male) _(possibly paywalled)_
+- [Our incel problem](https://www.vox.com/the-highlight/2019/4/16/18287446/incel-definition-reddit) _(possibly paywalled)_
+
+If you did not have time to read anything at all, don't worry — at the start of the meetup we will set aside time to read selected sections from _Your Review: Dating Men In The Bay Area_: "I. The Men Are Not Alright", "III. Patterns Within the Pain", "The man who opts out", and "The man who becomes a beast". You can join the discussion after that. Everyone else will dive straight into the discussions.
 
 ## What will we do?
 

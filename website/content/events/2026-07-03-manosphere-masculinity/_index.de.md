@@ -23,7 +23,15 @@ url: termine/2026-07-03-manosphere-masculinity
 
 ## Vorbereitung
 
-Lesematerial wird hier vor der Veranstaltung geteilt. Falls du keine Zeit hattest, im Voraus zu lesen, mach dir keine Sorgen — wir werden vor Ort Zeit zum Lesen haben.
+Lies oder schau mindestens eines der folgenden, am besten zwei:
+
+- [Untitled](https://slatestarcodex.com/2015/01/01/untitled/)
+- [Your Review: Dating Men In The Bay Area](https://www.astralcodexten.com/p/your-review-dating-men-in-the-bay) (auch als [Podcast](https://sscpodcast.libsyn.com/your-review-dating-men-in-the-bay-area) verfügbar)
+- [Louis Theroux: Inside the Manosphere](https://www.netflix.com/title/81920687) _(erfordert Netflix-Zugang)_
+- [The Camps Promising to Turn You — or Your Son — Into an Alpha Male](https://www.newyorker.com/magazine/2026/04/06/the-camps-promising-to-turn-you-or-your-son-into-an-alpha-male) _(möglicherweise hinter einer Paywall)_
+- [Our incel problem](https://www.vox.com/the-highlight/2019/4/16/18287446/incel-definition-reddit) _(möglicherweise hinter einer Paywall)_
+
+Falls du überhaupt keine Zeit hattest, etwas zu lesen, mach dir keine Sorgen — zu Beginn des Treffens werden wir Zeit einplanen, um ausgewählte Abschnitte aus _Your Review: Dating Men In The Bay Area_ zu lesen: „I. The Men Are Not Alright", „III. Patterns Within the Pain", „The man who opts out" und „The man who becomes a beast". Danach kannst du an der Diskussion teilnehmen. Alle anderen steigen direkt in die Diskussionen ein.
 
 ## Was werden wir tun?
 
