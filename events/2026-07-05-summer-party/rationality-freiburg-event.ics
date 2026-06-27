@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Berlin:20260705T150000
 DTEND;TZID=Europe/Berlin:20260705T190000
 SUMMARY:Summer Party
 DESCRIPTION:English: https://www.rationality-freiburg.de/events/2026-07-05-summer-party/\nDeutsch: https://www.rationality-freiburg.de/de/termine/2026-07-05-sommerparty/\n
-LOCATION:Freiburg
-
+LOCATION:Stadtgarten, Freiburg
+GEO:47.99764;7.85688
 URL:https://www.rationality-freiburg.de/events/2026-07-05-summer-party/
 END:VEVENT
 END:VCALENDAR
