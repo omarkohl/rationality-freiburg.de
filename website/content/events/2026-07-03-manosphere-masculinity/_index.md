@@ -67,6 +67,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Rationality Freiburg Meetup](cover.png "Rationality Freiburg Meetup")
+![People sitting around a table with a statue of a caricature of a "real man"](cover.png "People sitting around a table with a statue of a caricature of a \"real man\"")
 
 <small>Image generated with _Gemini_.</small>

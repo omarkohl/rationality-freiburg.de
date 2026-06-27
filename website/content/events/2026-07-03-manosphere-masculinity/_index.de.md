@@ -63,6 +63,6 @@ Wir werden nach dem Treffen zum Abendessen gehen. Jeder, der Zeit hat, ist herzl
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Rationality Freiburg Meetup](cover.png "Rationality Freiburg Meetup")
+![Menschen sitzen um einen Tisch mit einer Statue einer Karikatur eines "echten Mannes"](cover.png "Menschen sitzen um einen Tisch mit einer Statue einer Karikatur eines \"echten Mannes\"")
 
 <small>Bild generiert mit _Gemini_.</small>

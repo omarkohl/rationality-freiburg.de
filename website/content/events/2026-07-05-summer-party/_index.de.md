@@ -46,6 +46,6 @@ Wir freuen uns darauf, mit dir zu feiern!
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Rationality Freiburg Meetup](cover.png "Rationality Freiburg Meetup")
+![Abstrakte Illustration eines Parkpicknicks](cover.png "Abstrakte Illustration eines Parkpicknicks")
 
 <small>Bild generiert mit _Gemini_.</small>
