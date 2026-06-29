@@ -25,8 +25,9 @@ None.
 
 ## What will we do?
 
-Come and celebrate 100 events and over 4 years of Rationality Freiburg with us.
-There will be cake. More details to follow.
+Come and celebrate 100 events and over 4 years of Rationality Freiburg with us!
+True to our traditions, this will not just be a party — we will have actual
+exercises and discussions. But there will also be time to eat cake and chat.
 
 ## Organization
 
@@ -41,8 +42,8 @@ This meetup will be hosted by Omar.
 
 There will be snacks and drinks.
 
-We will go and get dinner after the meetup. Anyone who has time is welcome to
-join.
+We will go and get dinner after the meetup. Please try to join if at all
+possible — it is a special occasion!
 
 ![Location (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
 

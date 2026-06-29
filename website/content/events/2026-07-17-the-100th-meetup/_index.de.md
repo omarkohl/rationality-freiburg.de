@@ -27,7 +27,9 @@ Keine.
 ## Was werden wir tun?
 
 Kommt und feiert mit uns 100 Veranstaltungen und über 4 Jahre Rationality
-Freiburg. Es wird Kuchen geben. Weitere Details folgen.
+Freiburg! Unseren Traditionen treu, wird das kein reines Partymeetup — es wird
+echte Übungen und Diskussionen geben. Aber natürlich wird auch Zeit sein, Kuchen
+zu essen und zu plaudern.
 
 ## Organisation
 
@@ -39,7 +41,8 @@ Dieses Meetup wird von Omar moderiert.
 
 Es gibt Snacks und Getränke.
 
-Nach dem Meetup gehen wir gemeinsam essen. Wer Zeit hat, ist herzlich eingeladen, mitzukommen.
+Nach dem Meetup gehen wir gemeinsam essen. Bitte versucht mitzukommen, wenn
+irgendwie möglich — es ist ein besonderer Anlass!
 
 ![Ort (Veranstaltungsraum, Haus des Engagements)](/images/hde-new-building-2.png)
 
