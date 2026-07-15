@@ -22,11 +22,11 @@ outputs:
 
 ## Preparation
 
-TODO
+No preparation needed!
 
 ## What will we do?
 
-TODO
+Join us for a diy pub-quiz with the opportunity learn something new and to win a small price!
 
 ## Organization
 
