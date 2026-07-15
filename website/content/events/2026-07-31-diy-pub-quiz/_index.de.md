@@ -23,11 +23,11 @@ url: termine/2026-07-31-diy-pub-quiz
 
 ## Vorbereitung
 
-TODO
+Vorbereitung nicht nötig!
 
 ## Was werden wir tun?
 
-TODO
+Mach mit bei unserem Pub Quiz und ergreife die Möglichkeit etwas neues zu lernen und einen kleinen Preis zu gewinnen!
 
 ## Organisation
 
