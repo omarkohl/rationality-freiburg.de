@@ -31,6 +31,8 @@ Freiburg! Unseren Traditionen treu, wird das kein reines Partymeetup — es wird
 echte Übungen und Diskussionen geben. Aber natürlich wird auch Zeit sein, Kuchen
 zu essen und zu plaudern.
 
+Als Teil der Übungen werden wir gemeinsam [A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics) während der Veranstaltung lesen.
+
 ## Organisation
 
 Du machst dir Sorgen, dass du nichts beitragen kannst? Keine Sorge! Jede*r ist willkommen!

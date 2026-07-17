@@ -29,6 +29,8 @@ Come and celebrate 100 events and over 4 years of Rationality Freiburg with us!
 True to our traditions, this will not just be a party — we will have actual
 exercises and discussions. But there will also be time to eat cake and chat.
 
+As part of the exercises, we will read [A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics) together during the event.
+
 ## Organization
 
 You are worried you have nothing to contribute? No worries! Everyone is
