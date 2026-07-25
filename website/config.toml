@@ -1,5 +1,5 @@
 baseURL = 'https://www.rationality-freiburg.de/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Rationality Freiburg'
 theme = 'zen'
 defaultContentLanguage = 'en'
@@ -29,8 +29,8 @@ unsafe = true # enable html in markdown
 
   [languages.en]
     weight = 1
-    languageName = "English"
-    languageCode = "en-US"
+    label = "English"
+    locale = "en-US"
 
     [languages.en.menus]
     [[languages.en.menus.main]]
@@ -52,8 +52,8 @@ unsafe = true # enable html in markdown
 
   [languages.de]
     weight = 2
-    languageName = "Deutsch"
-    languageCode = "de-DE"
+    label = "Deutsch"
+    locale = "de-DE"
 
     [languages.de.permalinks]
       events = "termine/:slug"
