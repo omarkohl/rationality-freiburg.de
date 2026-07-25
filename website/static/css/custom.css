@@ -2,6 +2,13 @@
   margin-bottom: 0;
 }
 
+/* The theme's dark-mode link hover color (--color-brand-400) is nearly
+black, making hovered links unreadable against the dark background. Use a
+lighter shade of the brand ramp instead. */
+:root {
+  --color-link-hover: light-dark(var(--color-brand-200), var(--color-brand-100));
+}
+
 .main-menu {
   margin-top: 0;
 }
@@ -13,6 +20,15 @@
 
 .events h2 {
     margin-bottom: 5px;
+}
+
+/* .layout__main is a grid container, so a heading and the list below it
+(both direct grid items) don't collapse margins: the heading's own bottom
+margin and the first item's default top margin both apply, doubling the
+gap. Remove the escaped top margin from just the first item so only the
+heading's margin controls the spacing. */
+h1.title + .list-view .title {
+    margin-block-start: 0;
 }
 
 .list-view h2 {
@@ -78,9 +94,9 @@ blockquote p, blockquote ul {
 aside {
     margin-top: 20px;
     padding: 0px 20px;
-    border: 1px solid #ddd;
+    border: 1px solid var(--color-border-light);
     border-radius: 5px;
-    background-color: #f9f9f9;
+    background-color: light-dark(var(--color-grey-100), var(--color-grey-800));
 }
 aside h2 {
     margin-bottom: 5px;
@@ -111,6 +127,11 @@ aside #TableOfContents ul li a {
     list-style: none;
     padding: 0;
     margin-top: 0;
+    /* On pages where breadcrumbs is a direct grid item (e.g. the home and
+    events list pages), a child's default bottom margin can't collapse
+    through and is otherwise trapped inside, doubling the visual gap above
+    the next heading compared to single-page templates. */
+    margin-bottom: 0;
 }
 
 .breadcrumbs ol li {
@@ -144,6 +165,13 @@ aside #TableOfContents ul li a {
 
 ul.calendar-links {
     margin-top: 12px;
+    /* .events is a grid container, so grid items (the <article> event
+    summaries) don't collapse margins with their siblings; without this,
+    the browser's default <ul> bottom margin escapes through the
+    unstyled wrapper divs and adds stray space after each upcoming event
+    and above the "Past Events" heading, unlike past events which have
+    no calendar-links block. */
+    margin-bottom: 0;
 }
 
 .content ul.calendar-links li::before {
@@ -152,16 +180,33 @@ ul.calendar-links {
 }
 
 .content ul.calendar-links a, .calendar-links a {
-    color: #333;
-    text-decoration: none;
-    background: #f0f0f0;
-    padding: 8px 12px;
-    border-radius: 5px;
     font-size: 0.9em;
 }
 
-.content ul.calendar-links a:hover, .calendar-links a:hover {
-    background: #ddd;
+/* The theme's .button style uses a gradient background and inset shadow
+that read as skeuomorphic/3d; flatten it here to match the site's minimal
+look, and use theme colors so it stays legible in dark mode. */
+.calendar-links .button {
+    background: light-dark(var(--color-grey-100), var(--color-grey-800));
+    color: var(--color-text);
+    border: none;
+}
+
+.calendar-links .button:hover,
+.calendar-links .button:focus-visible {
+    background: light-dark(var(--color-grey-200), var(--color-grey-700));
+    color: var(--color-text);
+}
+
+.calendar-links .button:active {
+    box-shadow: none;
+}
+
+/* Pagination (the numbered page list at the bottom of paginated lists) is a
+plain <ul>; without list-style reset, browsers render default bullet points
+alongside the «« / » arrows and page numbers. */
+.pagination {
+    list-style: none;
 }
 
 @media (max-width: 600px) {

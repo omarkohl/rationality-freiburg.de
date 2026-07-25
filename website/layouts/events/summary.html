@@ -11,18 +11,18 @@
   <div>
     <ul class="calendar-links">
       <li>
-        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Rationality Freiburg: {{ .Title }}&dates={{ ($.Param "eventStart" | time.AsTime).UTC.Format "20060102T150405Z" }}/{{ ($.Param "eventEnd" | time.AsTime).UTC.Format "20060102T150405Z" }}&details={{ .Permalink }}&location={{ $.Param "eventLocation" }}&sf=true&output=xml" target="_blank">
+        <a class="button button--small" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Rationality Freiburg: {{ .Title }}&dates={{ ($.Param "eventStart" | time.AsTime).UTC.Format "20060102T150405Z" }}/{{ ($.Param "eventEnd" | time.AsTime).UTC.Format "20060102T150405Z" }}&details={{ .Permalink }}&location={{ $.Param "eventLocation" }}&sf=true&output=xml" target="_blank">
         {{ i18n "Add to Google Calendar" }}
         </a>
       </li>
       <li>
-        <a href="https://outlook.office.com/calendar/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt={{ ($.Param "eventStart" | time.AsTime).UTC.Format "2006-01-02T15:04:05Z" }}&enddt={{ ($.Param "eventEnd" | time.AsTime).UTC.Format "2006-01-02T15:04:05Z" }}&subject=Rationality%20Freiburg%3A%20{{ .Title | urlquery }}&location={{ $.Param "eventLocation" | urlquery }}&body={{ .Permalink | urlquery }}" target="_blank">
+        <a class="button button--small" href="https://outlook.office.com/calendar/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt={{ ($.Param "eventStart" | time.AsTime).UTC.Format "2006-01-02T15:04:05Z" }}&enddt={{ ($.Param "eventEnd" | time.AsTime).UTC.Format "2006-01-02T15:04:05Z" }}&subject=Rationality%20Freiburg%3A%20{{ .Title | urlquery }}&location={{ $.Param "eventLocation" | urlquery }}&body={{ .Permalink | urlquery }}" target="_blank">
         {{ i18n "Add to Outlook" }}
         </a>
       </li>
       {{ with  .OutputFormats.Get "calendar" -}}
         <li>
-          <a href="{{ .Permalink | safeURL }}">
+          <a class="button button--small" href="{{ .Permalink | safeURL }}">
           {{ i18n "Add to calendar" }} (iCal)
           </a>
         </li>
