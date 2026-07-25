@@ -49,6 +49,6 @@ Wir werden nach dem Treffen zum Abendessen gehen. Jeder, der Zeit hat, ist herzl
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Rationality Freiburg Meetup](cover.png "Rationality Freiburg Meetup")
+![Eine Gruppe von Menschen füllt gemeinsam ein Quiz-Blatt in einer Kneipe aus](cover.png "Gruppe von Menschen bei einem Pub Quiz")
 
 <small>Bild generiert mit _Gemini_.</small>

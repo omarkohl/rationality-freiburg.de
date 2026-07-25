@@ -53,6 +53,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Rationality Freiburg Meetup](cover.png "Rationality Freiburg Meetup")
+![A group of people filling out a quiz sheet together in a pub](cover.png "Group of people taking a pub quiz")
 
 <small>Image generated with _Gemini_.</small>
