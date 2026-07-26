@@ -1,0 +1,1 @@
+@layer print{.pager,.mobile-nav,aside,nav,footer{display:none}html{font-size:var(--print-font-size)}html,body,.page{background-color:#fff;border-color:#000;box-shadow:none;color:#000}.main{width:100%}:link,:visited{text-decoration:underline}abbr[title]{&::after{content:' (' attr(title)')'}}}
