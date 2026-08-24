@@ -1,6 +1,6 @@
 ---
 title: "Scrabble - Wie sich das Denken über das Spiel zwischen Mensch und Computer unterscheidet."
-date: 2026-08-23-25T09:00:00+02:00
+date: 2026-08-25T09:00:00+02:00
 eventStart: 2026-11-06T18:00:00+02:00
 eventEnd: 2026-11-06T20:30:00+02:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
@@ -8,7 +8,7 @@ eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 25. September 2026 um 18:00 Uhr MESZ."
+description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 06. November 2026 um 18:00 Uhr MESZ."
 eventHost:
   - Matthias
 eventType:

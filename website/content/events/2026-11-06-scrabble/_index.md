@@ -1,6 +1,6 @@
 ---
 title: "Scrabble - How Humans and Computers Think About the Game"
-date: 2026-08-23-25T09:00:00+02:00
+date: 2026-08-25T09:00:00+02:00
 eventStart: 2026-11-06T18:00:00+02:00
 eventEnd: 2026-11-06T20:30:00+02:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
@@ -8,9 +8,9 @@ eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, September 25th 2026 at 18:00 hours CEST."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, November 6th 2026 at 18:00 hours CEST."
 eventHost:
-  - Omar
+  - Matthias
 eventType:
   - presentation
   - exercise
