@@ -1,14 +1,14 @@
 ---
 title: "Scrabble - How Humans and Computers Think About the Game"
 date: 2026-08-25T09:00:00+02:00
-eventStart: 2026-11-06T18:00:00+02:00
-eventEnd: 2026-11-06T20:30:00+02:00
+eventStart: 2026-11-06T18:00:00+01:00
+eventEnd: 2026-11-06T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, November 6th 2026 at 18:00 hours CEST."
+description: "Where: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. When: Friday, November 6th 2026 at 18:00 hours CET."
 eventHost:
   - Matthias
 eventType:
@@ -43,7 +43,7 @@ There always is a mix of German and English speakers and we configure the
 discussion rounds so that everyone feels comfortable participating. The primary
 language is English.
 
-This meetup will be hosted by Omar.
+This meetup will be hosted by Matthias.
 
 There will be snacks and drinks.
 
@@ -59,6 +59,6 @@ in blue and the entrance (at the end of the metal ramp) with a red cross.</small
 
 [Learn more about us]({{< ref "about" >}}).
 
-![Abstract illustration of people sitting around a table discussing evolution, with a tree of life and DNA motifs](cover.png "People discussing evolution")
+![Illustration of friends playing Scrabble together at a table](cover.png "Friends playing Scrabble")
 
 <small>Image generated with _Gemini_.</small>

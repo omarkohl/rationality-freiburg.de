@@ -1,14 +1,14 @@
 ---
 title: "Scrabble - Wie sich das Denken über das Spiel zwischen Mensch und Computer unterscheidet."
 date: 2026-08-25T09:00:00+02:00
-eventStart: 2026-11-06T18:00:00+02:00
-eventEnd: 2026-11-06T20:30:00+02:00
+eventStart: 2026-11-06T18:00:00+01:00
+eventEnd: 2026-11-06T20:30:00+01:00
 eventLocation: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
 eventGeoLat: 47.98953
 eventGeoLon: 7.83979
 meetupLink: https://www.meetup.com/de-DE/rationality-freiburg/
 lwLink: https://www.lesswrong.com/groups/fFZZ2Ywzsab86EESY
-description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 06. November 2026 um 18:00 Uhr MESZ."
+description: "Wo: Haus des Engagements, Rehlingstraße 9, 79100 Freiburg. Wann: Freitag, 06. November 2026 um 18:00 Uhr MEZ."
 eventHost:
   - Matthias
 eventType:
@@ -41,7 +41,7 @@ Du machst dir Sorgen, dass du nichts beitragen kannst? Keine Sorge! Jede*r ist w
 
 Es gibt immer eine Mischung aus deutsch- und englischsprachigen Teilnehmer*innen, und wir gestalten die Diskussionsrunden so, dass sich alle wohlfühlen. Die Hauptsprache ist Englisch.
 
-Dieses Meetup wird von Omar moderiert.
+Dieses Meetup wird von Matthias moderiert.
 
 Es gibt Snacks und Getränke.
 
@@ -55,6 +55,6 @@ Nach dem Meetup gehen wir gemeinsam essen. Wer Zeit hat, ist herzlich eingeladen
 
 [Erfahre mehr über uns]({{< ref "about" >}}).
 
-![Abstrakte Illustration von Menschen, die an einem Tisch sitzen und über Evolution diskutieren, mit Lebensbaum- und DNA-Motiven](cover.png "Menschen diskutieren über Evolution")
+![Illustration von Freunden, die gemeinsam an einem Tisch Scrabble spielen](cover.png "Freunde spielen Scrabble")
 
 <small>Bild generiert mit _Gemini_.</small>
