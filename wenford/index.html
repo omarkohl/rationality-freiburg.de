@@ -1,0 +1,324 @@
+<!-- Merrow Hall — the household. Self-contained: no CDN, no fonts, no tracking.
+     Copy this whole folder into public/ and open /merrow-hall/ -->
+<title>Merrow Hall — The Household</title>
+<meta name="description" content="Everyone who was in the house, or near it, on the night of 14 March 1934.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#faf7f0" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#171614" media="(prefers-color-scheme: dark)">
+
+<style>
+  :root {
+    --paper:#faf7f0; --card:#fffdf8; --ink:#2b2926; --muted:#6f6a60;
+    --line:#e3dccc; --rule:#cfc6b2; --shadow:0 1px 2px rgba(60,50,30,.07);
+    --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper:#171614; --card:#201e1b; --ink:#e9e4d9; --muted:#a39d90;
+      --line:#35312b; --rule:#4a453d; --shadow:none;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin:0; padding:0 16px calc(48px + env(safe-area-inset-bottom));
+    background:var(--paper); color:var(--ink);
+    font-family:var(--sans); font-size:16px; line-height:1.5;
+    -webkit-text-size-adjust:100%;
+  }
+  .wrap { max-width:980px; margin:0 auto; }
+
+  header { padding:28px 0 4px; }
+  h1 {
+    font-family:var(--serif); font-weight:normal;
+    font-size:1.6rem; line-height:1.2; margin:0;
+    letter-spacing:.01em;
+  }
+  .dateline {
+    font-size:.8rem; text-transform:uppercase; letter-spacing:.12em;
+    color:var(--muted); margin:6px 0 0;
+  }
+  .standfirst {
+    font-family:var(--serif); font-size:1rem; color:var(--muted);
+    margin:14px 0 0; max-width:46ch;
+  }
+
+  h2 {
+    font-size:.78rem; text-transform:uppercase; letter-spacing:.14em;
+    color:var(--muted); font-weight:600;
+    margin:34px 0 12px; padding-bottom:8px;
+    border-bottom:1px solid var(--rule);
+  }
+
+  ul.people { list-style:none; margin:0; padding:0; display:grid; gap:12px; }
+
+  li.person {
+    display:flex; gap:14px; align-items:flex-start;
+    background:var(--card); border:1px solid var(--line); border-radius:10px;
+    padding:12px; box-shadow:var(--shadow);
+  }
+
+  /* Portrait: a real link, so it works with JS off. */
+  .portrait {
+    flex:0 0 auto; display:block; width:104px; border-radius:8px;
+    overflow:hidden; background:#f3efe4; line-height:0;
+    border:1px solid var(--line);
+  }
+  .portrait img { width:100%; height:auto; display:block; }
+  .portrait:focus-visible { outline:2px solid var(--ink); outline-offset:2px; }
+
+  .no-portrait {
+    flex:0 0 auto; width:104px; aspect-ratio:1; border-radius:8px;
+    border:1px dashed var(--rule); display:grid; place-items:center;
+    color:var(--muted);
+  }
+  .no-portrait svg { width:52px; height:52px; }
+
+  .who { min-width:0; flex:1; }
+  .name {
+    font-family:var(--serif); font-size:1.12rem; line-height:1.25;
+    margin:1px 0 0; font-weight:normal;
+  }
+  .name .age { color:var(--muted); font-size:.95rem; }
+  .role {
+    font-size:.75rem; text-transform:uppercase; letter-spacing:.09em;
+    color:var(--muted); margin:5px 0 0;
+  }
+  .desc { margin:8px 0 0; font-size:.92rem; }
+  .where {
+    margin:8px 0 0; font-size:.8rem; color:var(--muted);
+    padding-top:7px; border-top:1px solid var(--line);
+  }
+
+  footer {
+    margin-top:36px; padding-top:16px; border-top:1px solid var(--rule);
+    font-size:.85rem; color:var(--muted); max-width:52ch;
+  }
+  footer p { margin:0 0 8px; }
+
+  /* Two up once there is room; portraits get bigger, text stays put. */
+  @media (min-width:620px) {
+    body { padding-left:24px; padding-right:24px; }
+    h1 { font-size:2rem; }
+    ul.people { grid-template-columns:1fr 1fr; gap:14px; }
+    .portrait, .no-portrait { width:132px; }
+    li.person { padding:14px; }
+  }
+  @media (min-width:900px) {
+    ul.people.overnight { grid-template-columns:1fr 1fr 1fr; }
+  }
+
+  /* Tap-to-enlarge overlay. */
+  #lightbox {
+    position:fixed; inset:0; z-index:50; border:0; padding:0; margin:0;
+    width:100%; height:100%; background:rgba(20,18,14,.94);
+    display:none; place-items:center; flex-direction:column; gap:10px;
+  }
+  #lightbox[open] { display:flex; align-items:center; justify-content:center; }
+  #lightbox img {
+    max-width:min(94vw, 560px); max-height:74vh; width:auto; height:auto;
+    border-radius:8px; background:#f3efe4;
+  }
+  #lightbox figcaption {
+    color:#e9e4d9; font-family:var(--serif); font-size:1rem; text-align:center;
+    padding:0 16px;
+  }
+  #lightbox button {
+    appearance:none; background:transparent; border:1px solid #6d675c;
+    color:#e9e4d9; font:inherit; font-size:.9rem;
+    padding:10px 22px; border-radius:999px; margin-top:4px; cursor:pointer;
+  }
+
+  @media print {
+    body { background:#fff; color:#000; padding:0; }
+    ul.people { grid-template-columns:1fr 1fr; }
+    li.person { break-inside:avoid; box-shadow:none; }
+    #lightbox { display:none !important; }
+  }
+</style>
+
+<div class="wrap">
+
+<header>
+  <h1>Merrow Hall</h1>
+  <p class="dateline">Wenford Police &middot; Suffolk &middot; March 1934</p>
+  <p class="standfirst">Everyone who was in the house, or near it, on the night
+  of the 14th. Tap a face to see it larger.</p>
+</header>
+
+<h2>The deceased</h2>
+<ul class="people">
+  <li class="person">
+    <a class="portrait" href="img/01-stannard.jpg" data-name="Colonel Aubrey Stannard, 61">
+      <img src="img/01-stannard.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Colonel Aubrey Stannard, a heavy-set man of 61 with a grey moustache, in a tweed jacket and tie.">
+    </a>
+    <div class="who">
+      <p class="name">Colonel Aubrey Stannard <span class="age">61</span></p>
+      <p class="role">Of Merrow Hall</p>
+      <p class="desc">Home that afternoon after three days in London. Dined with
+      Dr Petrie. Last seen alive at 22:15, at his desk, writing. Found on the
+      study floor at 07:05 on the 15th.</p>
+    </div>
+  </li>
+</ul>
+
+<h2>In the house overnight</h2>
+<ul class="people overnight">
+
+  <li class="person">
+    <a class="portrait" href="img/02-hallam.jpg" data-name="Edward Hallam, 34">
+      <img src="img/02-hallam.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Edward Hallam, a slim clean-shaven man of 34 with dark hair combed back, in a lounge suit." loading="lazy">
+    </a>
+    <div class="who">
+      <p class="name">Edward Hallam <span class="age">34</span></p>
+      <p class="role">Nephew &middot; arrested 18 March</p>
+      <p class="desc">The Colonel's sole heir. Living at the Hall since the
+      autumn.</p>
+      <p class="where">Room off the main stairs.</p>
+    </div>
+  </li>
+
+  <li class="person">
+    <a class="portrait" href="img/03-wray.jpg" data-name="Margaret Wray, 41">
+      <img src="img/03-wray.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Margaret Wray, a woman of 41 with dark hair pinned back, in a dark blouse with a white collar." loading="lazy">
+    </a>
+    <div class="who">
+      <p class="name">Margaret Wray <span class="age">41</span></p>
+      <p class="role">Secretary and companion</p>
+      <p class="desc">Nine years at the Hall. Opened the study door at seven on
+      the morning of the 15th.</p>
+      <p class="where">East wing, reached by the back stairs.</p>
+    </div>
+  </li>
+
+  <li class="person">
+    <a class="portrait" href="img/04-corbett.jpg" data-name="Thomas Corbett, 58">
+      <img src="img/04-corbett.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Thomas Corbett, an upright grey-haired man of 58 in a butler's tailcoat and black bow tie." loading="lazy">
+    </a>
+    <div class="who">
+      <p class="name">Thomas Corbett <span class="age">58</span></p>
+      <p class="role">Butler</p>
+      <p class="desc">Thirty-one years' service. Told a fortnight ago that he
+      would be dismissed at Lady Day, without a pension. Locked up at 23:00.</p>
+      <p class="where">Room off the back stairs.</p>
+    </div>
+  </li>
+
+  <li class="person">
+    <a class="portrait" href="img/05-dunn.jpg" data-name="Mrs Dunn, 55">
+      <img src="img/05-dunn.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Mrs Dunn, a sturdy woman of 55 in a white cook's cap and apron." loading="lazy">
+    </a>
+    <div class="who">
+      <p class="name">Mrs Dunn <span class="age">55</span></p>
+      <p class="role">Cook</p>
+      <p class="desc">Took the Colonel his whisky at 22:15. Clearing the dining
+      room at about 21:30.</p>
+      <p class="where">Room above the front hall.</p>
+    </div>
+  </li>
+
+  <li class="person">
+    <a class="portrait" href="img/06-pike.jpg" data-name="Alice Pike, 19">
+      <img src="img/06-pike.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Alice Pike, a young woman of 19 in a small white maid's cap and a print dress with a white collar." loading="lazy">
+    </a>
+    <div class="who">
+      <p class="name">Alice Pike <span class="age">19</span></p>
+      <p class="role">Housemaid</p>
+      <p class="desc">Did the study grate on the morning of the 14th.</p>
+      <p class="where">Half-landing of the back stairs.</p>
+    </div>
+  </li>
+
+</ul>
+
+<h2>Not in the house</h2>
+<ul class="people">
+
+  <li class="person">
+    <a class="portrait" href="img/07-petrie.jpg" data-name="Dr Julian Petrie, 52">
+      <img src="img/07-petrie.jpg" width="700" height="700" alt="Pencil and watercolour portrait of Dr Julian Petrie, a man of 52 with a moustache and round wire spectacles, in a tweed three-piece suit." loading="lazy">
+    </a>
+    <div class="who">
+      <p class="name">Dr Julian Petrie <span class="age">52</span></p>
+      <p class="role">Village doctor</p>
+      <p class="desc">The Colonel's oldest friend. Dined at the Hall and left on
+      foot at 21:15. The dog in the front hall knows him.</p>
+      <p class="where">Wenford, a mile away.</p>
+    </div>
+  </li>
+
+  <li class="person">
+    <div class="no-portrait" aria-hidden="true">
+      <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1.3"
+           stroke-linecap="round">
+        <path d="M7 5.5 L33 6 L32.5 34 L7.5 33.5 Z"/>
+        <path d="M20 5.8 L19.7 33.6"/>
+        <path d="M7.2 19.4 L32.8 19.8"/>
+        <path d="M4.5 34.6 L35.5 35"/>
+      </svg>
+    </div>
+    <div class="who">
+      <p class="name">The study window</p>
+      <p class="role">Unlatched</p>
+      <p class="desc">The Colonel left it so every night, and it was known that
+      he did. Three days of rain had left no ground to take a footprint. Nothing
+      in the house was taken.</p>
+      <p class="where">Ground floor, off the terrace.</p>
+    </div>
+  </li>
+
+</ul>
+
+<footer>
+  <p>Everyone in the house had been in and out of the study before the constable
+  arrived from Wenford.</p>
+  <p>A fiction, for a workshop. There is no solution.</p>
+</footer>
+
+</div>
+
+<figure id="lightbox" role="dialog" aria-modal="true" aria-label="Portrait">
+  <img id="lightbox-img" src="" alt="">
+  <figcaption id="lightbox-cap"></figcaption>
+  <button type="button" id="lightbox-close">Close</button>
+</figure>
+
+<script>
+(function () {
+  var box = document.getElementById('lightbox');
+  var img = document.getElementById('lightbox-img');
+  var cap = document.getElementById('lightbox-cap');
+  var last = null;
+
+  function open(link) {
+    var inner = link.querySelector('img');
+    img.src = link.getAttribute('href');
+    img.alt = inner ? inner.alt : '';
+    cap.textContent = link.getAttribute('data-name') || '';
+    box.setAttribute('open', '');
+    document.body.style.overflow = 'hidden';
+    last = link;
+    document.getElementById('lightbox-close').focus();
+  }
+
+  function close() {
+    box.removeAttribute('open');
+    img.src = '';
+    document.body.style.overflow = '';
+    if (last) { last.focus(); last = null; }
+  }
+
+  document.querySelectorAll('a.portrait').forEach(function (link) {
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      open(link);
+    });
+  });
+
+  box.addEventListener('click', close);
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && box.hasAttribute('open')) close();
+  });
+})();
+</script>
