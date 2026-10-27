@@ -34,6 +34,7 @@ Lies mindestens eines der folgenden Themen, am besten zwei:
 * [(Englisch) Psychology Research Is Mostly Fine](https://www.astralcodexten.com/p/psychology-research-is-mostly-fine)
   * optional: [(Englisch) The Beauty Of Settled Science](https://www.astralcodexten.com/p/the-beauty-of-settled-science)
 * [(Englisch) Why I'm Staying Out Of The Substack Religion Debate](https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack)
+* [(Englisch) An Open Letter To Steven Pinker On AI]](https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on)
 
 Es gibt einen [offiziellen Podcast](https://sscpodcast.libsyn.com/), in dem die
 Blogartikel vorgelesen werden – verfügbar auf Spotify, Apple Podcasts und
